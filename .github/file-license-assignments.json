@@ -55192,11 +55192,27 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/kroggie2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:44:53Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/kroggie2_OLD.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/largegun.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:44:53Z",
     "source": "manual-audit"
   },
   {
@@ -55208,11 +55224,27 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/lasfirerb.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:44:53Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/lasfirerc.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lashit.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:44:53Z",
     "source": "manual-audit"
   },
   {
@@ -55229,6 +55261,38 @@
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasrfast.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:46:22Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasrfir1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:46:22Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasrfir2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:46:22Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasrfir3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:46:22Z",
     "source": "manual-audit"
   },
   {
@@ -55280,11 +55344,59 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/lasrhit1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:46:22Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasrhit2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:46:22Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasrlit3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:46:22Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/lasrlit3scav.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasrmas2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:46:27Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/launch.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:46:27Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/launch1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:46:27Z",
     "source": "manual-audit"
   },
   {
