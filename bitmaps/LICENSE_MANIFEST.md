@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `bitmaps/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **7**
+Total assets recorded: **34**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -15,3 +15,30 @@ Total assets recorded: **7**
 | `atmos/dirtpuff.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `atmos/flamestream.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `atmos/fogdirty.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `default/centersplatsh_white.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `default/circlefx0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `default/circlefx1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `default/circlefx2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `default/circlefx3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `default/flame.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `default/groundflash.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `default/groundflashwhite.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `graphPaper.bmp` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `logo.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `logo2.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `logo_a.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `logo_a_gameover.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `logo_a_notif.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `logo_a_notif2.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `logo_a_paused.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `logo_a_pausednotif.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `logo_a_pausednotif2.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `logo_c.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `logo_c_gameover.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `logo_c_notif.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `logo_c_notif2.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `logo_c_paused.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `logo_c_pausednotif.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `logo_c_pausednotif2.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `taskbarLogo_notif.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `taskbarLogo_notif2.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |

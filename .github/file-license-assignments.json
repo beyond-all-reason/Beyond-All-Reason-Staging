@@ -8,6 +8,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_100/cursorareamex_0.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:50:16Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-26T19:43:58Z",
     "file": "anims/icexuick_100/cursorareamex_1.png",
@@ -43365,6 +43373,222 @@
     "file": "bitmaps/atmos/fogdirty.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/centersplatsh_white.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/circlefx0.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/circlefx1.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/circlefx2.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/circlefx3.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/flame.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/groundflash.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/groundflashwhite.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/graphPaper.bmp",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/logo.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/logo2.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/logo_a.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/logo_a_gameover.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/logo_a_notif.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/logo_a_notif2.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/logo_a_paused.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/logo_a_pausednotif.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/logo_a_pausednotif2.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/logo_c.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/logo_c_gameover.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/logo_c_notif.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/logo_c_notif2.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/logo_c_paused.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/logo_c_pausednotif.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/logo_c_pausednotif2.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/taskbarLogo_notif.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/taskbarLogo_notif2.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T15:57:59Z",
     "source": "manual-audit"
   },
   {
