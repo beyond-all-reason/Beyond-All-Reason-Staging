@@ -55016,11 +55016,27 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/fastermg.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:41:59Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/fireburnshort.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/flakfire.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:41:59Z",
     "source": "manual-audit"
   },
   {
@@ -55037,6 +55053,22 @@
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/flamhvy1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:42:21Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/flashemg.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:42:21Z",
     "source": "manual-audit"
   },
   {
@@ -55064,11 +55096,27 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/hackshot.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:42:45Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/hackshotxl3.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/heatray1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:42:45Z",
     "source": "manual-audit"
   },
   {
@@ -55085,6 +55133,14 @@
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/heatray2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:42:45Z",
     "source": "manual-audit"
   },
   {
