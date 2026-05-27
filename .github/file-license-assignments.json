@@ -50528,6 +50528,134 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/atmos-geovents/geovent.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos-geovents/geoventshort.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos-local/fireburn.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos-local/lavaburst1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos-local/lavaburst2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos-local/magicalhum.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos-local/ocean1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos-local/ocean2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos-local/ocean3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos-local/ocean4.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos-local/ocean5.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos-local/ocean6.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos-local/ventair.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos-local/windgust1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos-local/windgust2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos-local/windgust3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/atmos/beach1.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
@@ -50672,6 +50800,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/atmos/rainlight.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/atmos/scavsynth1.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
@@ -50768,6 +50904,70 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/atmos/thunder1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos/thunder2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos/thunder3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos/thunder4.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos/thunder5.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos/thunder6.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos/tropicalbeach.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "2",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/atmos/windy.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/atmos/windy1.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
@@ -50808,6 +51008,710 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/atmos/windy_mountains.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/bombs/alien_bombrel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/bombs/bombrel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/bombs/bombrelxl.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/bombs/bombsmed1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "3",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/bombs/bombsmed2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "3",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/bombs/bombssml1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "3",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/bombs/bombssml1_alt.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/bombs/bombssml1_old.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-ap-t2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-ap.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-defense-action-t1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-defense-action-t2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-defense-action-t3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-defense-action-water-t1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-defense-action-water-t2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-defense-action-water-t3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-defense-action.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-factory-hover-water.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-factory-hover.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-factory-t2-uw.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-factory-t2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-factory-t3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-factory-water-t2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-factory-water.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-factory.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-gant-t3-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-gant-t3-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-geo-t2-explo.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "11",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-geo-t2-safe.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "11",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-geo-t2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "11",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-geo.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "11",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-ics.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "11",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-lab-t2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-lab.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-lolcannon.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "11",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-metal-t2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-metal.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-metalmaker-t2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-metalmaker.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-mex.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-mm-activate.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "9",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-mm-deactivate.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "9",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-nrg-fusion-adv.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "11",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-nrg-fusion-decoy.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "11",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-nrg-fusion-uw.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "11",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-nrg-fusion.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "11",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-nrg.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-nrghum.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "9",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-radar-alt-t2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-radar-sonar.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-radar-t2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "9",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-radar.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-repairpad.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-select-large-water.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-select-large.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-select-medium.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-select-small-water.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-select-small.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-select-water.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-select.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-shield.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "11",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-solar-activate.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "9",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-solar-alt-adv.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-solar-alt.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "9",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-solar-deactivate.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "9",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-solar.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-sonar-t2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-sp.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-storage-metal.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-storage-nrg.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-storage.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-vp-t2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-vp.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-wall-t2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-wall-water.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-wall.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-bld-windgen.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-lltok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-lltselect.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/arm-mine-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/cor-bld-mm-t2-activate.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/cor-bld-mm-t2-deactivate.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/cor-bld-solar-activate.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "14",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/cor-bld-solar-deactivate.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "14",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/buildings/cor-mine-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/blanksound.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/cmd-attack.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/commands/cmd-build.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
@@ -50816,11 +51720,35 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/commands/cmd-default-select.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/cmd-default.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/commands/cmd-defaultbaselayer.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:22:49Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/cmd-defaultweapon.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
     "source": "manual-audit"
   },
   {
@@ -50864,11 +51792,83 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/commands/cmd-move-short.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/cmd-move-shorter.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/cmd-move-supershort.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/cmd-move-swoosh.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/commands/cmd-move.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:22:49Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/cmd-none.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/cmd-off.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "11",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/cmd-on.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "11",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/cmd-onoff.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/cmd-patrol.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
     "source": "manual-audit"
   },
   {
@@ -50896,6 +51896,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/commands/cmd-repeat.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/commands/cmd-rez.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
@@ -50909,6 +51917,1790 @@
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:22:49Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/cmd-rez3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/cmd-selfd.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/cmd-settarget.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/cmd-stop.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/commands/cmd-wait.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/aarocket-air.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/aarocket-large.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "9",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/aarocket-medium-flak.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/aarocket-medium.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/aarocket-small.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/air-bomb-large-emp.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/air-bomb-large-nuclear.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/air-bomb-large-torp.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/air-bomb-large.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/air-bomb-small-torp.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/air-bomb-small.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/arty-large.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/arty-medium.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/arty-small.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/beamer.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/bld-juno.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "11",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/bomb.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/cloak.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/comlevelup.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/con-assist.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/con-small.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/conalt-medium.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/conalt-small.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/emp-laser.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/emp-rocket.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/fastemg-medium.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/fastemg-small.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/fastemgalt-small.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/flak.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/flame-alt.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/flame.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/func-armcom.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/heatray-xl.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/heatray.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/jammer-t2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/jammer.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/laser-large.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/laser-medium.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/laser-small-cor.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/laser-small.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/laser-tiny.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/lightning.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/lrpc.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/mine-large-water.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/mine-large.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/mine-medium.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/mine-small.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/nuke-anti.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/nuke-old.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/nuke.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/oranges-gun.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/plasma-huge.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/plasma-large-alt.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/plasma-large.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/plasma-medium-alt.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/plasma-medium-torpedo.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/plasma-medium.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/plasma-small.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/radar-support.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/radar-t2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/radar.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/rez-small.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/rocket-large.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/rocket-medium.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/rocket-small.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/rocketalt-large.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/rocketalt-small.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/sniper.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/targeting.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/torpedo-medium.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/torpedo-small.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/function/transport-large.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/global-events/scavdroplootspawn.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/global-events/scavdropspawn.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/global-events/scavdropspawnbeacon.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/global-events/scavdropspawnprinter.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/global-events/scavlootdrop.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/global-events/scavspawn.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/arm-air-bomber-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/arm-air-bomber-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/arm-air-gunship-alt-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/arm-air-gunship-alt-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/arm-air-gunship-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/arm-air-gunship-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/arm-air-large-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/arm-air-large-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/arm-air-medium-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/arm-air-medium-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/arm-air-small-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/arm-air-small-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/arm-air-transport-large-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/arm-air-transport-large-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/arm-air-transport-small-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/arm-air-transport-small-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/cor-air-gunship-large-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/cor-air-gunship-large-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/cor-air-tiny-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement-air/cor-air-tiny-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-banth-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-banth-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-at-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-at-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-huge-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-huge-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-large-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-large-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-medium-alt-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-medium-amph-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-medium-amph-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-medium-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-medium-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-medium-stealth-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-medium-stealth-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-small-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-small-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-t3-ok-alt.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-t3-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-t3-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-tiny-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-bot-tiny-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "10",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-com-ok-1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-com-ok-2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-com-ok-3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-com-ok-4.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-com-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-hov-large-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-hov-large-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-hov-small-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-hov-small-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-shp-huge-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-shp-huge-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-shp-large-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-shp-large-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-shp-medium-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-shp-medium-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-shp-small-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-shp-small-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-sub-medium-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-sub-medium-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-sub-small-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-sub-small-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-tnk-large-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-tnk-large-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-tnk-largealt-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-tnk-medium-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-tnk-medium-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-tnk-small-amph-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-tnk-small-amph-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-tnk-small-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-tnk-small-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-veh-small-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-veh-small-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-veh-tiny-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/arm-veh-tiny-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-at-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-at-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-huge-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-huge-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-large-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-large-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-medium-amph-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-medium-amph-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-medium-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-medium-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-medium-stealth-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-medium-stealth-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-small-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-small-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-t3-at-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-t3-at-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-t3-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-t3-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-tiny-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-bot-tiny-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-com-ok-1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-com-ok-2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-com-ok-3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-com-ok-4.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-com-ok-5.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-com-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-hov-large-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-hov-large-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-hov-small-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-hov-small-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-jugg-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-jugg-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-korg-ok1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-korg-ok2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-korg-ok3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-korg-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "12",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-shp-huge-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-shp-huge-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-shp-large-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-shp-large-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-shp-medium-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-shp-medium-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-shp-small-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-shp-small-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-sub-medium-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-sub-medium-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-sub-small-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-sub-small-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-tnk-huge-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-tnk-huge-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-tnk-large-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-tnk-large-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-tnk-medium-amph-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-tnk-medium-amph-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-tnk-medium-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-tnk-medium-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-tnk-small-amph-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-tnk-small-amph-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-tnk-small-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-tnk-small-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-veh-small-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-veh-small-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "13",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-veh-tiny-ok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/movement/cor-veh-tiny-sel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "8",
+    "date": "2026-05-27T20:30:43Z",
     "source": "manual-audit"
   },
   {
@@ -51141,6 +53933,1654 @@
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:25:12Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/airplantselect.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/armcom1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "3",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/armcom2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "3",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/armcom3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "3",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/armcom4.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "3",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/armcomsel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "3",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/corcom1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "3",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/corcom2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "3",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/corcom3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "3",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/corcom4.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "3",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/corcom5.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "3",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/corcomsel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "3",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/hlltselect.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/hovt1aaok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/hovt1aasel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/hovt1canok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/hovt1cansel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/hovt1conok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/hovt1consel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/hovt1fastok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/hovt1fastsel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/hovt1transok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/hovt1transsel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/hovt1vrocok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/hovt1vrocsel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/hovt2lasok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/hovt2lassel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/labselect.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/labselect2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/lltok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/lltselect.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/mexoff.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/mexon.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/mexselect.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/mexworking.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/radaroff.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/radaron.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/radarselect.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/servtny2B.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/solar1_old.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "9",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/targon.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/tnkt1aaok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/tnkt1aasel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/tnkt1artyok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/tnkt1artysel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/tnkt1canamphok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/tnkt1canamphsel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/tnkt1canok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/tnkt1cansel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/tnkt1rockok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/tnkt1rocksel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/unitready.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/vehplantselect.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/veht1aaok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/veht1aasel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/veht1buggyok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/veht1buggysel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/veht1conamphok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/veht1conamphsel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/veht1conok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/veht1consel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/veht1emgok.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/veht1emgsel.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/windgen.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/windgen_stereo.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/ui/chat.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/ui/commanderspawn.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/ui/mappoint.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/ui/multiselect.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/ui/old_multiselect.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/unit-local/korgaim.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/unit-local/korgaim2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/unit-local/korgrestore.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/unit-local/korgrestore2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/unit/banthstep.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/unit/korgstep.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/uw/xplodep1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/uw/xplodep2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/uw/xplodep3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice-soundeffects/CommanderHeavilyDamaged.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6101",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice-soundeffects/CommanderUnderAttack.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6101",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice-soundeffects/EnemyComDead.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6111",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice-soundeffects/FriendlyComDead.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6111",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice-soundeffects/GameEnd.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6101",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice-soundeffects/LavaAlert.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6101",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice-soundeffects/NeutralComDead.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6111",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice-soundeffects/NukeAlert.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6117",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice-soundeffects/UnitUnderAttack.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6101",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice-soundeffects/YouHaveTheLastCommander.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6101",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice-soundeffects/YourTeamHasTheLastCommander.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "6101",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons-mult/alien_electric.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons-mult/alien_electric_xl.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons-mult/kroggie2xs.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons-mult/lasrhvy3short.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons-mult/lrpcexplo.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons-mult/mgun3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons-mult/minigun.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons-mult/minigun2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons-mult/minigun3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons-mult/rflrpcexplo.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons-mult/shotgunbig.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons-mult/spore_xl.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons-mult/xplomed2xs.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons-mult/xplonuk2xs.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/aarocket.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/antinukelaunch.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/banthie.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/banthie2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/beamershot2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/bimpact1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/bimpact2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/bimpact3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/cannhvy6.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/cannon1clean.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/cannon1old.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/cannon2old.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/corlevlr.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/corlevlrhit.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/corraid.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/fireburnshort.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/flakhit2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/flamhit1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/flashemgxl.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/flashemgxlhit.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/flashemgxlhit2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/hackshotxl3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/heatray1_OLD.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/heatray1s.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/heatray2_OLD.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/heatray2xl.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/heatray3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/heatray3burn.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/heatray3lp.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/heatray3start.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/kroggie2_OLD.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/laserroar.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasfirerc.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasrcrw1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasrcrw2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasrfir3alt.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasrfir3alt2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasrfir3scav.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasrfir4scav.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasrfir5.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasrfir6.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lasrlit3scav.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/launch1_OLD.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lghthvy2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lrpcshot.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lrpcshot2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lrpcshot2alt.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/lrpcshot3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/mavgun3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/mavgun4.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/mavgun5.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/metalhit.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/mine1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/mismed1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/mismed1emp.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/mismed1emp1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/nanlath1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/nanlath2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/newboomuw.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/nukearm.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/nukecor.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/nukelaunch.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/nukelaunchalarm.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/nukewater.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/railgun.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/railgun2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/railgun3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/railgunxl.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "3846",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rapidrocket3_OLD.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/raptorlaser.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rockhit2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rockhit3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rockhvy2x.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rockhvy3_OLD.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rockhvy4.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rocklit1_ALT.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rocklit1_OLD.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rocklit1scav.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rocklit2_OLD.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rocksalvo.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/sizzlexs.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/sniper3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/sniperhit.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/spore_explo.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/stormtl2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/t1arthit.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/tgunshipfire_OLD.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/treefall.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplodragconcrete.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplodragmetal.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplodragwater.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xploelc1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xploelc2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xploelc3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplolrg5.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplolrg7.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplomas2s.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplomed5.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplonuk1xs.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "4",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplonuk5.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplosml4.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplosml5.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:30:43Z",
     "source": "manual-audit"
   }
 ]
