@@ -55528,6 +55528,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/newboom.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:47:25Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/newboomuw.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
@@ -55576,6 +55584,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/packolau.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:47:25Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/railgun.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
@@ -55608,6 +55624,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/rapidrocket3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:49:06Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/rapidrocket3_OLD.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
@@ -55621,6 +55645,22 @@
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rflrpc3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:49:06Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rockhit.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:49:06Z",
     "source": "manual-audit"
   },
   {
@@ -55640,11 +55680,35 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/rockhvy1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:49:06Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rockhvy2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:49:06Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/rockhvy2x.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rockhvy3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:49:06Z",
     "source": "manual-audit"
   },
   {
@@ -55661,6 +55725,14 @@
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rocklit1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:49:06Z",
     "source": "manual-audit"
   },
   {
@@ -55688,11 +55760,27 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/rocklit2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:49:06Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/rocklit2_OLD.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/rocklit3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:49:06Z",
     "source": "manual-audit"
   },
   {
@@ -55704,11 +55792,27 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/sizzle.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:49:06Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/sizzlexs.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/sniper2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:50:45Z",
     "source": "manual-audit"
   },
   {
@@ -55725,6 +55829,38 @@
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/splshbig.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:50:45Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/splslrg.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:50:45Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/splsmed.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:50:45Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/splssml.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:50:45Z",
     "source": "manual-audit"
   },
   {
@@ -55816,6 +55952,30 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/xplolrg1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:51:32Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplolrg2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:51:32Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplolrg4.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:51:32Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/xplolrg5.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
@@ -55832,11 +55992,51 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/xplomas2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:52:35Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/xplomas2s.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplomed1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:52:35Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplomed2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:52:35Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplomed3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:52:35Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplomed4.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:52:35Z",
     "source": "manual-audit"
   },
   {
@@ -55848,6 +56048,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/xplonuk1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:52:35Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/xplonuk1xs.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
@@ -55856,11 +56064,59 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/xplonuk2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:52:35Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplonuk3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:52:35Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplonuk4.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:52:35Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/xplonuk5.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplosml1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:52:35Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplosml2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:52:35Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/xplosml3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:52:35Z",
     "source": "manual-audit"
   },
   {
