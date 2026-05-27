@@ -4,10 +4,16 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `sounds/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **12**
+Total assets recorded: **77**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
+| `atmos/beach1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `atmos/beach2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `atmos/beach3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `atmos/beach4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `atmos/beach5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `atmos/beach6.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `atmos/distantthunder.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `atmos/humheavy.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `atmos/lavabubbles.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -20,3 +26,62 @@ Total assets recorded: **12**
 | `atmos/lavarumbleshort2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `atmos/lavarumbleshort3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `atmos/oceangentlesurf.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2 | 2026-05-26 |
+| `atmos/scavsynth1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
+| `atmos/scavsynth10.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
+| `atmos/scavsynth11.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
+| `atmos/scavsynth12.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
+| `atmos/scavsynth2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
+| `atmos/scavsynth3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
+| `atmos/scavsynth4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
+| `atmos/scavsynth5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
+| `atmos/scavsynth6.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
+| `atmos/scavsynth7.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
+| `atmos/scavsynth8.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
+| `atmos/scavsynth9.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
+| `atmos/windy1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `atmos/windy2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `atmos/windy3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `atmos/windy4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `atmos/windy5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `commands/cmd-build.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `commands/cmd-defaultbaselayer.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `commands/cmd-dgun.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `commands/cmd-fight.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `commands/cmd-fightxs.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `commands/cmd-guard.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `commands/cmd-guardxs.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `commands/cmd-move.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `commands/cmd-reclaim.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `commands/cmd-repair.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `commands/cmd-repairxs.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `commands/cmd-rez.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `commands/cmd-rez2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bigbugdie.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bigbugdie1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bigraptorbreath.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bigraptordead.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bigraptorroar.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bloodsplash.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bloodsplash2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bloodsplash3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bugarty.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bugattack.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bugdie.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/cflamhvy1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/cxplomed2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/cxplonuk4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/cxplosml2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/e16.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/e25.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/empbomb.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/empbomb_OLD.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/junohit2edit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/nuke4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/rangeraptorhit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/rangeraptorroar.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/raptor_nuke.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/roostdie.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/smallraptorattack.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/smallraptordead.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/talonattack.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/talondie.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
