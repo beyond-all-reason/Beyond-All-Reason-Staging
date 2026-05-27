@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `bitmaps/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **70**
+Total assets recorded: **139**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -76,5 +76,74 @@ Total assets recorded: **70**
 | `projectiletextures/nanopart.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/new_dirta.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/new_dirtb.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/railguntrail.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/shockwave.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/smoke-anim.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/smoke-beh-anim.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `projectiletextures/smoke-ice-anim.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/smoketrailaa.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/smoketrailaa2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/smoketrailaa3.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/smoketrailaaflak.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/smoketrailbar.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/smoketraildark.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/smoketrailsoft.tga` | `LicenseRef-BAR-CLA-1.0` | Ruwetuin | manual-audit | 2026-05-27 |
+| `projectiletextures/subwake.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/trail.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
+| `projectiletextures/trail2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/trail3.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/wake.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/wakegrey.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/waterrush.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/blood_centersplatsh.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/blood_centersplatsh_white.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/blood_splat.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/blood_splat_white.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bloodblast2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bloodblast2_white.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/blooddrop2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/blooddrop2_white.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bloodsplat2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bloodsplat2_white.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bloodsplat2old.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `scars/scar1.bmp` | `LicenseRef-BAR-CLA-1.0` | beherith | manual-audit | 2026-05-27 |
+| `scars/scar2.bmp` | `LicenseRef-BAR-CLA-1.0` | beherith | manual-audit | 2026-05-27 |
+| `scars/scar3.bmp` | `LicenseRef-BAR-CLA-1.0` | beherith | manual-audit | 2026-05-27 |
+| `scars/scar4.bmp` | `LicenseRef-BAR-CLA-1.0` | beherith | manual-audit | 2026-05-27 |
+| `scars/scar5.bmp` | `LicenseRef-BAR-CLA-1.0` | beherith | manual-audit | 2026-05-27 |
+| `scars/scar6.bmp` | `LicenseRef-BAR-CLA-1.0` | beherith | manual-audit | 2026-05-27 |
+| `smoke/smoke00.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `smoke/smoke01.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `smoke/smoke02.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `smoke/smoke03.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `smoke/smoke04.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `smoke/smoke05.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `smoke/smoke06.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `smoke/smoke07.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `smoke/smoke08.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `smoke/smoke09.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `smoke/smoke10.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `smoke/smoke11.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `taskbarLogo_notif.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `taskbarLogo_notif2.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `tracks/Corparrowtracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `tracks/Corwidetracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `tracks/arm_acv_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `tracks/arm_acv_tracks_2.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `tracks/arm_stumpy_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `tracks/armacv_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `tracks/armbull_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `tracks/armcroc_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `tracks/armgremlin_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `tracks/armmart_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `tracks/armpincer_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `tracks/armsam_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `tracks/armseer_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `tracks/armstump_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `tracks/armyork_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `tracks/bigfoot.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `tracks/bottrack1.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `tracks/raptortrack.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `tracks/raptortrackpointy.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `ui/radarping1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `ui/radarping2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
