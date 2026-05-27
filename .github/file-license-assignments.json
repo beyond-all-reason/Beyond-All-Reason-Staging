@@ -43448,6 +43448,54 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/loadpictures/armada.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T16:00:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/loadpictures/cortex.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T16:00:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/loadpictures/manual/donations.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T16:00:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/loadpictures/manual/scavengers/BAR4K_Loadingscreen_5.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "4281",
+    "date": "2026-05-27T16:00:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/loadpictures/manual/scavengers/BAR4K_Loadingscreen_7.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "4281",
+    "date": "2026-05-27T16:00:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/loadpictures/manual/scavengers/BAR4K_Loadingscreen_8.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "4281",
+    "date": "2026-05-27T16:00:55Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "bitmaps/logo.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "Floris",
@@ -43573,6 +43621,86 @@
     "contributor": "Floris",
     "pr": "manual-audit",
     "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/1InstaHeat1Shock1.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5174",
+    "date": "2026-05-27T16:00:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/BARFlame02.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:29:50Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/FireBall02-anim.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:29:50Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/blastwave.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:29:50Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/bubbletexture.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:29:50Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/decal_scar_50.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:29:50Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/decal_scar_50_glow.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:29:50Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/dirt.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:29:50Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/dirtbar.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:29:50Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/dot.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:29:50Z",
     "source": "manual-audit"
   },
   {
