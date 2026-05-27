@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `anims/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **5415**
+Total assets recorded: **5448**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -1122,7 +1122,13 @@ Total assets recorded: **5415**
 | `icexuick_100/cursorwait_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorwait_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorwait_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_100/uimove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_100/uiresized1_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_100/uiresized2_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_100/uiresizeh_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_100/uiresizev_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_133/cursorareamex.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_133/cursorareamex_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_133/cursorareamex_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_133/cursorareamex_10.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_133/cursorareamex_11.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -2187,6 +2193,7 @@ Total assets recorded: **5415**
 | `icexuick_133/cursorupgmex_60.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_133/cursorupgmex_61.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_133/cursorupgmex_62.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_133/cursorupgmex_63.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_133/cursorupgmex_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorupgmex_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorupgmex_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
@@ -2235,7 +2242,13 @@ Total assets recorded: **5415**
 | `icexuick_133/cursorwait_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorwait_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorwait_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
+| `icexuick_133/uimove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_133/uiresized1_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_133/uiresized2_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_133/uiresizeh_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_133/uiresizev_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorareamex.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_166/cursorareamex_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorareamex_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursorareamex_10.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursorareamex_11.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -3300,6 +3313,7 @@ Total assets recorded: **5415**
 | `icexuick_166/cursorupgmex_60.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorupgmex_61.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorupgmex_62.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_166/cursorupgmex_63.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorupgmex_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorupgmex_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorupgmex_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -3348,7 +3362,13 @@ Total assets recorded: **5415**
 | `icexuick_166/cursorwait_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorwait_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorwait_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_166/uimove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_166/uiresized1_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_166/uiresized2_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_166/uiresizeh_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_166/uiresizev_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_200/cursorareamex.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_200/cursorareamex_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_200/cursorareamex_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_200/cursorareamex_10.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_200/cursorareamex_11.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -4413,6 +4433,7 @@ Total assets recorded: **5415**
 | `icexuick_200/cursorupgmex_60.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_200/cursorupgmex_61.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_200/cursorupgmex_62.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_200/cursorupgmex_63.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_200/cursorupgmex_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorupgmex_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorupgmex_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
@@ -4461,7 +4482,13 @@ Total assets recorded: **5415**
 | `icexuick_200/cursorwait_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorwait_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorwait_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
+| `icexuick_200/uimove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_200/uiresized1_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_200/uiresized2_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_200/uiresizeh_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_200/uiresizev_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorareamex.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/cursorareamex_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorareamex_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorareamex_10.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorareamex_11.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -5375,6 +5402,7 @@ Total assets recorded: **5415**
 | `icexuick_75/cursorupgmex_60.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorupgmex_61.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorupgmex_62.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/cursorupgmex_63.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorupgmex_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorupgmex_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorupgmex_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -5423,3 +5451,8 @@ Total assets recorded: **5415**
 | `icexuick_75/cursorwait_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorwait_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorwait_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/uimove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/uiresized1_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/uiresized2_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/uiresizeh_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/uiresizev_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

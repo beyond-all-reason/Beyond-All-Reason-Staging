@@ -4,10 +4,20 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **30**
+Total assets recorded: **40**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
+| `Critters/critter_crab.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `SimpleFlareXL.s3o` | `LicenseRef-BAR-CLA-1.0` | KDR_11k, Beherith | manual-audit | 2026-05-27 |
+| `artshell-large.s3o` | `LicenseRef-BAR-CLA-1.0` | Kremenchuk | manual-audit | 2026-05-27 |
+| `artshell-medium.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `artshell-small.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `cannon-small.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `cannon-tiny.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `pilha_crystal_1.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `pilha_crystal_2.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `pilha_crystal_3.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_blue_1.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `pilha_crystal_blue_2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `pilha_crystal_blue_3.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
