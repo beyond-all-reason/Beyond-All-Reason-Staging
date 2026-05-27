@@ -43376,6 +43376,86 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/atmos/lavachunk.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:08:52Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/atmos/lavaplosion.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:08:52Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/atmos/lavasplats.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:08:52Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/atmos/rain.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:08:52Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/atmos/sandblast.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:08:52Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/atmos/smoke_puff.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:08:52Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/atmos/smoke_puff2.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:08:52Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/atmos/smoke_puff_red.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "2",
+    "date": "2026-05-27T20:08:52Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/atmos/smoke_puff_red.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:08:52Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/atmos/waterfoam.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:08:52Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "bitmaps/default/centersplatsh_white.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
@@ -43621,6 +43701,14 @@
     "contributor": "Floris",
     "pr": "manual-audit",
     "date": "2026-05-27T15:57:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/nano.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:08:52Z",
     "source": "manual-audit"
   },
   {
