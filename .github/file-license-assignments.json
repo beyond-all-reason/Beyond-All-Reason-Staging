@@ -53944,6 +53944,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/replies/anni.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:40:24Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/replies/armcom1.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
@@ -53981,6 +53989,14 @@
     "contributor": "icexuick",
     "pr": "3",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/cloak.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:40:24Z",
     "source": "manual-audit"
   },
   {
@@ -54029,6 +54045,30 @@
     "contributor": "icexuick",
     "pr": "3",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/doom.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:40:24Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/fusion1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:40:24Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/replies/fusion2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:40:24Z",
     "source": "manual-audit"
   },
   {
@@ -54832,11 +54872,59 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/bombdropxx.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:40:24Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/brawlemg.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:40:24Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/burn02.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:40:24Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/cannhvy2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:40:24Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/cannhvy5.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:40:24Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/cannhvy6.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/cannon1.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:40:24Z",
     "source": "manual-audit"
   },
   {
@@ -54856,11 +54944,43 @@
     "source": "manual-audit"
   },
   {
+    "file": "sounds/weapons/cannon2.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:40:24Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "sounds/weapons/cannon2old.wav",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/cannon3.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:40:24Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/corban_a.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:40:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/corban_b.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:40:48Z",
     "source": "manual-audit"
   },
   {
@@ -54885,6 +55005,14 @@
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-05-27T20:30:43Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/weapons/fastemg.wav",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:41:16Z",
     "source": "manual-audit"
   },
   {

@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `sounds/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **632**
+Total assets recorded: **648**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -435,17 +435,22 @@ Total assets recorded: **632**
 | `raptors/talonattack.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `raptors/talondie.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `replies/airplantselect.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `replies/anni.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `replies/armcom1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
 | `replies/armcom2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
 | `replies/armcom3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
 | `replies/armcom4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
 | `replies/armcomsel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
+| `replies/cloak.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `replies/corcom1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
 | `replies/corcom2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
 | `replies/corcom3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
 | `replies/corcom4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
 | `replies/corcom5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
 | `replies/corcomsel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
+| `replies/doom.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `replies/fusion1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `replies/fusion2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `replies/hlltselect.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `replies/hovt1aaok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `replies/hovt1aasel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -546,13 +551,24 @@ Total assets recorded: **632**
 | `weapons/bimpact1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/bimpact2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/bimpact3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/bombdropxx.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/brawlemg.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/burn02.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/cannhvy2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/cannhvy5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/cannhvy6.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/cannon1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/cannon1clean.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/cannon1old.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/cannon2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/cannon2old.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/cannon3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/corban_a.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/corban_b.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/corlevlr.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/corlevlrhit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/corraid.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/fastemg.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/fireburnshort.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/flakhit2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/flamhit1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
