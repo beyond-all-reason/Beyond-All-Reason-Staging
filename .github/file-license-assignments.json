@@ -43704,6 +43704,166 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/projectiletextures/explo.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:34:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/exploflare.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:34:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/explowater.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:34:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/flare1.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:34:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/flare2.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:34:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/flashside3.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:34:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/glow.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:34:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/glow2.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:34:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/glow3.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T19:34:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/gunshotxl.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:00:05Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/gunshotxl2.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:00:05Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/lightb.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:00:05Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/lightning.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:00:05Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/lightninginair.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-05-27T20:00:05Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/megaparticle2.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:00:05Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/nanobeam-reclaim.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:00:05Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/nanobeam-resurrect.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:00:05Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/nanopart.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:00:05Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/new_dirta.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:00:05Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/new_dirtb.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-05-27T20:00:05Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "bitmaps/taskbarLogo_notif.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "Floris",
