@@ -78,20 +78,19 @@ Total assets recorded: **5448**
 | `icexuick_100/cursorattack_38.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorattack_39.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorattack_4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `icexuick_100/cursorattack_40.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorattack_41.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorattack_42.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorattack_43.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorattack_44.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorattack_45.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `icexuick_100/cursorattack_46.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_100/cursorattack_46.png` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-05-28 |
 | `icexuick_100/cursorattack_47.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorattack_48.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorattack_49.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorattack_5.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorattack_50.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorattack_51.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `icexuick_100/cursorattack_52.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_100/cursorattack_52.png` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-05-28 |
 | `icexuick_100/cursorattack_53.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorattack_54.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorattack_55.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -5456,3 +5455,4 @@ Total assets recorded: **5448**
 | `icexuick_75/uiresized2_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/uiresizeh_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/uiresizev_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `uiresized1_0.bmp` | _awaiting license_ | PtaQ | manual-audit | 2026-05-28 |

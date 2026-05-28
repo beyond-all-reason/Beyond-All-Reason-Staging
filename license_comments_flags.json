@@ -1,0 +1,35 @@
+[
+  {
+    "file": "anims/cursorcapture_0.bmp",
+    "flag": "floris-review",
+    "comments": [
+      {
+        "author": "PtaQQ",
+        "date": "2026-05-28",
+        "text": "this is test comment"
+      }
+    ]
+  },
+  {
+    "file": "anims/icexuick_100/cursordwatch_1.png",
+    "flag": "unused",
+    "comments": [
+      {
+        "author": "PtaQQ",
+        "date": "2026-05-28",
+        "text": "this is a test file comment"
+      }
+    ]
+  },
+  {
+    "file": "anims/icexuick_100/cursorfight.txt",
+    "flag": "beherith-review",
+    "comments": [
+      {
+        "author": "PtaQQ",
+        "date": "2026-05-28",
+        "text": "this is a test comment"
+      }
+    ]
+  }
+]
