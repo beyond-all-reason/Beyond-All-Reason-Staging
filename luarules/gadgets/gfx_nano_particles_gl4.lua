@@ -2124,15 +2124,22 @@ local function scanBuilders(frame)
 		effectiveMax = MAX_PARTICLES * (1.0 - GAMESPEED_MAX_CUT * speedThrottle)
 	end
 	local saturation = liveCount / effectiveMax
-	if saturation >= 1.0 then return end
+	-- NOTE: don't early-return on saturation or scan-skip here -- the
+	-- per-frame homing pass at the bottom must still run, otherwise long-lived
+	-- particles aimed at far/moving targets (which are the ones that saturate
+	-- the pool in the first place) fly on their stale spawn-time trajectory
+	-- and never curve toward the target. Instead, skip just the per-builder
+	-- emission loop below.
+	local skipEmit = saturation >= 1.0
 
 	-- Dynamic scan-frame skip: empty pool -> every frame, saturated -> every
 	-- MAX_SCAN_RUN_EVERY frames. emitProb scales by runEvery so total emission
 	-- rate is preserved.
 	local runEvery = MIN_SCAN_RUN_EVERY + math.floor(saturation * (MAX_SCAN_RUN_EVERY - MIN_SCAN_RUN_EVERY) + 0.5)
 	if runEvery < 1 then runEvery = 1 end
-	if (frame % runEvery) ~= 0 then return end
+	if (frame % runEvery) ~= 0 then skipEmit = true end
 
+  if not skipEmit then
 	-- Camera position for the per-emit distance throttle. One call per scan;
 	-- DISTANT_EMIT_* squared bands live at module scope.
 	local camX, camY, camZ = spGetCameraPosition()
@@ -2480,6 +2487,7 @@ local function scanBuilders(frame)
 			end
 		end
 	end
+  end -- if not skipEmit
 
 	-- Flush all spawns AND in-place homing rewrites in a single upload. Spawns
 	-- are at the tail [preUsed..postUsed); homing rewrites can touch arbitrary
@@ -2953,12 +2961,32 @@ function gadget:DrawWorld()
 	-- kill our pass. Force every state bit our shader relies on.
 	-- (Inlined gl.* calls instead of upvalue locals -- file is at the 200
 	-- local-variable limit.)
+	--
+	-- Symptom we are guarding against: while a player is positioning a
+	-- building, nano particles can briefly vanish on Twitch streams. Root
+	-- causes seen / suspected:
+	--   * ColorMask left with one or more channels disabled by a prior pass
+	--     (post-processing, screenshot helpers, minimap stencils).
+	--   * Scissor left enabled with a tiny rect (UI clipping leak).
+	--   * PolygonOffset left enabled, shifting our particle depth so the
+	--     placement-ghost depth values reject every fragment.
+	--   * AlphaTest left enabled with a func that rejects our 20/255 alpha.
+	--   * StencilTest already enabled with a stale func that rejects
+	--     everywhere before we re-program it.
+	-- All cheap to enforce per-frame; cost is dwarfed by the VBO draw.
 	glDepthTest(GL.LEQUAL)
 	glDepthMask(false)
 	glCulling(false)
 	gl.AlphaTest(false)
 	gl.Color(1, 1, 1, 1)
+	gl.ColorMask(true, true, true, true)
+	gl.Scissor(false)
+	gl.PolygonOffset(false)
 	gl.PolygonMode(GL.FRONT_AND_BACK, GL.FILL)
+	-- Disable stencil first so the func/mask/op programming below cannot be
+	-- short-circuited by a leftover test that rejects every fragment before
+	-- we re-enable with the right state.
+	gl.StencilTest(false)
 	-- Engine premultiplied-alpha pass: BlendFunc(GL_ONE, GL_ONE_MINUS_SRC_ALPHA).
 	glBlending(GL_ONE, GL_ONE_MINUS_SRC_ALPHA)
 
