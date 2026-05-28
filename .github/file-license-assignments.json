@@ -1,5 +1,59 @@
 [
   {
+    "file": "anims/cursordgun_0.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-28T18:13:44Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursorfight_0.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-28T18:13:44Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursornormal.txt",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-28T18:13:44Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursornormal_0.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-28T18:13:44Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursorselfd_0.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-28T18:13:44Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursorwait_0.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-05-28T18:13:44Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-26T19:43:58Z",
     "file": "anims/icexuick_100/cursorareamex.txt",
@@ -43576,13 +43630,22 @@
     "source": "manual-audit"
   },
   {
-    "file": "anims/uiresized1_0.bmp",
+    "file": "anims/license.txt",
     "status": "awaiting_license",
     "license": "",
-    "contributor": "PtaQ",
+    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-05-28T16:00:23Z",
+    "date": "2026-05-28T18:13:44Z",
     "source": "manual-audit"
+  },
+  {
+    "contributor": "PtaQ",
+    "date": "2026-05-28T16:00:23Z",
+    "file": "anims/uiresized1_0.bmp",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "icexuick",
