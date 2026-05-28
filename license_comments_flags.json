@@ -11,6 +11,28 @@
     ]
   },
   {
+    "file": "anims/cursorunload_0.bmp",
+    "flag": "floris-review",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-05-28",
+        "text": "ku"
+      }
+    ]
+  },
+  {
+    "file": "anims/cursorwait_0.bmp",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-05-28",
+        "text": "test comment"
+      }
+    ]
+  },
+  {
     "file": "anims/icexuick_100/cursordwatch_1.png",
     "flag": "unused",
     "comments": [
@@ -29,6 +51,110 @@
         "author": "PtaQQ",
         "date": "2026-05-28",
         "text": "this is a test comment"
+      }
+    ]
+  },
+  {
+    "file": "anims/uiresized1_0.bmp",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-05-28",
+        "text": "not mine"
+      }
+    ]
+  },
+  {
+    "file": "anims/uiresized2_0.bmp",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/scavboss/armassimilator.s3o",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-05-28",
+        "text": "thats not mine"
+      }
+    ]
+  },
+  {
+    "file": "objects3d/Units/scavboss/armassimilator_dead.s3o",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-05-28",
+        "text": "not mine"
+      }
+    ]
+  },
+  {
+    "file": "objects3d/Units/scavboss/armmeatball.s3o",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-05-28",
+        "text": "not mine"
+      }
+    ]
+  },
+  {
+    "file": "objects3d/Units/scavboss/armmeatball_dead.s3o",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-05-28",
+        "text": "not mine"
+      }
+    ]
+  },
+  {
+    "file": "unitpics/armassimilator.dds",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-05-28",
+        "text": "not mine"
+      }
+    ]
+  },
+  {
+    "file": "unitpics/armmeatball.dds",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-05-28",
+        "text": "not mine"
+      }
+    ]
+  },
+  {
+    "file": "unitpics/scavengers/armassimilator.dds",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-05-28",
+        "text": "not mine"
+      }
+    ]
+  },
+  {
+    "file": "unitpics/scavengers/armmeatball.dds",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-05-28",
+        "text": "not mine"
       }
     ]
   }

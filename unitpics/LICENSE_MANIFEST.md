@@ -4,12 +4,17 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **5**
+Total assets recorded: **10**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
+| `armart.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
+| `armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
 | `critters/critter_crab.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `lootboxes/lootdrop.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `other/meteor.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `other/nuketest.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `scavengers/armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
+| `scavengers/armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
 | `scavengers/scavmist.dds` | `LicenseRef-BAR-CLA-1.0` | SethDGamre | manual-audit | 2026-05-27 |

@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **205**
+Total assets recorded: **210**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -58,6 +58,8 @@ Total assets recorded: **205**
 | `Units/armjuno_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armllt.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armllt_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armmar.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
+| `Units/armmar_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
 | `Units/armmercury.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armmercury_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armmh.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
@@ -75,6 +77,9 @@ Total assets recorded: **205**
 | `Units/armpb_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armpincer.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armpincer_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armprowl.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
+| `Units/armraz.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
+| `Units/armraz_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
 | `Units/armrl.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armrl_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armsam.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |

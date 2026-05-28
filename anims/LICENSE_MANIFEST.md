@@ -4,10 +4,12 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `anims/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **5448**
+Total assets recorded: **5450**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
+| `cursorselfd_0.bmp` | _awaiting license_ | Floris | manual-audit | 2026-05-28 |
+| `cursorwait_0.bmp` | _awaiting license_ | Floris | manual-audit | 2026-05-28 |
 | `icexuick_100/cursorareamex.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorareamex_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_100/cursorareamex_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
