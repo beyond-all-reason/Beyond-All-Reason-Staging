@@ -1,21 +1,43 @@
 [
   {
+    "file": "anims/cursordgun_0.bmp",
+    "license": "GPL-2.0-or-later",
     "contributor": "Floris",
-    "date": "2026-05-28T18:14:48Z",
-    "file": "anims/cursorselfd_0.bmp",
-    "license": "",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-06-01T13:58:42Z",
+    "source": "manual-audit"
   },
   {
+    "file": "anims/cursorfight_0.bmp",
+    "license": "GPL-2.0-or-later",
     "contributor": "Floris",
-    "date": "2026-05-28T18:14:48Z",
-    "file": "anims/cursorwait_0.bmp",
-    "license": "",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-06-01T13:58:42Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursornormal_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-01T13:58:42Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursorselfd_0.bmp",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-01T13:58:42Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursorwait_0.bmp",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-01T13:58:42Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -8919,6 +8941,15 @@
     "file": "anims/icexuick_100/cursorwait_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/license.txt",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-06-01T13:58:42Z",
     "source": "manual-audit"
   },
   {
@@ -43594,13 +43625,44 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "PtaQ",
-    "date": "2026-05-28T18:14:48Z",
-    "file": "anims/uiresized1_0.bmp",
-    "license": "",
+    "file": "anims/uimove_0.bmp",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-06-01T13:58:42Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/uiresized1_0.bmp",
+    "license": "GPL-2.0-or-later",
+    "contributor": "PtaQ",
+    "pr": "manual-audit",
+    "date": "2026-06-01T13:58:42Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/uiresized2_0.bmp",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-01T13:58:42Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/uiresizeh_0.bmp",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-01T13:58:42Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/uiresizev_0.bmp",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-01T13:58:42Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -50963,19 +51025,19 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "PtaQ",
+    "date": "2026-05-28T22:15:34Z",
     "file": "objects3d/Units/armmar.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "PtaQ",
     "pr": "manual-audit",
-    "date": "2026-05-28T22:15:34Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "PtaQ",
+    "date": "2026-05-28T22:15:34Z",
     "file": "objects3d/Units/armmar_dead.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "PtaQ",
     "pr": "manual-audit",
-    "date": "2026-05-28T22:15:34Z",
     "source": "manual-audit"
   },
   {
@@ -51115,27 +51177,27 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "PtaQ",
+    "date": "2026-05-28T22:15:34Z",
     "file": "objects3d/Units/armprowl.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "PtaQ",
     "pr": "manual-audit",
-    "date": "2026-05-28T22:15:34Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "PtaQ",
+    "date": "2026-05-28T22:15:34Z",
     "file": "objects3d/Units/armraz.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "PtaQ",
     "pr": "manual-audit",
-    "date": "2026-05-28T22:15:34Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "PtaQ",
+    "date": "2026-05-28T22:15:34Z",
     "file": "objects3d/Units/armraz_dead.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "PtaQ",
     "pr": "manual-audit",
-    "date": "2026-05-28T22:15:34Z",
     "source": "manual-audit"
   },
   {
@@ -57875,27 +57937,27 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-05-28T22:15:34Z",
     "file": "unitpics/armart.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-05-28T22:15:34Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "PtaQ",
+    "date": "2026-05-28T22:15:34Z",
     "file": "unitpics/armmar.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "PtaQ",
     "pr": "manual-audit",
-    "date": "2026-05-28T22:15:34Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "PtaQ",
+    "date": "2026-05-28T22:15:34Z",
     "file": "unitpics/armraz.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "PtaQ",
     "pr": "manual-audit",
-    "date": "2026-05-28T22:15:34Z",
     "source": "manual-audit"
   },
   {
@@ -57931,19 +57993,19 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "PtaQ",
+    "date": "2026-05-28T22:15:34Z",
     "file": "unitpics/scavengers/armmar.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "PtaQ",
     "pr": "manual-audit",
-    "date": "2026-05-28T22:15:34Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "PtaQ",
+    "date": "2026-05-28T22:15:34Z",
     "file": "unitpics/scavengers/armraz.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "PtaQ",
     "pr": "manual-audit",
-    "date": "2026-05-28T22:15:34Z",
     "source": "manual-audit"
   },
   {

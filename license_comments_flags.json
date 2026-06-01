@@ -55,6 +55,16 @@
     ]
   },
   {
+    "file": "anims/icexuick_100/license.txt",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "anims/license.txt",
+    "flag": "unused",
+    "comments": []
+  },
+  {
     "file": "anims/uiresized1_0.bmp",
     "flag": "",
     "comments": [
@@ -64,11 +74,6 @@
         "text": "not mine"
       }
     ]
-  },
-  {
-    "file": "anims/uiresized2_0.bmp",
-    "flag": "unused",
-    "comments": []
   },
   {
     "file": "objects3d/Units/scavboss/armassimilator.s3o",
