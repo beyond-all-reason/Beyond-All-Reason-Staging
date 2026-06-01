@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `bitmaps/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **152**
+Total assets recorded: **156**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -35,13 +35,17 @@ Total assets recorded: **152**
 | `default/groundflashwhite.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `gpl/fire.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `gpl/flame_alt.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `gpl/jet.bmp` | `GPL-2.0-or-later` | Floris | #6118 | 2026-06-01 |
+| `gpl/jet2.bmp` | `GPL-2.0-or-later` | Floris | #6118 | 2026-06-01 |
+| `gpl/perlin_noise.jpg` | `GPL-2.0-or-later` | Floris | #6118 | 2026-06-01 |
+| `gpl/treefire.png` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
 | `graphPaper.bmp` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `loadpictures/armada.jpg` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
-| `loadpictures/cortex.jpg` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
-| `loadpictures/manual/donations.jpg` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
-| `loadpictures/manual/scavengers/BAR4K_Loadingscreen_5.jpg` | `LicenseRef-BAR-CLA-1.0` | Floris | #4281 | 2026-05-27 |
-| `loadpictures/manual/scavengers/BAR4K_Loadingscreen_7.jpg` | `LicenseRef-BAR-CLA-1.0` | Floris | #4281 | 2026-05-27 |
-| `loadpictures/manual/scavengers/BAR4K_Loadingscreen_8.jpg` | `LicenseRef-BAR-CLA-1.0` | Floris | #4281 | 2026-05-27 |
+| `loadpictures/armada.jpg` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-01 |
+| `loadpictures/cortex.jpg` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-01 |
+| `loadpictures/manual/donations.jpg` | `LicenseRef-BAR-CLA-1.0` | PtaQQ | manual-audit | 2026-06-01 |
+| `loadpictures/manual/scavengers/BAR4K_Loadingscreen_5.jpg` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4281 | 2026-06-01 |
+| `loadpictures/manual/scavengers/BAR4K_Loadingscreen_7.jpg` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4281 | 2026-06-01 |
+| `loadpictures/manual/scavengers/BAR4K_Loadingscreen_8.jpg` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4281 | 2026-06-01 |
 | `logo.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `logo2.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `logo_a.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |

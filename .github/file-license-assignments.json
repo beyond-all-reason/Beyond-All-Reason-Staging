@@ -43881,6 +43881,38 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/gpl/jet.bmp",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "6118",
+    "date": "2026-06-01T14:08:17Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/gpl/jet2.bmp",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "6118",
+    "date": "2026-06-01T14:08:17Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/gpl/perlin_noise.jpg",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "6118",
+    "date": "2026-06-01T14:08:17Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/gpl/treefire.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-01T14:08:17Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T15:57:59Z",
     "file": "bitmaps/graphPaper.bmp",
@@ -43889,51 +43921,51 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-05-27T16:00:55Z",
     "file": "bitmaps/loadpictures/armada.jpg",
     "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
     "pr": "manual-audit",
+    "date": "2026-06-01T14:08:17Z",
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-05-27T16:00:55Z",
     "file": "bitmaps/loadpictures/cortex.jpg",
     "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
     "pr": "manual-audit",
+    "date": "2026-06-01T14:08:17Z",
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-05-27T16:00:55Z",
     "file": "bitmaps/loadpictures/manual/donations.jpg",
     "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "PtaQQ",
     "pr": "manual-audit",
+    "date": "2026-06-01T14:08:17Z",
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-05-27T16:00:55Z",
     "file": "bitmaps/loadpictures/manual/scavengers/BAR4K_Loadingscreen_5.jpg",
     "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
     "pr": "4281",
+    "date": "2026-06-01T14:08:17Z",
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-05-27T16:00:55Z",
     "file": "bitmaps/loadpictures/manual/scavengers/BAR4K_Loadingscreen_7.jpg",
     "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
     "pr": "4281",
+    "date": "2026-06-01T14:08:17Z",
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-05-27T16:00:55Z",
     "file": "bitmaps/loadpictures/manual/scavengers/BAR4K_Loadingscreen_8.jpg",
     "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
     "pr": "4281",
+    "date": "2026-06-01T14:08:17Z",
     "source": "manual-audit"
   },
   {

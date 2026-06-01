@@ -76,6 +76,11 @@
     ]
   },
   {
+    "file": "fonts/unlisted/microgrammadbold.ttf",
+    "flag": "unused",
+    "comments": []
+  },
+  {
     "file": "objects3d/Units/scavboss/armassimilator.s3o",
     "flag": "",
     "comments": [
