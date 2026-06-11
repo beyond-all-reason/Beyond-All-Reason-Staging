@@ -5462,7 +5462,7 @@ Total assets recorded: **5458**
 | `icexuick_75/uiresizeh_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/uiresizev_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `uimove_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
-| `uiresized1_0.bmp` | `GPL-2.0-or-later` | PtaQ | manual-audit | 2026-06-01 |
+| `uiresized1_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-11 |
 | `uiresized2_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
 | `uiresizeh_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
 | `uiresizev_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
