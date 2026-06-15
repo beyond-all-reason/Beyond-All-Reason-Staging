@@ -4,31 +4,17 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **24**
+Total assets recorded: **10**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
 | `armart.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
-| `armassimilator.dds` | _awaiting license_ | Firestorm | manual-audit | 2026-06-11 |
-| `armfast.dds` | _awaiting license_ | Firestorm | manual-audit | 2026-06-11 |
-| `armfboy.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-06-11 |
-| `armjeth.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-06-11 |
-| `armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQQ | manual-audit | 2026-06-11 |
-| `armmeatball.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-11 |
-| `armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQQ | manual-audit | 2026-06-11 |
-| `corpyro.dds` | _awaiting license_ | Beherith, | manual-audit | 2026-06-11 |
-| `corsent.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-06-11 |
+| `armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
+| `armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
 | `critters/critter_crab.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `lootboxes/lootdrop.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `other/meteor.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `other/nuketest.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `scavengers/armassimilator.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-11 |
-| `scavengers/armfast.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-11 |
-| `scavengers/armfboy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-11 |
-| `scavengers/armjeth.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-11 |
-| `scavengers/armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQQ | manual-audit | 2026-06-11 |
-| `scavengers/armmeatball.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-11 |
-| `scavengers/armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQQ | manual-audit | 2026-06-11 |
-| `scavengers/corpyro.dds` | _awaiting license_ | Beherith | manual-audit | 2026-06-11 |
-| `scavengers/corsent.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-06-11 |
+| `scavengers/armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
+| `scavengers/armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
 | `scavengers/scavmist.dds` | `LicenseRef-BAR-CLA-1.0` | SethDGamre | manual-audit | 2026-05-27 |

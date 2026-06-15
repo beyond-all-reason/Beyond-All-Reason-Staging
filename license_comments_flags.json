@@ -167,5 +167,10 @@
         "text": "not mine"
       }
     ]
+  },
+  {
+    "file": "unittextures/AlienTreeTexture.dds",
+    "flag": "unused",
+    "comments": []
   }
 ]

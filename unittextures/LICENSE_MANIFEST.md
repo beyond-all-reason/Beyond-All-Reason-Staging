@@ -4,12 +4,18 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unittextures/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **9**
+Total assets recorded: **18**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
+| `anttex.dds` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
 | `crab_tex.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `crab_tex_other.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `critter_duck.tga` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
+| `critter_goldfish.tga` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
+| `critter_gull.dds` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
+| `critter_penguin-tex2.tga` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
+| `critter_penguin.tga` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
 | `decals/cordrag_aoplane_scav.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `decals/corvp_aoplane_scav.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `energyball_tex.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -17,3 +23,6 @@ Total assets recorded: **9**
 | `pilha_crystal_license.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_normal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_tex2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `xmasball.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-15 |
+| `xmasball2.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-15 |
+| `xmasball3.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-15 |
