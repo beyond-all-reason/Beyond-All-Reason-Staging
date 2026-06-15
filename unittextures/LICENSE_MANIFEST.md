@@ -4,11 +4,17 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unittextures/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **18**
+Total assets recorded: **24**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
+| `Arm_color.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
+| `Arm_other.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
+| `Arm_wreck_color.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
+| `Arm_wreck_color_normal.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
+| `Arm_wreck_other.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
 | `anttex.dds` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
+| `blank_texture2.tga` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-15 |
 | `crab_tex.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `crab_tex_other.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `critter_duck.tga` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |

@@ -58049,12 +58049,65 @@
     "source": "manual-audit"
   },
   {
-    "file": "unittextures/anttex.dds",
+    "file": "unittextures/Arm_color.dds",
     "status": "awaiting_license",
     "license": "",
-    "contributor": "knorker",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
+    "date": "2026-06-15T21:16:11Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/Arm_other.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-06-15T21:16:11Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/Arm_wreck_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-06-15T21:16:11Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/Arm_wreck_color_normal.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-06-15T21:16:11Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/Arm_wreck_other.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-06-15T21:16:11Z",
+    "source": "manual-audit"
+  },
+  {
+    "contributor": "knorker",
     "date": "2026-06-15T21:01:56Z",
+    "file": "unittextures/anttex.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/blank_texture2.tga",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-15T21:16:11Z",
     "source": "manual-audit"
   },
   {
@@ -58074,49 +58127,49 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "knorker",
+    "date": "2026-06-15T21:01:56Z",
     "file": "unittextures/critter_duck.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "knorker",
     "pr": "manual-audit",
-    "date": "2026-06-15T21:01:56Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "knorker",
+    "date": "2026-06-15T21:01:56Z",
     "file": "unittextures/critter_goldfish.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "knorker",
     "pr": "manual-audit",
-    "date": "2026-06-15T21:01:56Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "knorker",
+    "date": "2026-06-15T21:01:56Z",
     "file": "unittextures/critter_gull.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "knorker",
     "pr": "manual-audit",
-    "date": "2026-06-15T21:01:56Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "knorker",
+    "date": "2026-06-15T21:01:56Z",
     "file": "unittextures/critter_penguin-tex2.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "knorker",
     "pr": "manual-audit",
-    "date": "2026-06-15T21:01:56Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unittextures/critter_penguin.tga",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "knorker",
-    "pr": "manual-audit",
     "date": "2026-06-15T21:01:56Z",
-    "source": "manual-audit"
+    "file": "unittextures/critter_penguin.tga",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "icexuick",
@@ -58175,27 +58228,27 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-15T21:01:56Z",
     "file": "unittextures/xmasball.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-15T21:01:56Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-15T21:01:56Z",
     "file": "unittextures/xmasball2.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-15T21:01:56Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-15T21:01:56Z",
     "file": "unittextures/xmasball3.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-15T21:01:56Z",
     "source": "manual-audit"
   }
 ]

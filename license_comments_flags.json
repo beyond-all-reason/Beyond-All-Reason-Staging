@@ -172,5 +172,60 @@
     "file": "unittextures/AlienTreeTexture.dds",
     "flag": "unused",
     "comments": []
+  },
+  {
+    "file": "unittextures/EvergreenTexture.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unittextures/PineSnowyTexture.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unittextures/PineSnowyTexture_w.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unittextures/PineTexture.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unittextures/candycane.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chip.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chip2.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unittextures/dice.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unittextures/dice2.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unittextures/gingerbread1.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unittextures/gingerbread2.dds",
+    "flag": "unused",
+    "comments": []
   }
 ]
