@@ -58049,49 +58049,49 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "FireStorm",
+    "date": "2026-06-15T21:16:11Z",
     "file": "unittextures/Arm_color.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "date": "2026-06-15T21:16:11Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "FireStorm",
+    "date": "2026-06-15T21:16:11Z",
     "file": "unittextures/Arm_other.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "date": "2026-06-15T21:16:11Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "FireStorm",
+    "date": "2026-06-15T21:16:11Z",
     "file": "unittextures/Arm_wreck_color.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "date": "2026-06-15T21:16:11Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "FireStorm",
+    "date": "2026-06-15T21:16:11Z",
     "file": "unittextures/Arm_wreck_color_normal.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "date": "2026-06-15T21:16:11Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unittextures/Arm_wreck_other.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "FireStorm",
-    "pr": "manual-audit",
     "date": "2026-06-15T21:16:11Z",
-    "source": "manual-audit"
+    "file": "unittextures/Arm_wreck_other.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "knorker",
@@ -58103,11 +58103,11 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-15T21:16:11Z",
     "file": "unittextures/blank_texture2.tga",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-15T21:16:11Z",
     "source": "manual-audit"
   },
   {
@@ -58172,6 +58172,598 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/decals/armaap_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armadvsol_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armafus_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armageo_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armalab_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armamb_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armamd_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armamex_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armamsub_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armanni_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armap_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armarad_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armason_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armavp_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armbeamer_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armbrtha_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armcir_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armclaw_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armdl_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armdrag_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armemp_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armestor_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armferret_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armflak_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armfort_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armfus_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armgate_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armgeo_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armgmm_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armguard_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armhlt_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armhp_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armjuno_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armlab_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armllt_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armmercury_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armmex_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armmmkr_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armmoho_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armmstor_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armnanotc_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armpb_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armrad_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armrl_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armsd_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armshltx_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armsilo_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armsolar_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armtarg_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armuwadves_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armuwadvms_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armuwes_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armuwfus_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armuwmme_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armuwms_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armveil_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armvp_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armvulc_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/armwin_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/coraap_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/coradvsol_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corafus_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corageo_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/coralab_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/coramsub_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corap_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corarad_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corason_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/coravp_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corbhmth_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corbuzz_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/cordl_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/cordoom_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/cordrag_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T20:55:03Z",
     "file": "unittextures/decals/cordrag_aoplane_scav.dds",
@@ -58180,11 +58772,387 @@
     "source": "manual-audit"
   },
   {
+    "file": "unittextures/decals/corerad_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corestor_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corexp_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corflak_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corfmd_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corfort_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corfus_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corgant_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corgate_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corgeo_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corhllt_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corhlt_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corhp_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corint_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corjamt_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corjuno_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corlab_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corllt_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/cormadsam_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/cormakr_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/cormaw_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/cormex_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/cormmkr_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/cormoho_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/cormstor_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/cornanotc_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corpun_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corrad_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corrl_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corscreamer_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corsd_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corshroud_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corsilo_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corsolar_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/cortarg_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/cortoast_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/cortron_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/coruwadves_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/coruwadvms_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/coruwes_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/coruwfus_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/coruwmme_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/coruwms_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corvipe_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corvp_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T20:55:03Z",
     "file": "unittextures/decals/corvp_aoplane_scav.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/corwin_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals/mission_command_tower_aoplane.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T16:39:36Z",
     "source": "manual-audit"
   },
   {
