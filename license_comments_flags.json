@@ -81,6 +81,21 @@
     "comments": []
   },
   {
+    "file": "luaui/images/info_health.png",
+    "flag": "icexuick-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/skull.dds",
+    "flag": "icexuick-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/wind-blades.png",
+    "flag": "icexuick-review",
+    "comments": []
+  },
+  {
     "file": "objects3d/Critters/critter_duck.s3o",
     "flag": "unused",
     "comments": []
