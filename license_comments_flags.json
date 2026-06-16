@@ -81,6 +81,56 @@
     "comments": []
   },
   {
+    "file": "luaui/images/ecostats/arm_default.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/ecostats/bordersOff.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/ecostats/chkBoxOff.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/ecostats/chkBoxOn.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/ecostats/cor_default.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/ecostats/cross.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/ecostats/cross_inv.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/ecostats/default.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/ecostats/ecommander.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/ecostats/tll_default.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
     "file": "luaui/images/info_health.png",
     "flag": "icexuick-review",
     "comments": []

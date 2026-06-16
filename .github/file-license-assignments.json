@@ -50693,6 +50693,201 @@
     "source": "manual-audit"
   },
   {
+    "file": "luaui/images/advplayerslist_mascot/floriscat_body.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/floriscat_head.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/floriscat_headblink.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/mrbeans_body.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "teifion",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/mrbeans_head.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "teifion",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/mrbeans_headblink.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "teifion",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/allycursor.dds",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/barglow-center.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/barglow-edge.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/commandsfx/glow.dds",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/commandsfx/line.dds",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/ecostats/bar.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/ecostats/barbg.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/ecostats/barglow-center.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/ecostats/barglow-edge.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/energy-red.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/formationDot.dds",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/forward.dds",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/glow.dds",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/glow2.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/groupicons/weaponsub.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icecuick",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/halo.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/holdfire.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "7585",
+    "date": "2026-06-16T18:24:40Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "luaui/images/mapmarksfx/glow.dds",
     "status": "awaiting_license",
     "license": "",

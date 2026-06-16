@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **32**
+Total assets recorded: **55**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -12,6 +12,29 @@ Total assets recorded: **32**
 | `Ranks/rank7.png` | _awaiting license_ | icexuick | manual-audit | 2026-06-16 |
 | `Ranks/rank8.png` | _awaiting license_ | icexuick | manual-audit | 2026-06-16 |
 | `Ranks/rank9.png` | _awaiting license_ | icexuick | manual-audit | 2026-06-16 |
+| `advplayerslist_mascot/floriscat_body.png` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
+| `advplayerslist_mascot/floriscat_head.png` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
+| `advplayerslist_mascot/floriscat_headblink.png` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
+| `advplayerslist_mascot/mrbeans_body.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
+| `advplayerslist_mascot/mrbeans_head.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
+| `advplayerslist_mascot/mrbeans_headblink.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
+| `allycursor.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `barglow-center.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `barglow-edge.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `commandsfx/glow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `commandsfx/line.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `ecostats/bar.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `ecostats/barbg.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `ecostats/barglow-center.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `ecostats/barglow-edge.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `energy-red.png` | _awaiting license_ | icexuick | manual-audit | 2026-06-16 |
+| `formationDot.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `forward.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `glow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `glow2.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
+| `groupicons/weaponsub.png` | _awaiting license_ | icecuick | manual-audit | 2026-06-16 |
+| `halo.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
+| `holdfire.png` | _awaiting license_ | icexuick | #7585 | 2026-06-16 |
 | `mapmarksfx/glow.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `mapmarksfx/ring.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `pip/PipActivity.png` | _awaiting license_ | Floris | #6945 | 2026-06-16 |
