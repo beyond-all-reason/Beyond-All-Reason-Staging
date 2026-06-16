@@ -52892,6 +52892,15 @@
     "source": "manual-audit"
   },
   {
+    "file": "objects3d/armstone.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:58:45Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Kremenchuk",
     "date": "2026-05-27T21:00:18Z",
     "file": "objects3d/artshell-large.s3o",
