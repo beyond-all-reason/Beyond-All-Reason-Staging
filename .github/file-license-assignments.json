@@ -50657,11 +50657,74 @@
     "source": "manual-audit"
   },
   {
+    "file": "objects3d/Critters/critter_ant.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "knorker",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T21:00:18Z",
     "file": "objects3d/Critters/critter_crab.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Critters/critter_duck.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "knorker",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Critters/critter_goldfish.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "knorker",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Critters/critter_gull.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "knorker",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Critters/critter_penguin.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "knorker",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Critters/critter_penguinbro.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "knorker",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Critters/critter_penguinking.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "knorker",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
     "source": "manual-audit"
   },
   {
@@ -51705,6 +51768,152 @@
     "source": "manual-audit"
   },
   {
+    "file": "objects3d/Units/corparrow.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corparrow_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corplat.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corplat_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corpship.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corpship_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corpt.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corpt_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corpun.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corpun_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corpyro.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corpyro_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corrad.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corrad_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corraid.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corraid_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/correap.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/correap_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-05-28T12:16:25Z",
     "file": "objects3d/Units/correcl.s3o",
@@ -51718,6 +51927,22 @@
     "file": "objects3d/Units/correcl_dead.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corrl.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corrl_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
     "source": "manual-audit"
   },
   {
@@ -51737,6 +51962,30 @@
     "source": "manual-audit"
   },
   {
+    "file": "objects3d/Units/corroy.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corroy_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corsat.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-05-28T12:16:25Z",
     "file": "objects3d/Units/corsb.s3o",
@@ -51753,11 +52002,67 @@
     "source": "manual-audit"
   },
   {
+    "file": "objects3d/Units/corscreamer.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corscreamer_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-05-28T12:16:25Z",
     "file": "objects3d/Units/corscreamermissile.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corsd.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corsd_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corseah.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corseah_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corseal.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
     "source": "manual-audit"
   },
   {
@@ -51774,6 +52079,22 @@
     "file": "objects3d/Units/corseap_dead.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corsent.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corsent_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
     "source": "manual-audit"
   },
   {
@@ -51809,6 +52130,22 @@
     "source": "manual-audit"
   },
   {
+    "file": "objects3d/Units/corshad.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corshad_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-05-28T12:16:25Z",
     "file": "objects3d/Units/corshark.s3o",
@@ -51822,6 +52159,38 @@
     "file": "objects3d/Units/corshark_dead.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corshroud.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corshroud_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corsilo.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corsilo_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
     "source": "manual-audit"
   },
   {
@@ -51873,6 +52242,56 @@
     "source": "manual-audit"
   },
   {
+    "file": "objects3d/Units/corsok.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Flaka",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corsok_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Flaka",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corsolar.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corsolar_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corsonar.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corsonar_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-05-28T12:16:25Z",
     "file": "objects3d/Units/corspy.s3o",
@@ -51905,6 +52324,70 @@
     "source": "manual-audit"
   },
   {
+    "file": "objects3d/Units/corstorm.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corstorm_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corsub.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corsub_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corsy.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corsy_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/cortarg.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/cortarg_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-05-28T12:16:25Z",
     "file": "objects3d/Units/cortermite.s3o",
@@ -51921,11 +52404,331 @@
     "source": "manual-audit"
   },
   {
+    "file": "objects3d/Units/corthovr.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corthovr_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/cortide.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/cortide_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/cortitan.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/cortitan_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/cortl.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/cortl_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/cortoast.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/cortoast_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/cortrem.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/cortrem_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/cortron.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/cortron_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-05-28T12:16:25Z",
     "file": "objects3d/Units/cortronmissile.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/cortship.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/cortship_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/coruwadves.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/coruwadves_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/coruwadvms.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/coruwadvms_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/coruwes.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/coruwes_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/coruwfus.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/coruwfus_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/coruwmme.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/coruwmme_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/coruwmmm.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/coruwmmm_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/coruwms.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/coruwms_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corvalk.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corvalk_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corvamp.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corvamp_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corveng.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corveng_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corvipe.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corvipe_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corvp.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corvp_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
     "source": "manual-audit"
   },
   {
@@ -51969,6 +52772,99 @@
     "source": "manual-audit"
   },
   {
+    "file": "objects3d/Units/corwin.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corwin_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corwolv.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corwolv_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/freefusion.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cremuss",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/freefusion_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cremuss",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/mission_command_tower.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cremuss",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/mission_command_tower_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cremuss",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/scavboss/corcomboss.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/scavboss/corcomboss_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/unused/old_bladew.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Kremenchuk",
     "date": "2026-05-27T21:00:18Z",
     "file": "objects3d/artshell-large.s3o",
@@ -52009,11 +52905,28 @@
     "source": "manual-audit"
   },
   {
+    "file": "objects3d/cor_palette_tester.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-05-28T12:16:25Z",
     "file": "objects3d/cordepthcharge.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/cordice.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "robertthepie",
+    "pr": "4346",
+    "date": "2026-06-16T17:38:38Z",
     "source": "manual-audit"
   },
   {
@@ -52041,6 +52954,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "objects3d/corstone.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-05-28T12:16:25Z",
     "file": "objects3d/cortronmissile.s3o",
@@ -52054,6 +52975,15 @@
     "file": "objects3d/corvrocket.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/dice.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
     "source": "manual-audit"
   },
   {
@@ -52334,6 +53264,102 @@
     "file": "objects3d/pilha_crystal_violet_3.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/xmasball1_1.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/xmasball1_2.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/xmasball1_3.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/xmasball1_4.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/xmasball1_5.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/xmasball1_6.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/xmasball2_1.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/xmasball2_2.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/xmasball2_3.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/xmasball2_4.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/xmasball2_5.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/xmasball2_6.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-06-16T17:38:38Z",
     "source": "manual-audit"
   },
   {

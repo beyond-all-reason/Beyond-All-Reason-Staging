@@ -4,11 +4,18 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **210**
+Total assets recorded: **336**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
+| `Critters/critter_ant.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
 | `Critters/critter_crab.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `Critters/critter_duck.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
+| `Critters/critter_goldfish.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
+| `Critters/critter_gull.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
+| `Critters/critter_penguin.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
+| `Critters/critter_penguinbro.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
+| `Critters/critter_penguinking.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
 | `SimpleFlareXL.s3o` | `LicenseRef-BAR-CLA-1.0` | KDR_11k, Beherith | manual-audit | 2026-05-27 |
 | `Units/arm3X3B.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/arm3X3C.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
@@ -139,50 +146,157 @@ Total assets recorded: **210**
 | `Units/cornanotcplat_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/cornecro.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/cornecro_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corparrow.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corparrow_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corplat.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corplat_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corpship.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `Units/corpship_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `Units/corpt.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corpt_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corpun.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corpun_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corpyro.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `Units/corpyro_dead.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `Units/corrad.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corrad_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corraid.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corraid_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/correap.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/correap_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/correcl.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/correcl_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corrl.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corrl_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corroach.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corroach_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corroy.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corroy_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corsat.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corsb.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsb_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corscreamer.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corscreamer_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corscreamermissile.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corsd.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corsd_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corseah.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corseah_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corseal.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corseap.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corseap_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corsent.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corsent_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corsfig.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsfig_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsh.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsh_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corshad.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corshad_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corshark.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corshark_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corshroud.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corshroud_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corsilo.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corsilo_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corsjam.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsjam_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsktl.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsktl_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsnap.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsnap_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corsok.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-06-16 |
+| `Units/corsok_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-06-16 |
+| `Units/corsolar.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corsolar_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corsonar.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corsonar_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corspy.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corspy_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corssub.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corssub_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corstorm.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corstorm_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corsub.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corsub_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corsy.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corsy_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/cortarg.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/cortarg_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/cortermite.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/cortermite_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corthovr.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `Units/corthovr_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `Units/cortide.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/cortide_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/cortitan.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/cortitan_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/cortl.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/cortl_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/cortoast.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/cortoast_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/cortrem.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/cortrem_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/cortron.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/cortron_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/cortronmissile.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/cortship.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `Units/cortship_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `Units/coruwadves.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/coruwadves_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/coruwadvms.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/coruwadvms_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/coruwes.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/coruwes_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/coruwfus.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/coruwfus_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/coruwmme.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/coruwmme_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/coruwmmm.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/coruwmmm_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/coruwms.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/coruwms_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corvalk.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corvalk_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corvamp.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corvamp_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corveng.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corveng_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corvipe.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corvipe_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corvp.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corvp_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corvrad.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corvrad_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corvroc.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corvroc_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corvrocket.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corwin.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corwin_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corwolv.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corwolv_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/freefusion.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-06-16 |
+| `Units/freefusion_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-06-16 |
+| `Units/mission_command_tower.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-06-16 |
+| `Units/mission_command_tower_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-06-16 |
+| `Units/scavboss/corcomboss.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/scavboss/corcomboss_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/unused/old_bladew.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-06-16 |
 | `artshell-large.s3o` | `LicenseRef-BAR-CLA-1.0` | Kremenchuk | manual-audit | 2026-05-27 |
 | `artshell-medium.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `artshell-small.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `cannon-small.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `cannon-tiny.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `cor_palette_tester.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `cordepthcharge.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `cordice.s3o` | _awaiting license_ | robertthepie | #4346 | 2026-06-16 |
 | `corkbmissl-1.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7442 | 2026-05-28 |
 | `corkbmissl0.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7442 | 2026-05-28 |
 | `corscreamermissile.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `corstone.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `cortronmissile.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `corvrocket.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `dice.s3o` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `epulse.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `hats/cor_hat_viking.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `pilha_crystal_1.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -218,3 +332,15 @@ Total assets recorded: **210**
 | `pilha_crystal_violet_1.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `pilha_crystal_violet_2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `pilha_crystal_violet_3.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `xmasball1_1.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |
+| `xmasball1_2.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |
+| `xmasball1_3.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |
+| `xmasball1_4.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |
+| `xmasball1_5.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |
+| `xmasball1_6.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |
+| `xmasball2_1.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |
+| `xmasball2_2.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |
+| `xmasball2_3.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |
+| `xmasball2_4.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |
+| `xmasball2_5.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |
+| `xmasball2_6.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |

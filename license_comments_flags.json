@@ -81,6 +81,46 @@
     "comments": []
   },
   {
+    "file": "objects3d/Critters/critter_duck.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Critters/critter_goldfish.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Critters/critter_gull.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Critters/critter_penguin.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Critters/critter_penguinbro.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Critters/critter_penguinking.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/corpyro.s3o",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/corpyro_dead.s3o",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
     "file": "objects3d/Units/scavboss/armassimilator.s3o",
     "flag": "",
     "comments": [
@@ -123,6 +163,86 @@
         "text": "not mine"
       }
     ]
+  },
+  {
+    "file": "objects3d/Units/unused/old_bladew.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/candycane.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/candycane2.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/candycane3.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/candycane4.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/candycane5.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/candycane6.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/candycane7.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/candycane_corkbmissl1.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/candycane_corshiprocket.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/candycane_cortronmissile.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/candycane_corvrocket.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/candycane_crblmssl.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/chip.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/cordice.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/dice.s3o",
+    "flag": "unused",
+    "comments": []
   },
   {
     "file": "unitpics/armassimilator.dds",
