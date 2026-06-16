@@ -171,62 +171,62 @@
   },
   {
     "file": "objects3d/candycane.s3o",
-    "flag": "unused",
+    "flag": "beherith-review",
     "comments": []
   },
   {
     "file": "objects3d/candycane2.s3o",
-    "flag": "unused",
+    "flag": "beherith-review",
     "comments": []
   },
   {
     "file": "objects3d/candycane3.s3o",
-    "flag": "unused",
+    "flag": "beherith-review",
     "comments": []
   },
   {
     "file": "objects3d/candycane4.s3o",
-    "flag": "unused",
+    "flag": "beherith-review",
     "comments": []
   },
   {
     "file": "objects3d/candycane5.s3o",
-    "flag": "unused",
+    "flag": "beherith-review",
     "comments": []
   },
   {
     "file": "objects3d/candycane6.s3o",
-    "flag": "unused",
+    "flag": "beherith-review",
     "comments": []
   },
   {
     "file": "objects3d/candycane7.s3o",
-    "flag": "unused",
+    "flag": "beherith-review",
     "comments": []
   },
   {
     "file": "objects3d/candycane_corkbmissl1.s3o",
-    "flag": "unused",
+    "flag": "beherith-review",
     "comments": []
   },
   {
     "file": "objects3d/candycane_corshiprocket.s3o",
-    "flag": "unused",
+    "flag": "beherith-review",
     "comments": []
   },
   {
     "file": "objects3d/candycane_cortronmissile.s3o",
-    "flag": "unused",
+    "flag": "beherith-review",
     "comments": []
   },
   {
     "file": "objects3d/candycane_corvrocket.s3o",
-    "flag": "unused",
+    "flag": "beherith-review",
     "comments": []
   },
   {
     "file": "objects3d/candycane_crblmssl.s3o",
-    "flag": "unused",
+    "flag": "beherith-review",
     "comments": []
   },
   {
@@ -315,7 +315,17 @@
   },
   {
     "file": "unittextures/candycane.dds",
-    "flag": "unused",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_normal.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chickenegg_tex2.dds",
+    "flag": "beherith-review",
     "comments": []
   },
   {

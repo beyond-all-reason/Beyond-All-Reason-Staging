@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **336**
+Total assets recorded: **364**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -282,18 +282,46 @@ Total assets recorded: **336**
 | `Units/scavboss/corcomboss.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/scavboss/corcomboss_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/unused/old_bladew.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-06-16 |
+| `airbomb.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `airbombsea.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `airbombt2.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
 | `artshell-large.s3o` | `LicenseRef-BAR-CLA-1.0` | Kremenchuk | manual-audit | 2026-05-27 |
 | `artshell-medium.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `artshell-small.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `banishermissile.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `candycane.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `candycane2.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `candycane3.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `candycane4.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `candycane5.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `candycane6.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `candycane7.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `candycane_corkbmissl1.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `candycane_corshiprocket.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `candycane_cortronmissile.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `candycane_corvrocket.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `candycane_crblmssl.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
 | `cannon-small.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `cannon-tiny.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `catapultmissile.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `cor_palette_tester.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `coradvtorpedo.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `cordepthcharge.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `cordice.s3o` | _awaiting license_ | robertthepie | #4346 | 2026-06-16 |
 | `corkbmissl-1.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7442 | 2026-05-28 |
 | `corkbmissl0.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7442 | 2026-05-28 |
+| `corkbmissl1.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `cormissile.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `cormissile2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `cormissile2fast.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `cormissile3.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `cormissile3fast.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `cormissilefast.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7351 | 2026-06-16 |
+| `cormissilefighter.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7351 | 2026-06-16 |
 | `corscreamermissile.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `corshiprocket.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `corstone.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `cortorpedo.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `cortronmissile.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `corvrocket.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `dice.s3o` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
