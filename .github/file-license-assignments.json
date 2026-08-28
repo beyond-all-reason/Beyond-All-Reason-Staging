@@ -53632,6 +53632,89 @@
     "source": "manual-audit"
   },
   {
+    "file": "luarules/images/blank.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Fx-Doo",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luarules/images/bullcup.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luarules/images/comwreath.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luarules/images/controlpoints.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luarules/images/cow.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luarules/images/fuscup.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luarules/images/license.txt",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luarules/images/traitor.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/LICENSE_MANIFEST.md",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "BAR CLA Bot",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/Ranks/license.txt",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/Ranks/rank10.png",
@@ -53639,6 +53722,105 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "luaui/images/Ranks/rank11.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/Ranks/rank12.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/Ranks/rank13.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/Ranks/rank14.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/Ranks/rank15.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/Ranks/rank16.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/Ranks/rank2.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/Ranks/rank3.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/Ranks/rank4.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/Ranks/rank5.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/Ranks/rank6.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -53666,6 +53848,276 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "luaui/images/advplayerslist/ally.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/armada_default.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/camera.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/chat.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/cortex_default.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/country.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/cpu.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/cross.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/draw.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/energy.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/eraser.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/flags/arm.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/flags/barb.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/flags/barb2.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "TheSilverHornet",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/flags/legion.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/flags/raptor-red.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/flags/raptor.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/legion_default.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/metal.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/point.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/ranks/1.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/ranks/2.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/ranks/3.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/ranks/4.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/ranks/5.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/ranks/6.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/ranks/7.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/ranks/8.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/unally.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/units.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Floris",
@@ -53730,6 +54182,15 @@
     "source": "manual-audit"
   },
   {
+    "file": "luaui/images/backgroundtile.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Floris",
     "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/barglow-center.png",
@@ -53759,6 +54220,141 @@
     "file": "luaui/images/commandsfx/line.dds",
     "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/decals_gl4/footprints/f_raptor_a.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/decals_gl4/footprints/f_raptor_n.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/decals_gl4/groundScars/F_armbanth_a.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/decals_gl4/groundScars/F_armbanth_n.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/decals_gl4/groundScars/F_corkorg_a.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/decals_gl4/groundScars/F_corkorg_n.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/decals_gl4/groundScars/T_GroundCrack_09_n.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/decals_gl4/groundScars/T_GroundCrack_10_n.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/decals_gl4/groundScars/T_GroundCrack_21_n.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/decals_gl4/groundScars/T_GroundCrack_23_n.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/decals_gl4/groundScars/T_GroundCrack_24_n.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/decals_gl4/groundScars/T_GroundCrack_25_n.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/decals_gl4/groundScars/T_GroundCrack_26_n.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/decals_gl4/groundScars/T_GroundCrack_27_n.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/ecostats/arm_default.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
     "source": "manual-audit"
   },
   {
@@ -53794,6 +54390,24 @@
     "source": "manual-audit"
   },
   {
+    "file": "luaui/images/ecostats/cor_default.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/enemyspotter.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/energy-red.png",
@@ -53801,6 +54415,60 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "luaui/images/energy.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/flank_icon.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/flank_icon_old.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/flowui_gl4/metal.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/flowui_gl4/metalenergy.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "5915",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/flowui_gl4/metalold.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Floris",
@@ -53836,6 +54504,159 @@
     "status": "awaiting_license"
   },
   {
+    "file": "luaui/images/gradient_alpha_2.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/grid3d64rgb.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/groupicons/aa.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/groupicons/antinuke.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/groupicons/builder.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Florisicexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/groupicons/buildert2.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Florisicexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/groupicons/buildert3.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/groupicons/buildert4.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/groupicons/emp.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/groupicons/energy.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/groupicons/metal.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Florisicexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/groupicons/nuke.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/groupicons/sub.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/groupicons/util.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/groupicons/weapon.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/groupicons/weaponaa.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/groupicons/weaponexplo.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icecuick",
     "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/groupicons/weaponsub.png",
@@ -53854,6 +54675,24 @@
     "status": "awaiting_license"
   },
   {
+    "file": "luaui/images/healtbars_exo4.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/hexgrid.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/holdfire.png",
@@ -53861,6 +54700,567 @@
     "pr": "7585",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_000.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_001.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_002.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_003.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_004.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_005.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_006.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_007.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_008.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_009.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_010.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_011.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_012.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_013.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_014.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_015.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_016.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_017.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_018.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_019.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_020.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_021.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_022.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_023.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_024.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_025.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_026.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_027.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_028.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_029.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_030.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_031.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_032.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_033.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_034.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_035.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_036.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_037.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_038.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_039.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_040.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_041.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_042.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_043.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_044.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_045.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_046.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_047.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_048.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_049.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_050.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_051.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_052.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_053.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_054.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_055.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_056.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_057.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_058.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/idleicon/idlecon_059.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:39:10Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/info_health.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/keybinds/grid_keys.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "2934",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/keybinds/grid_keys_ALT.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "2934",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/keybinds/grid_keys_CTRL.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "2934",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/keybinds/legacy_keys.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "2934",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/keybinds/legacy_keys_ALT.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "2934",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/keybinds/legacy_keys_CTRL.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "2934",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/lava/lava2_diffuseemit.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/license.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Floris",
@@ -53879,6 +55279,41 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "luaui/images/metal.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/metalold.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/new.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/nuke.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Floris",
@@ -54034,6 +55469,33 @@
     "status": "awaiting_license"
   },
   {
+    "file": "luaui/images/rapt-tileable_v001_small.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "3603",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/rapt-tileable_v001_small_alpha.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "3603",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/rapt-tileable_v002_small.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "3603",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/raptorpanel.png",
@@ -54052,6 +55514,24 @@
     "status": "awaiting_license"
   },
   {
+    "file": "luaui/images/repeat.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/repeat_old.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/returnfire.png",
@@ -54059,6 +55539,42 @@
     "pr": "7585",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "luaui/images/scav-tileable_v001-alpha.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "3603",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/scav-tileable_v001_small.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "3603",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/scav-tileable_v002_small.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "3603",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/scavpanel.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -54091,6 +55607,15 @@
     "file": "luaui/images/stripes.png",
     "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/tidal-waves.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:38:00Z",
     "source": "manual-audit"
   },
   {
