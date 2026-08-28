@@ -4,15 +4,30 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `anims/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **5459**
+Total assets recorded: **5719**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
+| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-08-28 |
+| `cursorattack_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
+| `cursorcapture_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
+| `cursordefend_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
 | `cursordgun_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
 | `cursorfight_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
+| `cursormove_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
+| `cursornormal.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `cursornormal_0.png` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
+| `cursorpatrol_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
+| `cursorpickup_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
+| `cursorreclamate_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
+| `cursorrepair_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
+| `cursorrevive_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
 | `cursorselfd_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
+| `cursorsettarget_0.bmp` | _awaiting license_ | Bluestone | manual-audit | 2026-08-28 |
+| `cursorunload_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
 | `cursorwait_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
+| `icexuick_100/cursorBomb.PNG` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorBomb.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_100/cursorareamex.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorareamex_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_100/cursorareamex_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -108,6 +123,8 @@ Total assets recorded: **5459**
 | `icexuick_100/cursorattack_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorattack_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorattack_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_100/cursorbuildbad_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorbuildgood_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_100/cursorcapture.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorcapture_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorcapture_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -169,6 +186,7 @@ Total assets recorded: **5459**
 | `icexuick_100/cursorcapture_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6 | 2026-05-26 |
 | `icexuick_100/cursorcapture_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6 | 2026-05-26 |
 | `icexuick_100/cursorcapture_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6 | 2026-05-26 |
+| `icexuick_100/cursorcentroid_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_100/cursordefend.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursordefend_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursordefend_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -291,6 +309,10 @@ Total assets recorded: **5459**
 | `icexuick_100/cursordgun_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursordgun_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursordgun_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_100/cursordwatch.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursordwatch_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursordwatch_1.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursordwatch_2.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_100/cursorfight.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorfight_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorfight_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -352,6 +374,23 @@ Total assets recorded: **5459**
 | `icexuick_100/cursorfight_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorfight_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorfight_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_100/cursorgather.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorgather_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorgather_1.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorgather_2.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorgather_3.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorjump.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorjump_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorjump_1.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorjump_10.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorjump_2.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorjump_3.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorjump_4.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorjump_5.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorjump_6.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorjump_7.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorjump_8.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorjump_9.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_100/cursormove.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursormove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursormove_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -475,6 +514,19 @@ Total assets recorded: **5459**
 | `icexuick_100/cursornormal_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursornormal_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursornormal_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_100/cursornumber.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursornumber_00.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursornumber_01.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursornumber_02.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursornumber_03.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursornumber_04.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursornumber_05.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursornumber_06.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursornumber_07.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursornumber_08.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursornumber_09.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursornumber_10.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursornumber_11.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_100/cursorpatrol.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorpatrol_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorpatrol_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -594,6 +646,8 @@ Total assets recorded: **5459**
 | `icexuick_100/cursorpickup_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorpickup_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorpickup_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_100/cursorpurchase.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorpurchase_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_100/cursorreclamate.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorreclamate_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorreclamate_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -960,6 +1014,7 @@ Total assets recorded: **5459**
 | `icexuick_100/cursorsettarget_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorsettarget_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorsettarget_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_100/cursortime_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_100/cursorunload.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorunload_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorunload_10.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -1079,6 +1134,7 @@ Total assets recorded: **5459**
 | `icexuick_100/cursorupgmex_60.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorupgmex_61.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorupgmex_62.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_100/cursorupgmex_63.png` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_100/cursorupgmex_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorupgmex_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorupgmex_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -1128,11 +1184,18 @@ Total assets recorded: **5459**
 | `icexuick_100/cursorwait_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorwait_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/license.txt` | _awaiting license_ | icexuick | manual-audit | 2026-06-01 |
+| `icexuick_100/uimove.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_100/uimove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_100/uiresized1.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_100/uiresized1_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_100/uiresized2.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_100/uiresized2_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_100/uiresizeh.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_100/uiresizeh_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_100/uiresizev.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_100/uiresizev_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_133/cursorBomb.PNG` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorBomb.txt` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
 | `icexuick_133/cursorareamex.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_133/cursorareamex_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_133/cursorareamex_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -1228,6 +1291,8 @@ Total assets recorded: **5459**
 | `icexuick_133/cursorattack_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorattack_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorattack_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
+| `icexuick_133/cursorbuildbad_0.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorbuildgood_0.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
 | `icexuick_133/cursorcapture.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorcapture_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorcapture_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
@@ -1289,6 +1354,7 @@ Total assets recorded: **5459**
 | `icexuick_133/cursorcapture_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorcapture_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorcapture_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
+| `icexuick_133/cursorcentroid_0.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
 | `icexuick_133/cursordefend.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursordefend_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursordefend_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
@@ -1411,6 +1477,10 @@ Total assets recorded: **5459**
 | `icexuick_133/cursordgun_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursordgun_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursordgun_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
+| `icexuick_133/cursordwatch.txt` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursordwatch_0.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursordwatch_1.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursordwatch_2.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
 | `icexuick_133/cursorfight.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorfight_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorfight_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
@@ -1472,6 +1542,23 @@ Total assets recorded: **5459**
 | `icexuick_133/cursorfight_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorfight_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorfight_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
+| `icexuick_133/cursorgather.txt` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorgather_0.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorgather_1.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorgather_2.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorgather_3.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorjump.txt` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorjump_0.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorjump_1.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorjump_10.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorjump_2.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorjump_3.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorjump_4.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorjump_5.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorjump_6.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorjump_7.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorjump_8.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorjump_9.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
 | `icexuick_133/cursormove.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursormove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursormove_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
@@ -1595,6 +1682,19 @@ Total assets recorded: **5459**
 | `icexuick_133/cursornormal_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursornormal_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursornormal_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
+| `icexuick_133/cursornumber.txt` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursornumber_00.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursornumber_01.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursornumber_02.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursornumber_03.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursornumber_04.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursornumber_05.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursornumber_06.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursornumber_07.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursornumber_08.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursornumber_09.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursornumber_10.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursornumber_11.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
 | `icexuick_133/cursorpatrol.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorpatrol_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorpatrol_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
@@ -1714,6 +1814,8 @@ Total assets recorded: **5459**
 | `icexuick_133/cursorpickup_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorpickup_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorpickup_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
+| `icexuick_133/cursorpurchase.txt` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_133/cursorpurchase_0.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
 | `icexuick_133/cursorreclamate.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorreclamate_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorreclamate_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
@@ -2080,6 +2182,7 @@ Total assets recorded: **5459**
 | `icexuick_133/cursorsettarget_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorsettarget_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorsettarget_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
+| `icexuick_133/cursortime_0.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
 | `icexuick_133/cursorunload.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorunload_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorunload_10.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
@@ -2248,11 +2351,19 @@ Total assets recorded: **5459**
 | `icexuick_133/cursorwait_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorwait_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorwait_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
+| `icexuick_133/license.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-08-28 |
+| `icexuick_133/uimove.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_133/uimove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_133/uiresized1.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_133/uiresized1_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_133/uiresized2.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_133/uiresized2_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_133/uiresizeh.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_133/uiresizeh_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_133/uiresizev.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_133/uiresizev_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_166/cursorBomb.PNG` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorBomb.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_166/cursorareamex.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursorareamex_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorareamex_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -2348,6 +2459,8 @@ Total assets recorded: **5459**
 | `icexuick_166/cursorattack_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursorattack_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursorattack_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_166/cursorbuildbad_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorbuildgood_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_166/cursorcapture.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursorcapture_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursorcapture_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -2409,6 +2522,7 @@ Total assets recorded: **5459**
 | `icexuick_166/cursorcapture_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursorcapture_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursorcapture_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_166/cursorcentroid_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_166/cursordefend.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursordefend_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursordefend_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -2531,6 +2645,10 @@ Total assets recorded: **5459**
 | `icexuick_166/cursordgun_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursordgun_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursordgun_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_166/cursordwatch.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursordwatch_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursordwatch_1.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursordwatch_2.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_166/cursorfight.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursorfight_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursorfight_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -2592,6 +2710,23 @@ Total assets recorded: **5459**
 | `icexuick_166/cursorfight_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursorfight_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursorfight_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
+| `icexuick_166/cursorgather.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorgather_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorgather_1.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorgather_2.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorgather_3.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorjump.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorjump_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorjump_1.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorjump_10.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorjump_2.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorjump_3.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorjump_4.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorjump_5.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorjump_6.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorjump_7.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorjump_8.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorjump_9.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_166/cursormove.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursormove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_166/cursormove_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
@@ -2715,6 +2850,19 @@ Total assets recorded: **5459**
 | `icexuick_166/cursornormal_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursornormal_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursornormal_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_166/cursornumber.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursornumber_00.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursornumber_01.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursornumber_02.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursornumber_03.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursornumber_04.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursornumber_05.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursornumber_06.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursornumber_07.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursornumber_08.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursornumber_09.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursornumber_10.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursornumber_11.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_166/cursorpatrol.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorpatrol_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorpatrol_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -2834,6 +2982,8 @@ Total assets recorded: **5459**
 | `icexuick_166/cursorpickup_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorpickup_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorpickup_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_166/cursorpurchase.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_166/cursorpurchase_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_166/cursorreclamate.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorreclamate_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorreclamate_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -3200,6 +3350,7 @@ Total assets recorded: **5459**
 | `icexuick_166/cursorsettarget_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorsettarget_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorsettarget_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_166/cursortime_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_166/cursorunload.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorunload_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorunload_10.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -3368,11 +3519,19 @@ Total assets recorded: **5459**
 | `icexuick_166/cursorwait_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorwait_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorwait_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_166/license.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
+| `icexuick_166/uimove.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_166/uimove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_166/uiresized1.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_166/uiresized1_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_166/uiresized2.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_166/uiresized2_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_166/uiresizeh.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_166/uiresizeh_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_166/uiresizev.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_166/uiresizev_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_200/cursorBomb.PNG` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorBomb.txt` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
 | `icexuick_200/cursorareamex.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_200/cursorareamex_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_200/cursorareamex_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -3468,6 +3627,8 @@ Total assets recorded: **5459**
 | `icexuick_200/cursorattack_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorattack_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorattack_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
+| `icexuick_200/cursorbuildbad_0.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorbuildgood_0.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
 | `icexuick_200/cursorcapture.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorcapture_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorcapture_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
@@ -3529,6 +3690,7 @@ Total assets recorded: **5459**
 | `icexuick_200/cursorcapture_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorcapture_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorcapture_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
+| `icexuick_200/cursorcentroid_0.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
 | `icexuick_200/cursordefend.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursordefend_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursordefend_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
@@ -3651,6 +3813,10 @@ Total assets recorded: **5459**
 | `icexuick_200/cursordgun_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursordgun_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursordgun_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
+| `icexuick_200/cursordwatch.txt` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursordwatch_0.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursordwatch_1.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursordwatch_2.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
 | `icexuick_200/cursorfight.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorfight_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorfight_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
@@ -3712,6 +3878,23 @@ Total assets recorded: **5459**
 | `icexuick_200/cursorfight_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorfight_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorfight_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
+| `icexuick_200/cursorgather.txt` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorgather_0.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorgather_1.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorgather_2.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorgather_3.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorjump.txt` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorjump_0.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorjump_1.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorjump_10.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorjump_2.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorjump_3.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorjump_4.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorjump_5.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorjump_6.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorjump_7.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorjump_8.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorjump_9.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
 | `icexuick_200/cursormove.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursormove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursormove_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
@@ -3835,6 +4018,19 @@ Total assets recorded: **5459**
 | `icexuick_200/cursornormal_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursornormal_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursornormal_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
+| `icexuick_200/cursornumber.txt` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursornumber_00.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursornumber_01.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursornumber_02.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursornumber_03.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursornumber_04.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursornumber_05.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursornumber_06.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursornumber_07.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursornumber_08.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursornumber_09.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursornumber_10.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursornumber_11.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
 | `icexuick_200/cursorpatrol.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorpatrol_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorpatrol_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
@@ -3954,6 +4150,8 @@ Total assets recorded: **5459**
 | `icexuick_200/cursorpickup_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorpickup_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorpickup_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
+| `icexuick_200/cursorpurchase.txt` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
+| `icexuick_200/cursorpurchase_0.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
 | `icexuick_200/cursorreclamate.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorreclamate_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorreclamate_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
@@ -4320,6 +4518,7 @@ Total assets recorded: **5459**
 | `icexuick_200/cursorsettarget_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorsettarget_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorsettarget_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
+| `icexuick_200/cursortime_0.png` | `GPL-2.0-or-later` | icexuick | #7 | 2026-08-28 |
 | `icexuick_200/cursorunload.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorunload_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorunload_10.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
@@ -4488,11 +4687,19 @@ Total assets recorded: **5459**
 | `icexuick_200/cursorwait_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorwait_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorwait_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
+| `icexuick_200/license.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
+| `icexuick_200/uimove.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_200/uimove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_200/uiresized1.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_200/uiresized1_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_200/uiresized2.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_200/uiresized2_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_200/uiresizeh.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_200/uiresizeh_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_200/uiresizev.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_200/uiresizev_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/cursorBomb.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorBomb.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_75/cursorareamex.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorareamex_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorareamex_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -4558,6 +4765,8 @@ Total assets recorded: **5459**
 | `icexuick_75/cursorattack_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorattack_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorattack_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/cursorbuildbad_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorbuildgood_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_75/cursorcapture.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorcapture_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorcapture_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -4619,6 +4828,7 @@ Total assets recorded: **5459**
 | `icexuick_75/cursorcapture_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorcapture_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorcapture_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/cursorcentroid_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_75/cursordefend.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursordefend_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursordefend_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -4741,6 +4951,10 @@ Total assets recorded: **5459**
 | `icexuick_75/cursordgun_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursordgun_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursordgun_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/cursordwatch.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursordwatch_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursordwatch_1.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursordwatch_2.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_75/cursorfight.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorfight_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorfight_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -4772,6 +4986,23 @@ Total assets recorded: **5459**
 | `icexuick_75/cursorfight_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorfight_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorfight_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/cursorgather.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorgather_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorgather_1.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorgather_2.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorgather_3.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorjump.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorjump_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorjump_1.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorjump_10.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorjump_2.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorjump_3.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorjump_4.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorjump_5.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorjump_6.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorjump_7.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorjump_8.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorjump_9.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_75/cursormove.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursormove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursormove_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -4865,6 +5096,19 @@ Total assets recorded: **5459**
 | `icexuick_75/cursornormal_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursornormal_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursornormal_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/cursornumber.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursornumber_00.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursornumber_01.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursornumber_02.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursornumber_03.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursornumber_04.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursornumber_05.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursornumber_06.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursornumber_07.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursornumber_08.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursornumber_09.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursornumber_10.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursornumber_11.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_75/cursorpatrol.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorpatrol_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorpatrol_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -4984,6 +5228,8 @@ Total assets recorded: **5459**
 | `icexuick_75/cursorpickup_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorpickup_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorpickup_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/cursorpurchase.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorpurchase_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_75/cursorreclamate.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorreclamate_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorreclamate_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -5106,6 +5352,12 @@ Total assets recorded: **5459**
 | `icexuick_75/cursorrepair_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorrepair_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorrepair_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/cursorrestore.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorrestore_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorrestore_1.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorrestore_2.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorrestore_3.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `icexuick_75/cursorrestore_4.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_75/cursorrevive.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorrevive_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorrevive_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -5289,6 +5541,7 @@ Total assets recorded: **5459**
 | `icexuick_75/cursorsettarget_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorsettarget_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorsettarget_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/cursortime_0.png` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_75/cursorunload.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorunload_1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorunload_10.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -5457,11 +5710,18 @@ Total assets recorded: **5459**
 | `icexuick_75/cursorwait_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorwait_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorwait_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/license.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
+| `icexuick_75/uimove.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_75/uimove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/uiresized1.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_75/uiresized1_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/uiresized2.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_75/uiresized2_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/uiresizeh.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_75/uiresizeh_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icexuick_75/uiresizev.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_75/uiresizev_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `license.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `uimove_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
 | `uiresized1_0.bmp` | `GPL-2.0-or-later` | PtaQ | manual-audit | 2026-06-01 |
 | `uiresized2_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |

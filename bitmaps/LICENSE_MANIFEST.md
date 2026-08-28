@@ -4,10 +4,11 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `bitmaps/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **238**
+Total assets recorded: **239**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
+| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-08-28 |
 | `Other/Burst.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `Other/Foam.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `atmos/barmist.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |

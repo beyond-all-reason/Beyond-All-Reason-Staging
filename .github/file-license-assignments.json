@@ -1,5 +1,40 @@
 [
   {
+    "file": "anims/LICENSE_MANIFEST.md",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "BAR CLA Bot",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursorattack_0.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursorcapture_0.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursordefend_0.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Floris",
     "date": "2026-06-01T13:58:42Z",
     "file": "anims/cursordgun_0.bmp",
@@ -16,11 +51,73 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/cursormove_0.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursornormal.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Floris",
     "date": "2026-06-01T13:58:42Z",
     "file": "anims/cursornormal_0.png",
     "license": "GPL-2.0-or-later",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursorpatrol_0.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursorpickup_0.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursorreclamate_0.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursorrepair_0.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursorrevive_0.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
     "source": "manual-audit"
   },
   {
@@ -32,11 +129,45 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/cursorsettarget_0.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Bluestone",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/cursorunload_0.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Floris",
     "date": "2026-06-01T13:58:42Z",
     "file": "anims/cursorwait_0.bmp",
     "license": "GPL-2.0-or-later",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorBomb.PNG",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorBomb.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -800,6 +931,22 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_100/cursorbuildbad_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorbuildgood_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-26T19:43:58Z",
     "file": "anims/icexuick_100/cursorcapture.txt",
@@ -1285,6 +1432,14 @@
     "file": "anims/icexuick_100/cursorcapture_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "6",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorcentroid_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -2264,6 +2419,38 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_100/cursordwatch.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursordwatch_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursordwatch_1.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursordwatch_2.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-26T19:43:58Z",
     "file": "anims/icexuick_100/cursorfight.txt",
@@ -2749,6 +2936,142 @@
     "file": "anims/icexuick_100/cursorfight_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorgather.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorgather_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorgather_1.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorgather_2.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorgather_3.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorjump.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorjump_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorjump_1.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorjump_10.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorjump_2.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorjump_3.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorjump_4.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorjump_5.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorjump_6.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorjump_7.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorjump_8.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorjump_9.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -3736,6 +4059,110 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_100/cursornumber.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursornumber_00.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursornumber_01.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursornumber_02.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursornumber_03.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursornumber_04.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursornumber_05.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursornumber_06.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursornumber_07.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursornumber_08.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursornumber_09.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursornumber_10.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursornumber_11.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-26T19:43:58Z",
     "file": "anims/icexuick_100/cursorpatrol.txt",
@@ -4685,6 +5112,22 @@
     "file": "anims/icexuick_100/cursorpickup_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorpurchase.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/cursorpurchase_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -7616,6 +8059,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_100/cursortime_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-26T20:37:52Z",
     "file": "anims/icexuick_100/cursorunload.txt",
@@ -8568,6 +9019,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_100/cursorupgmex_63.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-26T20:37:52Z",
     "file": "anims/icexuick_100/cursorupgmex_7.png",
@@ -8961,11 +9420,27 @@
     "status": "awaiting_license"
   },
   {
+    "file": "anims/icexuick_100/uimove.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T21:00:18Z",
     "file": "anims/icexuick_100/uimove_0.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/uiresized1.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -8977,11 +9452,27 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_100/uiresized2.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T21:00:18Z",
     "file": "anims/icexuick_100/uiresized2_0.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_100/uiresizeh.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -8993,11 +9484,35 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_100/uiresizev.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T21:00:18Z",
     "file": "anims/icexuick_100/uiresizev_0.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorBomb.PNG",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorBomb.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -9761,6 +10276,22 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_133/cursorbuildbad_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorbuildgood_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-26T20:37:52Z",
     "file": "anims/icexuick_133/cursorcapture.txt",
@@ -10246,6 +10777,14 @@
     "file": "anims/icexuick_133/cursorcapture_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "7",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorcentroid_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -11225,6 +11764,38 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_133/cursordwatch.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursordwatch_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursordwatch_1.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursordwatch_2.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-26T20:37:52Z",
     "file": "anims/icexuick_133/cursorfight.txt",
@@ -11710,6 +12281,142 @@
     "file": "anims/icexuick_133/cursorfight_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "7",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorgather.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorgather_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorgather_1.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorgather_2.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorgather_3.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorjump.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorjump_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorjump_1.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorjump_10.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorjump_2.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorjump_3.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorjump_4.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorjump_5.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorjump_6.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorjump_7.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorjump_8.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorjump_9.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -12697,6 +13404,110 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_133/cursornumber.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursornumber_00.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursornumber_01.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursornumber_02.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursornumber_03.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursornumber_04.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursornumber_05.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursornumber_06.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursornumber_07.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursornumber_08.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursornumber_09.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursornumber_10.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursornumber_11.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-26T20:40:11Z",
     "file": "anims/icexuick_133/cursorpatrol.txt",
@@ -13646,6 +14457,22 @@
     "file": "anims/icexuick_133/cursorpickup_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "7",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorpurchase.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/cursorpurchase_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -16577,6 +17404,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_133/cursortime_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-26T20:40:11Z",
     "file": "anims/icexuick_133/cursorunload.txt",
@@ -17921,11 +18756,35 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_133/license.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/uimove.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T21:00:18Z",
     "file": "anims/icexuick_133/uimove_0.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/uiresized1.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -17937,11 +18796,27 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_133/uiresized2.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T21:00:18Z",
     "file": "anims/icexuick_133/uiresized2_0.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_133/uiresizeh.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -17953,11 +18828,35 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_133/uiresizev.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T21:00:18Z",
     "file": "anims/icexuick_133/uiresizev_0.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorBomb.PNG",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorBomb.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -18721,6 +19620,22 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_166/cursorbuildbad_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorbuildgood_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-26T20:40:11Z",
     "file": "anims/icexuick_166/cursorcapture.txt",
@@ -19206,6 +20121,14 @@
     "file": "anims/icexuick_166/cursorcapture_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorcentroid_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -20185,6 +21108,38 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_166/cursordwatch.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursordwatch_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursordwatch_1.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursordwatch_2.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-26T20:40:11Z",
     "file": "anims/icexuick_166/cursorfight.txt",
@@ -20670,6 +21625,142 @@
     "file": "anims/icexuick_166/cursorfight_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorgather.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorgather_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorgather_1.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorgather_2.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorgather_3.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorjump.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorjump_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorjump_1.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorjump_10.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorjump_2.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorjump_3.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorjump_4.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorjump_5.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorjump_6.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorjump_7.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorjump_8.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorjump_9.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -21657,6 +22748,110 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_166/cursornumber.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursornumber_00.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursornumber_01.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursornumber_02.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursornumber_03.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursornumber_04.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursornumber_05.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursornumber_06.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursornumber_07.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursornumber_08.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursornumber_09.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursornumber_10.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursornumber_11.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T15:48:54Z",
     "file": "anims/icexuick_166/cursorpatrol.txt",
@@ -22606,6 +23801,22 @@
     "file": "anims/icexuick_166/cursorpickup_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorpurchase.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/cursorpurchase_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -25537,6 +26748,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_166/cursortime_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T15:48:54Z",
     "file": "anims/icexuick_166/cursorunload.txt",
@@ -26881,11 +28100,35 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_166/license.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/uimove.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T21:00:18Z",
     "file": "anims/icexuick_166/uimove_0.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/uiresized1.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
     "source": "manual-audit"
   },
   {
@@ -26897,11 +28140,27 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_166/uiresized2.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T21:00:18Z",
     "file": "anims/icexuick_166/uiresized2_0.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_166/uiresizeh.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
     "source": "manual-audit"
   },
   {
@@ -26913,11 +28172,35 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_166/uiresizev.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T21:00:18Z",
     "file": "anims/icexuick_166/uiresizev_0.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorBomb.PNG",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorBomb.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
     "source": "manual-audit"
   },
   {
@@ -27681,6 +28964,22 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_200/cursorbuildbad_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorbuildgood_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T15:48:54Z",
     "file": "anims/icexuick_200/cursorcapture.txt",
@@ -28166,6 +29465,14 @@
     "file": "anims/icexuick_200/cursorcapture_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "7",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorcentroid_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
     "source": "manual-audit"
   },
   {
@@ -29145,6 +30452,38 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_200/cursordwatch.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursordwatch_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursordwatch_1.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursordwatch_2.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T15:48:54Z",
     "file": "anims/icexuick_200/cursorfight.txt",
@@ -29630,6 +30969,142 @@
     "file": "anims/icexuick_200/cursorfight_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "7",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorgather.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorgather_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorgather_1.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorgather_2.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorgather_3.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorjump.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorjump_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorjump_1.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorjump_10.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorjump_2.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorjump_3.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorjump_4.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorjump_5.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorjump_6.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorjump_7.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorjump_8.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorjump_9.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
     "source": "manual-audit"
   },
   {
@@ -30617,6 +32092,110 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_200/cursornumber.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursornumber_00.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursornumber_01.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursornumber_02.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursornumber_03.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursornumber_04.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursornumber_05.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursornumber_06.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursornumber_07.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursornumber_08.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursornumber_09.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursornumber_10.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursornumber_11.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T15:48:54Z",
     "file": "anims/icexuick_200/cursorpatrol.txt",
@@ -31566,6 +33145,22 @@
     "file": "anims/icexuick_200/cursorpickup_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "7",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorpurchase.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/cursorpurchase_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
     "source": "manual-audit"
   },
   {
@@ -34497,6 +36092,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_200/cursortime_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "7",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T15:48:54Z",
     "file": "anims/icexuick_200/cursorunload.txt",
@@ -35841,11 +37444,35 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_200/license.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/uimove.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T21:00:18Z",
     "file": "anims/icexuick_200/uimove_0.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/uiresized1.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -35857,11 +37484,27 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_200/uiresized2.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T21:00:18Z",
     "file": "anims/icexuick_200/uiresized2_0.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_200/uiresizeh.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -35873,11 +37516,35 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_200/uiresizev.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T21:00:18Z",
     "file": "anims/icexuick_200/uiresizev_0.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorBomb.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorBomb.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
     "source": "manual-audit"
   },
   {
@@ -36401,6 +38068,22 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_75/cursorbuildbad_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorbuildgood_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T15:48:54Z",
     "file": "anims/icexuick_75/cursorcapture.txt",
@@ -36886,6 +38569,14 @@
     "file": "anims/icexuick_75/cursorcapture_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorcentroid_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
     "source": "manual-audit"
   },
   {
@@ -37865,6 +39556,38 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_75/cursordwatch.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursordwatch_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursordwatch_1.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursordwatch_2.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T15:48:54Z",
     "file": "anims/icexuick_75/cursorfight.txt",
@@ -38110,6 +39833,142 @@
     "file": "anims/icexuick_75/cursorfight_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorgather.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorgather_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorgather_1.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorgather_2.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorgather_3.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorjump.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorjump_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorjump_1.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorjump_10.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorjump_2.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorjump_3.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorjump_4.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorjump_5.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorjump_6.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorjump_7.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorjump_8.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorjump_9.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
     "source": "manual-audit"
   },
   {
@@ -38854,6 +40713,110 @@
     "file": "anims/icexuick_75/cursornormal_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursornumber.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursornumber_00.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursornumber_01.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursornumber_02.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursornumber_03.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursornumber_04.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursornumber_05.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursornumber_06.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursornumber_07.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursornumber_08.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursornumber_09.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursornumber_10.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursornumber_11.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
     "source": "manual-audit"
   },
   {
@@ -39806,6 +41769,22 @@
     "file": "anims/icexuick_75/cursorpickup_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorpurchase.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorpurchase_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
     "source": "manual-audit"
   },
   {
@@ -40782,6 +42761,54 @@
     "file": "anims/icexuick_75/cursorrepair_9.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorrestore.txt",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorrestore_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorrestore_1.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorrestore_2.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorrestore_3.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/cursorrestore_4.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
     "source": "manual-audit"
   },
   {
@@ -42249,6 +44276,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_75/cursortime_0.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:58:04Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T15:48:54Z",
     "file": "anims/icexuick_75/cursorunload.txt",
@@ -43593,11 +45628,35 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_75/license.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/uimove.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T21:00:18Z",
     "file": "anims/icexuick_75/uimove_0.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/uiresized1.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -43609,11 +45668,27 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_75/uiresized2.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T21:00:18Z",
     "file": "anims/icexuick_75/uiresized2_0.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/icexuick_75/uiresizeh.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
     "source": "manual-audit"
   },
   {
@@ -43625,11 +45700,27 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_75/uiresizev.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:59:08Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T21:00:18Z",
     "file": "anims/icexuick_75/uiresizev_0.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "anims/license.txt",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:23:48Z",
     "source": "manual-audit"
   },
   {
@@ -43670,6 +45761,14 @@
     "file": "anims/uiresizev_0.bmp",
     "license": "GPL-2.0-or-later",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/LICENSE_MANIFEST.md",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "BAR CLA Bot",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:56:00Z",
     "source": "manual-audit"
   },
   {
