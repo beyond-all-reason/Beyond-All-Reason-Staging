@@ -109,6 +109,28 @@
     ]
   },
   {
+    "file": "bitmaps/projectiletextures/muzzleside.tga",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-08-28",
+        "text": "Needs Check for tainted original"
+      }
+    ]
+  },
+  {
+    "file": "bitmaps/projectiletextures/muzzlesideflipped.tga",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-08-28",
+        "text": "Needs check for tainted texture (probably from Forboding Angel)"
+      }
+    ]
+  },
+  {
     "file": "bitmaps/projectiletextures/new_dirta.png",
     "flag": "",
     "comments": [

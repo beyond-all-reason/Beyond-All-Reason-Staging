@@ -43938,6 +43938,24 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/default/flame.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/groundflash.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T15:57:59Z",
     "file": "bitmaps/default/groundflashwhite.tga",
@@ -44022,6 +44040,14 @@
     "file": "bitmaps/gpl/fire.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/gpl/flame.tga",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
     "source": "manual-audit"
   },
   {
@@ -44275,6 +44301,60 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/pd/bloodblast.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/pd/bloodblastwhite.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/pd/blooddrop.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/pd/blooddropwhite.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/pd/bloodsplat.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/pd/lightning.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T16:00:55Z",
     "file": "bitmaps/projectiletextures/1InstaHeat1Shock1.tga",
@@ -44299,6 +44379,24 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/projectiletextures/bigexplosmoke-raptors.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/bigexplosmoke.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T19:29:50Z",
     "file": "bitmaps/projectiletextures/blastwave.tga",
@@ -44307,11 +44405,47 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/projectiletextures/blueexplo.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/bluenovaexplo.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/brightblueexplo.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T19:29:50Z",
     "file": "bitmaps/projectiletextures/bubbletexture.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/circularthingy.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
     "source": "manual-audit"
   },
   {
@@ -44363,6 +44497,24 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/projectiletextures/explo2.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Fx-Doo",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/explofade.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T19:34:40Z",
     "file": "bitmaps/projectiletextures/exploflare.tga",
@@ -44371,11 +44523,65 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/projectiletextures/explosionwave.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T19:34:40Z",
     "file": "bitmaps/projectiletextures/explowater.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/fireball.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/firenovaexplo.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/flame.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/flare-raptors.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/flare.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
     "source": "manual-audit"
   },
   {
@@ -44395,11 +44601,47 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/projectiletextures/flash1.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/flashside1.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/flashside2.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T19:34:40Z",
     "file": "bitmaps/projectiletextures/flashside3.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/fragment.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
     "source": "manual-audit"
   },
   {
@@ -44427,6 +44669,41 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/projectiletextures/graysmoke.tga",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:46:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/greennovaexplo.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:48:23Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/gunshot.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:48:23Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/gunshotglow.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:48:23Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T20:00:05Z",
     "file": "bitmaps/projectiletextures/gunshotxl.tga",
@@ -44443,11 +44720,83 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/projectiletextures/heal.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:48:23Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/heatcloud.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:48:23Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/largebeam.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:48:23Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/largelaserfalloff.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:48:23Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/laser.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:48:23Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/laserend.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:48:23Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/laserfalloff.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:48:23Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T20:00:05Z",
     "file": "bitmaps/projectiletextures/lightb.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/lightbw.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:48:23Z",
     "source": "manual-audit"
   },
   {
@@ -44467,11 +44816,45 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/projectiletextures/longshot.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:48:23Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T20:00:05Z",
     "file": "bitmaps/projectiletextures/megaparticle2.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/muzzlefront.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:48:23Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/muzzleside.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:49:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/muzzlesideflipped.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:51:05Z",
     "source": "manual-audit"
   },
   {
@@ -44515,6 +44898,42 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/projectiletextures/orangenovaexplo.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:53:37Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/plasmaball.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:53:37Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/purpleexplo.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:53:37Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/purplenovaexplo.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:53:37Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T20:05:04Z",
     "file": "bitmaps/projectiletextures/railguntrail.tga",
@@ -44523,11 +44942,119 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/projectiletextures/randdots.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:53:37Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/randomdots-raptors.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:53:37Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/randomdots.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:53:37Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/shard1.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:53:37Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/shard2.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:53:37Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/shard3.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:53:37Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T20:05:04Z",
     "file": "bitmaps/projectiletextures/shockwave.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/shot-trail.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "3649",
+    "date": "2026-08-28T11:53:37Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/shot.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:54:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/shot2.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:54:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/shot3.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:54:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/shotgunflare.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:54:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/shotgunside.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:54:59Z",
     "source": "manual-audit"
   },
   {
@@ -44552,6 +45079,33 @@
     "file": "bitmaps/projectiletextures/smoke-ice-anim.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/smoke-raptors.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:54:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/smoke.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:54:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/smoketrail.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:54:59Z",
     "source": "manual-audit"
   },
   {
@@ -44664,6 +45218,24 @@
     "file": "bitmaps/projectiletextures/waterrush.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/wave.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:54:59Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/whitelightb.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:54:59Z",
     "source": "manual-audit"
   },
   {
