@@ -47754,6 +47754,104 @@
     "source": "manual-audit"
   },
   {
+    "file": "fonts/Exo2-Regular.otf",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "fonts/Exo2-SemiBold.otf",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "fonts/OFL-Poppins.txt",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "loveridge",
+    "pr": "3977",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "fonts/Poppins-Medium.otf",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "fonts/Poppins-Regular.otf",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "fonts/exo2/Exo2-Bold.ttf",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "loveridge",
+    "pr": "3977",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "fonts/exo2/Exo2-BoldItalic.ttf",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "loveridge",
+    "pr": "3977",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "fonts/exo2/Exo2-Italic.ttf",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "loveridge",
+    "pr": "3977",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "fonts/exo2/Exo2-Regular.ttf",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "loveridge",
+    "pr": "3977",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "fonts/exo2/OFL.txt",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "loveridge",
+    "pr": "3977",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "icons/LICENSE_MANIFEST.md",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "BAR CLA Bot",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T20:11:57Z",
     "file": "icons/aa.png",
@@ -47762,11 +47860,29 @@
     "source": "manual-audit"
   },
   {
+    "file": "icons/aa_flak_t15.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies7",
+    "pr": "2999",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T20:11:57Z",
     "file": "icons/aa_flak_t2.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "icons/aa_longrange_railgun_t2.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies7",
+    "pr": "3056",
+    "date": "2026-08-28T12:28:31Z",
     "source": "manual-audit"
   },
   {
@@ -47943,6 +48059,24 @@
     "file": "icons/air_sea.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "icons/air_t15_carrier.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies7",
+    "pr": "6423",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "icons/air_t15_impulse.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies7",
+    "pr": "6423",
+    "date": "2026-08-28T12:28:31Z",
     "source": "manual-audit"
   },
   {
@@ -53975,6 +54109,150 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "luaui/sounds/buildbar_add.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/sounds/buildbar_click.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/sounds/buildbar_hover.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/sounds/buildbar_rem.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/sounds/buildbar_waypoint.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/sounds/button.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/sounds/click.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/sounds/click2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/sounds/ding.ogg",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/sounds/hover.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/sounds/pushbutton.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/sounds/switchoff.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/sounds/switchon.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/sounds/tock.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/sounds/volume_osd/pop.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Decay",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/sounds/zap.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-08-28T12:28:31Z",
+    "source": "manual-audit"
   },
   {
     "file": "music/original/events/aprilfools/loading/Leon Devereux - Surveillance Protocol ( SNIKI MANUVA Remix).mp3",

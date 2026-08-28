@@ -4,12 +4,15 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `icons/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **718**
+Total assets recorded: **723**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
+| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-08-28 |
 | `aa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `aa_flak_t15.png` | _awaiting license_ | ZephyrSkies7 | #2999 | 2026-08-28 |
 | `aa_flak_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `aa_longrange_railgun_t2.png` | _awaiting license_ | ZephyrSkies7 | #3056 | 2026-08-28 |
 | `aa_longrange_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `aa_t15.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `aa_t1_long.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -32,6 +35,8 @@ Total assets recorded: **718**
 | `air_los.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `air_los_sea.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `air_sea.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `air_t15_carrier.png` | _awaiting license_ | ZephyrSkies7 | #6423 | 2026-08-28 |
+| `air_t15_impulse.png` | _awaiting license_ | ZephyrSkies7 | #6423 | 2026-08-28 |
 | `air_t1_hover_sea.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `air_t1_hover_sea_cannon.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `air_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
