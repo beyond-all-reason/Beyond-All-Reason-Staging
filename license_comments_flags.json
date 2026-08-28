@@ -76,6 +76,61 @@
     ]
   },
   {
+    "file": "bitmaps/projectiletextures/flashside3.tga",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-08-28",
+        "text": "Needs double check if it uses old/free/opensource material or not."
+      }
+    ]
+  },
+  {
+    "file": "bitmaps/projectiletextures/lightb.tga",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-08-28",
+        "text": "Needs double check if it's clear of tainted artwork"
+      }
+    ]
+  },
+  {
+    "file": "bitmaps/projectiletextures/megaparticle2.tga",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-08-28",
+        "text": "Needs double check if it's clear of tainted artwork"
+      }
+    ]
+  },
+  {
+    "file": "bitmaps/projectiletextures/new_dirta.png",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-08-28",
+        "text": "Needs double check if it's clear of tainted artwork"
+      }
+    ]
+  },
+  {
+    "file": "bitmaps/projectiletextures/new_dirtb.png",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-08-28",
+        "text": "Needs double check if it's clear of tainted artwork"
+      }
+    ]
+  },
+  {
     "file": "fonts/unlisted/microgrammadbold.ttf",
     "flag": "unused",
     "comments": []

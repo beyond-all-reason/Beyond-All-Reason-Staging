@@ -600,6 +600,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "anims/icexuick_100/cursorattack_40.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-26T19:43:58Z",
     "file": "anims/icexuick_100/cursorattack_41.png",
@@ -43665,6 +43673,24 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/Other/Burst.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/Other/Foam.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-26T19:43:58Z",
     "file": "bitmaps/atmos/barmist.tga",
@@ -43801,6 +43827,50 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/cc/dirt.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/cc/purpleexplo.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/cc/uglynovaexplo.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/decals/decal_scar_50.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/BARshockwave1.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
+    "pr": "5174",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T15:57:59Z",
     "file": "bitmaps/default/centersplatsh_white.tga",
@@ -43841,19 +43911,30 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "icexuick",
-    "date": "2026-05-27T15:57:59Z",
-    "file": "bitmaps/default/flame.tga",
-    "license": "LicenseRef-BAR-CLA-1.0",
+    "file": "bitmaps/default/circles.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
     "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
     "source": "manual-audit"
   },
   {
-    "contributor": "icexuick",
-    "date": "2026-05-27T15:57:59Z",
-    "file": "bitmaps/default/groundflash.tga",
-    "license": "LicenseRef-BAR-CLA-1.0",
+    "file": "bitmaps/default/circularthingy.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
     "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/detailtex2.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
     "source": "manual-audit"
   },
   {
@@ -43862,6 +43943,77 @@
     "file": "bitmaps/default/groundflashwhite.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/groundring.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/largelaserfalloff.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/laserend.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/muzzlefront.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/ocean.jpg",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/randdots.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/sakexplo2.tga",
+    "license": "GPL-2.0-or-later",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:31:46Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/default/wake.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
     "source": "manual-audit"
   },
   {
@@ -43902,6 +44054,24 @@
     "file": "bitmaps/gpl/perlin_noise.jpg",
     "license": "GPL-2.0-or-later",
     "pr": "6118",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/gpl/sporetrail.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/gpl/sporetrail_xl.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-08-28T11:30:13Z",
     "source": "manual-audit"
   },
   {
@@ -50657,482 +50827,518 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/Ranks/rank10.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/Ranks/rank7.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/Ranks/rank8.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/Ranks/rank9.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/advplayerslist_mascot/floriscat_body.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/advplayerslist_mascot/floriscat_head.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/advplayerslist_mascot/floriscat_headblink.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "teifion",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/advplayerslist_mascot/mrbeans_body.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "teifion",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "teifion",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/advplayerslist_mascot/mrbeans_head.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "teifion",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "teifion",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/advplayerslist_mascot/mrbeans_headblink.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "teifion",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/allycursor.dds",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/barglow-center.png",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/barglow-edge.png",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/commandsfx/glow.dds",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/commandsfx/line.dds",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/ecostats/bar.png",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/ecostats/barbg.png",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/ecostats/barglow-center.png",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/ecostats/barglow-edge.png",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
     "source": "manual-audit"
   },
   {
-    "file": "luaui/images/energy-red.png",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "icexuick",
-    "pr": "manual-audit",
     "date": "2026-06-16T18:24:40Z",
-    "source": "manual-audit"
+    "file": "luaui/images/energy-red.png",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/formationDot.dds",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/forward.dds",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/glow.dds",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/glow2.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "luaui/images/groupicons/weaponsub.png",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "icecuick",
-    "pr": "manual-audit",
     "date": "2026-06-16T18:24:40Z",
-    "source": "manual-audit"
+    "file": "luaui/images/groupicons/weaponsub.png",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/halo.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:24:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/holdfire.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "icexuick",
     "pr": "7585",
-    "date": "2026-06-16T18:24:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/mapmarksfx/glow.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/mapmarksfx/ring.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipActivity.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "6945",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Niobium",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipBlip.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Niobium",
     "pr": "6051",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipCam.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "6649",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipCopy.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "6594",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Niobium",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipExpand.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Niobium",
     "pr": "6748",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Niobium",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipGround.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Niobium",
     "pr": "6051",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipHelp.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "7054",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Niobium",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipMaximize.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Niobium",
     "pr": "6051",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Niobium",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipMinimize.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Niobium",
     "pr": "6051",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Niobium",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipMinus.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Niobium",
     "pr": "6051",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Niobium",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipMove.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Niobium",
     "pr": "6051",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Niobium",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipPlus.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Niobium",
     "pr": "6051",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Niobium",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipShrink.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Niobium",
     "pr": "6748",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Niobium",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipSwitch.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Niobium",
     "pr": "6051",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Niobium",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipT.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Niobium",
     "pr": "6051",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipTV.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "6956",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "luaui/images/pip/PipView.png",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Floris",
+    "date": "2026-06-16T18:15:40Z",
+    "file": "luaui/images/pip/PipView.png",
+    "license": "",
     "pr": "6711",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/raptorpanel.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/raptorpanel.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/returnfire.png",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "icexuick",
     "pr": "7585",
-    "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "luaui/images/skull.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "icexuick",
-    "pr": "manual-audit",
     "date": "2026-06-16T18:15:40Z",
-    "source": "manual-audit"
+    "file": "luaui/images/skull.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/snow.dds",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:15:40Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/solid.png",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:15:40Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/stripes.png",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:15:40Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/vignette.dds",
     "license": "CC-BY-SA-4.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-06-16T18:15:40Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/wind-blades.png",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
+  },
+  {
+    "file": "music/original/events/aprilfools/loading/Leon Devereux - Surveillance Protocol ( SNIKI MANUVA Remix).mp3",
     "status": "awaiting_license",
     "license": "",
-    "contributor": "icexuick",
-    "pr": "manual-audit",
-    "date": "2026-06-16T18:15:40Z",
+    "contributor": "Leon Devereux",
+    "pr": "7270",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "music/original/events/aprilfools/loading/Leon Devereux - Surveillance Protocol (Techno Remix).ogg",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Leon Devereux",
+    "pr": "4515",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "music/original/events/aprilfools/peace/Leon Devereux - Scan The Horizon ( SerendyPetit Remix).ogg",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Leon Devereux",
+    "pr": "4664",
+    "date": "2026-08-28T11:30:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "music/original/events/halloween/loading/Leon Devereux - Surfacefall ( Luciferin Remix).mp3",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Leon Devereux",
+    "pr": "6009",
+    "date": "2026-08-28T11:30:13Z",
     "source": "manual-audit"
   },
   {

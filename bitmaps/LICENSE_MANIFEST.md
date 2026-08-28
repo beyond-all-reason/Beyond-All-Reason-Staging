@@ -4,10 +4,12 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `bitmaps/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **156**
+Total assets recorded: **174**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
+| `Other/Burst.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `Other/Foam.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `atmos/barmist.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `atmos/cloudmist.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `atmos/cloudpuff.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-26 |
@@ -25,19 +27,35 @@ Total assets recorded: **156**
 | `atmos/smoke_puff_red.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2 | 2026-05-27 |
 | `atmos/smoke_puff_red.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `atmos/waterfoam.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `cc/dirt.png` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
+| `cc/purpleexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `cc/uglynovaexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `decals/decal_scar_50.tga` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
+| `default/BARshockwave1.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5174 | 2026-08-28 |
 | `default/centersplatsh_white.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `default/circlefx0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `default/circlefx1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `default/circlefx2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `default/circlefx3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `default/flame.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `default/groundflash.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `default/circles.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `default/circularthingy.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `default/detailtex2.bmp` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `default/groundflashwhite.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `default/groundring.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `default/largelaserfalloff.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `default/laserend.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `default/muzzlefront.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `default/ocean.jpg` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `default/randdots.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `default/sakexplo2.tga` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
+| `default/wake.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `gpl/fire.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `gpl/flame_alt.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `gpl/jet.bmp` | `GPL-2.0-or-later` | Floris | #6118 | 2026-06-01 |
 | `gpl/jet2.bmp` | `GPL-2.0-or-later` | Floris | #6118 | 2026-06-01 |
 | `gpl/perlin_noise.jpg` | `GPL-2.0-or-later` | Floris | #6118 | 2026-06-01 |
+| `gpl/sporetrail.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `gpl/sporetrail_xl.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `gpl/treefire.png` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
 | `graphPaper.bmp` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `loadpictures/armada.jpg` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-01 |
