@@ -4,37 +4,39 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **224**
+Total assets recorded: **448**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
 | `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-08-28 |
-| `Ranks/license.txt` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `Ranks/rank10.png` | _awaiting license_ | icexuick | manual-audit | 2026-06-16 |
+| `Ranks/license.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `Ranks/rank10.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `Ranks/rank11.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
 | `Ranks/rank12.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
 | `Ranks/rank13.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
 | `Ranks/rank14.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
 | `Ranks/rank15.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `Ranks/rank16.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `Ranks/rank16.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `Ranks/rank2.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
 | `Ranks/rank3.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `Ranks/rank4.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `Ranks/rank5.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `Ranks/rank6.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `Ranks/rank7.png` | _awaiting license_ | icexuick | manual-audit | 2026-06-16 |
-| `Ranks/rank8.png` | _awaiting license_ | icexuick | manual-audit | 2026-06-16 |
-| `Ranks/rank9.png` | _awaiting license_ | icexuick | manual-audit | 2026-06-16 |
-| `advplayerslist/ally.dds` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `advplayerslist/armada_default.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `Ranks/rank4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `Ranks/rank5.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `Ranks/rank6.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `Ranks/rank7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `Ranks/rank8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `Ranks/rank9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `advplayerslist/ally.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `advplayerslist/armada_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `advplayerslist/arrow.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/barglow-center.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/barglow-edge.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `advplayerslist/camera.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
 | `advplayerslist/chat.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
-| `advplayerslist/cortex_default.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `advplayerslist/country.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
+| `advplayerslist/cortex_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/cpu.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
 | `advplayerslist/cross.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
 | `advplayerslist/draw.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
-| `advplayerslist/energy.dds` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `advplayerslist/energy.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/eraser.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
 | `advplayerslist/flags/arm.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
 | `advplayerslist/flags/barb.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
@@ -42,51 +44,273 @@ Total assets recorded: **224**
 | `advplayerslist/flags/legion.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
 | `advplayerslist/flags/raptor-red.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
 | `advplayerslist/flags/raptor.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `advplayerslist/id.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/indent.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/indicator.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `advplayerslist/legion_default.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `advplayerslist/metal.dds` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `advplayerslist/low.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/metal.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `advplayerslist/notfirst.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/pencil.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/ping.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `advplayerslist/point.dds` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `advplayerslist/ranks/1.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `advplayerslist/ranks/2.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `advplayerslist/ranks/3.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `advplayerslist/ranks/4.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `advplayerslist/ranks/5.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `advplayerslist/ranks/6.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `advplayerslist/ranks/7.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `advplayerslist/ranks/8.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `advplayerslist/ranks/1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `advplayerslist/ranks/2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `advplayerslist/ranks/3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `advplayerslist/ranks/4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `advplayerslist/ranks/5.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `advplayerslist/ranks/6.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `advplayerslist/ranks/7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `advplayerslist/ranks/8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `advplayerslist/res.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/resbar.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/resbarbg.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/resources.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/separator.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/share.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/side.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/sizedn.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/sizeup.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/take.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/ts.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `advplayerslist/unally.dds` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
 | `advplayerslist/units.dds` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
 | `advplayerslist_mascot/floriscat_body.png` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/floriscat_head.png` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/floriscat_headblink.png` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
+| `advplayerslist_mascot/grumpycat_body.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist_mascot/grumpycat_head.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist_mascot/grumpycat_headblink.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `advplayerslist_mascot/mrbeans_body.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/mrbeans_head.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/mrbeans_headblink.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
+| `advplayerslist_mascot/santahat.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `allycursor.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `backgroundtile.png` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
 | `barglow-center.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `barglow-edge.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `commandsfx/glow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `commandsfx/line.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
-| `decals_gl4/footprints/f_raptor_a.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `decals_gl4/footprints/f_raptor_n.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `decals_gl4/groundScars/F_armbanth_a.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `decals_gl4/groundScars/F_armbanth_n.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `decals_gl4/groundScars/F_corkorg_a.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `decals_gl4/groundScars/F_corkorg_n.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `decals_gl4/groundScars/T_GroundCrack_09_n.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `decals_gl4/groundScars/T_GroundCrack_10_n.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `decals_gl4/groundScars/T_GroundCrack_21_n.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `decals_gl4/groundScars/T_GroundCrack_23_n.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `decals_gl4/groundScars/T_GroundCrack_24_n.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `decals_gl4/groundScars/T_GroundCrack_25_n.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `decals_gl4/groundScars/T_GroundCrack_26_n.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `decals_gl4/groundScars/T_GroundCrack_27_n.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `ecostats/arm_default.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `decals_gl4/decalsgl4_atlas_diffuse.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/decalsgl4_atlas_normal.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprint_generator.tmd` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armack_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armack_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armbanth_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armbanth_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armck_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armck_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armcom_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armcom_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armfboy_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armfboy_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armham_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armham_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armmar_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armmar_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armmav_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armmav_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armraz_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armraz_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armrock_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armrock_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armvang_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armvang_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armwar_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armwar_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armzeus_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_armzeus_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_clamp_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_clamp_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_coramph_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_coramph_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corcan_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corcan_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corcat_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corcat_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corck_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corck_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corcom_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corcom_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corhrk_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corhrk_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corjugg_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corjugg_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corkorg_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corkorg_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_cormando_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_cormando_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corpyro_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corpyro_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corshiva_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corshiva_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corstorm_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corstorm_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corsumo_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corsumo_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corthud_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_corthud_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_raptor_a.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/f_raptor_n.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `decals_gl4/footprints/license.txt` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/F_armbanth_a.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/F_armbanth_n.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/F_corkorg_a.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/F_corkorg_n.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_01_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_01_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_01_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_01_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_01_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_01_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_03_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_03_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_03_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_03_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_03_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_03_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_04_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_04_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_04_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_04_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_04_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_04_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_05_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_05_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_05_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_05_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_05_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_05_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_06_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_06_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_06_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_06_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_06_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_06_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_07_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_07_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_07_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_07_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_07_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_07_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_08_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_08_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_08_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_08_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_08_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_08_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_09_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_09_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_09_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_09_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_09_n.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_09_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_10_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_10_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_10_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_10_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_10_n.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_10_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_11_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_11_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_11_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_11_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_11_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_11_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_12_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_12_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_12_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_12_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_12_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_12_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_13_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_13_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_13_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_13_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_13_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_13_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_14_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_14_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_14_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_14_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_14_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_14_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_15_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_15_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_15_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_15_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_15_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_15_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_16_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_16_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_16_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_16_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_16_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_16_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_17_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_17_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_17_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_17_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_17_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_17_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_18_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_18_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_18_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_18_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_18_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_18_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_19_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_19_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_19_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_19_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_19_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_19_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_20_AO.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_20_ORM.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_20_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_20_h.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_20_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_20_rg.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_21_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_21_n.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_22.tmd` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_22_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_22_n.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_23_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_23_n.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_24_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_24_n.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_25_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_25_n.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_26_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_26_n.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_27_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/T_GroundCrack_27_n.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `decals_gl4/groundScars/license.txt` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/oldScars/scar1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/oldScars/scar2.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/oldScars/scar3.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/oldScars/scar4.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/oldScars/scar5.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/oldScars/scar6.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/testing/T_GroundCrack_00_ORM.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/testing/T_GroundCrack_00_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/testing/T_GroundCrack_00_h.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `decals_gl4/testing/T_GroundCrack_00_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `ecostats/arm_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `ecostats/bar.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `ecostats/barbg.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `ecostats/barglow-center.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `ecostats/barglow-edge.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `ecostats/bordersOff.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `ecostats/chkBoxOff.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `ecostats/chkBoxOn.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `ecostats/cor_default.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `ecostats/cross.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `ecostats/cross_inv.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `ecostats/default.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `ecostats/ecommander.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `ecostats/tll_default.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `enemyspotter.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
 | `energy-red.png` | _awaiting license_ | icexuick | manual-audit | 2026-06-16 |
 | `energy.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
@@ -101,27 +325,27 @@ Total assets recorded: **224**
 | `glow2.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `gradient_alpha_2.png` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
 | `grid3d64rgb.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
-| `groupicons/aa.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `groupicons/antinuke.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `groupicons/builder.png` | _awaiting license_ | Florisicexuick | manual-audit | 2026-08-28 |
-| `groupicons/buildert2.png` | _awaiting license_ | Florisicexuick | manual-audit | 2026-08-28 |
-| `groupicons/buildert3.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `groupicons/buildert4.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `groupicons/emp.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `groupicons/energy.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `groupicons/metal.png` | _awaiting license_ | Florisicexuick | manual-audit | 2026-08-28 |
-| `groupicons/nuke.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `groupicons/sub.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `groupicons/util.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `groupicons/weapon.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `groupicons/weaponaa.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `groupicons/weaponexplo.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `groupicons/weaponsub.png` | _awaiting license_ | icecuick | manual-audit | 2026-06-16 |
+| `groupicons/aa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `groupicons/antinuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `groupicons/builder.png` | `LicenseRef-BAR-CLA-1.0` | Florisicexuick | manual-audit | 2026-08-31 |
+| `groupicons/buildert2.png` | `LicenseRef-BAR-CLA-1.0` | Florisicexuick | manual-audit | 2026-08-31 |
+| `groupicons/buildert3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `groupicons/buildert4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `groupicons/emp.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `groupicons/energy.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `groupicons/metal.png` | `LicenseRef-BAR-CLA-1.0` | Florisicexuick | manual-audit | 2026-08-31 |
+| `groupicons/nuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `groupicons/sub.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `groupicons/util.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `groupicons/weapon.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `groupicons/weaponaa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `groupicons/weaponexplo.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `groupicons/weaponsub.png` | `LicenseRef-BAR-CLA-1.0` | icecuick | manual-audit | 2026-08-31 |
 | `halo.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `healtbars_exo4.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
 | `hexgrid.tga` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
-| `holdfire.png` | _awaiting license_ | icexuick | #7585 | 2026-06-16 |
-| `idleicon/idlecon_000.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `holdfire.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7585 | 2026-08-31 |
+| `idleicon/idlecon_000.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `idleicon/idlecon_001.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `idleicon/idlecon_002.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `idleicon/idlecon_003.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
@@ -181,7 +405,7 @@ Total assets recorded: **224**
 | `idleicon/idlecon_057.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `idleicon/idlecon_058.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `idleicon/idlecon_059.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
-| `info_health.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `info_health.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `keybinds/grid_keys.png` | _awaiting license_ | icexuick | #2934 | 2026-08-28 |
 | `keybinds/grid_keys_ALT.png` | _awaiting license_ | icexuick | #2934 | 2026-08-28 |
 | `keybinds/grid_keys_CTRL.png` | _awaiting license_ | icexuick | #2934 | 2026-08-28 |
@@ -194,7 +418,7 @@ Total assets recorded: **224**
 | `mapmarksfx/ring.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `metal.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
 | `metalold.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
-| `new.dds` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `new.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `nuke.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
 | `pip/PipActivity.png` | _awaiting license_ | Floris | #6945 | 2026-06-16 |
 | `pip/PipBlip.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
@@ -216,19 +440,19 @@ Total assets recorded: **224**
 | `rapt-tileable_v001_small.tga` | _awaiting license_ | icexuick | #3603 | 2026-08-28 |
 | `rapt-tileable_v001_small_alpha.tga` | _awaiting license_ | icexuick | #3603 | 2026-08-28 |
 | `rapt-tileable_v002_small.tga` | _awaiting license_ | icexuick | #3603 | 2026-08-28 |
-| `raptorpanel.png` | _awaiting license_ | icexuick | manual-audit | 2026-06-16 |
-| `raptorpanel.tga` | _awaiting license_ | icexuick | manual-audit | 2026-06-16 |
+| `raptorpanel.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `raptorpanel.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `repeat.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `repeat_old.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `returnfire.png` | _awaiting license_ | icexuick | #7585 | 2026-06-16 |
+| `repeat_old.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `returnfire.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7585 | 2026-08-31 |
 | `scav-tileable_v001-alpha.tga` | _awaiting license_ | icexuick | #3603 | 2026-08-28 |
 | `scav-tileable_v001_small.tga` | _awaiting license_ | icexuick | #3603 | 2026-08-28 |
 | `scav-tileable_v002_small.tga` | _awaiting license_ | icexuick | #3603 | 2026-08-28 |
 | `scavpanel.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `skull.dds` | _awaiting license_ | icexuick | manual-audit | 2026-06-16 |
+| `skull.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `snow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `solid.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `stripes.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `tidal-waves.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
 | `vignette.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
-| `wind-blades.png` | _awaiting license_ | icexuick | manual-audit | 2026-06-16 |
+| `wind-blades.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |

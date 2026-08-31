@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `sounds/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **953**
+Total assets recorded: **986**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -751,6 +751,7 @@ Total assets recorded: **953**
 | `uw/xplodep1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `uw/xplodep2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `uw/xplodep3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `voice-soundeffects/AllyRequest.wav` | _awaiting license_ | msem-me | #6236 | 2026-08-31 |
 | `voice-soundeffects/CommanderHeavilyDamaged.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6101 | 2026-05-27 |
 | `voice-soundeffects/CommanderUnderAttack.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6101 | 2026-05-27 |
 | `voice-soundeffects/EnemyComDead.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6111 | 2026-05-27 |
@@ -815,15 +816,19 @@ Total assets recorded: **953**
 | `weapons/cannon2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/cannon2old.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/cannon3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/comgate.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `weapons/corban_a.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/corban_b.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/corlevlr.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/corlevlrhit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/corraid.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/disigun1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `weapons/emgpuls1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `weapons/fastemg.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/fastermg.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/fireburnshort.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/flakfire.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/flakhit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `weapons/flakhit2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/flamhit1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/flamhvy1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -843,8 +848,16 @@ Total assets recorded: **953**
 | `weapons/heatray3burn.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/heatray3lp.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/heatray3start.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/heatray4burn.wav` | _awaiting license_ | ZephyrSkies7 | #4339 | 2026-08-31 |
+| `weapons/heavyrailgun.wav` | _awaiting license_ | Arbsquid | #3739 | 2026-08-31 |
+| `weapons/heliosfire.wav` | _awaiting license_ | Arbsquid | #3295 | 2026-08-31 |
+| `weapons/impact.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `weapons/junofir2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
+| `weapons/junohit2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `weapons/kroggie2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/kroggie2_OLD.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/krogun1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `weapons/lancefire.wav` | _awaiting license_ | Arbsquid | #3295 | 2026-08-31 |
 | `weapons/largegun.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/laserroar.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/lasfirerb.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -864,22 +877,30 @@ Total assets recorded: **953**
 | `weapons/lasrfir6.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/lasrhit1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/lasrhit2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/lasrhvy2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `weapons/lasrhvy3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `weapons/lasrlit3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/lasrlit3scav.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/lasrmas2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/launch.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/launch1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/launch1_OLD.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/lghthvy1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `weapons/lghthvy2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
 | `weapons/lrpcshot.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
 | `weapons/lrpcshot2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
 | `weapons/lrpcshot2alt.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
 | `weapons/lrpcshot3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
+| `weapons/mavgun2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `weapons/mavgun3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/mavgun4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/mavgun5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/metalhit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/mgun1.wav` | _awaiting license_ | Tharsy | #5204 | 2026-08-31 |
+| `weapons/mgun2.wav` | _awaiting license_ | Tharsy | #5204 | 2026-08-31 |
 | `weapons/mine1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/ministarfallchargup.wav` | _awaiting license_ | ZephyrSkies7 | #6525 | 2026-08-31 |
+| `weapons/misicbm1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `weapons/mismed1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/mismed1emp.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/mismed1emp1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -892,6 +913,7 @@ Total assets recorded: **953**
 | `weapons/nukelaunch.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/nukelaunchalarm.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/nukewater.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/packohit.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `weapons/packolau.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/railgun.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/railgun2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -918,6 +940,8 @@ Total assets recorded: **953**
 | `weapons/rocklit2_OLD.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/rocklit3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/rocksalvo.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/sabotfire.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `weapons/sabothit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `weapons/sizzle.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/sizzlexs.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/sniper2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -928,10 +952,18 @@ Total assets recorded: **953**
 | `weapons/splsmed.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/splssml.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/spore_explo.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/starfallchargup.wav` | _awaiting license_ | ZephyrSkies7 | #6510 | 2026-08-31 |
 | `weapons/stormtl2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/t1arthit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/tawf113a.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `weapons/tawf113b.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `weapons/tgunshipfire.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `weapons/tgunshipfire_OLD.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/tonukeex.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `weapons/torpedo1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `weapons/treefall.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/triotfire.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `weapons/uwlasrfir1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `weapons/xplodragconcrete.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/xplodragmetal.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/xplodragwater.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -940,6 +972,7 @@ Total assets recorded: **953**
 | `weapons/xploelc3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
 | `weapons/xplolrg1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/xplolrg2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/xplolrg3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `weapons/xplolrg4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/xplolrg5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/xplolrg7.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

@@ -8,13 +8,13 @@ Total assets recorded: **10**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
-| `armart.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
-| `armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
-| `armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
-| `critters/critter_crab.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `lootboxes/lootdrop.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `other/meteor.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `other/nuketest.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `scavengers/armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
-| `scavengers/armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
-| `scavengers/scavmist.dds` | `LicenseRef-BAR-CLA-1.0` | SethDGamre | manual-audit | 2026-05-27 |
+| `armart.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-08-31 |
+| `armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-08-31 |
+| `critters/critter_crab.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `lootboxes/lootdrop.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `other/meteor.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `other/nuketest.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `scavengers/armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-08-31 |
+| `scavengers/armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-08-31 |
+| `scavengers/scavmist.dds` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
