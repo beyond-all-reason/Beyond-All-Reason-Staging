@@ -4,12 +4,15 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `fonts/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **10**
+Total assets recorded: **20**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
 | `Exo2-Regular.otf` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
 | `Exo2-SemiBold.otf` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
+| `LICENSE_MANIFEST.md` | _awaiting license_ | BAR CLA Bot | manual-audit | 2026-08-31 |
+| `Mesmerize-Bold.ttf` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `Mesmerize-Regular.ttf` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `OFL-Poppins.txt` | _awaiting license_ | loveridge | #3977 | 2026-08-28 |
 | `Poppins-Medium.otf` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
 | `Poppins-Regular.otf` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
@@ -18,3 +21,10 @@ Total assets recorded: **10**
 | `exo2/Exo2-Italic.ttf` | _awaiting license_ | loveridge | #3977 | 2026-08-28 |
 | `exo2/Exo2-Regular.ttf` | _awaiting license_ | loveridge | #3977 | 2026-08-28 |
 | `exo2/OFL.txt` | _awaiting license_ | loveridge | #3977 | 2026-08-28 |
+| `fallbacks/NotoEmoji-VariableFont_wght.ttf` | _awaiting license_ | saurtron | #4102 | 2026-08-31 |
+| `fallbacks/OFL-Noto.txt` | _awaiting license_ | saurtron | #4102 | 2026-08-31 |
+| `fallbacks/SourceHanSans-Regular.ttc` | _awaiting license_ | saurtron | #4102 | 2026-08-31 |
+| `monospaced/SourceCodePro-Medium.otf` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `monospaced/SourceCodePro-Semibold.otf` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `unlisted/Xolonium.otf` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `unlisted/microgrammadbold.ttf` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |

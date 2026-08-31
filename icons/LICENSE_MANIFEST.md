@@ -4,15 +4,15 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `icons/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **723**
+Total assets recorded: **831**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
 | `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-08-28 |
 | `aa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `aa_flak_t15.png` | _awaiting license_ | ZephyrSkies7 | #2999 | 2026-08-28 |
+| `aa_flak_t15.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2999 | 2026-08-31 |
 | `aa_flak_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `aa_longrange_railgun_t2.png` | _awaiting license_ | ZephyrSkies7 | #3056 | 2026-08-28 |
+| `aa_longrange_railgun_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3056 | 2026-08-31 |
 | `aa_longrange_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `aa_t15.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `aa_t1_long.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -35,19 +35,24 @@ Total assets recorded: **723**
 | `air_los.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `air_los_sea.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `air_sea.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `air_t15_carrier.png` | _awaiting license_ | ZephyrSkies7 | #6423 | 2026-08-28 |
-| `air_t15_impulse.png` | _awaiting license_ | ZephyrSkies7 | #6423 | 2026-08-28 |
+| `air_t15_carrier.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6423 | 2026-08-31 |
+| `air_t15_impulse.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6423 | 2026-08-31 |
 | `air_t1_hover_sea.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `air_t1_hover_sea_cannon.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `air_t1_rez.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3872 | 2026-08-31 |
 | `air_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `air_t2_bomber.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `air_t2_bomber_napalm.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `air_t2_dronecarryair.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `air_t2_flame_laserlaser.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5357 | 2026-08-31 |
 | `air_t2_hover.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `air_t2_hover_missile.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `air_t2_laser.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4126 | 2026-08-31 |
+| `air_t2_plasma_mg_fortress.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5357 | 2026-08-31 |
 | `air_t2_radar.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `air_t2_torpbomber.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `air_t2_trans.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `air_t2_transport_shotgun.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5357 | 2026-08-31 |
 | `air_t2_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `air_t3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `air_t3_dronecarryair.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -72,6 +77,7 @@ Total assets recorded: **723**
 | `amphtaa_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `antinuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `antinukemobile.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `antinukevehicle.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3529 | 2026-08-31 |
 | `armanni.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `armbrtha.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `armcom.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -115,11 +121,15 @@ Total assets recorded: **723**
 | `bot_plasma_t1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `bot_radar.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `bot_rocket.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `bot_t15_heat_shot.png` | _awaiting license_ | Tharsy | #4317 | 2026-08-31 |
+| `bot_t15_raid.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3636 | 2026-08-31 |
+| `bot_t15_rocket.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3636 | 2026-08-31 |
 | `bot_t1_big.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `bot_t1_flea.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `bot_t1_raid.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `bot_t1_raid_0.7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `bot_t1_rez.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `bot_t1_skirmish.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7421 | 2026-08-31 |
 | `bot_t1_tinyworker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `bot_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `bot_t2_aa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -149,6 +159,7 @@ Total assets recorded: **723**
 | `corcom.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `corcomboss.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `corcrwt4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `cordemon.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `cordoom.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `corfast_1.3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `corgatreap.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -160,6 +171,7 @@ Total assets recorded: **723**
 | `cormando.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `cormlv_1.0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `corparrow.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `corprinter.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `corpyro_1.15.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `corroach_0.9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `corseal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -169,9 +181,12 @@ Total assets recorded: **723**
 | `corsok_1.8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `corsumo.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `cortermite_1.5.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `corthermite.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `cortorch.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `cortrem_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `def_beamer.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `def_t1_arty.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `def_t1_impulse.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2999 | 2026-08-31 |
 | `def_t2_arty.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `def_t2_cannon.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `def_t2_impulse.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -193,6 +208,12 @@ Total assets recorded: **723**
 | `defence_3_1.95.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `defence_hllllt.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `defence_hllt.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `defence_t15_dronecarry.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3237 | 2026-08-31 |
+| `defence_t15_gauss_impulse.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5927 | 2026-08-31 |
+| `defence_t15_plasma_aoe.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5927 | 2026-08-31 |
+| `defence_t15_rocket.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5927 | 2026-08-31 |
+| `defence_t2_aoe_plasma_laser.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5987 | 2026-08-31 |
+| `defence_t2_shotgun_mg.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5987 | 2026-08-31 |
 | `droppod.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `emp.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `energy.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -209,6 +230,7 @@ Total assets recorded: **723**
 | `factory_air.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `factory_air_sea.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `factory_air_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `factory_air_t3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `factory_amph.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `factory_bot.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `factory_bot_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -221,17 +243,22 @@ Total assets recorded: **723**
 | `factory_vehicle_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `fusion.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `hazardous.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `heavyheatraydrone.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3569 | 2026-08-31 |
 | `hover.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `hover_aa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `hover_gun.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `hover_raid.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `hover_t15_shotgun.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3343 | 2026-08-31 |
 | `hover_t1_missile.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `hover_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `hover_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `hovertrans.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `icon_atlas.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `icon_atlas_builder.ipynb` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
 | `inverted/aa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/aa_flak_t15.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/aa_flak_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/aa_longrange_railgun_t2.png` | _awaiting license_ | ZephyrSkies7 | #3056 | 2026-08-31 |
 | `inverted/aa_longrange_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/aa_t15.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/aa_t1_long.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -254,17 +281,24 @@ Total assets recorded: **723**
 | `inverted/air_los.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/air_los_sea.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/air_sea.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/air_t15_carrier.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6423 | 2026-08-31 |
+| `inverted/air_t15_impulse.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6423 | 2026-08-31 |
 | `inverted/air_t1_hover_sea.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/air_t1_hover_sea_cannon.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/air_t1_rez.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3872 | 2026-08-31 |
 | `inverted/air_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/air_t2_bomber.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/air_t2_bomber_napalm.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/air_t2_dronecarryair.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/air_t2_flame_laserlaser.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5357 | 2026-08-31 |
 | `inverted/air_t2_hover.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/air_t2_hover_missile.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/air_t2_laser.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4126 | 2026-08-31 |
+| `inverted/air_t2_plasma_mg_fortress.png` | _awaiting license_ | ZephyrSkies7 | #5357 | 2026-08-31 |
 | `inverted/air_t2_radar.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/air_t2_torpbomber.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/air_t2_trans.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/air_t2_transport_shotgun.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5357 | 2026-08-31 |
 | `inverted/air_t2_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/air_t3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/air_t3_dronecarryair.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -288,6 +322,7 @@ Total assets recorded: **723**
 | `inverted/amphib_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/antinuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/antinukemobile.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/antinukevehicle.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3529 | 2026-08-31 |
 | `inverted/armanni.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/armbrtha.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/armcom.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -330,6 +365,9 @@ Total assets recorded: **723**
 | `inverted/bot_plasma_t1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/bot_radar.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/bot_rocket.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/bot_t15_heat_shot.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4317 | 2026-08-31 |
+| `inverted/bot_t15_raid.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3636 | 2026-08-31 |
+| `inverted/bot_t15_rocket.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3636 | 2026-08-31 |
 | `inverted/bot_t1_big.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/bot_t1_flea.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/bot_t1_raid.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -364,6 +402,7 @@ Total assets recorded: **723**
 | `inverted/corcom.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/corcomboss.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/corcrwt4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/cordemon.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `inverted/cordoom.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/corfast_1.3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/corgatreap.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -411,6 +450,11 @@ Total assets recorded: **723**
 | `inverted/defence_hllllt.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/defence_hllt.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/defence_t15_dronecarry.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3263 | 2026-05-27 |
+| `inverted/defence_t15_gauss_impulse.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5927 | 2026-08-31 |
+| `inverted/defence_t15_plasma_aoe.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5927 | 2026-08-31 |
+| `inverted/defence_t15_rocket.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5927 | 2026-08-31 |
+| `inverted/defence_t2_aoe_plasma_laser.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5987 | 2026-08-31 |
+| `inverted/defence_t2_shotgun_mg.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5987 | 2026-08-31 |
 | `inverted/droppod.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/emp.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/energy.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -427,6 +471,7 @@ Total assets recorded: **723**
 | `inverted/factory_air.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/factory_air_sea.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/factory_air_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/factory_air_t3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `inverted/factory_amph.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/factory_bot.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/factory_bot_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -439,10 +484,12 @@ Total assets recorded: **723**
 | `inverted/factory_vehicle_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/fusion.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/hazardous.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/heavyheatraydrone.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3569 | 2026-08-31 |
 | `inverted/hover.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/hover_aa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/hover_gun.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/hover_raid.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/hover_t15_shotgun.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3343 | 2026-08-31 |
 | `inverted/hover_t1_missile.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/hover_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/hover_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -453,20 +500,25 @@ Total assets recorded: **723**
 | `inverted/jammer_t2_1.2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/juggernaut.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/juno.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/kbot_t2_barrage.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5034 | 2026-08-31 |
 | `inverted/kbot_t2_shotgun.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/land_assistdrone.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/laserdefenset3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/legbunk.png` | _awaiting license_ | ThanosDeGraf | #4613 | 2026-08-31 |
+| `inverted/legceb.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3636 | 2026-08-31 |
 | `inverted/legcom.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/legcom_def.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/legcom_econ.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/legcom_off.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/legcomt2_def.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/legcomt2com.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/leggobt3.png` | _awaiting license_ | Zecrus2 | #3888 | 2026-08-31 |
 | `inverted/leghive.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3256 | 2026-05-27 |
 | `inverted/leginfestor.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3649 | 2026-05-27 |
 | `inverted/legion_rampart.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4618 | 2026-05-27 |
 | `inverted/legjav.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4618 | 2026-05-27 |
 | `inverted/legkark.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/leglrpc.png` | _awaiting license_ | ZephyrSkies7 | #3056 | 2026-08-31 |
 | `inverted/lootbox.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/lootboxt2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/lootboxt3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -480,6 +532,8 @@ Total assets recorded: **723**
 | `inverted/mex_t1_emp.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/mex_t1_laser.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/mex_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/mex_t2_con.png` | _awaiting license_ | EnderRobo | #4710 | 2026-08-31 |
+| `inverted/mex_t2_emp.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3056 | 2026-08-31 |
 | `inverted/mine.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/mission_command_tower.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/nanot1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -511,13 +565,17 @@ Total assets recorded: **723**
 | `inverted/shield.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/ship.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/ship_aa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/ship_arty.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6123 | 2026-08-31 |
 | `inverted/ship_destroyer.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/ship_jammer.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/ship_laser_drones.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6123 | 2026-08-31 |
 | `inverted/ship_pship.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/ship_raid.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/ship_t15_artillery_mediumtraj.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6123 | 2026-08-31 |
 | `inverted/ship_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/ship_t2_aa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/ship_t2_aa_flak.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/ship_t2_antidrone.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6423 | 2026-08-31 |
 | `inverted/ship_t2_battleship.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/ship_t2_carrier.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/ship_t2_cruiser.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -525,9 +583,14 @@ Total assets recorded: **723**
 | `inverted/ship_t2_dronecarry.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/ship_t2_flagship.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/ship_t2_flame.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/ship_t2_gatling.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6423 | 2026-08-31 |
+| `inverted/ship_t2_hybridradjam.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6423 | 2026-08-31 |
+| `inverted/ship_t2_impulse.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6423 | 2026-08-31 |
 | `inverted/ship_t2_jammer.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/ship_t2_lightning.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/ship_t2_missile.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/ship_t2_multi_cluster_arty.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6423 | 2026-08-31 |
+| `inverted/ship_t2_plasma_shotgun_walker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6423 | 2026-08-31 |
 | `inverted/ship_t2_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/ship_t3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/ship_t3_pt.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -546,10 +609,17 @@ Total assets recorded: **723**
 | `inverted/sub.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/sub_rez.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/sub_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/sub_t2_coastal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3390 | 2026-08-31 |
 | `inverted/sub_t2_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/sub_t3_nuke.png` | _awaiting license_ | TheSilverHoricexuicknet | #3390 | 2026-08-31 |
 | `inverted/sub_t3x.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/sub_t4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/sub_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/t2_quad_artillery_ship.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5427 | 2026-08-31 |
+| `inverted/t3_allterrain_drone_cluster_bot.png` | _awaiting license_ | ZephyrSkies7 | #5357 | 2026-08-31 |
+| `inverted/t3_bot_clusterarty.png` | _awaiting license_ | ZephyrSkies7 | #4508 | 2026-08-31 |
+| `inverted/t3_bot_shotgun.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4339 | 2026-08-31 |
+| `inverted/t3_solinvictus.png` | _awaiting license_ | ZephyrSkies7 | #4339 | 2026-08-31 |
 | `inverted/tacnuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/targetting.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/unknown.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -589,6 +659,7 @@ Total assets recorded: **723**
 | `inverted/vehicle_t3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/vehicle_t3_dronecarryland.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/vehicle_t3_tank_mgun.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/vehicle_t3_tank_rail_mgun.png` | _awaiting license_ | ZephyrSkies7 | #4128 | 2026-08-31 |
 | `inverted/vehicle_trans.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/vehicle_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/wall_0.4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -601,15 +672,26 @@ Total assets recorded: **723**
 | `jammer_t2_1.2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `juggernaut.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `juno.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `kbot_t2_barrage.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5034 | 2026-08-31 |
 | `kbot_t2_shotgun.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `land_assistdrone.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `laserdefenset3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `legbunk.png` | _awaiting license_ | ThanosDeGraf | #4613 | 2026-08-31 |
+| `legceb.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3636 | 2026-08-31 |
+| `legcom.png` | _awaiting license_ | Zecrus2 | manual-audit | 2026-08-31 |
 | `legcom_def.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `legcom_econ.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `legcom_off.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `legcomt2_def.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `legcomt2com.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `legfhive.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6740 | 2026-08-31 |
+| `leggobt3.png` | _awaiting license_ | Zecrus2 | #3888 | 2026-08-31 |
+| `leghive.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3222 | 2026-08-31 |
 | `leginfestor.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3649 | 2026-05-27 |
+| `legion_rampart.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3689 | 2026-08-31 |
+| `legjav.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4073 | 2026-08-31 |
+| `legkark.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `leglrpc.png` | _awaiting license_ | ZephyrSkies7 | #3056 | 2026-08-31 |
 | `lootbox.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `lootboxt2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `lootboxt3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -623,6 +705,8 @@ Total assets recorded: **723**
 | `mex_t1_emp.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `mex_t1_laser.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `mex_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `mex_t2_con.png` | _awaiting license_ | EnderRobo | #4710 | 2026-08-31 |
+| `mex_t2_emp.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `mine.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `mission_command_tower.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `nanot1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -654,20 +738,32 @@ Total assets recorded: **723**
 | `shield.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `ship.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `ship_aa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `ship_arty.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6123 | 2026-08-31 |
 | `ship_destroyer.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `ship_jammer.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `ship_laser_drones.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6123 | 2026-08-31 |
 | `ship_pship.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `ship_raid.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `ship_t15_artillery_mediumtraj.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6123 | 2026-08-31 |
 | `ship_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `ship_t2_aa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `ship_t2_aa_flak.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `ship_t2_antidrone.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6423 | 2026-08-31 |
 | `ship_t2_battleship.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `ship_t2_carrier.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `ship_t2_cruiser.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `ship_t2_cruiser_plasma.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `ship_t2_dronecarry.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `ship_t2_flagship.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `ship_t2_flame.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `ship_t2_gatling.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6423 | 2026-08-31 |
+| `ship_t2_hybridradjam.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6423 | 2026-08-31 |
+| `ship_t2_impulse.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6423 | 2026-08-31 |
 | `ship_t2_jammer.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `ship_t2_lightning.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `ship_t2_missile.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `ship_t2_multi_cluster_arty.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6423 | 2026-08-31 |
+| `ship_t2_plasma_shotgun_walker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6423 | 2026-08-31 |
 | `ship_t2_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `ship_t3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `ship_t3_pt.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -686,10 +782,17 @@ Total assets recorded: **723**
 | `sub.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `sub_rez.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `sub_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `sub_t2_coastal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3390 | 2026-08-31 |
 | `sub_t2_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `sub_t3_nuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3390 | 2026-08-31 |
 | `sub_t3x.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `sub_t4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `sub_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `t2_quad_artillery_ship.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5427 | 2026-08-31 |
+| `t3_allterrain_drone_cluster_bot.png` | _awaiting license_ | ZephyrSkies7 | #5357 | 2026-08-31 |
+| `t3_bot_clusterarty.png` | _awaiting license_ | ZephyrSkies7 | #4508 | 2026-08-31 |
+| `t3_bot_shotgun.png` | _awaiting license_ | ZephyrSkies7 | #4382 | 2026-08-31 |
+| `t3_solinvictus.png` | _awaiting license_ | ZephyrSkies7 | #4339 | 2026-08-31 |
 | `tacnuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `targetting.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `unknown.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -720,11 +823,16 @@ Total assets recorded: **723**
 | `vehicle_t2_raid.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `vehicle_t2_sco.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `vehicle_t2_tank.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `vehicle_t2_tank_heavylaser.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3237 | 2026-08-31 |
+| `vehicle_t2_tank_laser.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2889 | 2026-08-31 |
 | `vehicle_t2_tank_rail.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `vehicle_t2_tank_triplasma.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3237 | 2026-08-31 |
 | `vehicle_t2_vroc.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `vehicle_t2_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `vehicle_t3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `vehicle_t3_dronecarryland.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `vehicle_t3_tank_mgun.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `vehicle_t3_tank_rail_mgun.png` | _awaiting license_ | ZephyrSkies7 | #4089 | 2026-08-31 |
 | `vehicle_trans.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `vehicle_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `wall_0.4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

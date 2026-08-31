@@ -155,7 +155,13 @@
   {
     "file": "fonts/unlisted/microgrammadbold.ttf",
     "flag": "unused",
-    "comments": []
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-08-31",
+        "text": "this font needs to be removed - it's a per-machine-paid font"
+      }
+    ]
   },
   {
     "file": "luaui/images/ecostats/arm_default.png",
@@ -251,6 +257,17 @@
     "file": "objects3d/Critters/critter_penguinking.s3o",
     "flag": "unused",
     "comments": []
+  },
+  {
+    "file": "objects3d/Lootboxes/lootbox.s3o",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-08-31",
+        "text": "This unit was kitbashed from other Cortex Units. We probably should keep this GPL and make new lootbox model."
+      }
+    ]
   },
   {
     "file": "objects3d/Units/corpyro.s3o",
@@ -383,6 +400,11 @@
   },
   {
     "file": "objects3d/dice.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "sounds/weapons/beamershot.wav",
     "flag": "unused",
     "comments": []
   },

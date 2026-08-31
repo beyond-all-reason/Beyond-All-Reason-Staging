@@ -4,10 +4,12 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `sidepics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **3**
+Total assets recorded: **5**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
+| `LICENSE_MANIFEST.md` | _awaiting license_ | BAR CLA Bot | manual-audit | 2026-08-31 |
 | `Legion.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7071 | 2026-05-27 |
 | `armada.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `cortex.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `random.png` | _awaiting license_ | rlcevg | manual-audit | 2026-08-31 |

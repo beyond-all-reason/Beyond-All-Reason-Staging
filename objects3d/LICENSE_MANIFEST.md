@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **365**
+Total assets recorded: **381**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -16,6 +16,22 @@ Total assets recorded: **365**
 | `Critters/critter_penguin.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
 | `Critters/critter_penguinbro.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
 | `Critters/critter_penguinking.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
+| `Lootboxes/lootbox.s3o` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
+| `Lootboxes/lootboxnanoarm.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
+| `Lootboxes/lootboxnanoarmT1.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
+| `Lootboxes/lootboxnanoarmT2.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
+| `Lootboxes/lootboxnanoarmT3.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
+| `Lootboxes/lootboxnanoarmT4.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
+| `Lootboxes/lootboxnanocor.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
+| `Lootboxes/lootboxnanocorT1.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
+| `Lootboxes/lootboxnanocorT2.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
+| `Lootboxes/lootboxnanocorT3.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
+| `Lootboxes/lootboxnanocorT4.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
+| `Lootboxes/lootboxv2.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
+| `Lootboxes/lootboxv2_bronze.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
+| `Lootboxes/lootboxv2_gold.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
+| `Lootboxes/lootboxv2_platinum.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
+| `Lootboxes/lootboxv2_silver.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
 | `SimpleFlareXL.s3o` | `LicenseRef-BAR-CLA-1.0` | KDR_11k, Beherith | manual-audit | 2026-05-27 |
 | `Units/arm3X3B.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/arm3X3C.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
