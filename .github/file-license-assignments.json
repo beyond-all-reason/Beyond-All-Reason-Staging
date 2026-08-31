@@ -54604,6 +54604,15 @@
     "source": "manual-audit"
   },
   {
+    "file": "luarules/images/LICENSE_MANIFEST.md",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "BAR CLA Bot",
+    "pr": "manual-audit",
+    "date": "2026-08-31T21:19:54Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Fx-Doo",
     "date": "2026-08-28T12:38:00Z",
     "file": "luarules/images/blank.png",
