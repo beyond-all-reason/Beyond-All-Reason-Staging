@@ -11,14 +11,14 @@ Total assets recorded: **448**
 | `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-08-28 |
 | `Ranks/license.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `Ranks/rank10.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `Ranks/rank11.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `Ranks/rank12.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `Ranks/rank13.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `Ranks/rank14.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `Ranks/rank15.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `Ranks/rank11.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `Ranks/rank12.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `Ranks/rank13.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `Ranks/rank14.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `Ranks/rank15.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `Ranks/rank16.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `Ranks/rank2.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `Ranks/rank3.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `Ranks/rank2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `Ranks/rank3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `Ranks/rank4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `Ranks/rank5.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `Ranks/rank6.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -305,20 +305,20 @@ Total assets recorded: **448**
 | `ecostats/bordersOff.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `ecostats/chkBoxOff.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `ecostats/chkBoxOn.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `ecostats/cor_default.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `ecostats/cor_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `ecostats/cross.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `ecostats/cross_inv.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `ecostats/default.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `ecostats/ecommander.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `ecostats/tll_default.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `enemyspotter.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
-| `energy-red.png` | _awaiting license_ | icexuick | manual-audit | 2026-06-16 |
-| `energy.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `flank_icon.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `flank_icon_old.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `flowui_gl4/metal.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `flowui_gl4/metalenergy.png` | _awaiting license_ | icexuick | #5915 | 2026-08-28 |
-| `flowui_gl4/metalold.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `energy-red.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `energy.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `flank_icon.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `flank_icon_old.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `flowui_gl4/metal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `flowui_gl4/metalenergy.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5915 | 2026-08-31 |
+| `flowui_gl4/metalold.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `formationDot.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `forward.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `glow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
@@ -342,7 +342,7 @@ Total assets recorded: **448**
 | `groupicons/weaponexplo.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `groupicons/weaponsub.png` | `LicenseRef-BAR-CLA-1.0` | icecuick | manual-audit | 2026-08-31 |
 | `halo.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
-| `healtbars_exo4.tga` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `healtbars_exo4.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `hexgrid.tga` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
 | `holdfire.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7585 | 2026-08-31 |
 | `idleicon/idlecon_000.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -406,20 +406,20 @@ Total assets recorded: **448**
 | `idleicon/idlecon_058.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `idleicon/idlecon_059.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `info_health.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `keybinds/grid_keys.png` | _awaiting license_ | icexuick | #2934 | 2026-08-28 |
-| `keybinds/grid_keys_ALT.png` | _awaiting license_ | icexuick | #2934 | 2026-08-28 |
-| `keybinds/grid_keys_CTRL.png` | _awaiting license_ | icexuick | #2934 | 2026-08-28 |
-| `keybinds/legacy_keys.png` | _awaiting license_ | icexuick | #2934 | 2026-08-28 |
-| `keybinds/legacy_keys_ALT.png` | _awaiting license_ | icexuick | #2934 | 2026-08-28 |
-| `keybinds/legacy_keys_CTRL.png` | _awaiting license_ | icexuick | #2934 | 2026-08-28 |
+| `keybinds/grid_keys.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2934 | 2026-08-31 |
+| `keybinds/grid_keys_ALT.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2934 | 2026-08-31 |
+| `keybinds/grid_keys_CTRL.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2934 | 2026-08-31 |
+| `keybinds/legacy_keys.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2934 | 2026-08-31 |
+| `keybinds/legacy_keys_ALT.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2934 | 2026-08-31 |
+| `keybinds/legacy_keys_CTRL.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2934 | 2026-08-31 |
 | `lava/lava2_diffuseemit.dds` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
 | `license.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `mapmarksfx/glow.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `mapmarksfx/ring.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
-| `metal.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `metal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `metalold.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `new.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `nuke.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `nuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `pip/PipActivity.png` | _awaiting license_ | Floris | #6945 | 2026-06-16 |
 | `pip/PipBlip.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
 | `pip/PipCam.png` | _awaiting license_ | Floris | #6649 | 2026-06-16 |
@@ -437,22 +437,22 @@ Total assets recorded: **448**
 | `pip/PipT.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
 | `pip/PipTV.png` | _awaiting license_ | Floris | #6956 | 2026-06-16 |
 | `pip/PipView.png` | _awaiting license_ | Floris | #6711 | 2026-06-16 |
-| `rapt-tileable_v001_small.tga` | _awaiting license_ | icexuick | #3603 | 2026-08-28 |
-| `rapt-tileable_v001_small_alpha.tga` | _awaiting license_ | icexuick | #3603 | 2026-08-28 |
-| `rapt-tileable_v002_small.tga` | _awaiting license_ | icexuick | #3603 | 2026-08-28 |
+| `rapt-tileable_v001_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
+| `rapt-tileable_v001_small_alpha.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
+| `rapt-tileable_v002_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
 | `raptorpanel.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `raptorpanel.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `repeat.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `repeat.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `repeat_old.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `returnfire.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7585 | 2026-08-31 |
-| `scav-tileable_v001-alpha.tga` | _awaiting license_ | icexuick | #3603 | 2026-08-28 |
-| `scav-tileable_v001_small.tga` | _awaiting license_ | icexuick | #3603 | 2026-08-28 |
-| `scav-tileable_v002_small.tga` | _awaiting license_ | icexuick | #3603 | 2026-08-28 |
-| `scavpanel.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `scav-tileable_v001-alpha.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
+| `scav-tileable_v001_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
+| `scav-tileable_v002_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
+| `scavpanel.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `skull.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `snow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `solid.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `stripes.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
-| `tidal-waves.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `tidal-waves.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `vignette.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `wind-blades.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
