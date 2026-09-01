@@ -72657,6 +72657,51 @@
     "source": "manual-audit"
   },
   {
+    "file": "unitpics/legamphlab.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies",
+    "pr": "5072",
+    "date": "2026-09-01T11:23:47Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/leganavyaaship.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies",
+    "pr": "6423",
+    "date": "2026-09-01T11:23:47Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/legmed.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies",
+    "pr": "manual-audit",
+    "date": "2026-09-01T11:23:47Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/legrezbot.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies",
+    "pr": "5061",
+    "date": "2026-09-01T11:23:47Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/legshot.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies",
+    "pr": "manual-audit",
+    "date": "2026-09-01T11:23:47Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-08-31T14:37:54Z",
     "file": "unitpics/lootboxes/lootdrop.dds",
