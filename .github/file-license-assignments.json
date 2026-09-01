@@ -72681,49 +72681,49 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "FireStorm",
+    "date": "2026-09-01T11:15:09Z",
     "file": "unitpics/scavengers/armassistdrone.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "FireStorm",
+    "date": "2026-09-01T11:15:09Z",
     "file": "unitpics/scavengers/armca.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "FireStorm",
+    "date": "2026-09-01T11:15:09Z",
     "file": "unitpics/scavengers/armfast.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/armfboy.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Kaiser",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/armfboy.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/armfify.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Darknagura",
-    "pr": "3872",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/armfify.dds",
+    "license": "",
+    "pr": "3872",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "file": "unitpics/scavengers/armgatet3.dds",
@@ -72731,17 +72731,17 @@
     "license": "",
     "contributor": "Beherith",
     "pr": "7224",
-    "date": "2026-09-01T11:15:09Z",
+    "date": "2026-09-01T11:17:11Z",
     "source": "manual-audit"
   },
   {
-    "file": "unitpics/scavengers/armjeth.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Kaiser",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/armjeth.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "PtaQ",
@@ -72760,58 +72760,58 @@
     "source": "manual-audit"
   },
   {
-    "file": "unitpics/scavengers/armstone.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "NebuchadnezzarII",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/armstone.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/armzeus.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "FireStorm",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/armzeus.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Mr Bob",
+    "date": "2026-09-01T11:15:09Z",
     "file": "unitpics/scavengers/coraca.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Mr Bob",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Mr Bob",
+    "date": "2026-09-01T11:15:09Z",
     "file": "unitpics/scavengers/corassistdrone.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Mr Bob",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Mr Bob",
+    "date": "2026-09-01T11:15:09Z",
     "file": "unitpics/scavengers/corca.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Mr Bob",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/corcrwt4.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/corcrwt4.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -72823,40 +72823,40 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Mr Bob",
+    "date": "2026-09-01T11:15:09Z",
     "file": "unitpics/scavengers/corgant.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Mr Bob",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Mr Bob",
+    "date": "2026-09-01T11:15:09Z",
     "file": "unitpics/scavengers/corgatet3.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Mr Bob",
     "pr": "7224",
-    "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/corgolt4.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/corgolt4.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/cormort.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "FireStorm",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/cormort.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "file": "unitpics/scavengers/corpyro.dds",
@@ -72864,26 +72864,26 @@
     "license": "",
     "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:15:09Z",
+    "date": "2026-09-01T11:17:11Z",
     "source": "manual-audit"
   },
   {
-    "file": "unitpics/scavengers/corraid.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/corraid.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/corsent.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "PtaQ",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/corsent.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "file": "unitpics/scavengers/corthermite.dds",
@@ -72891,26 +72891,26 @@
     "license": "",
     "contributor": "Beherith",
     "pr": "7224",
-    "date": "2026-09-01T11:15:09Z",
+    "date": "2026-09-01T11:17:11Z",
     "source": "manual-audit"
   },
   {
-    "file": "unitpics/scavengers/cortorch.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Flaka",
-    "pr": "7224",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/cortorch.dds",
+    "license": "",
+    "pr": "7224",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/corwolv.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/corwolv.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Protar",
@@ -72940,13 +72940,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/legamph.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Johanthan Crimson",
-    "pr": "7224",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/legamph.dds",
+    "license": "",
+    "pr": "7224",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73021,22 +73021,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/leganavybattlesub.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "7224",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/leganavybattlesub.dds",
+    "license": "",
+    "pr": "7224",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/leganavyheavysub.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "7224",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/leganavyheavysub.dds",
+    "license": "",
+    "pr": "7224",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Protar",
@@ -73102,13 +73102,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/legehovertank.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "7224",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/legehovertank.dds",
+    "license": "",
+    "pr": "7224",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73120,13 +73120,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/legeshotgunmech.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "7224",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/legeshotgunmech.dds",
+    "license": "",
+    "pr": "7224",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Protar",
@@ -73228,13 +73228,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/legnavyartyship.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "7224",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/legnavyartyship.dds",
+    "license": "",
+    "pr": "7224",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73246,22 +73246,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/legnavydestro.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "7224",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/legnavydestro.dds",
+    "license": "",
+    "pr": "7224",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/legnavyfrigate.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "EnderRobo",
-    "pr": "7224",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/legnavyfrigate.dds",
+    "license": "",
+    "pr": "7224",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73291,13 +73291,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/legperdition.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Hornet",
-    "pr": "7224",
     "date": "2026-09-01T11:15:09Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/legperdition.dds",
+    "license": "",
+    "pr": "7224",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Protar",
