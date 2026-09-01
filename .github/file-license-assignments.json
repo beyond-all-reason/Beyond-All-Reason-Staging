@@ -59098,11 +59098,11 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "BAR CLA Bot",
+    "date": "2026-09-01T11:22:20Z",
     "file": "modelmaterials_gl4/LICENSE_MANIFEST.md",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "BAR CLA Bot",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:22:20Z",
     "source": "manual-audit"
   },
   {
@@ -63062,19 +63062,19 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-01T11:22:00Z",
     "file": "objects3d/rocks30/rocks30_def_01.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:22:00Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-01T11:22:00Z",
     "file": "objects3d/rocks30/rocks30_def_02.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:22:00Z",
     "source": "manual-audit"
   },
   {
@@ -72649,6 +72649,15 @@
     "source": "manual-audit"
   },
   {
+    "file": "unitpics/coresuppt3.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies",
+    "pr": "manual-audit",
+    "date": "2026-09-01T11:24:57Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-08-31T14:37:54Z",
     "file": "unitpics/critters/critter_crab.dds",
@@ -72657,48 +72666,156 @@
     "source": "manual-audit"
   },
   {
-    "file": "unitpics/legamphlab.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "5072",
     "date": "2026-09-01T11:23:47Z",
-    "source": "manual-audit"
+    "file": "unitpics/legamphlab.dds",
+    "license": "",
+    "pr": "5072",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/leganavyaaship.dds",
+    "file": "unitpics/leganavalsonarstation.dds",
     "status": "awaiting_license",
     "license": "",
     "contributor": "ZephyrSkies",
     "pr": "6423",
-    "date": "2026-09-01T11:23:47Z",
+    "date": "2026-09-01T11:24:57Z",
     "source": "manual-audit"
   },
   {
+    "file": "unitpics/leganavaltorpturret.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies",
+    "pr": "6423",
+    "date": "2026-09-01T11:24:57Z",
+    "source": "manual-audit"
+  },
+  {
+    "contributor": "ZephyrSkies",
+    "date": "2026-09-01T11:23:47Z",
+    "file": "unitpics/leganavyaaship.dds",
+    "license": "",
+    "pr": "6423",
+    "source": "manual-audit",
+    "status": "awaiting_license"
+  },
+  {
+    "file": "unitpics/legapopupdef.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies",
+    "pr": "5189",
+    "date": "2026-09-01T11:24:57Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/legaspy.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies",
+    "pr": "5357",
+    "date": "2026-09-01T11:24:57Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/legbart.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies",
+    "pr": "manual-audit",
+    "date": "2026-09-01T11:24:57Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/legeallterrainmech.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies",
+    "pr": "5357",
+    "date": "2026-09-01T11:24:57Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/legelrpcmech.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies",
+    "pr": "4508",
+    "date": "2026-09-01T11:24:57Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/leginf.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies",
+    "pr": "manual-audit",
+    "date": "2026-09-01T11:24:57Z",
+    "source": "manual-audit"
+  },
+  {
+    "contributor": "ZephyrSkies",
+    "date": "2026-09-01T11:23:47Z",
     "file": "unitpics/legmed.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
+  },
+  {
+    "file": "unitpics/legnavyconship.dds",
     "status": "awaiting_license",
     "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "manual-audit",
-    "date": "2026-09-01T11:23:47Z",
+    "pr": "6123",
+    "date": "2026-09-01T11:24:57Z",
     "source": "manual-audit"
   },
   {
+    "file": "unitpics/legnavyrezsub.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies",
+    "pr": "6123",
+    "date": "2026-09-01T11:24:57Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/legnavyscout.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies",
+    "pr": "6123",
+    "date": "2026-09-01T11:24:57Z",
+    "source": "manual-audit"
+  },
+  {
+    "contributor": "ZephyrSkies",
+    "date": "2026-09-01T11:23:47Z",
     "file": "unitpics/legrezbot.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "ZephyrSkies",
     "pr": "5061",
-    "date": "2026-09-01T11:23:47Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "ZephyrSkies",
+    "date": "2026-09-01T11:23:47Z",
     "file": "unitpics/legshot.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
+  },
+  {
+    "file": "unitpics/legvcarry.dds",
     "status": "awaiting_license",
     "license": "",
     "contributor": "ZephyrSkies",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:23:47Z",
+    "date": "2026-09-01T11:24:57Z",
     "source": "manual-audit"
   },
   {

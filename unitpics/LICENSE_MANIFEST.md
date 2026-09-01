@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **97**
+Total assets recorded: **110**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -17,12 +17,25 @@ Total assets recorded: **97**
 | `armcv.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-08-31 |
 | `armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-08-31 |
+| `coresuppt3.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
 | `critters/critter_crab.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `legamphlab.dds` | _awaiting license_ | ZephyrSkies | #5072 | 2026-09-01 |
+| `leganavalsonarstation.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `leganavaltorpturret.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
 | `leganavyaaship.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `legapopupdef.dds` | _awaiting license_ | ZephyrSkies | #5189 | 2026-09-01 |
+| `legaspy.dds` | _awaiting license_ | ZephyrSkies | #5357 | 2026-09-01 |
+| `legbart.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legeallterrainmech.dds` | _awaiting license_ | ZephyrSkies | #5357 | 2026-09-01 |
+| `legelrpcmech.dds` | _awaiting license_ | ZephyrSkies | #4508 | 2026-09-01 |
+| `leginf.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
 | `legmed.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legnavyconship.dds` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
+| `legnavyrezsub.dds` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
+| `legnavyscout.dds` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
 | `legrezbot.dds` | _awaiting license_ | ZephyrSkies | #5061 | 2026-09-01 |
 | `legshot.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legvcarry.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
 | `lootboxes/lootdrop.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `other/meteor.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `other/nuketest.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
