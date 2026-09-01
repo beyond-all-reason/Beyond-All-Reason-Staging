@@ -258,7 +258,7 @@ Total assets recorded: **831**
 | `inverted/aa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/aa_flak_t15.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/aa_flak_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `inverted/aa_longrange_railgun_t2.png` | _awaiting license_ | ZephyrSkies7 | #3056 | 2026-08-31 |
+| `inverted/aa_longrange_railgun_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3056 | 2026-09-01 |
 | `inverted/aa_longrange_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/aa_t15.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/aa_t1_long.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -611,7 +611,7 @@ Total assets recorded: **831**
 | `inverted/sub_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/sub_t2_coastal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3390 | 2026-08-31 |
 | `inverted/sub_t2_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `inverted/sub_t3_nuke.png` | _awaiting license_ | TheSilverHoricexuicknet | #3390 | 2026-08-31 |
+| `inverted/sub_t3_nuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3390 | 2026-09-01 |
 | `inverted/sub_t3x.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/sub_t4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/sub_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

@@ -49935,13 +49935,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T11:58:20Z",
     "file": "icons/inverted/aa_longrange_railgun_t2.png",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
     "pr": "3056",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-01T10:51:43Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -52765,13 +52764,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "TheSilverHoricexuicknet",
-    "date": "2026-08-31T11:58:20Z",
     "file": "icons/inverted/sub_t3_nuke.png",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "icexuick",
     "pr": "3390",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-01T10:51:43Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -72559,6 +72557,54 @@
     "file": "unitpics/armart.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/armbeamer.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-01T10:47:42Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/armbeaver.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-01T10:47:42Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/armch.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-01T10:47:42Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/armcir.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-01T10:47:42Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/armclaw.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-01T10:47:42Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/armcv.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-01T10:47:42Z",
     "source": "manual-audit"
   },
   {
