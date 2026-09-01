@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **16**
+Total assets recorded: **60**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -23,4 +23,48 @@ Total assets recorded: **16**
 | `other/nuketest.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `scavengers/armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-08-31 |
 | `scavengers/armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-08-31 |
+| `scavengers/coresuppt3.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legaap.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legajamk.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legalab.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legamphlab.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leganavalaaturret.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/leganavaladvgeo.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/leganavaleconv.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/leganavalpinpointer.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/leganavalsonarstation.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leganavaltorpturret.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leganavyaaship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legap.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legapopupdef.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legaradk.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legaspy.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legbart.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legeallterrainmech.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legeheatraymech.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legelrpcmech.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legfeconv.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legfhive.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legfhp.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legfort.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `scavengers/legfortt4.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/leghive.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leginc.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `scavengers/leginf.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/leginfestor.dds` | _awaiting license_ | Zath | #7224 | 2026-09-01 |
+| `scavengers/legmed.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legmohocon.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legnavyconship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legnavyrezsub.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legnavyscout.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legnavysub.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legphoenix.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legrezbot.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legshot.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legtarg.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/leguwestore.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/leguwgeo.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/leguwmstore.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legvcarry.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legvp.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `scavengers/scavmist.dds` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |

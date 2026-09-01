@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unittextures/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **159**
+Total assets recorded: **167**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -156,6 +156,14 @@ Total assets recorded: **159**
 | `decals/corvp_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/corvp_aoplane_scav.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `decals/corwin_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `decals/legaap_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals/legalab_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals/legap_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
+| `decals/leghive_aoplane.dds` | _awaiting license_ | ZephyrSkies | #4001 | 2026-09-01 |
+| `decals/legmohocon_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals/legperdition_aoplane.dds` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
+| `decals/legtarg_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals/legvp_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals/mission_command_tower_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `dice.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `dice2.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |

@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **517**
+Total assets recorded: **521**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -39,24 +39,25 @@ Total assets recorded: **517**
 | `advplayerslist/draw.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
 | `advplayerslist/energy.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/eraser.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
-| `advplayerslist/flags/arm.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `advplayerslist/flags/barb.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `advplayerslist/flags/arm.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
+| `advplayerslist/flags/barb.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/barb2.png` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-08-28 |
-| `advplayerslist/flags/legion.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `advplayerslist/flags/raptor-red.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `advplayerslist/flags/raptor.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `advplayerslist/flags/core.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
+| `advplayerslist/flags/legion.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
+| `advplayerslist/flags/raptor-red.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
+| `advplayerslist/flags/raptor.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `advplayerslist/gbr.png` | _awaiting license_ | beherith | manual-audit | 2026-09-01 |
 | `advplayerslist/ger.png` | _awaiting license_ | beherith | manual-audit | 2026-09-01 |
 | `advplayerslist/id.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `advplayerslist/indent.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `advplayerslist/indicator.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/legion_default.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `advplayerslist/legion_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `advplayerslist/low.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `advplayerslist/metal.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/notfirst.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `advplayerslist/pencil.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `advplayerslist/ping.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/point.dds` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `advplayerslist/point.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `advplayerslist/ranks/1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/ranks/2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/ranks/3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -76,8 +77,8 @@ Total assets recorded: **517**
 | `advplayerslist/sizeup.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `advplayerslist/take.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `advplayerslist/ts.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/unally.dds` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
-| `advplayerslist/units.dds` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `advplayerslist/unally.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
+| `advplayerslist/units.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `advplayerslist_mascot/floriscat_body.png` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/floriscat_head.png` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/floriscat_headblink.png` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
@@ -300,6 +301,7 @@ Total assets recorded: **517**
 | `decals_gl4/testing/T_GroundCrack_00_a.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
 | `decals_gl4/testing/T_GroundCrack_00_h.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
 | `decals_gl4/testing/T_GroundCrack_00_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `easytax/share.dds` | `GPL-2.0-or-later` | RebelNode | #7300 | 2026-09-01 |
 | `ecostats/arm_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `ecostats/bar.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `ecostats/barbg.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
@@ -322,6 +324,7 @@ Total assets recorded: **517**
 | `flowui_gl4/backgroundtile.png` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `flowui_gl4/glow.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `flowui_gl4/glow2.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `flowui_gl4/leaderboard.png` | _awaiting license_ | SethDGamre | #5767 | 2026-09-01 |
 | `flowui_gl4/metal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `flowui_gl4/metalenergy.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5915 | 2026-08-31 |
 | `flowui_gl4/metalold.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -431,6 +434,7 @@ Total assets recorded: **517**
 | `lavadistortion.dds` | _awaiting license_ | Beherith | #3118 | 2026-09-01 |
 | `lavadistortion.png` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `license.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
+| `luagrass/Taldarim_V3_grassDist.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `luagrass/grass_field_medit.dds.cached.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `luagrass/grass_field_medit_flowering.dds.cached.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `luagrass/grass_field_mixed.dds.cached.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
