@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **507**
+Total assets recorded: **517**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -351,7 +351,7 @@ Total assets recorded: **507**
 | `groupicons/weaponsub.png` | `LicenseRef-BAR-CLA-1.0` | icecuick | manual-audit | 2026-08-31 |
 | `halo.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `healtbars_exo4.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `hexgrid.tga` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
+| `hexgrid.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `holdfire.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7585 | 2026-08-31 |
 | `idleicon/idlecon_000.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `idleicon/idlecon_001.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
@@ -438,10 +438,19 @@ Total assets recorded: **507**
 | `luagrass/grassx4.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `luagrass/grassx4_2.obj` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `luagrass/license.txt` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `mapmarksfx/eraser.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
+| `mapmarksfx/eraser_old.dds` | _awaiting license_ | icexuick | manual-audit | 2026-09-01 |
 | `mapmarksfx/glow.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
+| `mapmarksfx/pencil.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
 | `mapmarksfx/ring.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `metal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `metalold.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
+| `music/forward.png` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
+| `music/music.png` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
+| `music/next.png` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
+| `music/pause.png` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
+| `music/play.png` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
+| `music/volume.png` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
 | `new.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `noisetextures/blue_noise_64.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `noisetextures/bluenoise_128_rgba_1pixoffset.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
@@ -470,6 +479,7 @@ Total assets recorded: **507**
 | `noisetextures/worley_rgbnorm_01_asum_128_v1_mip.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `noisetextures/worley_rsum_bgaind_128_v1.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `nuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `paralyzed.png` | _awaiting license_ | beherith | manual-audit | 2026-09-01 |
 | `pip/PipActivity.png` | _awaiting license_ | Floris | #6945 | 2026-06-16 |
 | `pip/PipBlip.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
 | `pip/PipCam.png` | _awaiting license_ | Floris | #6649 | 2026-06-16 |

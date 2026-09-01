@@ -57491,13 +57491,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-08-28T12:38:00Z",
     "file": "luaui/images/hexgrid.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-01T10:12:50Z",
+    "source": "manual-audit"
   },
   {
     "file": "luaui/images/holdfire.png",
@@ -58195,6 +58194,24 @@
     "source": "manual-audit"
   },
   {
+    "file": "luaui/images/mapmarksfx/eraser.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-09-01T10:12:50Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/mapmarksfx/eraser_old.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-09-01T10:12:50Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Floris",
     "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/mapmarksfx/glow.dds",
@@ -58202,6 +58219,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "luaui/images/mapmarksfx/pencil.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-09-01T10:12:50Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Floris",
@@ -58226,6 +58252,60 @@
     "file": "luaui/images/metalold.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/music/forward.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-09-01T10:12:50Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/music/music.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-09-01T10:12:50Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/music/next.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-09-01T10:12:50Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/music/pause.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-09-01T10:12:50Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/music/play.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-09-01T10:12:50Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/music/volume.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-09-01T10:12:50Z",
     "source": "manual-audit"
   },
   {
@@ -58450,6 +58530,15 @@
     "contributor": "icexuick",
     "pr": "manual-audit",
     "date": "2026-08-31T21:16:54Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/paralyzed.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-01T10:08:10Z",
     "source": "manual-audit"
   },
   {
@@ -70630,6 +70719,24 @@
     "contributor": "Cephis",
     "pr": "6101",
     "date": "2026-08-31T12:34:25Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/ComHeavyDamage2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T10:39:18Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/CommanderUnderAttack.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T10:08:44Z",
     "source": "manual-audit"
   },
   {
