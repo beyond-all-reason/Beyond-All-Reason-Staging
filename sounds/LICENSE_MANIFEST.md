@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `sounds/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **988**
+Total assets recorded: **990**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -763,7 +763,7 @@ Total assets recorded: **988**
 | `voice-soundeffects/UnitUnderAttack.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6101 | 2026-05-27 |
 | `voice-soundeffects/YouHaveTheLastCommander.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6101 | 2026-05-27 |
 | `voice-soundeffects/YourTeamHasTheLastCommander.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6101 | 2026-05-27 |
-| `voice/en/cephis/AdvancedRadarLost.wav` | _awaiting license_ | Cephis | #6101 | 2026-08-31 |
+| `voice/en/cephis/AdvancedRadarLost.wav` | _awaiting license_ | Cephis | #6101 | 2026-09-01 |
 | `voice/en/cephis/AdvancedRadarLost2.wav` | _awaiting license_ | Cephis | #6101 | 2026-08-31 |
 | `voice/en/cephis/BaseUnderAttack.wav` | _awaiting license_ | Cephis | #6101 | 2026-08-31 |
 | `voice/en/cephis/BaseUnderAttack2.wav` | _awaiting license_ | Cephis | #6101 | 2026-08-31 |
@@ -774,6 +774,8 @@ Total assets recorded: **988**
 | `voice/en/cephis/ComHeavyDamage.wav` | _awaiting license_ | Cephis | #6101 | 2026-08-31 |
 | `voice/en/cephis/ComHeavyDamage2.wav` | _awaiting license_ | Cephis | #6101 | 2026-09-01 |
 | `voice/en/cephis/CommanderUnderAttack.wav` | _awaiting license_ | Cephis | #6101 | 2026-09-01 |
+| `voice/en/cephis/CommanderUnderAttack2.wav` | _awaiting license_ | Cephis | #6101 | 2026-09-01 |
+| `voice/en/cephis/EconomyUnderAttack.wav` | _awaiting license_ | Cephis | #7370 | 2026-09-01 |
 | `weapons-mult/alien_electric.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons-mult/alien_electric_xl.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons-mult/kroggie2xs.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
