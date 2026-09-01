@@ -464,6 +464,21 @@
     ]
   },
   {
+    "file": "unitpics/scavengers/corthovr.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unitpics/scavengers/cortship.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unitpics/scavengers/evocrusher.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
     "file": "unittextures/AlienTreeTexture.dds",
     "flag": "unused",
     "comments": []

@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **533**
+Total assets recorded: **1598**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -33,147 +33,765 @@ Total assets recorded: **533**
 | `Lootboxes/lootboxv2_platinum.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
 | `Lootboxes/lootboxv2_silver.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
 | `SimpleFlareXL.s3o` | `LicenseRef-BAR-CLA-1.0` | KDR_11k, Beherith | manual-audit | 2026-05-27 |
+| `Units/CorPrince.s3o` | _awaiting license_ | Johnathan Crimson | #5427 | 2026-09-01 |
+| `Units/CorPrince_dead.s3o` | _awaiting license_ | Johnathan Crimson | #5427 | 2026-09-01 |
+| `Units/arm1X1A.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/arm1X1B.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/arm2X2A.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/arm2X2B.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/arm2X2C.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/arm2X2D.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/arm2X2E.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/arm2X2F.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/arm3X3A.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/arm3X3B.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/arm3X3C.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/arm3X3D.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/arm3X3E.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/arm3X3F.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/arm4X4A.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/arm4X4B.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/arm4X4C.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/arm4X4D.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/arm4X4E.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/arm5X5A.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
+| `Units/arm5X5B.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/arm5X5C.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/arm6X6A.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/arm6X6B.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/arm6X6C.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/arm6X6D.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/arm7X7A.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/arm7X7D.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armaak.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armaak_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armaap.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armaap_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armaaplat.s3o` | _awaiting license_ | Cremuss | #5546 | 2026-09-01 |
+| `Units/armaaplat_dead.s3o` | _awaiting license_ | Cremuss | #5546 | 2026-09-01 |
+| `Units/armaas.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armaas_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armaca.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armaca_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armack.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armack_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armacsub.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armacsub_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armacv.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armacv_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armadvsol.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armadvsol_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armafus.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armafus_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armafust3.s3o` | _awaiting license_ | Cremuss | #4512 | 2026-09-01 |
+| `Units/armafust3_dead.s3o` | _awaiting license_ | Cremuss | #4512 | 2026-09-01 |
+| `Units/armageo.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armageo_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armah.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armah_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armalab.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armalab_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armamb.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armamb_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armamd.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armamd_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armamex.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armamex_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armamph.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armamph_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armamsub.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armamsub_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armanac.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armanac_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armanavaldefturret.s3o` | _awaiting license_ | ZephyrSkies | #5987 | 2026-09-01 |
+| `Units/armanavaldefturret_dead.s3o` | _awaiting license_ | ZephyrSkies | #5987 | 2026-09-01 |
+| `Units/armanni.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armanni_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armantiship.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armantiship_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armap.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armap_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armarad.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armarad_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armart.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armart_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armaser.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armaser_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armason.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armason_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armassistdrone_land.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `Units/armasy.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armasy_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armatl.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armatl_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armatlas.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armatlas_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armavp.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armavp_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armawac.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armawac_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armbanth.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armbanth_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armbats.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armbats_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armbeamer.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armbeamer_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armbeaver.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armbeaver_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armblade.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armblade_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armbrawl.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armbrawl_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armbrtha.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armbrtha_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armbull.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armbull_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armca.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armca_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armcarry.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armcarry_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armch.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armch_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armcir.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armcir_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armck.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armck_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armckfus.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armckfus_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armclaw.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armclaw_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armcom.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armcom_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armcomhilvl.s3o` | _awaiting license_ | FireStorm | #3480 | 2026-09-01 |
+| `Units/armconsul.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armconsul_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armcroc.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armcroc_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armcrus.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armcrus_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armcs.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armcs_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armcsa.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armcsa_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/armcv.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armcv_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armdecade.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armdecade_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armdfly.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armdfly_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armdl.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armdl_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armdrag.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armdrone.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armdronecarry.s3o` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `Units/armdronecarry_dead.s3o` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `Units/armdronecarryland.s3o` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `Units/armdroneold.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armemp.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armemp_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armepoch.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armepoch_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armestor.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armestor_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armexcalibur.s3o` | _awaiting license_ | Hornet | #3390 | 2026-09-01 |
+| `Units/armexcalibur_dead.s3o` | _awaiting license_ | Hornet | #3390 | 2026-09-01 |
 | `Units/armeyes.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armeyes_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armfark.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfark_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfast.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfast_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfatf.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armfatf_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armfav.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armfav_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armfboy.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armfboy_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armfdrag.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfdrag_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armferret.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armferret_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armfflak.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfflak_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfhlt.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfhlt_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfhp.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfhp_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfido.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armfido_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armfify.s3o` | _awaiting license_ | Darknagura | #3872 | 2026-09-01 |
+| `Units/armfify_dead.s3o` | _awaiting license_ | Darknagura | #3872 | 2026-09-01 |
+| `Units/armfig.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfig_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armflak.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armflak_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armflash.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armflash_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armflea.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armflea_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `Units/armfmine3.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armfmkr.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfmkr_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armfort.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armfort_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armfrad.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfrad_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfrt.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfrt_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfus.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armfus_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armgate.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armgate_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armgatet3.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #4104 | 2026-09-01 |
+| `Units/armgatet3_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #4104 | 2026-09-01 |
+| `Units/armgeo.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armgeo_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armgmm.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armgmm_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armgremlin.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armgremlin_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armguard.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armguard_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armhaap.s3o` | _awaiting license_ | Cremuss | #5546 | 2026-09-01 |
+| `Units/armhaap_dead.s3o` | _awaiting license_ | Cremuss | #5546 | 2026-09-01 |
+| `Units/armhalab.s3o` | _awaiting license_ | Cremuss | #5546 | 2026-09-01 |
+| `Units/armhalab_dead.s3o` | _awaiting license_ | Cremuss | #5546 | 2026-09-01 |
+| `Units/armham.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armham_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armhasy.s3o` | _awaiting license_ | FireStorm | #5546 | 2026-09-01 |
+| `Units/armhasy_dead.s3o` | _awaiting license_ | FireStorm | #5546 | 2026-09-01 |
+| `Units/armhavp.s3o` | _awaiting license_ | Cremuss | #5546 | 2026-09-01 |
+| `Units/armhavp_dead.s3o` | _awaiting license_ | Cremuss | #5546 | 2026-09-01 |
+| `Units/armhawk.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armhawk_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armhlt.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armhlt_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armhp.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armhp_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armhvytrans.s3o` | _awaiting license_ | Protar | #3743 | 2026-09-01 |
+| `Units/armjam.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armjam_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armjamt.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armjamt_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armjanus.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armjanus_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armjeth.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armjeth_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `Units/armjuno.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armjuno_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armkam.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armkam_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armkraken.s3o` | _awaiting license_ | Zecrus | manual-audit | 2026-09-01 |
+| `Units/armkraken_dead.s3o` | _awaiting license_ | Zecrus | manual-audit | 2026-09-01 |
+| `Units/armlab.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armlab_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armlance.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armlance_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armlatnk.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armlatnk_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armliche.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armliche_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/armllt.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armllt_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armlship.s3o` | _awaiting license_ | mightyodin01 | manual-audit | 2026-09-01 |
+| `Units/armlship_dead.s3o` | _awaiting license_ | mightyodin01 | manual-audit | 2026-09-01 |
+| `Units/armlun.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armlun_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armlwall.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #2064 | 2026-09-01 |
+| `Units/armmanni.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armmanni_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armmar.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
 | `Units/armmar_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
-| `Units/armmercury.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
-| `Units/armmercury_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
-| `Units/armmh.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
-| `Units/armmh_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
-| `Units/armmine1.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
-| `Units/armmine2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
-| `Units/armmine3.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
-| `Units/armmlv.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
-| `Units/armmlv_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armmark.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armmark_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armmart.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armmart_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armmav.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armmav_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armmercury.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `Units/armmercury_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `Units/armmerl.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armmerl_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armmex.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armmex_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armmh.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `Units/armmh_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `Units/armmine1.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `Units/armmine2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `Units/armmine3.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `Units/armmls.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armmls_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armmlv.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `Units/armmlv_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `Units/armmmkr.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armmmkr_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armmmkrt3.s3o` | _awaiting license_ | Cremuss | #4524 | 2026-09-01 |
+| `Units/armmmkrt3_dead.s3o` | _awaiting license_ | Cremuss | #4524 | 2026-09-01 |
+| `Units/armmoho.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armmoho_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armmship.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armmship_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armmstor.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armmstor_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armnanot2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `Units/armnanotc.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armnanotc2plat.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `Units/armnanotc_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armnanotcplat.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armnanotcplat_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armnavaldefturret.s3o` | _awaiting license_ | ZephyrSkies | #5927 | 2026-09-01 |
+| `Units/armnavaldefturret_dead.s3o` | _awaiting license_ | ZephyrSkies | #5927 | 2026-09-01 |
 | `Units/armpb.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armpb_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armpeep.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armpeep_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armpincer.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armpincer_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armplat.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armplat_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armpnix.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armpnix_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armprowl.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
+| `Units/armpt.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armpt_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armpw.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armpw_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armrad.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armrad_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armraz.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
 | `Units/armraz_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
+| `Units/armrecl.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armrecl_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armrectr.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armrectr_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armrespawn.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `Units/armrl.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armrl_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armrock.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armrock_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armroy.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armroy_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsaber.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsaber_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armsam.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armsam_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armsat.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsb.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsb_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armscab.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armscab_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armsd.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armsd_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armseadragon.s3o` | _awaiting license_ | Hornet | #3390 | 2026-09-01 |
+| `Units/armseadragon_dead.s3o` | _awaiting license_ | Hornet | #3390 | 2026-09-01 |
+| `Units/armseap.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armseap_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armseer.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armseer_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsehak.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsehak_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armserp.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armserp_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsfig.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsfig2.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsfig_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armsh.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armsh_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armshltx.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armshltx_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armshockwave.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
+| `Units/armshockwave_dead.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
+| `Units/armsilo.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armsilo_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armsjam.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsjam_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsnipe.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armsnipe_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armsolar.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armsolar_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armsonar.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsonar_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armspid.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armspid_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armsptk.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsptk_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armspy.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armspy_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armstil.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armstil_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armstump.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armstump_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armsub.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsub_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsubk.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsubk_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsy.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armsy_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armtarg.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armtarg_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armthor.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armthor_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armthund.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armthund_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armtide.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armtide_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armtl.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armtl_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armtrident.s3o` | _awaiting license_ | Odin | #2872 | 2026-09-01 |
+| `Units/armtrident_dead.s3o` | _awaiting license_ | Odin | #2872 | 2026-09-01 |
+| `Units/armuwadves.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armuwadves_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armuwadvms.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armuwadvms_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armuwageo.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armuwes.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armuwes_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armuwfus.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armuwfus_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armuwgeo.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armuwmme.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armuwmme_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armuwmmm.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armuwmmm_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armuwms.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armuwms_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armvader.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armvader_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armvang.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armvang_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armveil.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armveil_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armvp.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armvp_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armvulc.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armvulc_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/armwar.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armwar_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armwin.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armwin_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armyork.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armyork_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armzapper.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armzeus.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armzeus_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/comeffigy.s3o` | _awaiting license_ | Mr Bob | #3267 | 2026-09-01 |
 | `Units/cor1X1A.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/cor1X1B.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor2X2A.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
+| `Units/cor2X2B.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor2X2C.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cor2X2D.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/cor2X2E.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor2X2F.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor3X3A.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/cor3X3B.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor3X3C.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor3X3D.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor3X3E.s3o` | _awaiting license_ | Zecrus | manual-audit | 2026-09-01 |
+| `Units/cor3X3F.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/cor4X4A.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor4X4B.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cor4X4C.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/cor4X4D.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor5X5A.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor5X5C.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor5X5D.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor6X6A.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor6X6B.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor6X6C.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor7X7A.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor7X7B.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor7X7D.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/coraak.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/coraak_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/coraap.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coraap_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coraaplat.s3o` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
+| `Units/coraaplat_dead.s3o` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
+| `Units/coraca.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coraca_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corack.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corack_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/coracsub.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/coracsub_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/coracv.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coracv_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coradvsol.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coradvsol_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coradvtorpedo.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corafus.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/corafus_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/corafust3.s3o` | _awaiting license_ | Cremuss | #4512 | 2026-09-01 |
+| `Units/corafust3_dead.s3o` | _awaiting license_ | Cremuss | #4512 | 2026-09-01 |
+| `Units/corageo.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/corageo_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/corah.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corah_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corak.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corak_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coralab.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coralab_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coramph.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/coramph_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/coramsub.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/coramsub_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/coranavaldefturret.s3o` | _awaiting license_ | ZephyrSkies | #5987 | 2026-09-01 |
+| `Units/coranavaldefturret_dead.s3o` | _awaiting license_ | ZephyrSkies | #5987 | 2026-09-01 |
+| `Units/corantiship.s3o` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `Units/corantiship_dead.s3o` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `Units/corap.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corap_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corape.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/corape_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/corarad.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corarad_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corarch.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corarch_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corason.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corason_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corassistdrone_land.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corasy.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corasy_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coratl.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coratl_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coravp.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coravp_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corawac.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corawac_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corban.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corban_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corbats.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corbats_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corbhmth.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corbhmth_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corblackhy.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corblackhy_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corbuzz.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corbuzz_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corbw.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corbw_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corca.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corca_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corcan.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/corcan_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/corcarry.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corcarry_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corcat.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/corcat_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/corch.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corch_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corck.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corck_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corcom.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corcom_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corcomhilvl.s3o` | _awaiting license_ | Mr Bob | #2820 | 2026-09-01 |
 | `Units/corcrash.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corcrash_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corcrus.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corcrus_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corcrw.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corcrw_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corcrwh.s3o` | _awaiting license_ | Mr Bob | #2296 | 2026-09-01 |
+| `Units/corcrwh_dead.s3o` | _awaiting license_ | Mr Bob | #2296 | 2026-09-01 |
+| `Units/corcs.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corcs_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corcsa.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corcsa_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corcut.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corcut_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corcv.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corcv_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cordeadeye.s3o` | _awaiting license_ | Kaludjo | #3546 | 2026-09-01 |
+| `Units/cordeadeye_dead.s3o` | _awaiting license_ | Kaludjo | #3546 | 2026-09-01 |
+| `Units/cordemon.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/cordemon_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/cordepthcharge.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/cordesolator.s3o` | _awaiting license_ | Hornet | #3390 | 2026-09-01 |
+| `Units/cordesolator_dead.s3o` | _awaiting license_ | Hornet | #3390 | 2026-09-01 |
+| `Units/cordl.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cordl_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cordoom.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cordoom_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cordrag.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cordrag_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cordrone.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cordronecarry.s3o` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `Units/cordronecarry_dead.s3o` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `Units/cordronecarryair.s3o` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `Units/cordroneold.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corenaa.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corenaa_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corerad.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corerad_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corestor.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corestor_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coresupp.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/coresupp_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/coreter.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/coreter_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corexp.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corexp_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coreyes.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/coreyes_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corfast.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corfatf.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfatf_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfav.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/corfav_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/corfdoom.s3o` | _awaiting license_ | Zecrus | manual-audit | 2026-09-01 |
+| `Units/corfdoom_dead.s3o` | _awaiting license_ | Zecrus | manual-audit | 2026-09-01 |
+| `Units/corfdrag.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfdrag_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfhlt.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfhlt_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfhp.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfhp_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfink.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfink_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corflak.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corflak_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfmd.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfmd_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfmine3.s3o` | _awaiting license_ | Tristan | manual-audit | 2026-09-01 |
+| `Units/corfmkr.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfmkr_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfort.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfort_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfrad.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfrad_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfrt.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfrt_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfship.s3o` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `Units/corfship_dead.s3o` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `Units/corfus.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfus_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corgant.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corgant_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corgarp.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/corgarp_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/corgate.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corgate_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corgatet3.s3o` | _awaiting license_ | Mr Bob | #4104 | 2026-09-01 |
+| `Units/corgatet3_dead.s3o` | _awaiting license_ | Mr Bob | #4104 | 2026-09-01 |
+| `Units/corgator.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corgator_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corgeo.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/corgeo_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/corgol.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corgol_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corhaap.s3o` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
+| `Units/corhaap_dead.s3o` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
 | `Units/corhal.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corhal_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corhalab.s3o` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
+| `Units/corhalab_dead.s3o` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
+| `Units/corhasy.s3o` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
+| `Units/corhasy_dead.s3o` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
+| `Units/corhavp.s3o` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
+| `Units/corhavp_dead.s3o` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
+| `Units/corhllt.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corhllt_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corhlt.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corhlt_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corhp.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corhp_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corhrk.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corhrk_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corhunt.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corhunt_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corhurc.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corhurc_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corhvytrans.s3o` | _awaiting license_ | Protar | #3743 | 2026-09-01 |
+| `Units/corint.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corint_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corjamt.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corjamt_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corjugg.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/corjugg_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/corjuno.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corjuno_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corkarg.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/corkarg_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/corkark.s3o` | _awaiting license_ | FireStorm | #4317 | 2026-09-01 |
+| `Units/corkark_dead.s3o` | _awaiting license_ | FireStorm | #4317 | 2026-09-01 |
+| `Units/corkorg.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/corkorg_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/corlab.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corlab_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corlevlr.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corlevlr_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corllt.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corllt_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cormabm.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/cormabm_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/cormadsam.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormadsam_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormakr.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormakr_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormando.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/cormando_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/cormart.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormart_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormaw.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormaw_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormex.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormex_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormexp.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormexp_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cormh.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/cormh_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/cormine1.s3o` | _awaiting license_ | Tristan | manual-audit | 2026-09-01 |
+| `Units/cormine2.s3o` | _awaiting license_ | Tristan | manual-audit | 2026-09-01 |
+| `Units/cormine3.s3o` | _awaiting license_ | Tristan | manual-audit | 2026-09-01 |
+| `Units/cormist.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormist_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cormls.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/cormls_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormlv.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormlv_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormmkr.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormmkr_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormmkrt3.s3o` | _awaiting license_ | Mr Bob | #4524 | 2026-09-01 |
+| `Units/cormmkrt3_dead.s3o` | _awaiting license_ | Mr Bob | #4524 | 2026-09-01 |
+| `Units/cormoho.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormoho_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormort.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/cormort_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/cormship.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/cormship_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/cormstor.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormstor_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormuskrat.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormuskrat_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormwall.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #2064 | 2026-09-01 |
 | `Units/cornanot2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/cornanotc.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cornanotc2plat.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `Units/cornanotc_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cornanotcplat.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/cornanotcplat_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/cornavaldefturret.s3o` | _awaiting license_ | ZephyrSkies | #5927 | 2026-09-01 |
+| `Units/cornavaldefturret_dead.s3o` | _awaiting license_ | ZephyrSkies | #5927 | 2026-09-01 |
 | `Units/cornecro.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/cornecro_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/coronager.s3o` | _awaiting license_ | Hornet | #3390 | 2026-09-01 |
+| `Units/coronager_dead.s3o` | _awaiting license_ | Hornet | #3390 | 2026-09-01 |
 | `Units/corparrow.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corparrow_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corphantom.s3o` | _awaiting license_ | Hornet | #3541 | 2026-09-01 |
+| `Units/corphantom_dead.s3o` | _awaiting license_ | Hornet | #3541 | 2026-09-01 |
 | `Units/corplat.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corplat_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corprinter.s3o` | _awaiting license_ | MASHUP | manual-audit | 2026-09-01 |
+| `Units/corprinter_dead.s3o` | _awaiting license_ | MASHUP | manual-audit | 2026-09-01 |
 | `Units/corpship.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `Units/corpship_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `Units/corpt.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corpt_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corpun.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corpun_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
-| `Units/corpyro.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
-| `Units/corpyro_dead.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `Units/corpyro.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `Units/corpyro_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `Units/corrad.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corrad_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corraid.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
@@ -182,12 +800,14 @@ Total assets recorded: **533**
 | `Units/correap_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/correcl.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/correcl_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/correspawn.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `Units/corrl.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corrl_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corroach.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corroach_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corroy.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corroy_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corsala.s3o` | _awaiting license_ | Itanthias | manual-audit | 2026-09-01 |
 | `Units/corsat.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corsb.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsb_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
@@ -199,11 +819,15 @@ Total assets recorded: **533**
 | `Units/corseah.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corseah_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corseal.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corseal_dead.s3o` | _awaiting license_ | Itanthias | manual-audit | 2026-09-01 |
 | `Units/corseap.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corseap_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsent.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corsent_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corsentinel.s3o` | _awaiting license_ | Odin | #2872 | 2026-09-01 |
+| `Units/corsentinel_dead.s3o` | _awaiting license_ | Odin | #2872 | 2026-09-01 |
 | `Units/corsfig.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corsfig2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `Units/corsfig_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsh.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsh_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
@@ -211,8 +835,13 @@ Total assets recorded: **533**
 | `Units/corshad_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corshark.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corshark_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/corshiprocket.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/corshiva.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/corshiva_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `Units/corshroud.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corshroud_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corsiegebreaker.s3o` | _awaiting license_ | Hornet | #2889 | 2026-09-01 |
+| `Units/corsiegebreaker_dead.s3o` | _awaiting license_ | Hornet | #2889 | 2026-09-01 |
 | `Units/corsilo.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corsilo_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corsjam.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
@@ -221,12 +850,14 @@ Total assets recorded: **533**
 | `Units/corsktl_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsnap.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsnap_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
-| `Units/corsok.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-06-16 |
-| `Units/corsok_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-06-16 |
+| `Units/corsok.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/corsok_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/corsolar.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corsolar_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corsonar.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corsonar_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corspec.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/corspec_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/corspy.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corspy_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corssub.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
@@ -235,6 +866,8 @@ Total assets recorded: **533**
 | `Units/corstorm_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corsub.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corsub_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corsumo.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/corsumo_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `Units/corsy.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corsy_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/cortarg.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
@@ -243,6 +876,8 @@ Total assets recorded: **533**
 | `Units/cortermite_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corthovr.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `Units/corthovr_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `Units/corthud.s3o` | _awaiting license_ | jjackVII | manual-audit | 2026-09-01 |
+| `Units/corthud_dead.s3o` | _awaiting license_ | jjackVII | manual-audit | 2026-09-01 |
 | `Units/cortide.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/cortide_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/cortitan.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
@@ -251,6 +886,7 @@ Total assets recorded: **533**
 | `Units/cortl_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/cortoast.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/cortoast_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/cortorpedo.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/cortrem.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/cortrem_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/cortron.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
@@ -262,10 +898,12 @@ Total assets recorded: **533**
 | `Units/coruwadves_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/coruwadvms.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/coruwadvms_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/coruwageo.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/coruwes.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/coruwes_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/coruwfus.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/coruwfus_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/coruwgeo.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/coruwmme.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/coruwmme_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/coruwmmm.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
@@ -280,6 +918,8 @@ Total assets recorded: **533**
 | `Units/corveng_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corvipe.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corvipe_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corvoyr.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/corvoyr_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/corvp.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corvp_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corvrad.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
@@ -291,17 +931,441 @@ Total assets recorded: **533**
 | `Units/corwin_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corwolv.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corwolv_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
-| `Units/freefusion.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-06-16 |
-| `Units/freefusion_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-06-16 |
-| `Units/mission_command_tower.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-06-16 |
-| `Units/mission_command_tower_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-06-16 |
-| `Units/scavboss/corcomboss.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
-| `Units/scavboss/corcomboss_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
-| `Units/unused/old_bladew.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/event/aprilfools/armbull.s3o` | _awaiting license_ | FireStorm | #5997 | 2026-09-01 |
+| `Units/event/aprilfools/armcv.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #5997 | 2026-09-01 |
+| `Units/event/aprilfools/armham.s3o` | _awaiting license_ | Kaiser | #5997 | 2026-09-01 |
+| `Units/event/aprilfools/armllt.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #5997 | 2026-09-01 |
+| `Units/event/aprilfools/armpw.s3o` | _awaiting license_ | Kaiser | #5997 | 2026-09-01 |
+| `Units/event/aprilfools/armrock.s3o` | _awaiting license_ | Kaiser | #5997 | 2026-09-01 |
+| `Units/event/aprilfools/armwin.s3o` | _awaiting license_ | Cremuss | #5997 | 2026-09-01 |
+| `Units/event/aprilfools/corack.s3o` | _awaiting license_ | Mr Bob | #5997 | 2026-09-01 |
+| `Units/event/aprilfools/corak.s3o` | _awaiting license_ | Mr Bob | #5997 | 2026-09-01 |
+| `Units/event/aprilfools/corck.s3o` | _awaiting license_ | Mr Bob | #5997 | 2026-09-01 |
+| `Units/event/aprilfools/cordemon.s3o` | _awaiting license_ | FireStorm | #5997 | 2026-09-01 |
+| `Units/event/aprilfools/corhllt.s3o` | _awaiting license_ | Mr Bob | #5997 | 2026-09-01 |
+| `Units/event/aprilfools/corllt.s3o` | _awaiting license_ | Mr Bob | #5997 | 2026-09-01 |
+| `Units/event/aprilfools/corstorm.s3o` | _awaiting license_ | Mr Bob | #5997 | 2026-09-01 |
+| `Units/event/aprilfools/corwin.s3o` | _awaiting license_ | Mr Bob | #5997 | 2026-09-01 |
+| `Units/event/halloween/armcom.s3o` | _awaiting license_ | FireStorm | #6006 | 2026-09-01 |
+| `Units/event/halloween/armrectr.s3o` | _awaiting license_ | Kaiser | #6006 | 2026-09-01 |
+| `Units/event/halloween/armspy.s3o` | _awaiting license_ | FireStorm | #6006 | 2026-09-01 |
+| `Units/event/halloween/corcom.s3o` | _awaiting license_ | Mr Bob | #6006 | 2026-09-01 |
+| `Units/event/halloween/correap.s3o` | _awaiting license_ | Mr Bob | #6006 | 2026-09-01 |
+| `Units/event/halloween/legcom.s3o` | _awaiting license_ | Tharsis | #6006 | 2026-09-01 |
+| `Units/event/halloween/leggob.s3o` | _awaiting license_ | Odin | #6006 | 2026-09-01 |
+| `Units/event/xmas/armcom.s3o` | _awaiting license_ | FireStorm | #5997 | 2026-09-01 |
+| `Units/event/xmas/corcom.s3o` | _awaiting license_ | Mr Bob | #5997 | 2026-09-01 |
+| `Units/freefusion.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/freefusion_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/legaabot.s3o` | _awaiting license_ | ZephyrSkies | #5061 | 2026-09-01 |
+| `Units/legaabot_dead.s3o` | _awaiting license_ | ZephyrSkies | #5061 | 2026-09-01 |
+| `Units/legaap_dead.s3o` | _awaiting license_ | Cremuss | #4074 | 2026-09-01 |
+| `Units/legabm.s3o` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
+| `Units/legabm_dead.s3o` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
+| `Units/legaca.s3o` | _awaiting license_ | ZephyrSkies | #5124 | 2026-09-01 |
+| `Units/legaceb.s3o` | _awaiting license_ | Tharsis | #3409 | 2026-09-01 |
+| `Units/legaceb_dead.s3o` | _awaiting license_ | Tharsis | #3409 | 2026-09-01 |
+| `Units/legack.s3o` | _awaiting license_ | Tharsis | #2835 | 2026-09-01 |
+| `Units/legack_dead.s3o` | _awaiting license_ | Mr Bob | #2835 | 2026-09-01 |
+| `Units/legacluster.s3o` | _awaiting license_ | ZephyrSkies | #3056 | 2026-09-01 |
+| `Units/legacluster_dead.s3o` | _awaiting license_ | ZephyrSkies | #3056 | 2026-09-01 |
+| `Units/legacv.s3o` | _awaiting license_ | ZephyrSkies | #4790 | 2026-09-01 |
+| `Units/legacv_dead.s3o` | _awaiting license_ | FireStorm | #4790 | 2026-09-01 |
+| `Units/legadvaabot.s3o` | _awaiting license_ | Johnathan Crimson | #5189 | 2026-09-01 |
+| `Units/legadvaabot_dead.s3o` | _awaiting license_ | Johnathan Crimson | #5189 | 2026-09-01 |
+| `Units/legadveconv.s3o` | _awaiting license_ | Protar | #4393 | 2026-09-01 |
+| `Units/legadveconv_dead.s3o` | _awaiting license_ | Protar | #4393 | 2026-09-01 |
+| `Units/legadveconvt3.s3o` | _awaiting license_ | Protar | #4524 | 2026-09-01 |
+| `Units/legadveconvt3_dead.s3o` | _awaiting license_ | Protar | #4524 | 2026-09-01 |
+| `Units/legadvestore.s3o` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
+| `Units/legadvestore_dead.s3o` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
+| `Units/legadvshipyard.s3o` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
+| `Units/legadvshipyard_dead.s3o` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
+| `Units/legadvsol.s3o` | _awaiting license_ | EnderRobo | #2818 | 2026-09-01 |
+| `Units/legadvsol_dead.s3o` | _awaiting license_ | EnderRobo | #2818 | 2026-09-01 |
+| `Units/legafcv.s3o` | _awaiting license_ | ZephyrSkies | #4860 | 2026-09-01 |
+| `Units/legafcv_dead.s3o` | _awaiting license_ | ZephyrSkies | #4860 | 2026-09-01 |
+| `Units/legafigdef.s3o` | _awaiting license_ | ZephyrSkies | #5124 | 2026-09-01 |
+| `Units/legafus.s3o` | _awaiting license_ | Protar | #4155 | 2026-09-01 |
+| `Units/legafus_dead.s3o` | _awaiting license_ | Protar | #4155 | 2026-09-01 |
+| `Units/legafust3.s3o` | _awaiting license_ | Protar | #4512 | 2026-09-01 |
+| `Units/legafust3_dead.s3o` | _awaiting license_ | Protar | #4512 | 2026-09-01 |
+| `Units/legageo.s3o` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
+| `Units/legah.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `Units/legah_dead.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `Units/legaheattank.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
+| `Units/legaheattank_dead.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
+| `Units/legajam.s3o` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
+| `Units/legajam_dead.s3o` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
+| `Units/legalab_dead.s3o` | _awaiting license_ | Cremuss | #4074 | 2026-09-01 |
+| `Units/legamcluster.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
+| `Units/legamcluster_dead.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
+| `Units/legamph.s3o` | _awaiting license_ | Johanthan Crimson | #4829 | 2026-09-01 |
+| `Units/legamph_dead.s3o` | _awaiting license_ | Johanthan Crimson | #4829 | 2026-09-01 |
+| `Units/legamphtank.s3o` | _awaiting license_ | ZephyrSkies | #3144 | 2026-09-01 |
+| `Units/legamphtank_dead.s3o` | _awaiting license_ | ZephyrSkies | #3144 | 2026-09-01 |
+| `Units/legamstor.s3o` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
+| `Units/legamstor_dead.s3o` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
+| `Units/leganavaldefturret.s3o` | _awaiting license_ | ZephyrSkies | #5987 | 2026-09-01 |
+| `Units/leganavaldefturret_dead.s3o` | _awaiting license_ | ZephyrSkies | #5987 | 2026-09-01 |
+| `Units/leganavalfusion.s3o` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
+| `Units/leganavalfusion_dead.s3o` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
+| `Units/leganavalmex.s3o` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
+| `Units/leganavalmex_dead.s3o` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
+| `Units/leganavyantinukecarrier.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/leganavyantinukecarrier_dead.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/leganavyantiswarm.s3o` | _awaiting license_ | EnderRobo | #6423 | 2026-09-01 |
+| `Units/leganavyantiswarm_dead.s3o` | _awaiting license_ | EnderRobo | #6423 | 2026-09-01 |
+| `Units/leganavyartyship.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/leganavyartyship_dead.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/leganavybattleship.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/leganavybattleship_dead.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/leganavybattlesub.s3o` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
+| `Units/leganavybattlesub_dead.s3o` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
+| `Units/leganavyconsub.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/leganavyconsub_dead.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/leganavycruiser.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/leganavycruiser_dead.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/leganavyengineer.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/leganavyengineer_dead.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/leganavyflagship.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/leganavyflagship_dead.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/leganavyheavysub.s3o` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
+| `Units/leganavyheavysub_dead.s3o` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
+| `Units/leganavymissileship.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/leganavymissileship_dead.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/leganavyradjamship.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #6423 | 2026-09-01 |
+| `Units/leganavyradjamship_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #6423 | 2026-09-01 |
+| `Units/legarad.s3o` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
+| `Units/legarad_dead.s3o` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
+| `Units/legaskirmtank.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
+| `Units/legaskirmtank_dead.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
+| `Units/legassistdrone_land.s3o` | _awaiting license_ | ZephyrSkies | #6128 | 2026-09-01 |
+| `Units/legatorpbomber.s3o` | _awaiting license_ | ZephyrSkies | #4117 | 2026-09-01 |
+| `Units/legatrans.s3o` | _awaiting license_ | ZephyrSkies | #3046 | 2026-09-01 |
+| `Units/legavantinuke.s3o` | _awaiting license_ | ZephyrSkies | #6545 | 2026-09-01 |
+| `Units/legavantinuke_dead.s3o` | _awaiting license_ | ZephyrSkies | #6545 | 2026-09-01 |
+| `Units/legavjam.s3o` | _awaiting license_ | ZephyrSkies | #4164 | 2026-09-01 |
+| `Units/legavjam_dead.s3o` | _awaiting license_ | ZephyrSkies | #4164 | 2026-09-01 |
+| `Units/legavp.s3o` | _awaiting license_ | ZephyrSkies | #4141 | 2026-09-01 |
+| `Units/legavp_dead.s3o` | _awaiting license_ | Cremuss | #4141 | 2026-09-01 |
+| `Units/legavrad.s3o` | _awaiting license_ | ZephyrSkies | #4164 | 2026-09-01 |
+| `Units/legavrad_dead.s3o` | _awaiting license_ | ZephyrSkies | #4164 | 2026-09-01 |
+| `Units/legavroc.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
+| `Units/legavroc_dead.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
+| `Units/legbal.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legbal_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legbar.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legbar_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legbastion.s3o` | _awaiting license_ | Gabs | manual-audit | 2026-09-01 |
+| `Units/legbastion_dead.s3o` | _awaiting license_ | Gabs | manual-audit | 2026-09-01 |
+| `Units/legbombard.s3o` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
+| `Units/legbombard_dead.s3o` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
+| `Units/legbunk.s3o` | _awaiting license_ | Johanthan Crimson | #4613 | 2026-09-01 |
+| `Units/legbunk_dead.s3o` | _awaiting license_ | Johanthan Crimson | #4613 | 2026-09-01 |
+| `Units/legca.s3o` | _awaiting license_ | ZephyrSkies | #3046 | 2026-09-01 |
+| `Units/legcar.s3o` | _awaiting license_ | EnderRobo | #3343 | 2026-09-01 |
+| `Units/legcar_dead.s3o` | _awaiting license_ | EnderRobo | #3343 | 2026-09-01 |
+| `Units/legcen.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legcen_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legch.s3o` | _awaiting license_ | EnderRobo | #3988 | 2026-09-01 |
+| `Units/legch_dead.s3o` | _awaiting license_ | EnderRobo | #3988 | 2026-09-01 |
+| `Units/legcib.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `Units/legck.s3o` | _awaiting license_ | Tharsis | #3270 | 2026-09-01 |
+| `Units/legck_dead.s3o` | _awaiting license_ | Tharsis | #3270 | 2026-09-01 |
+| `Units/legcluster.s3o` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `Units/legcluster_dead.s3o` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `Units/legcom.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legcom_dead.s3o` | _awaiting license_ | Tharsis | #3838 | 2026-09-01 |
+| `Units/legcomlvl2.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legcomlvl3.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legcomlvl4.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legcomoff.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/legcomt2com.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/legctl.s3o` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `Units/legctl_dead.s3o` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `Units/legcv.s3o` | _awaiting license_ | Tharsis | #3049 | 2026-09-01 |
+| `Units/legcv_dead.s3o` | _awaiting license_ | Tharsis | #3049 | 2026-09-01 |
+| `Units/legdeflector.s3o` | _awaiting license_ | Gabs | #4393 | 2026-09-01 |
+| `Units/legdeflector_dead.s3o` | _awaiting license_ | Gabs | #4393 | 2026-09-01 |
+| `Units/legdrag.s3o` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `Units/legdrag_dead.s3o` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `Units/legdrone.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legdtr.s3o` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `Units/legdtr_dead.s3o` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `Units/legeconv.s3o` | _awaiting license_ | Protar | #3373 | 2026-09-01 |
+| `Units/legeconv_dead.s3o` | _awaiting license_ | Protar | #3373 | 2026-09-01 |
+| `Units/legehovertank.s3o` | _awaiting license_ | Gabs | #5357 | 2026-09-01 |
+| `Units/legehovertank_dead.s3o` | _awaiting license_ | Gabs | #5357 | 2026-09-01 |
+| `Units/legerailtank.s3o` | _awaiting license_ | ZephyrSkies | #4089 | 2026-09-01 |
+| `Units/legerailtank_dead.s3o` | _awaiting license_ | ZephyrSkies | #4089 | 2026-09-01 |
+| `Units/legeshotgunmech.s3o` | _awaiting license_ | Ghoulish | #4382 | 2026-09-01 |
+| `Units/legeshotgunmech_dead.s3o` | _awaiting license_ | Ghoulish | #4382 | 2026-09-01 |
+| `Units/legestor.s3o` | _awaiting license_ | Protar | #3689 | 2026-09-01 |
+| `Units/legestor_dead.s3o` | _awaiting license_ | Protar | #3689 | 2026-09-01 |
+| `Units/legevocom1.s3o` | _awaiting license_ | Tharsis | #3837 | 2026-09-01 |
+| `Units/legevocom2.s3o` | _awaiting license_ | Tharsis | #3837 | 2026-09-01 |
+| `Units/legevocom3.s3o` | _awaiting license_ | Tharsis | #3837 | 2026-09-01 |
+| `Units/legeyes.s3o` | _awaiting license_ | NebuchadnezzarII | #3730 | 2026-09-01 |
+| `Units/legfdrag.s3o` | _awaiting license_ | Tharsis | #5058 | 2026-09-01 |
+| `Units/legfhive.s3o` | _awaiting license_ | Zephyr | #3222 | 2026-09-01 |
+| `Units/legfhive_dead.s3o` | _awaiting license_ | Zephyr | #3222 | 2026-09-01 |
+| `Units/legfig.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `Units/legflak.s3o` | _awaiting license_ | Tharsis | #2728 | 2026-09-01 |
+| `Units/legflak_dead.s3o` | _awaiting license_ | Tharsis | #2728 | 2026-09-01 |
+| `Units/legfloat.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `Units/legfloat_dead.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `Units/legfmg.s3o` | _awaiting license_ | ZephyrSkies | #4904 | 2026-09-01 |
+| `Units/legfmg_dead.s3o` | _awaiting license_ | ZephyrSkies | #4904 | 2026-09-01 |
+| `Units/legfort.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legforti.s3o` | _awaiting license_ | Tharsis | #3906 | 2026-09-01 |
+| `Units/legfrad.s3o` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `Units/legfrad_dead.s3o` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `Units/legfrl.s3o` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `Units/legfrl_dead.s3o` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `Units/legfus.s3o` | _awaiting license_ | Protar | #4158 | 2026-09-01 |
+| `Units/legfus_dead.s3o` | _awaiting license_ | Protar | #4158 | 2026-09-01 |
+| `Units/leggant.s3o` | _awaiting license_ | Protar | #5136 | 2026-09-01 |
+| `Units/leggant_dead.s3o` | _awaiting license_ | Protar | #5136 | 2026-09-01 |
+| `Units/leggat.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `Units/leggat_dead.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `Units/leggatet3.s3o` | _awaiting license_ | Protar | #4292 | 2026-09-01 |
+| `Units/leggatet3_dead.s3o` | _awaiting license_ | Protar | #4292 | 2026-09-01 |
+| `Units/leggeo.s3o` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
+| `Units/leggeo_dead.s3o` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
+| `Units/leggob.s3o` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `Units/leggob_dead.s3o` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `Units/leghades.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/leghades_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/leghalab.s3o` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
+| `Units/leghalab_dead.s3o` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
+| `Units/leghavp.s3o` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
+| `Units/leghavp_dead.s3o` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
+| `Units/legheavydrone.s3o` | _awaiting license_ | Tharsis | #3569 | 2026-09-01 |
+| `Units/legheavydronesmall.s3o` | _awaiting license_ | Tharsis | #5357 | 2026-09-01 |
+| `Units/leghelios.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `Units/leghelios_dead.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `Units/leghive.s3o` | _awaiting license_ | Zephyr | #3222 | 2026-09-01 |
+| `Units/leghive_dead.s3o` | _awaiting license_ | Zephyr | #3222 | 2026-09-01 |
+| `Units/leghp.s3o` | _awaiting license_ | Protar | #4169 | 2026-09-01 |
+| `Units/leghp_dead.s3o` | _awaiting license_ | Protar | #4169 | 2026-09-01 |
+| `Units/leghrk.s3o` | _awaiting license_ | Tharsis | #5034 | 2026-09-01 |
+| `Units/leghrk_dead.s3o` | _awaiting license_ | Tharsis | #5034 | 2026-09-01 |
+| `Units/legionnaire.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
+| `Units/legjam.s3o` | _awaiting license_ | ZephyrSkies | #2997 | 2026-09-01 |
+| `Units/legjam_dead.s3o` | _awaiting license_ | ZephyrSkies | #2997 | 2026-09-01 |
+| `Units/legjav.s3o` | _awaiting license_ | Tharsis | #4073 | 2026-09-01 |
+| `Units/legjav_dead.s3o` | _awaiting license_ | Tharsis | #4073 | 2026-09-01 |
+| `Units/legjuno.s3o` | _awaiting license_ | Georodin | #5072 | 2026-09-01 |
+| `Units/legjuno_dead.s3o` | _awaiting license_ | Georodin | #5072 | 2026-09-01 |
+| `Units/legkam.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `Units/legkark.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legkark_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legkeres.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `Units/legkeres_dead.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `Units/leglab.s3o` | _awaiting license_ | Tharsis | #3343 | 2026-09-01 |
+| `Units/leglab_dead.s3o` | _awaiting license_ | Tharsis | #3343 | 2026-09-01 |
+| `Units/leglht.s3o` | _awaiting license_ | ZephyrSkies | #2876 | 2026-09-01 |
+| `Units/leglht_dead.s3o` | _awaiting license_ | ZephyrSkies | #2876 | 2026-09-01 |
+| `Units/leglob.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/leglob_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/leglraa.s3o` | _awaiting license_ | Mr Bob | #3056 | 2026-09-01 |
+| `Units/leglraa_dead.s3o` | _awaiting license_ | Mr Bob | #3056 | 2026-09-01 |
+| `Units/leglrpc.s3o` | _awaiting license_ | ZephyrSkies | #3056 | 2026-09-01 |
+| `Units/leglrpc_dead.s3o` | _awaiting license_ | ZephyrSkies | #3056 | 2026-09-01 |
+| `Units/leglts.s3o` | _awaiting license_ | Tharsis | #4369 | 2026-09-01 |
+| `Units/leglupara.s3o` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `Units/leglupara_dead.s3o` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `Units/legmech.s3o` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-01 |
+| `Units/legmech_dead.s3o` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-01 |
+| `Units/legmex.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `Units/legmex_dead.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `Units/legmext15.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `Units/legmext15_dead.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `Units/legmg.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `Units/legmg_dead.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `Units/legmh.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `Units/legmh_dead.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `Units/legmine1.s3o` | _awaiting license_ | Tharsis | #4262 | 2026-09-01 |
+| `Units/legmine2.s3o` | _awaiting license_ | Tharsis | #4262 | 2026-09-01 |
+| `Units/legmine3.s3o` | _awaiting license_ | Tharsis | #4262 | 2026-09-01 |
+| `Units/legmineb.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legmlv.s3o` | _awaiting license_ | Tharsis | #3144 | 2026-09-01 |
+| `Units/legmlv_dead.s3o` | _awaiting license_ | Tharsis | #3144 | 2026-09-01 |
+| `Units/legmoho.s3o` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
+| `Units/legmoho_dead.s3o` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
+| `Units/legmohobp.s3o` | _awaiting license_ | Protar | #3516 | 2026-09-01 |
+| `Units/legmohobpct.s3o` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
+| `Units/legmos.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legmost3.s3o` | _awaiting license_ | Tharsis | #3887 | 2026-09-01 |
+| `Units/legmrv.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `Units/legmrv_dead.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `Units/legmstor.s3o` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
+| `Units/legmstor_dead.s3o` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
+| `Units/legnanotc.s3o` | _awaiting license_ | Tharsis | #3627 | 2026-09-01 |
+| `Units/legnanotcbase.s3o` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
+| `Units/legnanotcplat.s3o` | _awaiting license_ | Tharsis | #3627 | 2026-09-01 |
+| `Units/legnanotct2.s3o` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
+| `Units/legnanotct2plat.s3o` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
+| `Units/legnap.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/legnavaldefturret.s3o` | _awaiting license_ | ZephyrSkies | #5927 | 2026-09-01 |
+| `Units/legnavaldefturret_dead.s3o` | _awaiting license_ | ZephyrSkies | #5927 | 2026-09-01 |
+| `Units/legnavyaaship.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
+| `Units/legnavyaaship_dead.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
+| `Units/legnavyartyship.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
+| `Units/legnavyartyship_dead.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
+| `Units/legnavydestro.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
+| `Units/legnavydestro_dead.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
+| `Units/legnavyfrigate.s3o` | _awaiting license_ | EnderRobo | #6123 | 2026-09-01 |
+| `Units/legnavyfrigate_dead.s3o` | _awaiting license_ | EnderRobo | #6123 | 2026-09-01 |
+| `Units/legner.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `Units/legner_dead.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `Units/legotter.s3o` | _awaiting license_ | ZephyrSkies | #3049 | 2026-09-01 |
+| `Units/legotter_dead.s3o` | _awaiting license_ | ZephyrSkies | #3144 | 2026-09-01 |
+| `Units/legpede.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/legpede_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/legperdition.s3o` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
+| `Units/legperdition_dead.s3o` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
+| `Units/legrad.s3o` | _awaiting license_ | ZephyrSkies | #2997 | 2026-09-01 |
+| `Units/legrad_dead.s3o` | _awaiting license_ | ZephyrSkies | #2997 | 2026-09-01 |
+| `Units/legrail.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legrail_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legrampart.s3o` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
+| `Units/legrhapsis.s3o` | _awaiting license_ | ZephyrSkies | #3021 | 2026-09-01 |
+| `Units/legrhapsis_dead.s3o` | _awaiting license_ | ZephyrSkies | #3021 | 2026-09-01 |
+| `Units/legrl.s3o` | _awaiting license_ | ZephyrSkies | #3021 | 2026-09-01 |
+| `Units/legrl_dead.s3o` | _awaiting license_ | ZephyrSkies | #3021 | 2026-09-01 |
+| `Units/legrwall.s3o` | _awaiting license_ | Tharsis | #3906 | 2026-09-01 |
+| `Units/legscout.s3o` | _awaiting license_ | Flaka | #3144 | 2026-09-01 |
+| `Units/legscout_dead.s3o` | _awaiting license_ | Flaka | #3144 | 2026-09-01 |
+| `Units/legsd.s3o` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
+| `Units/legsd_dead.s3o` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
+| `Units/legsh.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `Units/legsh_dead.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `Units/legsilo.s3o` | _awaiting license_ | Tharsy | #3056 | 2026-09-01 |
+| `Units/legsilo_dead.s3o` | _awaiting license_ | Tharsy | #3056 | 2026-09-01 |
+| `Units/legsnapper.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
+| `Units/legsnapper_dead.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
+| `Units/legsolar.s3o` | _awaiting license_ | Hornet | #2723 | 2026-09-01 |
+| `Units/legsolar_dead.s3o` | _awaiting license_ | Hornet | #2723 | 2026-09-01 |
+| `Units/legspbomber.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/legspcarrier.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/legspcon.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/legspfighter.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/legsplab.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/legspradarsonarplane.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/legspsurfacegunship.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/legsptorpgunship.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `Units/legsrail.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legsrail_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legstarfall.s3o` | _awaiting license_ | ZephyrSkies | #2266 | 2026-09-01 |
+| `Units/legstarfall_dead.s3o` | _awaiting license_ | ZephyrSkies | #2266 | 2026-09-01 |
+| `Units/legstr.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legstr_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legstronghold.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legsy.s3o` | _awaiting license_ | Tharsis | #6123 | 2026-09-01 |
+| `Units/legsy_dead.s3o` | _awaiting license_ | Tharsis | #6123 | 2026-09-01 |
+| `Units/legtide.s3o` | _awaiting license_ | Mr Bob | #4951 | 2026-09-01 |
+| `Units/legtide_dead.s3o` | _awaiting license_ | Mr Bob | #4951 | 2026-09-01 |
+| `Units/legtl.s3o` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `Units/legtl_dead.s3o` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `Units/legvenator.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legvflak.s3o` | _awaiting license_ | Tharsis | #4178 | 2026-09-01 |
+| `Units/legvflak_dead.s3o` | _awaiting license_ | Tharsis | #4178 | 2026-09-01 |
+| `Units/legvision.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/legwhisper.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `Units/legwin.s3o` | _awaiting license_ | Yzch | manual-audit | 2026-09-01 |
+| `Units/legwin_dead.s3o` | _awaiting license_ | Yzch | manual-audit | 2026-09-01 |
+| `Units/mission_command_tower.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/mission_command_tower_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/scavboss/armassimilator.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
+| `Units/scavboss/armassimilator_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
+| `Units/scavboss/armassistdrone.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armcomboss.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armcomboss_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armdecadet3.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armdecadet3_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armfepocht4.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armfepocht4_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armlichet4.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/scavboss/armlunchbox.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/scavboss/armlunchbox_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/scavboss/armmeatball.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
+| `Units/scavboss/armmeatball_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
+| `Units/scavboss/armminebomber.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armptt2.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armptt2_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armpwt4.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/scavboss/armpwt4_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/scavboss/armrattet4.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/scavboss/armrattet4_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/scavboss/armscavengerbossv2.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armserpt3.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armserpt3_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armsptkt4.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armsptkt4_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armthundt4.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armvadert4.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/corakt4.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavboss/corakt4_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavboss/corassistdrone.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavboss/corcomboss.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavboss/corcomboss_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavboss/corcrwt4.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavboss/corfblackhyt4.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `Units/scavboss/corfblackhyt4_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `Units/scavboss/corforge.s3o` | _awaiting license_ | MASHUP | manual-audit | 2026-09-01 |
+| `Units/scavboss/corforge_dead.s3o` | _awaiting license_ | MASHUP | manual-audit | 2026-09-01 |
+| `Units/scavboss/corftiger.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavboss/corftiger_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavboss/corgatreap.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavboss/corgatreap_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavboss/corgolt4.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavboss/corgolt4_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavboss/corkarganetht4.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/scavboss/corkarganetht4_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/scavboss/corslrpc.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavboss/corslrpc_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavboss/corthermite.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #2239 | 2026-09-01 |
+| `Units/scavboss/corthermite_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #2239 | 2026-09-01 |
+| `Units/scavboss/cortorch.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/scavboss/cortorch_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/scavboss/corvac.s3o` | _awaiting license_ | Kyle Shepherd | manual-audit | 2026-09-01 |
+| `Units/scavboss/corvacct.s3o` | _awaiting license_ | Kyle Shepherd | manual-audit | 2026-09-01 |
+| `Units/scavboss/legassistdrone.s3o` | _awaiting license_ | ZephyrSkies | #6128 | 2026-09-01 |
+| `Units/scavboss/legfortt4.s3o` | _awaiting license_ | Tharsis | #3828 | 2026-09-01 |
+| `Units/scavboss/leggobt3.s3o` | _awaiting license_ | Odin | #3888 | 2026-09-01 |
+| `Units/scavboss/leggobt3_dead.s3o` | _awaiting license_ | Odin | #3888 | 2026-09-01 |
+| `Units/scavboss/legsrailt4.s3o` | _awaiting license_ | Tharsis | #3846 | 2026-09-01 |
+| `Units/scavboss/legsrailt4_dead.s3o` | _awaiting license_ | Tharsis | #3846 | 2026-09-01 |
+| `Units/scavboss/scavengerbossv4.s3o` | _awaiting license_ | FireStorm | #3080 | 2026-09-01 |
+| `Units/scavbuildings/armannit3.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/armannit3_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/armapt3.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/armapt3_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/armminivulc.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/armminivulc_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/armwint2.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/armwint2_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/corapt3.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/corapt3_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/cordoomt3.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/cordoomt3_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/corhllllt.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/corhllllt_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/corminibuzz.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/corminibuzz_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/corwint2.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/corwint2_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavbuildings/legministarfall.s3o` | _awaiting license_ | ZephyrSkies | #2466 | 2026-09-01 |
+| `Units/scavbuildings/legministarfall_dead.s3o` | _awaiting license_ | ZephyrSkies | #2466 | 2026-09-01 |
+| `Units/scavbuildings/legwint2.s3o` | _awaiting license_ | Yzch | #2738 | 2026-09-01 |
+| `Units/scavbuildings/legwint2_dead.s3o` | _awaiting license_ | Yzch | #2738 | 2026-09-01 |
+| `Units/unused/old_bladew.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `airbomb.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
 | `airbombsea.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
 | `airbombt2.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
-| `armstone.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `armstone.s3o` | _awaiting license_ | NebuchadnezzarII | manual-audit | 2026-09-01 |
 | `artshell-large.s3o` | `LicenseRef-BAR-CLA-1.0` | Kremenchuk | manual-audit | 2026-05-27 |
 | `artshell-medium.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `artshell-small.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -346,6 +1410,7 @@ Total assets recorded: **533**
 | `gingerbread.s3o` | _awaiting license_ | Christiaan van Hoegee | manual-audit | 2026-08-31 |
 | `gingerbread.txt` | _awaiting license_ | Christiaan van Hoegee | manual-audit | 2026-08-31 |
 | `hats/cor_hat_viking.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `legstone.s3o` | _awaiting license_ | Tharsy | #3843 | 2026-09-01 |
 | `pilha_crystal_1.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_2.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_3.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

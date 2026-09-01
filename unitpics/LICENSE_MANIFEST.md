@@ -4,94 +4,625 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **269**
+Total assets recorded: **1421**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
+| `LEGESTOR.dds` | _awaiting license_ | Protar | #3689 | 2026-09-01 |
+| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-09-01 |
+| `armaak.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `armaap.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `armart.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `armaas.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armaca.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armack.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `armacsub.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armacv.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armadvsol.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armafus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armageo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armah.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armalab.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armamb.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armamd.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armamex.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armamph.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armamsub.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armanac.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armanavaldefturret.dds` | _awaiting license_ | ZephyrSkies | #5987 | 2026-09-01 |
+| `armanni.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armannit3.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armantiship.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armap.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armarad.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armart.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armaser.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armason.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armassimilator.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `armassistdrone.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armasy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armatl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armatlas.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `armavp.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armawac.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armbanth.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armbats.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armbeamer.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armbeaver.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armblade.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armbotrail.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armbrawl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armbrtha.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armbull.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armca.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armcarry.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armch.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armcir.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armck.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `armckfus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `armclaw.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armcom.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armconsul.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armcroc.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armcrus.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armcs.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armcsa.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `armcv.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armdecade.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armdecadet3.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armdecom.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armdf.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armdfly.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armdl.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armdrag.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armdronecarry.dds` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `armemp.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armepoch.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armestor.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armexcalibur.dds` | _awaiting license_ | Hornet | #3390 | 2026-09-01 |
+| `armeyes.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armfark.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armfast.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armfatf.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armfav.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `armfboy.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `armfdrag.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armfepocht4.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armferret.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armfflak.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armfhlt.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armfhp.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armfido.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `armfify.dds` | _awaiting license_ | Darknagura | #3872 | 2026-09-01 |
-| `armgatet3.dds` | _awaiting license_ | Beherith | #4104 | 2026-09-01 |
+| `armfig.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armflak.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armflash.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armflea.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `armfmine3.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armfmkr.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armfort.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armfrad.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armfrt.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armfus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armgate.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armgatet3.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #4104 | 2026-09-01 |
+| `armgeo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armgmm.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armgremlin.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armguard.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armhaap.dds` | _awaiting license_ | Cremuss | #5546 | 2026-09-01 |
+| `armhalab.dds` | _awaiting license_ | Cremuss | #5546 | 2026-09-01 |
+| `armham.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `armhavp.dds` | _awaiting license_ | Cremuss | #5546 | 2026-09-01 |
+| `armhawk.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armhlt.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armhp.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armhvytrans.dds` | _awaiting license_ | Protar | #3743 | 2026-09-01 |
+| `armjam.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armjamt.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armjanus.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armjeth.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
-| `armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-08-31 |
-| `armnanotc2plat.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
-| `armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-08-31 |
+| `armjuno.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armkam.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armkraken.dds` | _awaiting license_ | Zecrus | manual-audit | 2026-09-01 |
+| `armlab.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armlance.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `armlatnk.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armliche.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `armllt.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armlship.dds` | _awaiting license_ | mightyodin01 | manual-audit | 2026-09-01 |
+| `armlun.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `armlunchbox.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `armlwall.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #2064 | 2026-09-01 |
+| `armmanni.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
+| `armmark.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armmart.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armmav.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `armmeatball.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
+| `armmercury.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armmerl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armmex.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armmh.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armmine1.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armmine2.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armmine3.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armminivulc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armmls.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armmlv.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armmmkr.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armmoho.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armmship.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armmstor.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armnanotc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armnanotc2plat.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armnanotcplat.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armnavaldefturret.dds` | _awaiting license_ | ZephyrSkies | #5927 | 2026-09-01 |
+| `armpb.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armpeep.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armpincer.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armplat.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armpnix.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armpt.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armptt2.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armpw.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `armrad.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
+| `armrecl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armrectr.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `armrl.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armrock.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `armroy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armsaber.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armsam.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armsb.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armscab.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armsd.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armseadragon.dds` | _awaiting license_ | Hornet | #3390 | 2026-09-01 |
+| `armseap.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armseer.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armsehak.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armserp.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armserpt3.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armsfig.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armsfig2.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armsh.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armshltx.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armshltxuw.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armshockwave.dds` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
+| `armsilo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armsjam.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armsnipe.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `armsolar.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armsonar.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armspid.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `armsptk.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armspy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armstil.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armstone.dds` | _awaiting license_ | NebuchadnezzarII | manual-audit | 2026-09-01 |
+| `armstump.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `armsub.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armsubk.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armsy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armtarg.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armthor.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `armthund.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armthundt4.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armtide.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armtl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armtrident.dds` | _awaiting license_ | Odin | #2872 | 2026-09-01 |
+| `armuwadves.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armuwadvms.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `armuwageo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armuwes.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armuwfus.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armuwgeo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armuwmme.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armuwmmm.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armuwms.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armvader.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armvang.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `armveil.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armvp.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armvulc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `armwar.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `armwin.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armwint2.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armyork.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armzapper.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `armzeus.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `comeffigy.dds` | _awaiting license_ | Mr Bob | #3267 | 2026-09-01 |
+| `coraak.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `coraap.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `coraca.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corack.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `coracsub.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `coracv.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `coradvsol.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corafus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `corageo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `corah.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corak.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corakt4.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `coralab.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `coramph.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `coramsub.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `coranavaldefturret.dds` | _awaiting license_ | ZephyrSkies | #5987 | 2026-09-01 |
+| `corantiship.dds` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `corap.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corape.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `corarad.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corarch.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corason.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corassistdrone.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corasy.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `coratl.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `coravp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corawac.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corban.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corbats.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corbhmth.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corblackhy.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corbuzz.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corbw.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corca.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corcan.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `corcarry.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corcat.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `corch.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corck.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corcom.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corcrash.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corcrus.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corcrw.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corcrwh.dds` | _awaiting license_ | Mr Bob | #2296 | 2026-09-01 |
+| `corcs.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corcsa.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corcut.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corcv.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cordeadeye.dds` | _awaiting license_ | Kaludjo | #3546 | 2026-09-01 |
+| `cordecom.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `cordemon.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `cordesolator.dds` | _awaiting license_ | Hornet | #3390 | 2026-09-01 |
+| `cordl.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cordoom.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cordoomt3.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cordrag.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cordronecarry.dds` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `corenaa.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corerad.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corestor.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `coresupp.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `coresuppt3.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `coreter.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corexp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `coreyes.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corfast.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corfatf.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corfav.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `corfblackhyt4.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corfdoom.dds` | _awaiting license_ | Zecrus | manual-audit | 2026-09-01 |
+| `corfdrag.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corfhlt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corfhp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corfink.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corflak.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corfmd.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corfmine3.dds` | _awaiting license_ | Tristan | manual-audit | 2026-09-01 |
+| `corfmkr.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corforge.dds` | _awaiting license_ | MASHUP | manual-audit | 2026-09-01 |
+| `corfort.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corfrad.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corfrt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corfship.dds` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `corftiger.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corfus.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corgant.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corgantuw.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `corgarp.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `corgate.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corgatet3.dds` | _awaiting license_ | Mr Bob | #4104 | 2026-09-01 |
+| `corgator.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corgatreap.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corgeo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `corgol.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corgolt4.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corhaap.dds` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
+| `corhal.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `corhalab.dds` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
 | `corhavp.dds` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
+| `corhllllt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corhllt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corhlt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corhp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corhrk.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corhunt.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corhurc.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corhvytrans.dds` | _awaiting license_ | Protar | #3743 | 2026-09-01 |
+| `corint.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corjamt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corjugg.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `corjuno.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corkarg.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `corkarganetht4.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `corkark.dds` | _awaiting license_ | Firestorm | manual-audit | 2026-09-01 |
+| `corkorg.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `corlab.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corlevlr.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corllt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cormabm.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `cormadsam.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cormakr.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cormando.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `cormart.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cormaw.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cormex.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cormexp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cormh.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `cormine1.dds` | _awaiting license_ | Tristan | manual-audit | 2026-09-01 |
+| `cormine2.dds` | _awaiting license_ | Tristan | manual-audit | 2026-09-01 |
+| `cormine3.dds` | _awaiting license_ | Tristan | manual-audit | 2026-09-01 |
+| `cormine4.dds` | _awaiting license_ | Tristan | manual-audit | 2026-09-01 |
+| `corminibuzz.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cormist.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cormls.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `cormlv.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cormmkr.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cormoho.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `cormort.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `cornanotc2plat.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `cormship.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `cormstor.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cormuskrat.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cormwall.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #2064 | 2026-09-01 |
+| `cornanotc.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cornanotc2plat.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `cornanotcplat.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `cornavaldefturret.dds` | _awaiting license_ | ZephyrSkies | #5927 | 2026-09-01 |
+| `cornecro.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `coronager.dds` | _awaiting license_ | Hornet | #3390 | 2026-09-01 |
+| `corparrow.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corphantom.dds` | _awaiting license_ | Hornet | #3541 | 2026-09-01 |
+| `corplat.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corprince.dds` | _awaiting license_ | Johnathan Crimson | #5427 | 2026-09-01 |
 | `corprinter.dds` | _awaiting license_ | MASHUP | manual-audit | 2026-09-01 |
-| `corpyro.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `corpt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corpun.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corpyro.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corrad.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corraid.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `correap.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `correcl.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corrl.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corroach.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corroy.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corsala.dds` | _awaiting license_ | Itanthias | manual-audit | 2026-09-01 |
-| `corsent.dds` | _awaiting license_ | PtaQ | manual-audit | 2026-09-01 |
+| `corsb.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corscavdrag.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corscavdtf.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `corscavdtl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `corscavdtm.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `corscreamer.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corsd.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corseah.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corseal.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corseap.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corsent.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `corsentinel.dds` | _awaiting license_ | Odin | #2872 | 2026-09-01 |
-| `corthermite.dds` | _awaiting license_ | Beherith | #2239 | 2026-09-01 |
+| `corsfig.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corsfig2.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corsh.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corshad.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corshark.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corshiva.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `corshroud.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corsiegebreaker.dds` | _awaiting license_ | Hornet | #2889 | 2026-09-01 |
+| `corsilo.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corsjam.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corsktl.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corslrpc.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corsnap.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corsolar.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corsonar.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corspec.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `corspy.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corssub.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corstorm.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corsub.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corsumo.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `corsy.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cortarg.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cortermite.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corthermite.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #2239 | 2026-09-01 |
+| `corthud.dds` | _awaiting license_ | jjackVII | manual-audit | 2026-09-01 |
+| `cortide.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cortitan.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cortl.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cortoast.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `cortorch.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `cortrem.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cortron.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `coruwadves.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `coruwadvms.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `coruwageo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `coruwes.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `coruwfus.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `coruwgeo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `coruwmme.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `coruwmmm.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `coruwms.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corvalk.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corvamp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corveng.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corvipe.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corvoyr.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `corvp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corvrad.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corvroc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corwin.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corwint2.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corwolv.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `critters/critter_crab.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `legaabot.dds` | _awaiting license_ | ZephyrSkies | #5061 | 2026-09-01 |
 | `legaap.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `legabm.dds` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
+| `legaca.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legaceb.dds` | _awaiting license_ | Tharsis | #3056 | 2026-09-01 |
+| `legack.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `legacluster.dds` | _awaiting license_ | ZephyrSkies | #3056 | 2026-09-01 |
+| `legacv.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legadvaabot.dds` | _awaiting license_ | Johnathan Crimson | #5189 | 2026-09-01 |
+| `legadveconv.dds` | _awaiting license_ | Protar | #4393 | 2026-09-01 |
+| `legadvestore.dds` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
+| `legadvshipyard.dds` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
+| `legadvsol.dds` | _awaiting license_ | EnderRobo | #2818 | 2026-09-01 |
+| `legafcv.dds` | _awaiting license_ | ZephyrSkies | #4860 | 2026-09-01 |
+| `legafigdef.dds` | _awaiting license_ | ZephyrSkies | #5124 | 2026-09-01 |
+| `legafus.dds` | _awaiting license_ | Protar | #4155 | 2026-09-01 |
+| `legageo.dds` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
+| `legah.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `legaheattank.dds` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
+| `legajam.dds` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
 | `legajamk.dds` | _awaiting license_ | Tharsis | #5382 | 2026-09-01 |
 | `legalab.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `legamcluster.dds` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
 | `legamph.dds` | _awaiting license_ | Johanthan Crimson | #4829 | 2026-09-01 |
 | `legamphlab.dds` | _awaiting license_ | ZephyrSkies | #5072 | 2026-09-01 |
+| `legamphtank.dds` | _awaiting license_ | ZephyrSkies | #3144 | 2026-09-01 |
+| `legamstor.dds` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
 | `leganavalaaturret.dds` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
 | `leganavaladvgeo.dds` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
+| `leganavaldefturret.dds` | _awaiting license_ | ZephyrSkies | #5987 | 2026-09-01 |
 | `leganavaleconv.dds` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
+| `leganavalfusion.dds` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
+| `leganavalmex.dds` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
 | `leganavalpinpointer.dds` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
 | `leganavalsonarstation.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
 | `leganavaltorpturret.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
 | `leganavyaaship.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `leganavyantinukecarrier.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `leganavyantiswarm.dds` | _awaiting license_ | EnderRobo | #6423 | 2026-09-01 |
+| `leganavyartyship.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `leganavybattleship.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
 | `leganavybattlesub.dds` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
+| `leganavyconsub.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `leganavycruiser.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `leganavyengineer.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `leganavyflagship.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
 | `leganavyheavysub.dds` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
+| `leganavymissileship.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `leganavyradjamship.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #6423 | 2026-09-01 |
 | `legap.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `legapopupdef.dds` | _awaiting license_ | ZephyrSkies | #5189 | 2026-09-01 |
+| `legarad.dds` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
 | `legaradk.dds` | _awaiting license_ | Tharsis | #5382 | 2026-09-01 |
+| `legaskirmtank.dds` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
 | `legaspy.dds` | _awaiting license_ | ZephyrSkies | #5357 | 2026-09-01 |
+| `legassistdrone.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legatorpbomber.dds` | _awaiting license_ | ZephyrSkies | #4117 | 2026-09-01 |
+| `legatrans.dds` | _awaiting license_ | ZephyrSkies | #3046 | 2026-09-01 |
+| `legavantinuke.dds` | _awaiting license_ | ZephyrSkies | #6545 | 2026-09-01 |
+| `legavjam.dds` | _awaiting license_ | ZephyrSkies | #4164 | 2026-09-01 |
+| `legavp.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legavrad.dds` | _awaiting license_ | ZephyrSkies | #4164 | 2026-09-01 |
+| `legavroc.dds` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
+| `legbal.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `legbar.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `legbart.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legbastion.dds` | _awaiting license_ | Gabs | manual-audit | 2026-09-01 |
+| `legbombard.dds` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
 | `legbunk.dds` | _awaiting license_ | Johanthan Crimson | #4613 | 2026-09-01 |
+| `legca.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legcar.dds` | _awaiting license_ | EnderRobo | #3343 | 2026-09-01 |
+| `legcen.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `legch.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `legcib.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legck.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `legcluster.dds` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `legcom.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `legcomecon.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `legcomoff.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `legcomt2com.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `legcomt2def.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `legcomt2off.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `legctl.dds` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `legcv.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `legdeflector.dds` | _awaiting license_ | Gabs | #4393 | 2026-09-01 |
+| `legdrag.dds` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `legdrone.dds` | _awaiting license_ | Tharsis | #3569 | 2026-09-01 |
+| `legdtr.dds` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
 | `legeallterrainmech.dds` | _awaiting license_ | ZephyrSkies | #5357 | 2026-09-01 |
+| `legeconv.dds` | _awaiting license_ | Protar | #3373 | 2026-09-01 |
 | `legeheatraymech.dds` | _awaiting license_ | Protar | #4339 | 2026-09-01 |
 | `legeheatraymech_old.dds` | _awaiting license_ | Protar | #5739 | 2026-09-01 |
 | `legehovertank.dds` | _awaiting license_ | ZephyrSkies | #5357 | 2026-09-01 |
 | `legelrpcmech.dds` | _awaiting license_ | ZephyrSkies | #4508 | 2026-09-01 |
+| `legerailtank.dds` | _awaiting license_ | ZephyrSkies | #4089 | 2026-09-01 |
 | `legeshotgunmech.dds` | _awaiting license_ | Ghoulish | #4382 | 2026-09-01 |
+| `legeyes.dds` | _awaiting license_ | NebuchadnezzarII | #4262 | 2026-09-01 |
+| `legfdrag.dds` | _awaiting license_ | Tharsis | #5058 | 2026-09-01 |
 | `legfeconv.dds` | _awaiting license_ | Protar | #5047 | 2026-09-01 |
+| `legfhive.dds` | _awaiting license_ | ZephyrSkies | #3222 | 2026-09-01 |
 | `legfhp.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `legfig.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legflak.dds` | _awaiting license_ | Tharsis | #2728 | 2026-09-01 |
+| `legfloat.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `legfmg.dds` | _awaiting license_ | ZephyrSkies | #4904 | 2026-09-01 |
 | `legfort.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `legforti.dds` | _awaiting license_ | Tharsis | #3906 | 2026-09-01 |
+| `legfrad.dds` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `legfrl.dds` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `legfus.dds` | _awaiting license_ | Protar | #4158 | 2026-09-01 |
+| `leggant.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `leggantuw.dds` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
+| `leggat.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `leggatet3.dds` | _awaiting license_ | Protar | #4292 | 2026-09-01 |
+| `leggeo.dds` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
+| `leggob.dds` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `leghades.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `leghalab.dds` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
+| `leghavp.dds` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
+| `legheavydrone.dds` | _awaiting license_ | Tharsis | #3569 | 2026-09-01 |
+| `leghelios.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `leghive.dds` | _awaiting license_ | ZephyrSkies | #3222 | 2026-09-01 |
+| `leghp.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `leghrk.dds` | _awaiting license_ | Tharsis | #5034 | 2026-09-01 |
 | `leginc.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `leginf.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
 | `leginfestor.dds` | _awaiting license_ | Zath | manual-audit | 2026-09-01 |
+| `legionnaire.dds` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
+| `legjam.dds` | _awaiting license_ | ZephyrSkies | #2997 | 2026-09-01 |
+| `legjav.dds` | _awaiting license_ | Tharsis | #4073 | 2026-09-01 |
+| `legjuno.dds` | _awaiting license_ | Georodin | #5072 | 2026-09-01 |
+| `legkam.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `legkark.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `legkeres.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `leglab.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `leglht.dds` | _awaiting license_ | ZephyrSkies | #2876 | 2026-09-01 |
+| `leglob.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `leglraa.dds` | _awaiting license_ | Mr Bob | #3056 | 2026-09-01 |
+| `leglrpc.dds` | _awaiting license_ | ZephyrSkies | #3056 | 2026-09-01 |
+| `leglts.dds` | _awaiting license_ | Tharsis | #4369 | 2026-09-01 |
+| `leglupara.dds` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `legmech.dds` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-01 |
 | `legmed.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legmex.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `legmext15.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `legmg.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legmh.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `legmine1.dds` | _awaiting license_ | Tharsis | #4262 | 2026-09-01 |
+| `legmine2.dds` | _awaiting license_ | Tharsis | #4262 | 2026-09-01 |
+| `legmine3.dds` | _awaiting license_ | Tharsis | #4262 | 2026-09-01 |
+| `legmineb.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `legmlv.dds` | _awaiting license_ | Tharsis | #3144 | 2026-09-01 |
+| `legmoho.dds` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
 | `legmohocon.dds` | _awaiting license_ | Tharsis | #4710 | 2026-09-01 |
+| `legmos.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `legmrv.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legmstor.dds` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
+| `legnanotc.dds` | _awaiting license_ | Tharsis | #3627 | 2026-09-01 |
+| `legnanotcplat.dds` | _awaiting license_ | Tharsis | #3627 | 2026-09-01 |
+| `legnap.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `legnavaldefturret.dds` | _awaiting license_ | ZephyrSkies | #5927 | 2026-09-01 |
+| `legnavyaaship.dds` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
 | `legnavyartyship.dds` | _awaiting license_ | Johnathan Crimson | #6123 | 2026-09-01 |
 | `legnavyconship.dds` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
 | `legnavydestro.dds` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
@@ -99,19 +630,61 @@ Total assets recorded: **269**
 | `legnavyrezsub.dds` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
 | `legnavyscout.dds` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
 | `legnavysub.dds` | _awaiting license_ | Tharsis | #6123 | 2026-09-01 |
+| `legner.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `legotter.dds` | _awaiting license_ | ZephyrSkies | #2853 | 2026-09-01 |
+| `legpede.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `legperdition.dds` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
 | `legphoenix.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `legrad.dds` | _awaiting license_ | ZephyrSkies | #2997 | 2026-09-01 |
+| `legrail.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `legrampart.dds` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
 | `legrezbot.dds` | _awaiting license_ | ZephyrSkies | #5061 | 2026-09-01 |
+| `legrhapsis.dds` | _awaiting license_ | ZephyrSkies | #3021 | 2026-09-01 |
+| `legrl.dds` | _awaiting license_ | ZephyrSkies | #3021 | 2026-09-01 |
+| `legrwall.dds` | _awaiting license_ | Tharsis | #3906 | 2026-09-01 |
+| `legscout.dds` | _awaiting license_ | Flaka | #3144 | 2026-09-01 |
+| `legsd.dds` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
+| `legsh.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
 | `legshot.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legsilo.dds` | _awaiting license_ | Tharsy | #3056 | 2026-09-01 |
+| `legsnapper.dds` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
+| `legsolar.dds` | _awaiting license_ | Hornet | #2723 | 2026-09-01 |
+| `legspbomber.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `legspcarrier.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `legspcon.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `legspfighter.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `legsplab.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `legspradarsonarplane.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `legspsurfacegunship.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `legsptorpgunship.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `legsrail.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `legstarfall.dds` | _awaiting license_ | ZephyrSkies | #2266 | 2026-09-01 |
+| `legstr.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `legstronghold.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `legsy.dds` | _awaiting license_ | Tharsis | #3223 | 2026-09-01 |
 | `legtarg.dds` | _awaiting license_ | Protar | #4393 | 2026-09-01 |
+| `legtide.dds` | _awaiting license_ | Mr Bob | #4951 | 2026-09-01 |
+| `legtl.dds` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
 | `leguwestore.dds` | _awaiting license_ | Protar | #5047 | 2026-09-01 |
 | `leguwgeo.dds` | _awaiting license_ | Tharsis | #5047 | 2026-09-01 |
 | `leguwmstore.dds` | _awaiting license_ | Protar | #5047 | 2026-09-01 |
 | `legvcarry.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legvenator.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `legvflak.dds` | _awaiting license_ | Tharsis | #4178 | 2026-09-01 |
 | `legvp.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `legwhisper.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legwin.dds` | _awaiting license_ | Yzch | manual-audit | 2026-09-01 |
+| `lootboxes/lootboxbronze.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `lootboxes/lootboxgold.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `lootboxes/lootboxplatinum.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `lootboxes/lootboxsilver.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `lootboxes/lootdrop.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `other/chip.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
 | `other/meteor.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `other/nuketest.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `other/resourcecheat.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `other/xmasball.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
+| `other/xmasball2.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
 | `raptors/e_raptorq.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `raptors/epic_raptorq.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `raptors/h_raptorq.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
@@ -188,6 +761,7 @@ Total assets recorded: **269**
 | `raptors/raptorp1.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `raptors/raptorp2.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `raptors/raptorpyroallterrain.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorr1.dds` | _awaiting license_ | Rubus | manual-audit | 2026-09-01 |
 | `raptors/raptorr2.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `raptors/raptors1.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `raptors/raptors2.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
@@ -198,67 +772,597 @@ Total assets recorded: **269**
 | `raptors/raptorw1c.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `raptors/raptorw1d.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `raptors/raptorw2.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `scavdrag.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/armaak.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `scavengers/armaas.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armaca.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armack.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `scavengers/armacsub.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armacv.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armadvsol.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armafus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armafust3.dds` | _awaiting license_ | Cremuss | #7224 | 2026-09-01 |
+| `scavengers/armageo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armah.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armalab.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armamb.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armamd.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armamex.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armamph.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armamsub.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armanac.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armanni.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armannit3.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armap.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armapt3.dds` | _awaiting license_ | Cremuss | #7224 | 2026-09-01 |
+| `scavengers/armarad.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armart.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armaser.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armason.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armassimilator.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `scavengers/armassistdrone.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armasy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armatl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armatlas.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/armavp.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armawac.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armbanth.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armbats.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armbeamer.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armbeaver.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armblade.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armbotrail.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armbrawl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armbrtha.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armbull.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armca.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armcarry.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armch.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armcir.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armck.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `scavengers/armckfus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armclaw.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armcom.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armcomboss.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armconsul.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armcroc.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armcrus.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armcs.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armcsa.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/armcv.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armdecade.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armdecadet3.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armdecom.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armdf.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armdfly.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armdl.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armdrag.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armdronecarryland.dds` | _awaiting license_ | Odin | #7224 | 2026-09-01 |
+| `scavengers/armemp.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armepoch.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armestor.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armeyes.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armfark.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armfast.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armfatf.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armfav.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `scavengers/armfboy.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `scavengers/armfdrag.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armfepocht4.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armferret.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armfflak.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armfhlt.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armfhp.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armfido.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `scavengers/armfify.dds` | _awaiting license_ | Darknagura | #3872 | 2026-09-01 |
-| `scavengers/armgatet3.dds` | _awaiting license_ | Beherith | #7224 | 2026-09-01 |
+| `scavengers/armfig.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armflak.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armflash.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armflea.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `scavengers/armfmine3.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armfmkr.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armfort.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armfrad.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armfrt.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armfus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armgate.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armgatet3.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7224 | 2026-09-01 |
+| `scavengers/armgeo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armgmm.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armgremlin.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armguard.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armham.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `scavengers/armhawk.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armhlt.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armhp.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armjam.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armjamt.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armjanus.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armjeth.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
-| `scavengers/armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-08-31 |
-| `scavengers/armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-08-31 |
+| `scavengers/armjuno.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armkam.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armkraken.dds` | _awaiting license_ | Zecrus | manual-audit | 2026-09-01 |
+| `scavengers/armlab.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armlance.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/armlatnk.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armliche.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/armlichet4.dds` | _awaiting license_ | Flaka | #7224 | 2026-09-01 |
+| `scavengers/armllt.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armlun.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/armlunchbox.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/armlwall.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7224 | 2026-09-01 |
+| `scavengers/armmanni.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
+| `scavengers/armmark.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armmart.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armmav.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/armmeatball.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
+| `scavengers/armmercury.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armmerl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armmex.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armmh.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armmine1.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armmine2.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armmine3.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armminebomber.dds` | _awaiting license_ | FireStorm | #7224 | 2026-09-01 |
+| `scavengers/armminivulc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armmls.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armmlv.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armmmkr.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armmmkrt3.dds` | _awaiting license_ | Cremuss | #7224 | 2026-09-01 |
+| `scavengers/armmoho.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armmship.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armmstor.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armnanotc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armnanotcplat.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armpb.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armpeep.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armpincer.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armplat.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armpnix.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armpt.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armptt2.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armpw.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `scavengers/armpwt4.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `scavengers/armrad.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armrattet4.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
+| `scavengers/armrecl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armrectr.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `scavengers/armrl.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armrock.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `scavengers/armroy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armsaber.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armsam.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armsb.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armscab.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armsd.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armseap.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armseer.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armsehak.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armserp.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armserpt3.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armsfig.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armsh.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armshltx.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armshltxuw.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armsilo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armsjam.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armsnipe.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `scavengers/armsolar.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armsonar.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armspid.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `scavengers/armsptk.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armsptkt4.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armspy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armstil.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armstone.dds` | _awaiting license_ | NebuchadnezzarII | manual-audit | 2026-09-01 |
+| `scavengers/armstump.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/armsub.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armsubk.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armsy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armtarg.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armthor.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/armthund.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armthundt4.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armtide.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armtl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armuwadves.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armuwadvms.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armuwes.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armuwfus.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armuwmme.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armuwmmm.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armuwms.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armvader.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armvadert4.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armveil.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armvp.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armvulc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/armwar.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `scavengers/armwin.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armwint2.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armyork.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armzapper.dds` | _awaiting license_ | Flaka | #7224 | 2026-09-01 |
 | `scavengers/armzeus.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/coraak.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/coraca.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corack.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/coracsub.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/coracv.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/coradvsol.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corafus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/corafust3.dds` | _awaiting license_ | Cremuss | #7224 | 2026-09-01 |
+| `scavengers/corageo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/corah.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corak.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corakt4.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/coralab.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/coramph.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/coramsub.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/corap.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corape.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/corapt3.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
+| `scavengers/corarad.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corarch.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corason.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corassistdrone.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corasy.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/coratl.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/coravp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corawac.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corban.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corbats.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corbhmth.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corblackhy.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corbuzz.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corbw.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corca.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corcan.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/corcarry.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corcat.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/corch.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corck.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corcom.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corcomboss.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corcrash.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corcrus.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corcrw.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corcrwt4.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corcs.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corcsa.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corcut.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corcv.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cordeadeye.dds` | _awaiting license_ | Kaludjo | #7224 | 2026-09-01 |
+| `scavengers/cordecom.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/cordl.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cordoom.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cordoomt3.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cordrag.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cordronecarryair.dds` | _awaiting license_ | Odin | #7224 | 2026-09-01 |
+| `scavengers/cords.dds` | _awaiting license_ | FireStorm | #7224 | 2026-09-01 |
+| `scavengers/corenaa.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corerad.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corestor.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/coresupp.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `scavengers/coresuppt3.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/coreter.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corexp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/coreyes.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corfast.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corfatf.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corfav.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/corfblackhyt4.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corfdoom.dds` | _awaiting license_ | Zecrus | manual-audit | 2026-09-01 |
+| `scavengers/corfdrag.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corfhlt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corfhp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corfink.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corflak.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corfmd.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corfmine3.dds` | _awaiting license_ | Tristan | manual-audit | 2026-09-01 |
+| `scavengers/corfmkr.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corforge.dds` | _awaiting license_ | MASHUP | manual-audit | 2026-09-01 |
+| `scavengers/corfort.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corfrad.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corfrt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corftiger.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
+| `scavengers/corfus.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corgant.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corgantuw.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/corgarp.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/corgate.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corgatet3.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
+| `scavengers/corgator.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corgatreap.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corgeo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/corgol.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corgolt4.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corhal.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corhllllt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corhllt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corhlt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corhp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corhrk.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corhunt.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corhurc.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corint.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corjamt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corjugg.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/corjuno.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corkarg.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/corkarganetht4.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/corkark.dds` | _awaiting license_ | Firestorm | manual-audit | 2026-09-01 |
+| `scavengers/corkorg.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/corlab.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corlevlr.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corllt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cormabm.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/cormadsam.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cormakr.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cormando.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/cormandot4.dds` | _awaiting license_ | FireStorm | #7224 | 2026-09-01 |
+| `scavengers/cormart.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cormaw.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cormex.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cormexp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cormh.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/cormine1.dds` | _awaiting license_ | Tristan | manual-audit | 2026-09-01 |
+| `scavengers/cormine2.dds` | _awaiting license_ | Tristan | manual-audit | 2026-09-01 |
+| `scavengers/cormine3.dds` | _awaiting license_ | Tristan | manual-audit | 2026-09-01 |
+| `scavengers/cormine4.dds` | _awaiting license_ | Tristan | manual-audit | 2026-09-01 |
+| `scavengers/corminibuzz.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cormist.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cormls.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/cormlv.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cormmkr.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cormmkrt3.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
+| `scavengers/cormoho.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/cormort.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/corpyro.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/cormship.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/cormstor.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cormuskrat.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cormwall.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7224 | 2026-09-01 |
+| `scavengers/cornanotc.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cornanotcplat.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/cornecro.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corparrow.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corplat.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corpt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corpun.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corpyro.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corrad.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corraid.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `scavengers/corsent.dds` | _awaiting license_ | PtaQ | manual-audit | 2026-09-01 |
-| `scavengers/corthermite.dds` | _awaiting license_ | Beherith | #7224 | 2026-09-01 |
+| `scavengers/correap.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/correcl.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corrl.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corroach.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corroy.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corsb.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corscavdrag.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corscavdtf.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/corscavdtl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/corscavdtm.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/corscavfort.dds` | _awaiting license_ | FireStorm | #7224 | 2026-09-01 |
+| `scavengers/corscreamer.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corsd.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corseah.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corseal.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corseap.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corsent.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
+| `scavengers/corsfig.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corsh.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corshad.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corshark.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corshroud.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corsilo.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corsjam.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corsktl.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corslrpc.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corsnap.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corsolar.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corsonar.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corspec.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/corspy.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corssub.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corstone.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corstorm.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corsub.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corsy.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cortarg.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cortermite.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corthermite.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7224 | 2026-09-01 |
+| `scavengers/corthud.dds` | _awaiting license_ | jjackVII | manual-audit | 2026-09-01 |
+| `scavengers/cortide.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cortitan.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cortl.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cortoast.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/cortorch.dds` | _awaiting license_ | Flaka | #7224 | 2026-09-01 |
+| `scavengers/cortrem.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cortron.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/coruwadves.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/coruwadvms.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/coruwes.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/coruwfus.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/coruwmme.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/coruwmmm.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/coruwms.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corvalk.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corvamp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corveng.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corvipe.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corvoyr.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/corvp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corvrad.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corvroc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corwin.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corwint2.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corwolv.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/freefusion.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/legaabot.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legaap.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legabm.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legaca.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legaceb.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legack.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `scavengers/legacluster.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legacv.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legadvaabot.dds` | _awaiting license_ | Johnathan Crimson | #7224 | 2026-09-01 |
+| `scavengers/legadveconv.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legadveconvt3.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legadvestore.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legadvshipyard.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legadvsol.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
+| `scavengers/legafcv.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legafigdef.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legafus.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legafust3.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legageo.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legah.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
+| `scavengers/legaheattank.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legajam.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legajamk.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legalab.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legamcluster.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legamph.dds` | _awaiting license_ | Johanthan Crimson | #7224 | 2026-09-01 |
 | `scavengers/legamphlab.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legamphtank.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legamstor.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/leganavalaaturret.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/leganavaladvgeo.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/leganavaldefturret.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/leganavaleconv.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/leganavalfusion.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/leganavalmex.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/leganavalpinpointer.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/leganavalsonarstation.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/leganavaltorpturret.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/leganavyaaship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leganavyantinukecarrier.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leganavyantiswarm.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
+| `scavengers/leganavyartyship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leganavybattleship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/leganavybattlesub.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/leganavyconsub.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leganavycruiser.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leganavyengineer.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leganavyflagship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/leganavyheavysub.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/leganavymissileship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leganavyradjamship.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7224 | 2026-09-01 |
 | `scavengers/legap.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legapopupdef.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legapt3.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
+| `scavengers/legarad.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legaradk.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legaskirmtank.dds` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
 | `scavengers/legaspy.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legatorpbomber.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legatrans.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legavantinuke.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legavjam.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legavp.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legavrad.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legavroc.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legbal.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `scavengers/legbar.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `scavengers/legbart.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legbastion.dds` | _awaiting license_ | Gabs | #7224 | 2026-09-01 |
+| `scavengers/legca.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legcar.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
+| `scavengers/legcen.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `scavengers/legch.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
+| `scavengers/legcib.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legck.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `scavengers/legcluster.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legcom.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `scavengers/legctl.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legcv.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `scavengers/legdecom.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legdeflector.dds` | _awaiting license_ | Gabs | #7224 | 2026-09-01 |
+| `scavengers/legdrag.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legdrone.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legdtf.dds` | _awaiting license_ | FireStorm | #7224 | 2026-09-01 |
+| `scavengers/legdtl.dds` | _awaiting license_ | FireStorm | #7224 | 2026-09-01 |
+| `scavengers/legdtm.dds` | _awaiting license_ | FireStorm | #7224 | 2026-09-01 |
+| `scavengers/legdtr.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legeallterrainmech.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legeconv.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legeheatraymech.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legehovertank.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legelrpcmech.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legerailtank.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legeshotgunmech.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legeyes.dds` | _awaiting license_ | NebuchadnezzarII | #7224 | 2026-09-01 |
+| `scavengers/legfdrag.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legfeconv.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legfhive.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legfhp.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legfig.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legflak.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legfloat.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
+| `scavengers/legfmg.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legfort.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `scavengers/legforti.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legfortt4.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legfrad.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legfrl.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legfus.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/leggant.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/leggantuw.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/leggat.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `scavengers/leggeo.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/leggob.dds` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
+| `scavengers/leggobt3.dds` | _awaiting license_ | Odin | #7224 | 2026-09-01 |
+| `scavengers/leghaap.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
+| `scavengers/leghaca.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7224 | 2026-09-01 |
+| `scavengers/leghack.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/leghacv.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leghades.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `scavengers/leghalab.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/leghavp.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legheavydrone.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legheavydronesmall.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/leghelios.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
 | `scavengers/leghive.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leghp.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/leghrk.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/leginc.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `scavengers/leginf.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
 | `scavengers/leginfestor.dds` | _awaiting license_ | Zath | #7224 | 2026-09-01 |
+| `scavengers/legjam.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legjav.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legjuno.dds` | _awaiting license_ | Georodin | #7224 | 2026-09-01 |
+| `scavengers/legkam.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `scavengers/legkark.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legkeres.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
+| `scavengers/leglab.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `scavengers/leglht.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leglob.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `scavengers/leglraa.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
+| `scavengers/leglrpc.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leglts.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/leglupara.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legmed.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legmex.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `scavengers/legmext15.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `scavengers/legmg.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legmh.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
+| `scavengers/legmine1.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legmine2.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legmine3.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legmineb.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `scavengers/legministarfall.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legmlv.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legmoho.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legmohocon.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legmos.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `scavengers/legmost3.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legmrv.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legmstor.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legnanotc.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legnanotcplat.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legnavyaaship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legnavyartyship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legnavyconship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legnavydestro.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
@@ -266,14 +1370,62 @@ Total assets recorded: **269**
 | `scavengers/legnavyrezsub.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legnavyscout.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legnavysub.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legner.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
+| `scavengers/legotter.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legpede.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/legperdition.dds` | _awaiting license_ | Hornet | #7224 | 2026-09-01 |
 | `scavengers/legphoenix.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legrad.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legrail.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `scavengers/legrampart.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legrezbot.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legrhapsis.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legrl.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legrwall.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legscout.dds` | _awaiting license_ | Flaka | #7224 | 2026-09-01 |
+| `scavengers/legsd.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legsh.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
 | `scavengers/legshot.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legsilo.dds` | _awaiting license_ | Tharsy | #7224 | 2026-09-01 |
+| `scavengers/legsnapper.dds` | _awaiting license_ | Hornet | #7224 | 2026-09-01 |
+| `scavengers/legsolar.dds` | _awaiting license_ | Hornet | #7224 | 2026-09-01 |
+| `scavengers/legspbomber.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legspcarrier.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legspcon.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legspfighter.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legsplab.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legspradarsonarplane.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legspsurfacegunship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legsptorpgunship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legsrail.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `scavengers/legsrailt4.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legstarfall.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legstr.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `scavengers/legstronghold.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legsy.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legtarg.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
+| `scavengers/legtide.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
+| `scavengers/legtl.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/leguwestore.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/leguwgeo.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/leguwmstore.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legvcarry.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legvenator.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
+| `scavengers/legvflak.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legvp.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
-| `scavengers/scavmist.dds` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
+| `scavengers/legwhisper.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legwin.dds` | _awaiting license_ | Yzch | #7224 | 2026-09-01 |
+| `scavengers/legwint2.dds` | _awaiting license_ | Yzch | #7224 | 2026-09-01 |
+| `scavengers/mission_command_tower.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/scavbeacon.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/scavbeacon_t1.dds` | _awaiting license_ | MrBob | #7224 | 2026-09-01 |
+| `scavengers/scavbeacon_t2.dds` | _awaiting license_ | MrBob | #7224 | 2026-09-01 |
+| `scavengers/scavbeacon_t3.dds` | _awaiting license_ | MrBob | #7224 | 2026-09-01 |
+| `scavengers/scavbeacon_t4.dds` | _awaiting license_ | MrBob | #7224 | 2026-09-01 |
+| `scavengers/scavdrag.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/scavengerdroppod.dds` | _awaiting license_ | MrBob | manual-audit | 2026-09-01 |
+| `scavengers/scavengerdroppodfriendly.dds` | _awaiting license_ | MrBob | #7224 | 2026-09-01 |
+| `scavengers/scavfort.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/scavmist.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
+| `scavengers/scavsafeareabeacon.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavfort.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
