@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unittextures/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **167**
+Total assets recorded: **801**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -36,11 +36,14 @@ Total assets recorded: **167**
 | `decals/armamex_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/armamsub_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/armanni_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `decals/armannit3_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `decals/armap_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `decals/armapt3_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `decals/armarad_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/armason_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/armavp_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/armbeamer_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `decals/armbotrail_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `decals/armbrtha_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/armcir_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/armclaw_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
@@ -66,6 +69,7 @@ Total assets recorded: **167**
 | `decals/armmercury_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/armmex_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/armmg_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `decals/armminivulc_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `decals/armmmkr_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/armmoho_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/armmstor_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
@@ -89,6 +93,7 @@ Total assets recorded: **167**
 | `decals/armvp_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/armvulc_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/armwin_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `decals/armwint2_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `decals/coraap_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/coradvsol_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/corafus_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
@@ -96,6 +101,7 @@ Total assets recorded: **167**
 | `decals/coralab_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/coramsub_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/corap_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `decals/corapt3_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `decals/corarad_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/corason_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/coravp_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
@@ -103,6 +109,7 @@ Total assets recorded: **167**
 | `decals/corbuzz_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/cordl_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/cordoom_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `decals/cordoomt3_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `decals/cordrag_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/cordrag_aoplane_scav.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `decals/corerad_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
@@ -117,6 +124,7 @@ Total assets recorded: **167**
 | `decals/corgant_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/corgate_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/corgeo_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `decals/corgol_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `decals/corhllt_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/corhlt_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/corhp_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
@@ -130,6 +138,7 @@ Total assets recorded: **167**
 | `decals/cormaw_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/cormex_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/cormexp_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `decals/corminibuzz_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `decals/cormmkr_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/cormoho_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/cormstor_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
@@ -156,19 +165,644 @@ Total assets recorded: **167**
 | `decals/corvp_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/corvp_aoplane_scav.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `decals/corwin_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `decals/corwint2_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals/generic_aoplane.dds` | _awaiting license_ | Tharsy | #4001 | 2026-09-01 |
 | `decals/legaap_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals/legabm_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
+| `decals/legacluster_aoplane.dds` | _awaiting license_ | ZephyrSkies | #4001 | 2026-09-01 |
+| `decals/legadveconv_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals/legadvestore_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals/legadvsol_aoplane.dds` | _awaiting license_ | EnderRobo | #4001 | 2026-09-01 |
+| `decals/legafus_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals/legageo_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
+| `decals/legajam_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
 | `decals/legalab_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals/legamstor_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
 | `decals/legap_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
+| `decals/legarad_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals/legavp_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals/legbastion_aoplane.dds` | _awaiting license_ | Gabs | #5030 | 2026-09-01 |
+| `decals/legbombard_aoplane.dds` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
+| `decals/legcluster_aoplane.dds` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `decals/legdeflector_aoplane.dds` | _awaiting license_ | Gabs | #5030 | 2026-09-01 |
+| `decals/legdrag_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals/legdtr_aoplane.dds` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `decals/legeconv_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
+| `decals/legestor_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
+| `decals/legflak_aoplane.dds` | _awaiting license_ | Tharsis | #2728 | 2026-09-01 |
+| `decals/legforti_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
+| `decals/legfus_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals/leggatet3_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals/leggeo_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
 | `decals/leghive_aoplane.dds` | _awaiting license_ | ZephyrSkies | #4001 | 2026-09-01 |
+| `decals/leghp_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals/legjam_aoplane.dds` | _awaiting license_ | ZephyrSkies | #4001 | 2026-09-01 |
+| `decals/leglab_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
+| `decals/leglht_aoplane.dds` | _awaiting license_ | ZephyrSkies | #3002 | 2026-09-01 |
+| `decals/leglraa_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals/leglrpc_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals/leglupara_aoplane.dds` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `decals/legmex_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
+| `decals/legmext15_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
+| `decals/legmg_aoplane.dds` | _awaiting license_ | ZephyrSkies | #4001 | 2026-09-01 |
+| `decals/legmoho_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
+| `decals/legmohobp_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
 | `decals/legmohocon_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals/legmstor_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
+| `decals/legnanotc_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
+| `decals/legnanotcbase_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
+| `decals/legnanotct2_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
 | `decals/legperdition_aoplane.dds` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
+| `decals/legrad_aoplane.dds` | _awaiting license_ | ZephyrSkies | #4001 | 2026-09-01 |
+| `decals/legrampart_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
+| `decals/legrhapsis_aoplane.dds` | _awaiting license_ | ZephyrSkies | #3021 | 2026-09-01 |
+| `decals/legrl_aoplane.dds` | _awaiting license_ | ZephyrSkies | #3021 | 2026-09-01 |
+| `decals/legsd_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals/legsilo_aoplane.dds` | _awaiting license_ | Tharsy | #4001 | 2026-09-01 |
+| `decals/legsolar_aoplane.dds` | _awaiting license_ | Hornet | #2723 | 2026-09-01 |
+| `decals/legstarfall_aoplane.dds` | _awaiting license_ | ZephyrSkies | #2266 | 2026-09-01 |
 | `decals/legtarg_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals/legvp_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals/legwin_aoplane.dds` | _awaiting license_ | Yzch | manual-audit | 2026-09-01 |
+| `decals/legwint2_aoplane.dds` | _awaiting license_ | Yzch | #2738 | 2026-09-01 |
 | `decals/mission_command_tower_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `decals/scavdtf_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals/scavfort_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals/unitaoplates_atlas.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals/unitaoplates_atlas.tga` | _awaiting license_ | Beherith | #4001 | 2026-09-01 |
+| `decals_features/arm1X1A_2_2_aoplane.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `decals_features/arm1X1B_2_2_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/arm2X2A_3_3_aoplane.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `decals_features/arm2X2B_3_3_aoplane.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `decals_features/arm2X2D_3_3_aoplane.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `decals_features/arm2X2E_3_3_aoplane.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `decals_features/arm2X2F_3_3_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/arm3X3A_4_4_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/arm3X3B_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/arm3X3C_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/arm3X3D_4_4_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/arm3X3E_4_4_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/arm3X3F_4_4_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/arm4X4A_5_5_aoplane.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `decals_features/arm4X4B_5_5_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/arm4X4C_5_5_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/arm4X4D_5_5_aoplane.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `decals_features/arm4X4E_5_5_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/arm5X5A_7_7_aoplane.dds` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
+| `decals_features/arm5X5B_7_7_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/arm5X5C_7_7_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/arm6X6B_8_8_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/arm6X6C_8_8_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/arm6X6D_8_8_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/arm7X7A_9_9_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/armaak_dead_5_5_aoplane.dds` | _awaiting license_ | Kaiser | #5030 | 2026-09-01 |
+| `decals_features/armaas_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armaca_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armack_dead_5_5_aoplane.dds` | _awaiting license_ | Kaiser | #5030 | 2026-09-01 |
+| `decals_features/armacsub_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armacv_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armadvsol_dead_5_5_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/armafus_dead_9_9_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armafust3_dead_17_17_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armageo_dead_9_9_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armah_dead_3_3_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armalab_dead_12_12_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armamb_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armamd_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armamex_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armamph_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armamsub_dead_8_8_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armanac_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/armanni_dead_11_11_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armannit3_dead_16_16_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armantiship_dead_10_10_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armap_dead_11_11_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armapt3_dead_21_21_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armarad_dead_5_5_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armart_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/armaser_dead_7_7_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armason_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armassimilator_dead_11_11_aoplane.dds` | _awaiting license_ | PtaQ | #5030 | 2026-09-01 |
+| `decals_features/armasy_dead_13_13_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armatl_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armatlas_dead_5_5_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
+| `decals_features/armavp_dead_11_11_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armawac_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armbanth_dead_15_15_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armbats_dead_12_12_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armbeamer_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armbeaver_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armblade_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armbrawl_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armbrtha_dead_10_10_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armbull_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armca_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armcarry_dead_12_12_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armch_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/armcir_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/armck_dead_4_4_aoplane.dds` | _awaiting license_ | Kaiser | #5030 | 2026-09-01 |
+| `decals_features/armckfus_dead_8_8_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armclaw_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/armcom_dead_8_8_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armcomboss_dead_23_23_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armconsul_dead_3_3_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armcroc_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armcrus_dead_9_9_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armcs_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armcsa_dead_5_5_aoplane.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `decals_features/armcv_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armdecade_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armdecadet3_dead_12_12_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armdfly_dead_8_8_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armdl_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armdronecarry_dead_14_14_aoplane.dds` | _awaiting license_ | Odin | #5030 | 2026-09-01 |
+| `decals_features/armemp_dead_6_6_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/armepoch_dead_15_15_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armestor_dead_5_5_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/armexcalibur_dead_6_6_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-01 |
+| `decals_features/armeyes_dead_3_3_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/armfark_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armfast_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armfatf_dead_6_6_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/armfav_dead_3_3_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
+| `decals_features/armfdrag_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armfepocht4_dead_15_15_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armferret_dead_4_4_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armfflak_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armfhlt_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armfhp_dead_9_9_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armfido_dead_4_4_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
+| `decals_features/armfig_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armflak_dead_5_5_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/armflash_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armflea_dead_3_3_aoplane.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `decals_features/armfmkr_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armfort_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/armfrad_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armfrt_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armfus_dead_8_8_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armgate_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armgeo_dead_6_6_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armgmm_dead_6_6_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armgremlin_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armguard_dead_6_6_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armham_dead_6_6_aoplane.dds` | _awaiting license_ | Kaiser | #5030 | 2026-09-01 |
+| `decals_features/armhawk_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armhlt_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armhp_dead_8_8_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armjam_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armjamt_dead_4_4_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/armjanus_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/armjuno_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armkam_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armkraken_dead_7_7_aoplane.dds` | _awaiting license_ | Zecrus | #5030 | 2026-09-01 |
+| `decals_features/armlab_dead_8_8_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/armlance_dead_6_6_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
+| `decals_features/armlatnk_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armliche_dead_6_6_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
+| `decals_features/armllt_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armlun_dead_6_6_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
+| `decals_features/armlunchbox_dead_6_6_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
+| `decals_features/armmanni_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armmar_dead_9_9_aoplane.dds` | _awaiting license_ | PtaQ | #5030 | 2026-09-01 |
+| `decals_features/armmark_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armmart_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armmav_dead_7_7_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
+| `decals_features/armmeatball_dead_6_6_aoplane.dds` | _awaiting license_ | PtaQ | #5030 | 2026-09-01 |
+| `decals_features/armmercury_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/armmerl_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armmex_dead_5_5_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/armmh_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/armminivulc_dead_8_8_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armmls_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armmlv_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armmmkr_dead_6_6_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/armmmkrt3_dead_10_10_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armmoho_dead_6_6_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/armmship_dead_8_8_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armmstor_dead_5_5_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/armnanotc_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/armnanotcplat_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armpb_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/armpeep_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armpincer_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/armplat_dead_8_8_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armpnix_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armpt_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armptt2_dead_9_9_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armpw_dead_5_5_aoplane.dds` | _awaiting license_ | Kaiser | #5030 | 2026-09-01 |
+| `decals_features/armpwt4_dead_9_9_aoplane.dds` | _awaiting license_ | Kaiser | #5030 | 2026-09-01 |
+| `decals_features/armrad_dead_4_4_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/armrattet4_dead_8_8_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
+| `decals_features/armraz_dead_8_8_aoplane.dds` | _awaiting license_ | PtaQ | #5030 | 2026-09-01 |
+| `decals_features/armrecl_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armrectr_dead_4_4_aoplane.dds` | _awaiting license_ | Kaiser | #5030 | 2026-09-01 |
+| `decals_features/armrl_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armrock_dead_5_5_aoplane.dds` | _awaiting license_ | Kaiser | #5030 | 2026-09-01 |
+| `decals_features/armroy_dead_8_8_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armsaber_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armsam_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armsb_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armscab_dead_7_7_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armsd_dead_6_6_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armseadragon_dead_10_10_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-01 |
+| `decals_features/armseap_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armseer_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armsehak_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armserp_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armserpt3_dead_9_9_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armsfig_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armsh_dead_3_3_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armshltx_dead_16_16_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armshockwave_dead_6_6_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-01 |
+| `decals_features/armsilo_dead_8_8_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/armsjam_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armsnipe_dead_8_8_aoplane.dds` | _awaiting license_ | Kaiser | #5030 | 2026-09-01 |
+| `decals_features/armsolar_dead_4_4_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armsonar_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armspid_dead_3_3_aoplane.dds` | _awaiting license_ | Kaiser | #5030 | 2026-09-01 |
+| `decals_features/armsptk_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armsptkt4_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armspy_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armstil_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armstump_dead_5_5_aoplane.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `decals_features/armsub_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armsubk_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armsy_dead_8_8_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armtarg_dead_5_5_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/armthor_dead_8_8_aoplane.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `decals_features/armthund_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armtide_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armtl_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armuwadves_dead_6_6_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armuwadvms_dead_7_7_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armuwes_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armuwfus_dead_8_8_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armuwmme_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armuwmmm_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armuwms_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armvader_dead_3_3_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `decals_features/armvang_dead_7_7_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
+| `decals_features/armveil_dead_4_4_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/armvp_dead_8_8_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armvulc_dead_17_17_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/armwar_dead_4_4_aoplane.dds` | _awaiting license_ | Kaiser | #5030 | 2026-09-01 |
+| `decals_features/armwin_dead_5_5_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armwint2_dead_9_9_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/armyork_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/armzeus_dead_7_7_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/cor1X1A_2_2_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/cor1X1B_2_2_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor2X2A_3_3_aoplane.dds` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
+| `decals_features/cor2X2B_3_3_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor2X2C_3_3_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor2X2D_3_3_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/cor2X2E_3_3_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor2X2F_3_3_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor3X3A_4_4_aoplane.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `decals_features/cor3X3B_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor3X3C_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor3X3D_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor3X3E_4_4_aoplane.dds` | _awaiting license_ | Zecrus | manual-audit | 2026-09-01 |
+| `decals_features/cor3X3F_4_4_aoplane.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `decals_features/cor4X4A_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor4X4B_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor4X4C_5_5_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/cor4X4D_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor5X5A_7_7_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor5X5C_7_7_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor5X5D_7_7_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor6X6A_8_8_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor6X6B_8_8_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor6X6C_8_8_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cor7X7A_9_9_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/coraak_dead_3_3_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/coraap_dead_10_10_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corack_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/coracsub_dead_7_7_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/coracv_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/coradvsol_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corafus_dead_8_8_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/corafust3_dead_15_15_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/corageo_dead_8_8_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/corah_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corak_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corakt4_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/coralab_dead_12_12_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/coramph_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/coramsub_dead_8_8_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/corantiship_dead_12_12_aoplane.dds` | _awaiting license_ | Odin | #5030 | 2026-09-01 |
+| `decals_features/corap_dead_9_9_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corape_dead_5_5_aoplane.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `decals_features/corapt3_dead_16_16_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corarad_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corarch_dead_7_7_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corason_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corasy_dead_14_14_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/coratl_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/coravp_dead_10_10_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corawac_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corban_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corbats_dead_11_11_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corbhmth_dead_7_7_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corblackhy_dead_15_15_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corbuzz_dead_10_10_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corbw_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corcan_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/corcarry_dead_12_12_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corcat_dead_7_7_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/corch_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corck_dead_3_3_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corcom_dead_9_9_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corcomboss_dead_27_27_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corcrash_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/corcrus_dead_9_9_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corcrw_dead_8_8_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corcs_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corcsa_dead_6_6_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corcut_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/corcv_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cordeadeye_dead_5_5_aoplane.dds` | _awaiting license_ | Kaludjo | #5030 | 2026-09-01 |
+| `decals_features/cordemon_dead_10_10_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/cordesolator_dead_9_9_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-01 |
+| `decals_features/cordl_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cordoom_dead_8_8_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cordoomt3_dead_11_11_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cordrag_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cordronecarry_dead_11_11_aoplane.dds` | _awaiting license_ | Odin | #5030 | 2026-09-01 |
+| `decals_features/corenaa_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corerad_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corestor_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/coresupp_dead_4_4_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
+| `decals_features/coreter_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corexp_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/coreyes_dead_3_3_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corfast_dead_7_7_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corfatf_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corfav_dead_3_3_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
+| `decals_features/corfblackhyt4_dead_15_15_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corfdoom_dead_9_9_aoplane.dds` | _awaiting license_ | Zecrus | manual-audit | 2026-09-01 |
+| `decals_features/corfdrag_dead_3_3_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corfhlt_dead_7_7_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corfhp_dead_8_8_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corfink_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corflak_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corfmd_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corfmkr_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corforge_dead_4_4_aoplane.dds` | _awaiting license_ | MASHUP | #5030 | 2026-09-01 |
+| `decals_features/corfort_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corfrad_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corfrt_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corfship_dead_7_7_aoplane.dds` | _awaiting license_ | Odin | #5030 | 2026-09-01 |
+| `decals_features/corftiger_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corfus_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corgarp_dead_5_5_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
+| `decals_features/corgate_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corgator_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corgatreap_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corgeo_dead_6_6_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `decals_features/corgol_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corhal_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corhllllt_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corhllt_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corhlt_dead_8_8_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corhp_dead_8_8_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corhrk_dead_6_6_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corhunt_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/corhurc_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corint_dead_11_11_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corjamt_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corjugg_dead_8_8_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/corjuno_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corkarg_dead_7_7_aoplane.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `decals_features/corkarganetht4_dead_10_10_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
+| `decals_features/corkark_dead_5_5_aoplane.dds` | _awaiting license_ | Firestorm | #5030 | 2026-09-01 |
+| `decals_features/corkorg_dead_17_17_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/corlab_dead_8_8_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corlevlr_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corllt_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cormabm_dead_6_6_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/cormadsam_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cormakr_dead_3_3_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cormando_dead_7_7_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/cormart_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cormaw_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cormex_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cormexp_dead_7_7_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cormh_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corminibuzz_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cormist_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cormls_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cormlv_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cormmkr_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cormmkrt3_dead_9_9_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cormoho_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cormort_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/cormship_dead_8_8_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/cormstor_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cormuskrat_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cornanotc_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cornanotcplat_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/cornecro_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/coronager_dead_6_6_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-01 |
+| `decals_features/corparrow_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corphantom_dead_4_4_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-01 |
+| `decals_features/corplat_dead_8_8_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corpt_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corpun_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corrad_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/correap_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/correcl_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corrl_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corroach_dead_3_3_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/corroy_dead_7_7_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corsb_dead_6_6_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/corscreamer_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corsd_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corseah_dead_9_9_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corseap_dead_6_6_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corsfig_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/corsh_dead_3_3_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corshad_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corshark_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corshiva_dead_6_6_aoplane.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `decals_features/corshroud_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corsiegebreaker_dead_7_7_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-01 |
+| `decals_features/corsilo_dead_8_8_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corsjam_dead_6_6_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corsktl_dead_3_3_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/corslrpc_dead_17_17_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corsnap_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corsolar_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corsonar_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corspec_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/corspy_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corssub_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corstorm_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corsub_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corsumo_dead_5_5_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/corsy_dead_8_8_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cortarg_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cortermite_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/corthud_dead_6_6_aoplane.dds` | _awaiting license_ | jjackVII | #5030 | 2026-09-01 |
+| `decals_features/cortide_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cortitan_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cortl_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/cortoast_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cortrem_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/cortron_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/coruwadves_dead_7_7_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/coruwadvms_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/coruwes_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/coruwfus_dead_7_7_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/coruwmme_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/coruwmmm_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/coruwms_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corvalk_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corvamp_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `decals_features/corveng_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corvipe_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corvoyr_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/corvp_dead_8_8_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corvrad_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/corvroc_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corwin_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/corwint2_dead_8_8_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/legabm_dead_6_6_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legaceb_dead_4_4_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legack_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/legacluster_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legacv_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/legadveconv_dead_6_6_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals_features/legadveconvt3_dead_11_11_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals_features/legadvestore_dead_6_6_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legadvsol_dead_8_8_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
+| `decals_features/legafcv_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legafus_dead_9_9_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals_features/legafust3_dead_16_16_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals_features/legah_dead_4_4_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
+| `decals_features/legaheattank_dead_6_6_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legajam_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legalab_dead_13_13_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/legamcluster_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legamphtank_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legamstor_dead_6_6_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals_features/legarad_dead_6_6_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legaskirmtank_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legavjam_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legavp_dead_13_13_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
+| `decals_features/legavrad_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legavroc_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legbal_dead_5_5_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legbar_dead_5_5_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legbastion_dead_9_9_aoplane.dds` | _awaiting license_ | Gabs | #5030 | 2026-09-01 |
+| `decals_features/legbombard_dead_4_4_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-01 |
+| `decals_features/legcar_dead_5_5_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
+| `decals_features/legcen_dead_5_5_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legch_dead_4_4_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
+| `decals_features/legck_dead_4_4_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legcluster_dead_6_6_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legcom_dead_5_5_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legctl_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legcv_dead_5_5_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legdeflector_dead_6_6_aoplane.dds` | _awaiting license_ | Gabs | #5030 | 2026-09-01 |
+| `decals_features/legdrag_dead_3_3_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legdtr_dead_3_3_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legeconv_dead_5_5_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals_features/legerailtank_dead_7_7_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legestor_dead_5_5_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals_features/legfhive_dead_6_6_aoplane.dds` | _awaiting license_ | Zephyr | #5030 | 2026-09-01 |
+| `decals_features/legflak_dead_6_6_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legfloat_dead_6_6_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
+| `decals_features/legfmg_dead_6_6_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legfrad_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legfrl_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legfus_dead_8_8_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals_features/leggat_dead_5_5_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals_features/leggatet3_dead_7_7_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals_features/leggeo_dead_7_7_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/leggob_dead_3_3_aoplane.dds` | _awaiting license_ | Odin | #5030 | 2026-09-01 |
+| `decals_features/leggobt3_dead_7_7_aoplane.dds` | _awaiting license_ | Odin | #5030 | 2026-09-01 |
+| `decals_features/leghades_dead_3_3_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/leghelios_dead_3_3_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/leghive_dead_5_5_aoplane.dds` | _awaiting license_ | Zephyr | #5030 | 2026-09-01 |
+| `decals_features/leghp_dead_7_7_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals_features/legjam_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legjav_dead_7_7_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legkark_dead_4_4_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legkeres_dead_7_7_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
+| `decals_features/leglab_dead_9_9_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/leglht_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/leglob_dead_4_4_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/leglraa_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
+| `decals_features/leglrpc_dead_8_8_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/leglupara_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legmech_dead_8_8_aoplane.dds` | _awaiting license_ | Kremenchuk | #5030 | 2026-09-01 |
+| `decals_features/legmex_dead_5_5_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals_features/legmext15_dead_5_5_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals_features/legmg_dead_6_6_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legmh_dead_4_4_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
+| `decals_features/legministarfall_dead_7_7_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legmlv_dead_3_3_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legmoho_dead_6_6_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals_features/legmrv_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legmstor_dead_6_6_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
+| `decals_features/legner_dead_4_4_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
+| `decals_features/legotter_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legpede_dead_18_18_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
+| `decals_features/legrad_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legrail_dead_4_4_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legrhapsis_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legrl_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legscout_dead_4_4_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
+| `decals_features/legsd_dead_7_7_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legsh_dead_3_3_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
+| `decals_features/legsilo_dead_8_8_aoplane.dds` | _awaiting license_ | Tharsy | #5030 | 2026-09-01 |
+| `decals_features/legsnapper_dead_3_3_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-01 |
+| `decals_features/legsolar_dead_6_6_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-01 |
+| `decals_features/legsrail_dead_6_6_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legsrailt4_dead_10_10_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legstarfall_dead_10_10_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legstr_dead_6_6_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legtl_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legvflak_dead_5_5_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/legwin_dead_4_4_aoplane.dds` | _awaiting license_ | Yzch | #5030 | 2026-09-01 |
+| `decals_features/legwint2_dead_6_6_aoplane.dds` | _awaiting license_ | Yzch | #5030 | 2026-09-01 |
+| `decals_features/rocks30_def_01_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_02_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_03_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_04_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_05_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_06_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_07_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_08_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_09_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_10_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_11_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_12_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_13_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_14_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_15_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_16_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_17_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_18_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_19_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_20_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_21_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_22_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_23_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_24_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_25_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_26_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_27_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_28_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_29_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `decals_features/rocks30_def_30_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `dice.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `dice2.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `energyball_tex.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `energyball_tex2.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `greyrock2.tga` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `pilha_crystal_license.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_normal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_tex2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

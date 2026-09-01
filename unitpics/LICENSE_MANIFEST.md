@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1421**
+Total assets recorded: **1429**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -706,6 +706,12 @@ Total assets recorded: **1421**
 | `raptors/raptor_dodo2_electric.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `raptors/raptor_dodoair.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `raptors/raptor_hive.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `raptors/raptor_miniqueen_acid.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor_miniqueen_basic.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor_miniqueen_electric.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor_miniqueen_fire.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor_miniqueen_healer.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor_miniqueen_spectre.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `raptors/raptor_turretl.dds` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-01 |
 | `raptors/raptor_turretl_acid.dds` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-01 |
 | `raptors/raptor_turretl_antiair.dds` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-01 |
@@ -772,6 +778,8 @@ Total assets recorded: **1421**
 | `raptors/raptorw1c.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `raptors/raptorw1d.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `raptors/raptorw2.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/ve_raptorq.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/vh_raptorq.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `scavdrag.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/armaak.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `scavengers/armaas.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |

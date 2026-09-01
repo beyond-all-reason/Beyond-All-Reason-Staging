@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1598**
+Total assets recorded: **1617**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -1361,6 +1361,10 @@ Total assets recorded: **1598**
 | `Units/scavbuildings/legministarfall_dead.s3o` | _awaiting license_ | ZephyrSkies | #2466 | 2026-09-01 |
 | `Units/scavbuildings/legwint2.s3o` | _awaiting license_ | Yzch | #2738 | 2026-09-01 |
 | `Units/scavbuildings/legwint2_dead.s3o` | _awaiting license_ | Yzch | #2738 | 2026-09-01 |
+| `Units/unused/cor_cagelight_blue.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `Units/unused/cor_cagelight_red.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `Units/unused/cor_cagelight_team.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `Units/unused/cor_cagelight_yellow.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `Units/unused/old_bladew.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `airbomb.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
 | `airbombsea.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
@@ -1409,6 +1413,10 @@ Total assets recorded: **1598**
 | `epulse.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `gingerbread.s3o` | _awaiting license_ | Christiaan van Hoegee | manual-audit | 2026-08-31 |
 | `gingerbread.txt` | _awaiting license_ | Christiaan van Hoegee | manual-audit | 2026-08-31 |
+| `hats/cor_hat_fightnight.s3o` | _awaiting license_ | NebuchadnezzarII= | #3778 | 2026-09-01 |
+| `hats/cor_hat_hornet.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
+| `hats/cor_hat_legfn.s3o` | _awaiting license_ | NebuchadnezzarII | #3781 | 2026-09-01 |
+| `hats/cor_hat_ptaq.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `hats/cor_hat_viking.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `legstone.s3o` | _awaiting license_ | Tharsy | #3843 | 2026-09-01 |
 | `pilha_crystal_1.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -1444,6 +1452,7 @@ Total assets recorded: **1598**
 | `pilha_crystal_violet_1.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `pilha_crystal_violet_2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `pilha_crystal_violet_3.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `rocks30/licence.txt` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `rocks30/rocks30_def_01.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `rocks30/rocks30_def_02.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `rocks30/rocks30_def_03.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
@@ -1594,6 +1603,16 @@ Total assets recorded: **1598**
 | `rocks30/rocks30_snow_28.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
 | `rocks30/rocks30_snow_29.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
 | `rocks30/rocks30_snow_30.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `scavs/armbotrail.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavs/cords.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavs/cormandot4.s3o` | _awaiting license_ | FireStorm | #3494 | 2026-09-01 |
+| `scavs/scavdrag.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavs/scavdtf.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavs/scavdtl.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavs/scavdtm.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavs/scavfort.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavs/scavmistflare.s3o` | _awaiting license_ | SethDGamre | #4 | 2026-09-01 |
+| `scavs/scavsafeareabeacon.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `xmasball1_1.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |
 | `xmasball1_2.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |
 | `xmasball1_3.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |
