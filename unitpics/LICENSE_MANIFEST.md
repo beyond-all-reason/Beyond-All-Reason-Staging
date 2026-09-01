@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **196**
+Total assets recorded: **269**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -112,6 +112,26 @@ Total assets recorded: **196**
 | `lootboxes/lootdrop.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `other/meteor.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `other/nuketest.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `raptors/e_raptorq.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/epic_raptorq.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/h_raptorq.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/n_raptorq.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor1.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor1b.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor1c.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor1d.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor1x.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor1x_spectre.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor1y.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor1z.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor2.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor2_spectre.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor2b.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor_dodo1.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor_dodo1_electric.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor_dodo2.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor_dodo2_electric.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptor_dodoair.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `raptors/raptor_hive.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `raptors/raptor_turretl.dds` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-01 |
 | `raptors/raptor_turretl_acid.dds` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-01 |
@@ -124,7 +144,60 @@ Total assets recorded: **196**
 | `raptors/raptor_turrets_antinuke.dds` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-01 |
 | `raptors/raptor_turrets_electric.dds` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-01 |
 | `raptors/raptor_turretxl_meteor.dds` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-01 |
+| `raptors/raptora1.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptora1_spectre.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptora1b.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptora1c.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptora2.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptora2_spectre.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptora2b.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptoracidallterrain.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptoracidallterrainassault.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptoracidarty.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptoracidartyxl.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptoracidassault.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptoracidbomber.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptoracidswarmer.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorairscout.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorallterraina1.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorallterraina1b.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorallterraina1c.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorapexallterrainassault.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorapexallterrainassaultb.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorbroodarty.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorbroodbomber.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorc3.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorc3b.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `raptors/raptorc3c.dds` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-01 |
+| `raptors/raptore1.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptore2.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorearty1.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorearty2.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorebomber1.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorelectricallterrain.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorelectricallterrainassault.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorf1.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorf1_mini.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorf1b.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorh1b.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorh2.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorh3.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorh4.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorh5.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorhealer.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorp1.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorp2.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorpyroallterrain.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorr2.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptors1.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptors2.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptors2_spectre.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorw1.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorw1_mini.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorw1b.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorw1c.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorw1d.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
+| `raptors/raptorw2.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
 | `scavengers/armassistdrone.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armca.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armfast.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
