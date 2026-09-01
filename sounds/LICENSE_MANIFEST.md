@@ -952,7 +952,7 @@ Total assets recorded: **986**
 | `weapons/splsmed.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/splssml.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/spore_explo.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/starfallchargup.wav` | _awaiting license_ | ZephyrSkies7 | #6510 | 2026-08-31 |
+| `weapons/starfallchargup.wav` | _awaiting license_ | ZephyrSkies7 | #6510 | 2026-09-01 |
 | `weapons/stormtl2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/t1arthit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `weapons/tawf113a.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |

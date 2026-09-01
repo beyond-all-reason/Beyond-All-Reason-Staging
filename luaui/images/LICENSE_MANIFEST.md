@@ -4,12 +4,13 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **448**
+Total assets recorded: **507**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
 | `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-08-28 |
 | `Ranks/license.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `Ranks/rank1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `Ranks/rank10.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `Ranks/rank11.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `Ranks/rank12.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -44,6 +45,8 @@ Total assets recorded: **448**
 | `advplayerslist/flags/legion.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
 | `advplayerslist/flags/raptor-red.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
 | `advplayerslist/flags/raptor.png` | _awaiting license_ | icexuick | manual-audit | 2026-08-28 |
+| `advplayerslist/gbr.png` | _awaiting license_ | beherith | manual-audit | 2026-09-01 |
+| `advplayerslist/ger.png` | _awaiting license_ | beherith | manual-audit | 2026-09-01 |
 | `advplayerslist/id.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `advplayerslist/indent.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `advplayerslist/indicator.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
@@ -316,11 +319,16 @@ Total assets recorded: **448**
 | `energy.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `flank_icon.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `flank_icon_old.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `flowui_gl4/backgroundtile.png` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `flowui_gl4/glow.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `flowui_gl4/glow2.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `flowui_gl4/metal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `flowui_gl4/metalenergy.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5915 | 2026-08-31 |
 | `flowui_gl4/metalold.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `formationDot.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `forward.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `fractal_voronoi_tiled.tmd` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `fractal_voronoi_tiled_1024_1.png` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `glow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `glow2.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `gradient_alpha_2.png` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
@@ -412,13 +420,55 @@ Total assets recorded: **448**
 | `keybinds/legacy_keys.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2934 | 2026-08-31 |
 | `keybinds/legacy_keys_ALT.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2934 | 2026-08-31 |
 | `keybinds/legacy_keys_CTRL.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2934 | 2026-08-31 |
-| `lava/lava2_diffuseemit.dds` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
+| `lava/lava2_diffuseemit.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
+| `lava/lava2_diffuseemitblue.dds` | `CC-BY-SA-4.0` | AntlerForce | #3911 | 2026-09-01 |
+| `lava/lava2_normalheight.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
+| `lava/lava6_diffuseemit.tga` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
+| `lava/lava6_normalheight.tga` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
+| `lava/lava7_diffuseemit.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `lava/lava7_normalheight.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `lava/license.txt` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `lavadistortion.dds` | _awaiting license_ | Beherith | #3118 | 2026-09-01 |
+| `lavadistortion.png` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `license.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
+| `luagrass/grass_field_medit.dds.cached.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
+| `luagrass/grass_field_medit_flowering.dds.cached.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
+| `luagrass/grass_field_mixed.dds.cached.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
+| `luagrass/grassx4.obj` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `luagrass/grassx4.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `luagrass/grassx4_2.obj` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `luagrass/license.txt` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `mapmarksfx/glow.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `mapmarksfx/ring.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `metal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `metalold.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `new.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `noisetextures/blue_noise_64.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/bluenoise_128_rgba_1pixoffset.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/cloudy8_256x256x64_L.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/cloudy8_a_128x128x32_L.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/licence.txt` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/noise3d64rgb.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/noise3d64rgb.jpg` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/noise64_cube_1.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/noise64_cube_2.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/noise64_cube_3.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/rgba_noise_256.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/uniform3d_16x16x16_L.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/uniform3d_16x16x16_RGBA.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/uniform3d_32x32x32_L.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/uniform3d_32x32x32_RGBA.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/uniform3d_64x64x64_L.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/uniform3d_64x64x64_RGBA.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/uniformnoise_128_rgba_1pixoffset.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/worley2023_256x128x64_RBGA_LONG.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/worley2023_256x128x64_RBGA_LONG.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/worley3_256x128x64_RBGA_LONG.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/worley3_256x128x64_RBGA_LONG.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/worley_128_single_norm_v1.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/worley_rgbnorm_01_asum_128_v1.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/worley_rgbnorm_01_asum_128_v1_mip.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `noisetextures/worley_rsum_bgaind_128_v1.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `nuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `pip/PipActivity.png` | _awaiting license_ | Floris | #6945 | 2026-06-16 |
 | `pip/PipBlip.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
@@ -440,11 +490,18 @@ Total assets recorded: **448**
 | `rapt-tileable_v001_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
 | `rapt-tileable_v001_small_alpha.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
 | `rapt-tileable_v002_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
+| `raptor_scum/alien_guts_colorheight.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
+| `raptor_scum/alien_guts_colorheight.tga` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
+| `raptor_scum/alien_guts_normalspec.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
+| `raptor_scum/alien_guts_normalspec.tga` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
+| `raptor_scum/alien_guts_normalspec_u8888.dds` | `CC-BY-SA-4.0` | Beherith | #3118 | 2026-09-01 |
+| `raptor_scum/license.txt` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `raptorpanel.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `raptorpanel.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `repeat.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `repeat_old.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `returnfire.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7585 | 2026-08-31 |
+| `rgbnoise.png` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
 | `scav-tileable_v001-alpha.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
 | `scav-tileable_v001_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
 | `scav-tileable_v002_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
@@ -455,4 +512,6 @@ Total assets recorded: **448**
 | `stripes.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `tidal-waves.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `vignette.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `vr_grid.png` | _awaiting license_ | Decay | manual-audit | 2026-09-01 |
+| `vr_grid_large.dds` | _awaiting license_ | Decay | manual-audit | 2026-09-01 |
 | `wind-blades.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
