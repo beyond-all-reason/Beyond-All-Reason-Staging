@@ -404,6 +404,17 @@
     "comments": []
   },
   {
+    "file": "objects3d/rocks30/licence.txt",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-01",
+        "text": "The rocks30 files have this comment: They are licensed to Beherith (mysterme@gmail.com) under the Royalty-Free Blender Market license to be included in BAR. - Do we have this included in BAR?"
+      }
+    ]
+  },
+  {
     "file": "sounds/weapons/beamershot.wav",
     "flag": "unused",
     "comments": []

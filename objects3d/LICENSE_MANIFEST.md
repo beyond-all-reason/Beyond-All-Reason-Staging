@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **534**
+Total assets recorded: **533**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -379,9 +379,8 @@ Total assets recorded: **534**
 | `pilha_crystal_violet_1.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `pilha_crystal_violet_2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `pilha_crystal_violet_3.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
-| `rocks30/licence.txt` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
-| `rocks30/rocks30_def_01.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
-| `rocks30/rocks30_def_02.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
+| `rocks30/rocks30_def_01.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `rocks30/rocks30_def_02.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `rocks30/rocks30_def_03.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
 | `rocks30/rocks30_def_04.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
 | `rocks30/rocks30_def_05.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
