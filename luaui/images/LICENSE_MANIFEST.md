@@ -338,20 +338,20 @@ Total assets recorded: **521**
 | `grid3d64rgb.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
 | `groupicons/aa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `groupicons/antinuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `groupicons/builder.png` | `LicenseRef-BAR-CLA-1.0` | Florisicexuick | manual-audit | 2026-08-31 |
-| `groupicons/buildert2.png` | `LicenseRef-BAR-CLA-1.0` | Florisicexuick | manual-audit | 2026-08-31 |
+| `groupicons/builder.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
+| `groupicons/buildert2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `groupicons/buildert3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `groupicons/buildert4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `groupicons/emp.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `groupicons/energy.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `groupicons/metal.png` | `LicenseRef-BAR-CLA-1.0` | Florisicexuick | manual-audit | 2026-08-31 |
+| `groupicons/metal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `groupicons/nuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `groupicons/sub.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `groupicons/util.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `groupicons/weapon.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `groupicons/weaponaa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `groupicons/weaponexplo.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `groupicons/weaponsub.png` | `LicenseRef-BAR-CLA-1.0` | icecuick | manual-audit | 2026-08-31 |
+| `groupicons/weaponsub.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `halo.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `healtbars_exo4.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `hexgrid.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
