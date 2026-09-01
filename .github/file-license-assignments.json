@@ -57376,19 +57376,19 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-01T11:35:03Z",
     "file": "luaui/images/groupicons/builder.png",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:35:03Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-01T11:35:03Z",
     "file": "luaui/images/groupicons/buildert2.png",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:35:03Z",
     "source": "manual-audit"
   },
   {
@@ -57424,11 +57424,11 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-01T11:35:03Z",
     "file": "luaui/images/groupicons/metal.png",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:35:03Z",
     "source": "manual-audit"
   },
   {
@@ -57480,11 +57480,11 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-01T11:35:03Z",
     "file": "luaui/images/groupicons/weaponsub.png",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:35:03Z",
     "source": "manual-audit"
   },
   {
@@ -70781,6 +70781,4065 @@
     "status": "awaiting_license"
   },
   {
+    "file": "sounds/voice/en/cephis/EconomyUnderAttack2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/EnemyCommanderDied.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/EnemyCommanderDied2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/FactoryUnderAttack.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/FactoryUnderAttack2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/FriendlyCommanderDied.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/FriendlyCommanderDied2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/FriendlyCommanderSelfD.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/FriendlyCommanderSelfD2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/GamePaused.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/GamePaused2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/GameStarted.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/GameStarted2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/GameUnpaused.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/GameUnpaused2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/LavaDropping.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/LavaDropping2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/LavaRising.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/LavaRising2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/LowPower.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/LowPower2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/LowPower3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/LrpcTargetUnits.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/LrpcTargetUnits2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/MaxUnitsReached.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/MaxUnitsReached2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/MetalExtractorLost.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/MetalExtractorLost2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/NeutralCommanderDied.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6184",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/NeutralCommanderDied2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6184",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/NeutralCommanderSelfD.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6184",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/NeutralCommanderSelfD2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6184",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/NukeLaunched.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/NukeLaunched2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/NukeLaunched3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/NukeLaunched4.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/RadarLost.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/RadarLost2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/RaptorsAndScavsMixed.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/TeamDownLastCommander.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/TeamDownLastCommander2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/TeammateCaughtUp.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/TeammateCaughtUp2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/TeammateDisconnected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/TeammateDisconnected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/TeammateLagging.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/TeammateLagging2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/TeammateReconnected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/TeammateReconnected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/TeammateResigned.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/TeammateResigned2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/TeammateTimedout.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/TeammateTimedout2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/Tech2TeamReached.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/Tech2TeamReached2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/Tech3TeamReached.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/Tech3TeamReached2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/Tech4TeamReached.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/Tech4TeamReached2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/AircraftDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/AircraftDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/AircraftDetected3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/AirtransportDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/AirtransportDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/AstraeusDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/AstraeusDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/BehemothDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/BehemothDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/BlackHydraDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/BlackHydraDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/CalamityDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/CalamityDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/CorinthDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/CorinthDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/EmpSiloDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/EmpSiloDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/EnemyDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/EnemyDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/EpochDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/EpochDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/FlagshipDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/FlagshipDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/JuggernautDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/JuggernautDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/LicheDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/LicheDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/LongRangeNapalmLauncherDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/LongRangeNapalmLauncherDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/LrpcDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/LrpcDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/MinesDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/MinesDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/NeptuneDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/NeptuneDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/NuclearSiloDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/NuclearSiloDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/RagnarokDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/RagnarokDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/SolInvictusDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/SolInvictusDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/StarfallDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/StarfallDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/StealthyUnitsDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/StealthyUnitsDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/TacticalNukeSiloDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/TacticalNukeSiloDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/Tech2UnitDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/Tech2UnitDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/Tech3UnitDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/Tech3UnitDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/Tech4UnitDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/Tech4UnitDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/ThorDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/ThorDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/TitanDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitDetected/TitanDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitLost.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitLost2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/AstraeusIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/AstraeusIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/BehemothIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/BehemothIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/CalamityIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/CalamityIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/FlagshipIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/FlagshipIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/JuggernautIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/JuggernautIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/RagnarokIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/RagnarokIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/SolInvictusIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/SolInvictusIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/StarfallIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/StarfallIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/Tech2UnitReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/Tech2UnitReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/Tech3UnitReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/Tech3UnitReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/Tech4UnitReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/Tech4UnitReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/ThorIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/ThorIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/TitanIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitReady/TitanIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitsCaptured.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitsCaptured2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitsReceived.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitsReceived2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitsUnderAttack.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/UnitsUnderAttack2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/Welcome.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/WelcomeShort.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6805",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/WholeTeamWastingEnergy.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/WholeTeamWastingEnergy2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/WholeTeamWastingMetal.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/WholeTeamWastingMetal2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/YouAreOverflowingMetal.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/YouAreOverflowingMetal2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/YouAreWastingEnergy.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/YouAreWastingEnergy2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/YouAreWastingMetal.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/YouAreWastingMetal2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/YouHaveLastCommander.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/cephis/YouHaveLastCommander2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cephis",
+    "pr": "6101",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/AdvancedRadarLost.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/BattleEnded.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/BuildEnergy.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/BuildMetal.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/ChooseStartLoc.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/ComHeavyDamage.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/DuplicateFactory.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/EnemyCommanderDied.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/FactoryAir.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/FactoryBots.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/FactoryHovercraft.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/FactorySeaplanes.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/FactoryShips.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/FactoryVehicles.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/FriendlyCommanderDied.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/FriendlyCommanderSelfD.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/GamePaused.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/GameStarted.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/GameUnpaused.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/LavaDropping.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/LavaRising.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/LowPower.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/LowPower2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/LrpcTargetUnits.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/MetalExtractorLost.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/NeutralCommanderDied.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/NeutralCommanderDied2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/NeutralCommanderSelfD.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/NukeLaunched.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/Paralyzer.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/PlayerAdded.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/PlayerDisconnected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/PlayerReconnecting.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/PlayerResigned.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/PlayerTimedout.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/RadarLost.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/TeamDownLastCommander.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/AircraftDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/AirtransportDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/BehemothDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/BlackHydraDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/CommandoDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/CorinthDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/EmpSiloDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/EmpSiloDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/EpochDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/FlagshipDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/JuggernautDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/KorgothDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/LicheDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/LrpcDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/MinesDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/NeptuneDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/NuclearSiloDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/SeatransportDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/StealthyUnitsDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/TacticalNukeSiloDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/Tech2UnitDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/Tech3UnitDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/ThorDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/TitanDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitDetected/TransportDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitLost.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitReady/AstraeusIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitReady/CalamityIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitReady/JuggernautIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitReady/RagnarokIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitReady/ReadyForTech2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitReady/SolinvictusIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitReady/StarfallIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitReady/Tech3UnitReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitReady/TitanIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitReceived.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/UnitsReceived.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/Welcome.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/WholeTeamWastingEnergy.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/WholeTeamWastingMetal.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/WindNotGood.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/YouAreOverflowingEnergy.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/YouAreOverflowingMetal.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/YouAreWastingEnergy.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/YouAreWastingMetal.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/Youhavelastcommander.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/unused/321.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/unused/3212.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/unused/BattleStarting.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/unused/Battlestarting2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/unused/IdleBuilder.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/unused/LastComRemaining.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/razkharn/unused/ReinforcementsHaveArrived.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Razkharn",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/AdvancedRadarLost.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/AdvancedRadarLost2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/BattleEnded.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/BuildEnergy.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/BuildMetal.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/ChooseStartLoc.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/ChooseStartLoc2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/ComHeavyDamage.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/CommanderUnderAttack.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/CommanderUnderAttack2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/CommanderUnderAttack3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/CommanderUnderAttack_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/DuplicateFactory.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/EconomyUnderAttack.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/EconomyUnderAttack2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/EconomyUnderAttack3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/EconomyUnderAttack4.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/EconomyUnderAttack_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/EnemyCommanderDied.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/EnemyCommanderDied2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/EnemyPlayerCaughtUp.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/EnemyPlayerDisconnected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/EnemyPlayerLagging.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/EnemyPlayerReconnected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/EnemyPlayerResigned.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/EnemyPlayerResigned2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/EnemyPlayerResigned3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/EnemyPlayerTimedout.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/FactoryAir.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/FactoryBots.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/FactoryHovercraft.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/FactorySeaplanes.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/FactoryShips.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/FactoryUnderAttack.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/FactoryUnderAttack2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/FactoryUnderAttack3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/FactoryUnderAttack4.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/FactoryUnderAttack_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/FriendlyCommanderDied.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/FriendlyCommanderDied2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/FriendlyCommanderSelfD.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/FriendlyCommanderSelfD2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/GamePaused.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/GameStarted.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/GameUnpaused.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/GameUnpaused_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/LavaDropping.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/LavaRising.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/LowPower.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/LowPower2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/LrpcTargetUnits.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/MaxUnitsReached.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/MaxUnitsReached2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/MaxUnitsReached_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/MetalExtractorLost.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/NeutralCommanderDied.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/NeutralCommanderDied2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/NeutralCommanderDied3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/NeutralCommanderSelfD.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/NeutralCommanderSelfD2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7370",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/NeutralPlayerCaughtUp.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/NeutralPlayerDisconnected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/NeutralPlayerLagging.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/NeutralPlayerReconnected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/NeutralPlayerResigned.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/NeutralPlayerTimedout.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/NukeLaunched.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/NukeLaunched2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/NukeLaunched3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/Paralyzer.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/PlayerAdded.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/PlayerDisconnected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/PlayerReconnecting.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/PlayerResigned.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/PlayerTimedout.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/RadarLost.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/RaptorsAndScavsMixed.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/TeamDownLastCommander.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "5651",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/TeammateCaughtUp1.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/TeammateCaughtUp_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/TeammateLagging.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/TeammateLagging_Rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/TeammateReconnected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/TeammateResigned.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/TeammateResigned2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/TeammateResigned3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/TeammateResigned_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/TeammateTimedout.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/Tech2TeamReached.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/Tech2TeamReached2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/Tech2TeamReached3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/Tech2TeamReached_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/Tech3TeamReached.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/Tech3TeamReached2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/Tech3TeamReached3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/Tech3TeamReached_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/Tech4TeamReached.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/Tech4TeamReached2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitCaptured.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitCaptured2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/AirTransportDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/AircraftDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/AstraeusDetetcted.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/BehemothDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/BlackHydraDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/CalamityDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/CalamityDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/CommandoDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/CorinthDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/EmpSiloDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/EnemyDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/EnemyDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/EnemyDetected3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/EnemyDetected_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/EpochDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/FlagshipDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/JuggernautDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/LicheDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/LongRangeNapalmLauncherDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/LongRangeNapalmLauncherDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/LongRangeNapalmLauncherDetetcted_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/LrpcDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/MinesDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/NeptuneDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/NuclearSiloDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/NuclearSiloDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/RagnarokDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/RagnarokDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/RagnarokDetected_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/SeatransportDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/SolInvictusDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/SolInvictusDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/SolInvictusDetected3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/SolInvictusDetected_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/StarfallDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/StarfallDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/StarfallDetected_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/StealthyUnitsDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/TacticalNukeSiloDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/Tech2UnitDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/Tech2UnitDetected2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/Tech3UnitDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/Tech4UnitDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/ThorDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/TitanDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitDetected/TransportDetected.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitLost.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/AstreausIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/AstreausIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/BehemothIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/BehemothIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/CalamityIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/FlagshipIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/FlagshipIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/FlagshipIsReady_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/JuggernautIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/JuggernautIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/RagnarokIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/SolinvictusIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/SolinvictusIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/StarfallIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/StarfallIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/Tech2UnitReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/Tech2UnitReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/Tech2UnitReady3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/Tech2UnitReady_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/Tech3UnitReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "6938",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/Tech3UnitReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/Tech3UnitReady3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/Tech4UnitReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/ThorIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/ThorIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/ThorIsReady_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/TitanIsReady.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/TitanIsReady2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitReady/TitanIsReady3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitsReceived.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitsUnderAttack.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitsUnderAttack2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitsUnderAttack3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/UnitsUnderAttack_rare.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/Welcome.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/WelcomeShort.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/WelcomeShort2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/WelcomeShort3.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "7008",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/WholeTeamWastingEnergy.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/WholeTeamWastingMetal.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/YouAreOverflowingEnergy.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/YouAreOverflowingMetal.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/YouAreWastingEnergy.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/YouAreWastingMetal.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/YouHaveLastCommander.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "5651",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/YouHaveLastCommander2.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "5651",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/factoryVehicles.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "3218",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/unused/321.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/unused/IdleBuilders.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "sounds/voice/en/winter/unused/ReinforcementsHaveArrived.wav",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Winter",
+    "pr": "manual-audit",
+    "date": "2026-09-01T19:48:13Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T20:30:43Z",
     "file": "sounds/weapons-mult/alien_electric.wav",
@@ -72577,13 +76636,13 @@
     "source": "manual-audit"
   },
   {
-    "file": "unitpics/armaap.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/armaap.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Beherith",
@@ -72594,13 +76653,13 @@
     "source": "manual-audit"
   },
   {
-    "file": "unitpics/armassistdrone.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "FireStorm",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/armassistdrone.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Beherith",
@@ -72619,13 +76678,13 @@
     "source": "manual-audit"
   },
   {
-    "file": "unitpics/armca.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "FireStorm",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/armca.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Beherith",
@@ -72660,58 +76719,58 @@
     "source": "manual-audit"
   },
   {
-    "file": "unitpics/armfast.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "FireStorm",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/armfast.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Kaiser",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/armfboy.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Kaiser",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/armfify.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Darknagura",
+    "date": "2026-09-01T11:30:52Z",
+    "file": "unitpics/armfify.dds",
+    "license": "",
     "pr": "3872",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/armgatet3.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Beherith",
+    "date": "2026-09-01T11:30:52Z",
+    "file": "unitpics/armgatet3.dds",
+    "license": "",
     "pr": "4104",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/armhaap.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "5546",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/armhaap.dds",
+    "license": "",
+    "pr": "5546",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/armjeth.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Kaiser",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/armjeth.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "PtaQ",
@@ -72722,13 +76781,13 @@
     "source": "manual-audit"
   },
   {
-    "file": "unitpics/armnanotc2plat.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Beherith",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/armnanotc2plat.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "PtaQ",
@@ -72739,94 +76798,94 @@
     "source": "manual-audit"
   },
   {
-    "file": "unitpics/armstone.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "NebuchadnezzarII",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/armstone.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/armtrident.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Odin",
+    "date": "2026-09-01T11:30:52Z",
+    "file": "unitpics/armtrident.dds",
+    "license": "",
     "pr": "2872",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Cremuss",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/armuwageo.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Cremuss",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Cremuss",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/armuwgeo.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Cremuss",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "FireStorm",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/armzeus.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Mr Bob",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/coraca.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Mr Bob",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Mr Bob",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/corassistdrone.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Mr Bob",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Mr Bob",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/corca.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Mr Bob",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Mr Bob",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/corcrwh.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Mr Bob",
     "pr": "2296",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/cordemon.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "FireStorm",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/cordemon.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -72838,175 +76897,175 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Mr Bob",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/corgant.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Mr Bob",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Mr Bob",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/corgatet3.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Mr Bob",
     "pr": "4104",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Mr Bob",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/corgolt4.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Mr Bob",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Mr Bob",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/corhalab.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Mr Bob",
     "pr": "5546",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Mr Bob",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/corhavp.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Mr Bob",
     "pr": "5546",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/cormort.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "FireStorm",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/cormort.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/cornanotc2plat.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/corprince.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Johnathan Crimson",
+    "date": "2026-09-01T11:30:52Z",
+    "file": "unitpics/corprince.dds",
+    "license": "",
     "pr": "5427",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/corprinter.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "MASHUP",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/corprinter.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/corpyro.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Mr Bob",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/corraid.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Mr Bob",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/corsala.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Itanthias",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/corsala.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/corsent.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "PtaQ",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/corsent.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/corsentinel.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Odin",
+    "date": "2026-09-01T11:30:52Z",
+    "file": "unitpics/corsentinel.dds",
+    "license": "",
     "pr": "2872",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/corthermite.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Beherith",
+    "date": "2026-09-01T11:30:52Z",
+    "file": "unitpics/corthermite.dds",
+    "license": "",
     "pr": "2239",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/cortorch.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Flaka",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/cortorch.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Cremuss",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/coruwageo.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Cremuss",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Cremuss",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/coruwgeo.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Cremuss",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/corwolv.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/corwolv.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "icexuick",
@@ -73017,40 +77076,40 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "Protar",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/legaap.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Protar",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legajamk.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
+    "date": "2026-09-01T11:30:52Z",
+    "file": "unitpics/legajamk.dds",
+    "license": "",
     "pr": "5382",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legalab.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/legalab.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legamph.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Johanthan Crimson",
-    "pr": "4829",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/legamph.dds",
+    "license": "",
+    "pr": "4829",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73062,40 +77121,40 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Tharsis",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/leganavalaaturret.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Tharsis",
     "pr": "6423",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Tharsis",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/leganavaladvgeo.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Tharsis",
     "pr": "6423",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Protar",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/leganavaleconv.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Protar",
     "pr": "6423",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/leganavalpinpointer.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "6423",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/leganavalpinpointer.dds",
+    "license": "",
+    "pr": "6423",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73125,31 +77184,31 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Tharsis",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/leganavybattlesub.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Tharsis",
     "pr": "6423",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Tharsis",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/leganavyheavysub.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Tharsis",
     "pr": "6423",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legap.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/legap.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73161,13 +77220,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legaradk.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "5382",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/legaradk.dds",
+    "license": "",
+    "pr": "5382",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73188,13 +77247,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legbunk.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Johanthan Crimson",
-    "pr": "4613",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/legbunk.dds",
+    "license": "",
+    "pr": "4613",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73206,31 +77265,31 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Protar",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/legeheatraymech.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Protar",
     "pr": "4339",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legeheatraymech_old.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "5739",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/legeheatraymech_old.dds",
+    "license": "",
+    "pr": "5739",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legehovertank.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "5357",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/legehovertank.dds",
+    "license": "",
+    "pr": "5357",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73242,49 +77301,49 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legeshotgunmech.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Ghoulish",
+    "date": "2026-09-01T11:30:52Z",
+    "file": "unitpics/legeshotgunmech.dds",
+    "license": "",
     "pr": "4382",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Protar",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/legfeconv.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Protar",
     "pr": "5047",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Protar",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/legfhp.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Protar",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legfort.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/legfort.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/leginc.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/leginc.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73296,13 +77355,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/leginfestor.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Zath",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/leginfestor.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73314,22 +77373,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legmohocon.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "4710",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/legmohocon.dds",
+    "license": "",
+    "pr": "4710",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legnavyartyship.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Johnathan Crimson",
-    "pr": "6123",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/legnavyartyship.dds",
+    "license": "",
+    "pr": "6123",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73341,22 +77400,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legnavydestro.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "6123",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/legnavydestro.dds",
+    "license": "",
+    "pr": "6123",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legnavyfrigate.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "EnderRobo",
-    "pr": "6123",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/legnavyfrigate.dds",
+    "license": "",
+    "pr": "6123",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73377,31 +77436,31 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legnavysub.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
+    "date": "2026-09-01T11:30:52Z",
+    "file": "unitpics/legnavysub.dds",
+    "license": "",
     "pr": "6123",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legperdition.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Hornet",
-    "pr": "2836",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/legperdition.dds",
+    "license": "",
+    "pr": "2836",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legphoenix.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/legphoenix.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73422,40 +77481,40 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Protar",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/legtarg.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Protar",
     "pr": "4393",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Protar",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/leguwestore.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Protar",
     "pr": "5047",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/leguwgeo.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "5047",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/leguwgeo.dds",
+    "license": "",
+    "pr": "5047",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/leguwmstore.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "5047",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/leguwmstore.dds",
+    "license": "",
+    "pr": "5047",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73467,13 +77526,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legvp.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/legvp.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "icexuick",
@@ -73500,778 +77559,778 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/e_raptorq.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/epic_raptorq.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/h_raptorq.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/n_raptorq.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptor1.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptor1b.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptor1c.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptor1d.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptor1x.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptor1x_spectre.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptor1y.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptor1z.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptor2.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptor2_spectre.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptor2b.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptor_dodo1.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptor_dodo1_electric.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptor_dodo2.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptor_dodo2_electric.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptor_dodoair.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/raptors/raptor_hive.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "FireStorm",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/raptors/raptor_hive.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "LathanStanley",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/raptors/raptor_turretl.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "LathanStanley",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "LathanStanley",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/raptors/raptor_turretl_acid.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "LathanStanley",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "LathanStanley",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/raptors/raptor_turretl_antiair.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "LathanStanley",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "LathanStanley",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/raptors/raptor_turretl_antinuke.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "LathanStanley",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "LathanStanley",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/raptors/raptor_turretl_electric.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "LathanStanley",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "LathanStanley",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/raptors/raptor_turrets.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "LathanStanley",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "LathanStanley",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/raptors/raptor_turrets_acid.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "LathanStanley",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "LathanStanley",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/raptors/raptor_turrets_antiair.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "LathanStanley",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "LathanStanley",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/raptors/raptor_turrets_antinuke.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "LathanStanley",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "LathanStanley",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/raptors/raptor_turrets_electric.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "LathanStanley",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "LathanStanley",
+    "date": "2026-09-01T11:30:52Z",
     "file": "unitpics/raptors/raptor_turretxl_meteor.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "LathanStanley",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptora1.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptora1_spectre.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptora1b.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptora1c.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptora2.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptora2_spectre.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptora2b.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptoracidallterrain.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptoracidallterrainassault.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptoracidarty.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptoracidartyxl.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptoracidassault.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptoracidbomber.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptoracidswarmer.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorairscout.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorallterraina1.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorallterraina1b.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorallterraina1c.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorapexallterrainassault.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorapexallterrainassaultb.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorbroodarty.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorbroodbomber.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorc3.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorc3b.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/raptors/raptorc3c.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Kremenchuk",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:30:52Z",
-    "source": "manual-audit"
+    "file": "unitpics/raptors/raptorc3c.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptore1.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptore2.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorearty1.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorearty2.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorebomber1.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorelectricallterrain.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorelectricallterrainassault.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorf1.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorf1_mini.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorf1b.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorh1b.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorh2.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorh3.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorh4.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorh5.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorhealer.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorp1.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorp2.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorpyroallterrain.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorr2.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptors1.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptors2.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptors2_spectre.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorw1.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorw1_mini.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorw1b.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorw1c.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-01T11:34:22Z",
     "file": "unitpics/raptors/raptorw1d.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/raptors/raptorw2.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-01T11:34:22Z",
-    "source": "manual-audit"
+    "file": "unitpics/raptors/raptorw2.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "FireStorm",
