@@ -1412,7 +1412,7 @@ Total assets recorded: **1617**
 | `dice.s3o` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `epulse.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `gingerbread.s3o` | _awaiting license_ | Christiaan van Hoegee | manual-audit | 2026-08-31 |
-| `gingerbread.txt` | _awaiting license_ | Christiaan van Hoegee | manual-audit | 2026-08-31 |
+| `gingerbread.txt` | `LicenseRef-BAR-CLA-1.0` | Christiaan van Hoegee | manual-audit | 2026-09-02 |
 | `hats/cor_hat_fightnight.s3o` | _awaiting license_ | NebuchadnezzarII= | #3778 | 2026-09-01 |
 | `hats/cor_hat_hornet.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `hats/cor_hat_legfn.s3o` | _awaiting license_ | NebuchadnezzarII | #3781 | 2026-09-01 |
