@@ -43,7 +43,7 @@ Total assets recorded: **239**
 | `default/detailtex2.bmp` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `default/flame.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `default/groundflash.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
-| `default/groundflashwhite.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `default/groundflashwhite.tga` | _awaiting license_ | icexuick | manual-audit | 2026-09-02 |
 | `default/groundring.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `default/largelaserfalloff.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `default/laserend.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |

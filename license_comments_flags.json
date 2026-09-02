@@ -76,8 +76,29 @@
     ]
   },
   {
+    "file": "bitmaps/default/groundflashwhite.tga",
+    "flag": "unsure",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-02",
+        "text": "Based on Forboding Angle groundflash.tga"
+      }
+    ]
+  },
+  {
+    "file": "bitmaps/gpl/fire.tga",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "bitmaps/gpl/flame_alt.tga",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
     "file": "bitmaps/projectiletextures/flashside3.tga",
-    "flag": "",
+    "flag": "unsure",
     "comments": [
       {
         "author": "BAR CLA Bot",
@@ -87,8 +108,18 @@
     ]
   },
   {
+    "file": "bitmaps/projectiletextures/gunshotxl.tga",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "bitmaps/projectiletextures/gunshotxl2.tga",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
     "file": "bitmaps/projectiletextures/lightb.tga",
-    "flag": "",
+    "flag": "unsure",
     "comments": [
       {
         "author": "BAR CLA Bot",
@@ -99,7 +130,7 @@
   },
   {
     "file": "bitmaps/projectiletextures/megaparticle2.tga",
-    "flag": "",
+    "flag": "unsure",
     "comments": [
       {
         "author": "BAR CLA Bot",
@@ -110,7 +141,7 @@
   },
   {
     "file": "bitmaps/projectiletextures/muzzleside.tga",
-    "flag": "",
+    "flag": "unsure",
     "comments": [
       {
         "author": "BAR CLA Bot",
@@ -121,7 +152,7 @@
   },
   {
     "file": "bitmaps/projectiletextures/muzzlesideflipped.tga",
-    "flag": "",
+    "flag": "unsure",
     "comments": [
       {
         "author": "BAR CLA Bot",
@@ -132,7 +163,7 @@
   },
   {
     "file": "bitmaps/projectiletextures/new_dirta.png",
-    "flag": "",
+    "flag": "unsure",
     "comments": [
       {
         "author": "BAR CLA Bot",
@@ -143,7 +174,7 @@
   },
   {
     "file": "bitmaps/projectiletextures/new_dirtb.png",
-    "flag": "",
+    "flag": "unsure",
     "comments": [
       {
         "author": "BAR CLA Bot",
