@@ -8,23 +8,23 @@ Total assets recorded: **20**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
-| `Exo2-Regular.otf` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
-| `Exo2-SemiBold.otf` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
-| `LICENSE_MANIFEST.md` | _awaiting license_ | BAR CLA Bot | manual-audit | 2026-08-31 |
-| `Mesmerize-Bold.ttf` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `Mesmerize-Regular.ttf` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `OFL-Poppins.txt` | _awaiting license_ | loveridge | #3977 | 2026-08-28 |
-| `Poppins-Medium.otf` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
-| `Poppins-Regular.otf` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
-| `exo2/Exo2-Bold.ttf` | _awaiting license_ | loveridge | #3977 | 2026-08-28 |
-| `exo2/Exo2-BoldItalic.ttf` | _awaiting license_ | loveridge | #3977 | 2026-08-28 |
-| `exo2/Exo2-Italic.ttf` | _awaiting license_ | loveridge | #3977 | 2026-08-28 |
-| `exo2/Exo2-Regular.ttf` | _awaiting license_ | loveridge | #3977 | 2026-08-28 |
-| `exo2/OFL.txt` | _awaiting license_ | loveridge | #3977 | 2026-08-28 |
-| `fallbacks/NotoEmoji-VariableFont_wght.ttf` | _awaiting license_ | saurtron | #4102 | 2026-08-31 |
-| `fallbacks/OFL-Noto.txt` | _awaiting license_ | saurtron | #4102 | 2026-08-31 |
-| `fallbacks/SourceHanSans-Regular.ttc` | _awaiting license_ | saurtron | #4102 | 2026-08-31 |
-| `monospaced/SourceCodePro-Medium.otf` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `monospaced/SourceCodePro-Semibold.otf` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `unlisted/Xolonium.otf` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `unlisted/microgrammadbold.ttf` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `Exo2-Regular.otf` | _awaiting license_ | Natanael Gama | manual-audit | 2026-09-02 |
+| `Exo2-SemiBold.otf` | _awaiting license_ | Natanael Gama | manual-audit | 2026-09-02 |
+| `LICENSE_MANIFEST.md` | _awaiting license_ | BAR CLA Bot | manual-audit | 2026-09-02 |
+| `Mesmerize-Bold.ttf` | `CC0-1.0` | public domain | manual-audit | 2026-09-02 |
+| `Mesmerize-Regular.ttf` | `CC0-1.0` | public domain | manual-audit | 2026-09-02 |
+| `OFL-Poppins.txt` | _awaiting license_ | Indian Type Foundry / Jonny Pinhorn | #3977 | 2026-09-02 |
+| `Poppins-Medium.otf` | _awaiting license_ | Indian Type Foundry / Jonny Pinhorn | manual-audit | 2026-09-02 |
+| `Poppins-Regular.otf` | _awaiting license_ | Indian Type Foundry / Jonny Pinhorn | manual-audit | 2026-09-02 |
+| `exo2/Exo2-Bold.ttf` | _awaiting license_ | Natanael Gama | #3977 | 2026-09-02 |
+| `exo2/Exo2-BoldItalic.ttf` | _awaiting license_ | Natanael Gama | #3977 | 2026-09-02 |
+| `exo2/Exo2-Italic.ttf` | _awaiting license_ | Natanael Gama | #3977 | 2026-09-02 |
+| `exo2/Exo2-Regular.ttf` | _awaiting license_ | Natanael Gama | #3977 | 2026-09-02 |
+| `exo2/OFL.txt` | _awaiting license_ | Natanael Gama | #3977 | 2026-09-02 |
+| `fallbacks/NotoEmoji-VariableFont_wght.ttf` | _awaiting license_ | Google | #4102 | 2026-09-02 |
+| `fallbacks/OFL-Noto.txt` | _awaiting license_ | Google | #4102 | 2026-09-02 |
+| `fallbacks/SourceHanSans-Regular.ttc` | _awaiting license_ | Adobe | #4102 | 2026-09-02 |
+| `monospaced/SourceCodePro-Medium.otf` | _awaiting license_ | Adobe | manual-audit | 2026-09-02 |
+| `monospaced/SourceCodePro-Semibold.otf` | _awaiting license_ | Adobe | manual-audit | 2026-09-02 |
+| `unlisted/Xolonium.otf` | _awaiting license_ | Severin Meyer | manual-audit | 2026-09-02 |
+| `unlisted/microgrammadbold.ttf` | _awaiting license_ | Nebiolo 1952 | manual-audit | 2026-09-02 |

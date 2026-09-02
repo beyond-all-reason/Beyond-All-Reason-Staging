@@ -47755,184 +47755,182 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:28:31Z",
     "file": "fonts/Exo2-Regular.otf",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Natanael Gama",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:28:31Z",
     "file": "fonts/Exo2-SemiBold.otf",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Natanael Gama",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "BAR CLA Bot",
-    "date": "2026-08-31T11:50:25Z",
     "file": "fonts/LICENSE_MANIFEST.md",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "BAR CLA Bot",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T11:50:25Z",
     "file": "fonts/Mesmerize-Bold.ttf",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:34:18Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T11:50:25Z",
     "file": "fonts/Mesmerize-Regular.ttf",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:34:18Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "loveridge",
-    "date": "2026-08-28T12:28:31Z",
     "file": "fonts/OFL-Poppins.txt",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Indian Type Foundry / Jonny Pinhorn",
     "pr": "3977",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:28:31Z",
     "file": "fonts/Poppins-Medium.otf",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Indian Type Foundry / Jonny Pinhorn",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:28:31Z",
     "file": "fonts/Poppins-Regular.otf",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Indian Type Foundry / Jonny Pinhorn",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "loveridge",
-    "date": "2026-08-28T12:28:31Z",
     "file": "fonts/exo2/Exo2-Bold.ttf",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Natanael Gama",
     "pr": "3977",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "loveridge",
-    "date": "2026-08-28T12:28:31Z",
     "file": "fonts/exo2/Exo2-BoldItalic.ttf",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Natanael Gama",
     "pr": "3977",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "loveridge",
-    "date": "2026-08-28T12:28:31Z",
     "file": "fonts/exo2/Exo2-Italic.ttf",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Natanael Gama",
     "pr": "3977",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "loveridge",
-    "date": "2026-08-28T12:28:31Z",
     "file": "fonts/exo2/Exo2-Regular.ttf",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Natanael Gama",
     "pr": "3977",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "loveridge",
-    "date": "2026-08-28T12:28:31Z",
     "file": "fonts/exo2/OFL.txt",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Natanael Gama",
     "pr": "3977",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "saurtron",
-    "date": "2026-08-31T11:50:25Z",
     "file": "fonts/fallbacks/NotoEmoji-VariableFont_wght.ttf",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Google",
     "pr": "4102",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "saurtron",
-    "date": "2026-08-31T11:50:25Z",
     "file": "fonts/fallbacks/OFL-Noto.txt",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Google",
     "pr": "4102",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "saurtron",
-    "date": "2026-08-31T11:50:25Z",
     "file": "fonts/fallbacks/SourceHanSans-Regular.ttc",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Adobe",
     "pr": "4102",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T11:50:25Z",
     "file": "fonts/monospaced/SourceCodePro-Medium.otf",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Adobe",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T11:50:25Z",
     "file": "fonts/monospaced/SourceCodePro-Semibold.otf",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Adobe",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T11:50:25Z",
     "file": "fonts/unlisted/Xolonium.otf",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Severin Meyer",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T11:50:34Z",
     "file": "fonts/unlisted/microgrammadbold.ttf",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Nebiolo 1952",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T07:35:55Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "BAR CLA Bot",
