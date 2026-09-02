@@ -46217,22 +46217,6 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-06-01T14:08:17Z",
-    "file": "bitmaps/loadpictures/armada.jpg",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-06-01T14:08:17Z",
-    "file": "bitmaps/loadpictures/cortex.jpg",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
     "contributor": "PtaQQ",
     "date": "2026-06-01T14:08:17Z",
     "file": "bitmaps/loadpictures/manual/donations.jpg",
@@ -46904,14 +46888,6 @@
     "contributor": "Floris",
     "date": "2026-05-27T20:00:05Z",
     "file": "bitmaps/projectiletextures/nanobeam-reclaim.png",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-05-27T20:00:05Z",
-    "file": "bitmaps/projectiletextures/nanobeam-resurrect.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
     "source": "manual-audit"
@@ -69918,22 +69894,22 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Flaka",
-    "date": "2026-09-01T20:07:06Z",
     "file": "objects3d/Units/corsok.s3o",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Tharsis",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T13:09:55Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Flaka",
-    "date": "2026-09-01T20:07:06Z",
     "file": "objects3d/Units/corsok_dead.s3o",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Tharsis",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T13:09:55Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -90013,6 +89989,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unitpics/armfrock.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cremuss",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:09:55Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-01T19:52:22Z",
     "file": "unitpics/armfrt.dds",
@@ -91877,6 +91862,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unitpics/corfrock.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:09:55Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Mr Bob",
     "date": "2026-09-01T19:51:52Z",
     "file": "unitpics/corfrt.dds",
@@ -92825,6 +92819,15 @@
     "source": "manual-audit"
   },
   {
+    "file": "unitpics/corsok.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Tharsis",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:09:55Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Mr Bob",
     "date": "2026-09-01T19:51:52Z",
     "file": "unitpics/corsolar.dds",
@@ -92865,6 +92868,14 @@
     "file": "unitpics/corssub.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/corstone.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:09:55Z",
     "source": "manual-audit"
   },
   {
@@ -93184,6 +93195,14 @@
     "file": "unitpics/critters/critter_crab.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/freefusion.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:09:55Z",
     "source": "manual-audit"
   },
   {
@@ -96858,6 +96877,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unitpics/scavengers/armfrock.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cremuss",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:09:55Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",

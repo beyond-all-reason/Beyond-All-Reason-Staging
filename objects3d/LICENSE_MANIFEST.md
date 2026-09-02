@@ -926,8 +926,8 @@ Total assets recorded: **1729**
 | `Units/corsktl_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsnap.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corsnap_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
-| `Units/corsok.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
-| `Units/corsok_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/corsok.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-02 |
+| `Units/corsok_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-02 |
 | `Units/corsolar.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corsolar_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corsonar.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |

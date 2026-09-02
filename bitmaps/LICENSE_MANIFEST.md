@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `bitmaps/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **226**
+Total assets recorded: **223**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -62,8 +62,6 @@ Total assets recorded: **226**
 | `gpl/sporetrail_xl.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `gpl/treefire.png` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
 | `graphPaper.bmp` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `loadpictures/armada.jpg` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-01 |
-| `loadpictures/cortex.jpg` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-01 |
 | `loadpictures/manual/donations.jpg` | `LicenseRef-BAR-CLA-1.0` | PtaQQ | manual-audit | 2026-06-01 |
 | `loadpictures/manual/scavengers/BAR4K_Loadingscreen_5.jpg` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4281 | 2026-06-01 |
 | `loadpictures/manual/scavengers/BAR4K_Loadingscreen_7.jpg` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4281 | 2026-06-01 |
@@ -144,7 +142,6 @@ Total assets recorded: **226**
 | `projectiletextures/muzzleside.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `projectiletextures/muzzlesideflipped.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `projectiletextures/nanobeam-reclaim.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
-| `projectiletextures/nanobeam-resurrect.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `projectiletextures/nanopart.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/new_dirta.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/new_dirtb.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

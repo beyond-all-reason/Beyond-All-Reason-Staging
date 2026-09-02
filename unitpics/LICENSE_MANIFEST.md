@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1433**
+Total assets recorded: **1439**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -102,6 +102,7 @@ Total assets recorded: **1433**
 | `armfmkr.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armfort.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armfrad.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armfrock.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-02 |
 | `armfrt.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armfus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `armgate.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
@@ -314,6 +315,7 @@ Total assets recorded: **1433**
 | `corforge.dds` | _awaiting license_ | MASHUP | manual-audit | 2026-09-01 |
 | `corfort.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corfrad.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corfrock.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-02 |
 | `corfrt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corfship.dds` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
 | `corftiger.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -422,11 +424,13 @@ Total assets recorded: **1433**
 | `corsktl.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `corslrpc.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corsnap.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corsok.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-02 |
 | `corsolar.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corsonar.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corspec.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `corspy.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `corssub.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corstone.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-02 |
 | `corstorm.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corsub.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corsumo.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
@@ -463,6 +467,7 @@ Total assets recorded: **1433**
 | `corwint2.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corwolv.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `critters/critter_crab.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `freefusion.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-02 |
 | `legaabot.dds` | _awaiting license_ | ZephyrSkies | #5061 | 2026-09-01 |
 | `legaap.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `legabm.dds` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
@@ -874,6 +879,7 @@ Total assets recorded: **1433**
 | `scavengers/armfmkr.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armfort.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armfrad.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armfrock.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-02 |
 | `scavengers/armfrt.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armfus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `scavengers/armgate.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
