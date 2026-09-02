@@ -46479,13 +46479,13 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "ForbodingAngel",
-    "date": "2026-08-28T11:46:48Z",
     "file": "bitmaps/projectiletextures/bigexplosmoke-raptors.tga",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T12:47:52Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "ForbodingAngel",
@@ -46581,11 +46581,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-05-27T19:29:50Z",
     "file": "bitmaps/projectiletextures/dot.png",
-    "license": "LicenseRef-BAR-CLA-1.0",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
     "pr": "manual-audit",
+    "date": "2026-09-02T12:47:52Z",
     "source": "manual-audit"
   },
   {
@@ -46640,15 +46641,6 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-28T11:46:48Z",
-    "file": "bitmaps/projectiletextures/fireball.tga",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
     "contributor": "ForbodingAngel",
     "date": "2026-08-28T11:46:48Z",
     "file": "bitmaps/projectiletextures/firenovaexplo.tga",
@@ -46667,15 +46659,6 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-28T11:46:48Z",
-    "file": "bitmaps/projectiletextures/flare-raptors.tga",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
     "contributor": "ForbodingAngel",
     "date": "2026-08-28T11:46:48Z",
     "file": "bitmaps/projectiletextures/flare.tga",
@@ -46683,22 +46666,6 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-05-27T19:34:40Z",
-    "file": "bitmaps/projectiletextures/flare1.tga",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-05-27T19:34:40Z",
-    "file": "bitmaps/projectiletextures/flare2.tga",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
   },
   {
     "contributor": "ForbodingAngel",
@@ -46745,34 +46712,10 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-05-27T19:34:40Z",
-    "file": "bitmaps/projectiletextures/glow.tga",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-05-27T19:34:40Z",
-    "file": "bitmaps/projectiletextures/glow2.tga",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
     "contributor": "icexuick",
     "date": "2026-05-27T19:34:40Z",
     "file": "bitmaps/projectiletextures/glow3.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-08-28T11:46:48Z",
-    "file": "bitmaps/projectiletextures/graysmoke.tga",
-    "license": "GPL-2.0-or-later",
     "pr": "manual-audit",
     "source": "manual-audit"
   },
@@ -47587,22 +47530,6 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-05-27T20:06:20Z",
-    "file": "bitmaps/tracks/Corparrowtracks.bmp",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-05-27T20:06:20Z",
-    "file": "bitmaps/tracks/Corwidetracks.bmp",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
     "contributor": "Beherith",
     "date": "2026-05-27T20:06:20Z",
     "file": "bitmaps/tracks/arm_acv_tracks.bmp",
@@ -47646,14 +47573,6 @@
     "contributor": "Beherith",
     "date": "2026-05-27T20:06:20Z",
     "file": "bitmaps/tracks/armcroc_tracks.bmp",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-05-27T20:06:20Z",
-    "file": "bitmaps/tracks/armgremlin_tracks.bmp",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
     "source": "manual-audit"
@@ -47709,31 +47628,7 @@
   {
     "contributor": "Floris",
     "date": "2026-05-27T20:06:20Z",
-    "file": "bitmaps/tracks/bigfoot.bmp",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-05-27T20:06:20Z",
     "file": "bitmaps/tracks/bottrack1.bmp",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-05-27T20:06:20Z",
-    "file": "bitmaps/tracks/raptortrack.bmp",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-05-27T20:06:20Z",
-    "file": "bitmaps/tracks/raptortrackpointy.bmp",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
     "source": "manual-audit"
@@ -90004,6 +89899,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unitpics/armfgate.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-02T12:47:52Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-01T19:52:22Z",
     "file": "unitpics/armfhlt.dds",
@@ -91872,6 +91776,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unitpics/corfgate.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-09-02T12:47:52Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -96833,6 +96746,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unitpics/scavengers/armfgate.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-02T12:47:52Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-01T19:48:45Z",
     "file": "unitpics/scavengers/armfhlt.dds",
@@ -98621,6 +98543,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unitpics/scavengers/corfgate.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-09-02T12:47:52Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",

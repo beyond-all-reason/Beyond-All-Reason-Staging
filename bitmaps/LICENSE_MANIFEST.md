@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `bitmaps/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **239**
+Total assets recorded: **226**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ Total assets recorded: **239**
 | `projectiletextures/1InstaHeat1Shock1.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5174 | 2026-05-27 |
 | `projectiletextures/BARFlame02.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/FireBall02-anim.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `projectiletextures/bigexplosmoke-raptors.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `projectiletextures/bigexplosmoke-raptors.tga` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `projectiletextures/bigexplosmoke.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/blastwave.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/blueexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
@@ -106,29 +106,22 @@ Total assets recorded: **239**
 | `projectiletextures/decal_scar_50_glow.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/dirt.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/dirtbar.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `projectiletextures/dot.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `projectiletextures/dot.png` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-02 |
 | `projectiletextures/explo.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/explo2.tga` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-28 |
 | `projectiletextures/explofade.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/exploflare.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/explosionwave.png` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/explowater.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `projectiletextures/fireball.tga` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
 | `projectiletextures/firenovaexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flame.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
-| `projectiletextures/flare-raptors.tga` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
 | `projectiletextures/flare.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
-| `projectiletextures/flare1.tga` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
-| `projectiletextures/flare2.tga` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `projectiletextures/flash1.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flashside1.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flashside2.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flashside3.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/fragment.tga` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
-| `projectiletextures/glow.tga` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
-| `projectiletextures/glow2.tga` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `projectiletextures/glow3.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `projectiletextures/graysmoke.tga` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-08-28 |
 | `projectiletextures/greennovaexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/gunshot.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/gunshotglow.tga` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
@@ -226,24 +219,18 @@ Total assets recorded: **239**
 | `smoke/smoke11.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `taskbarLogo_notif.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `taskbarLogo_notif2.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
-| `tracks/Corparrowtracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
-| `tracks/Corwidetracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `tracks/arm_acv_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/arm_acv_tracks_2.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/arm_stumpy_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armacv_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armbull_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armcroc_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
-| `tracks/armgremlin_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `tracks/armmart_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armpincer_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armsam_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armseer_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armstump_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armyork_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
-| `tracks/bigfoot.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `tracks/bottrack1.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
-| `tracks/raptortrack.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
-| `tracks/raptortrackpointy.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `ui/radarping1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `ui/radarping2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
