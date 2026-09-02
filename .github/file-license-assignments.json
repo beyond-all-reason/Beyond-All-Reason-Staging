@@ -54836,13 +54836,13 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:44:40Z",
     "file": "luaui/images/advplayerslist/arrow.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Floris",
@@ -54863,22 +54863,22 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:38:00Z",
     "file": "luaui/images/advplayerslist/camera.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Floris",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:38:00Z",
     "file": "luaui/images/advplayerslist/chat.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -54889,31 +54889,22 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:38:00Z",
     "file": "luaui/images/advplayerslist/cpu.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:38:00Z",
     "file": "luaui/images/advplayerslist/cross.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:38:00Z",
-    "file": "luaui/images/advplayerslist/draw.dds",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -54922,15 +54913,6 @@
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
     "source": "manual-audit"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:38:00Z",
-    "file": "luaui/images/advplayerslist/eraser.dds",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
   },
   {
     "contributor": "public domain",
@@ -57064,31 +57046,31 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/id.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/indent.png",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Floris",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/indicator.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Floris",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -57099,13 +57081,13 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/low.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -57116,31 +57098,22 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/notfirst.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
-    "file": "luaui/images/advplayerslist/pencil.dds",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/ping.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -57215,103 +57188,103 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/res.png",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/resbar.png",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Floris",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/resbarbg.png",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Floris",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/resources.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/separator.png",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Floris",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/share.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/side.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/sizedn.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/sizeup.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/take.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Floris",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:30Z",
     "file": "luaui/images/advplayerslist/ts.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-02T11:51:35Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -60883,15 +60856,6 @@
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "7585",
     "source": "manual-audit"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-09-01T07:29:06Z",
-    "file": "luaui/images/rgbnoise.png",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
   },
   {
     "contributor": "icexuick",

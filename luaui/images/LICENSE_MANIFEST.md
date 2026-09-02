@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **778**
+Total assets recorded: **774**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -28,17 +28,15 @@ Total assets recorded: **778**
 | `Ranks/rank9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/ally.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/armada_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `advplayerslist/arrow.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/arrow.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/barglow-center.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `advplayerslist/barglow-edge.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/camera.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
-| `advplayerslist/chat.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
+| `advplayerslist/camera.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
+| `advplayerslist/chat.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/cortex_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `advplayerslist/cpu.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
-| `advplayerslist/cross.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
-| `advplayerslist/draw.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
+| `advplayerslist/cpu.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/cross.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/energy.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `advplayerslist/eraser.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
 | `advplayerslist/flags/ad.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/ae.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/af.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
@@ -305,15 +303,14 @@ Total assets recorded: **778**
 | `advplayerslist/flags/zw.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/gbr.png` | _awaiting license_ | beherith | manual-audit | 2026-09-01 |
 | `advplayerslist/ger.png` | _awaiting license_ | beherith | manual-audit | 2026-09-01 |
-| `advplayerslist/id.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/indent.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/indicator.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/id.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/indent.png` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
+| `advplayerslist/indicator.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
 | `advplayerslist/legion_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
-| `advplayerslist/low.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/low.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/metal.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `advplayerslist/notfirst.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/pencil.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/ping.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/notfirst.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/ping.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/point.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `advplayerslist/ranks/1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/ranks/2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -323,17 +320,17 @@ Total assets recorded: **778**
 | `advplayerslist/ranks/6.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/ranks/7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/ranks/8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `advplayerslist/res.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/resbar.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/resbarbg.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/resources.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/separator.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/share.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/side.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/sizedn.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/sizeup.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/take.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/ts.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist/res.png` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/resbar.png` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
+| `advplayerslist/resbarbg.png` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
+| `advplayerslist/resources.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/separator.png` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
+| `advplayerslist/share.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/side.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/sizedn.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/sizeup.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/take.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
+| `advplayerslist/ts.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/unally.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `advplayerslist/units.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `advplayerslist_mascot/floriscat_body.png` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
@@ -772,7 +769,6 @@ Total assets recorded: **778**
 | `repeat.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `repeat_old.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `returnfire.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7585 | 2026-08-31 |
-| `rgbnoise.png` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
 | `scav-tileable_v001-alpha.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
 | `scav-tileable_v001_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
 | `scav-tileable_v002_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |

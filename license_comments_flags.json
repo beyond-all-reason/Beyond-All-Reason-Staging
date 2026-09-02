@@ -195,6 +195,21 @@
     ]
   },
   {
+    "file": "luaui/images/advplayerslist/draw.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/eraser.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/pencil.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
     "file": "luaui/images/ecostats/arm_default.png",
     "flag": "unused",
     "comments": []
@@ -247,6 +262,11 @@
   {
     "file": "luaui/images/info_health.png",
     "flag": "icexuick-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/rgbnoise.png",
+    "flag": "unsure",
     "comments": []
   },
   {
