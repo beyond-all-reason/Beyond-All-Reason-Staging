@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1679**
+Total assets recorded: **1715**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -1064,6 +1064,8 @@ Total assets recorded: **1679**
 | `Units/legamcluster_dead.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
 | `Units/legamph.s3o` | _awaiting license_ | Johanthan Crimson | #4829 | 2026-09-01 |
 | `Units/legamph_dead.s3o` | _awaiting license_ | Johanthan Crimson | #4829 | 2026-09-01 |
+| `Units/legamphlab.s3o` | _awaiting license_ | ZephyrSkies | #5072 | 2026-09-02 |
+| `Units/legamphlab_dead.s3o` | _awaiting license_ | ZephyrSkies | #5072 | 2026-09-02 |
 | `Units/legamphtank.s3o` | _awaiting license_ | ZephyrSkies | #3144 | 2026-09-01 |
 | `Units/legamphtank_dead.s3o` | _awaiting license_ | ZephyrSkies | #3144 | 2026-09-01 |
 | `Units/legamstor.s3o` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
@@ -1074,6 +1076,12 @@ Total assets recorded: **1679**
 | `Units/leganavalfusion_dead.s3o` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
 | `Units/leganavalmex.s3o` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
 | `Units/leganavalmex_dead.s3o` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
+| `Units/leganavalsonarstation.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-02 |
+| `Units/leganavalsonarstation_dead.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-02 |
+| `Units/leganavaltorpturret.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-02 |
+| `Units/leganavaltorpturret_dead.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-02 |
+| `Units/leganavyaaship.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-02 |
+| `Units/leganavyaaship_dead.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-02 |
 | `Units/leganavyantinukecarrier.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
 | `Units/leganavyantinukecarrier_dead.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
 | `Units/leganavyantiswarm.s3o` | _awaiting license_ | EnderRobo | #6423 | 2026-09-01 |
@@ -1098,10 +1106,14 @@ Total assets recorded: **1679**
 | `Units/leganavymissileship_dead.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
 | `Units/leganavyradjamship.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #6423 | 2026-09-01 |
 | `Units/leganavyradjamship_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #6423 | 2026-09-01 |
+| `Units/legapopupdef.s3o` | _awaiting license_ | ZephyrSkies | #5189 | 2026-09-02 |
+| `Units/legapopupdef_dead.s3o` | _awaiting license_ | ZephyrSkies | #5189 | 2026-09-02 |
 | `Units/legarad.s3o` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
 | `Units/legarad_dead.s3o` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
 | `Units/legaskirmtank.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
 | `Units/legaskirmtank_dead.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
+| `Units/legaspy.s3o` | _awaiting license_ | ZephyrSkies | #5357 | 2026-09-02 |
+| `Units/legaspy_dead.s3o` | _awaiting license_ | ZephyrSkies | #5357 | 2026-09-02 |
 | `Units/legassistdrone_land.s3o` | _awaiting license_ | ZephyrSkies | #6128 | 2026-09-01 |
 | `Units/legatorpbomber.s3o` | _awaiting license_ | ZephyrSkies | #4117 | 2026-09-01 |
 | `Units/legatrans.s3o` | _awaiting license_ | ZephyrSkies | #3046 | 2026-09-01 |
@@ -1119,6 +1131,8 @@ Total assets recorded: **1679**
 | `Units/legbal_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `Units/legbar.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `Units/legbar_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `Units/legbart.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
+| `Units/legbart_dead.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
 | `Units/legbastion.s3o` | _awaiting license_ | Gabs | manual-audit | 2026-09-01 |
 | `Units/legbastion_dead.s3o` | _awaiting license_ | Gabs | manual-audit | 2026-09-01 |
 | `Units/legbombard.s3o` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
@@ -1155,10 +1169,14 @@ Total assets recorded: **1679**
 | `Units/legdrone.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `Units/legdtr.s3o` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
 | `Units/legdtr_dead.s3o` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `Units/legeallterrainmech.s3o` | _awaiting license_ | ZephyrSkies | #5357 | 2026-09-02 |
+| `Units/legeallterrainmech_dead.s3o` | _awaiting license_ | ZephyrSkies | #5357 | 2026-09-02 |
 | `Units/legeconv.s3o` | _awaiting license_ | Protar | #3373 | 2026-09-01 |
 | `Units/legeconv_dead.s3o` | _awaiting license_ | Protar | #3373 | 2026-09-01 |
 | `Units/legehovertank.s3o` | _awaiting license_ | Gabs | #5357 | 2026-09-01 |
 | `Units/legehovertank_dead.s3o` | _awaiting license_ | Gabs | #5357 | 2026-09-01 |
+| `Units/legelrpcmech.s3o` | _awaiting license_ | ZephyrSkies | #4508 | 2026-09-02 |
+| `Units/legelrpcmech_dead.s3o` | _awaiting license_ | ZephyrSkies | #4508 | 2026-09-02 |
 | `Units/legerailtank.s3o` | _awaiting license_ | ZephyrSkies | #4089 | 2026-09-01 |
 | `Units/legerailtank_dead.s3o` | _awaiting license_ | ZephyrSkies | #4089 | 2026-09-01 |
 | `Units/legeshotgunmech.s3o` | _awaiting license_ | Ghoulish | #4382 | 2026-09-01 |
@@ -1213,6 +1231,8 @@ Total assets recorded: **1679**
 | `Units/leghp_dead.s3o` | _awaiting license_ | Protar | #4169 | 2026-09-01 |
 | `Units/leghrk.s3o` | _awaiting license_ | Tharsis | #5034 | 2026-09-01 |
 | `Units/leghrk_dead.s3o` | _awaiting license_ | Tharsis | #5034 | 2026-09-01 |
+| `Units/leginf.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
+| `Units/leginf_dead.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
 | `Units/legionnaire.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `Units/legjam.s3o` | _awaiting license_ | ZephyrSkies | #2997 | 2026-09-01 |
 | `Units/legjam_dead.s3o` | _awaiting license_ | ZephyrSkies | #2997 | 2026-09-01 |
@@ -1240,6 +1260,8 @@ Total assets recorded: **1679**
 | `Units/leglupara_dead.s3o` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
 | `Units/legmech.s3o` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-01 |
 | `Units/legmech_dead.s3o` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-01 |
+| `Units/legmed.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
+| `Units/legmed_dead.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
 | `Units/legmex.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `Units/legmex_dead.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `Units/legmext15.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
@@ -1276,10 +1298,16 @@ Total assets recorded: **1679**
 | `Units/legnavyaaship_dead.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
 | `Units/legnavyartyship.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
 | `Units/legnavyartyship_dead.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
+| `Units/legnavyconship.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-02 |
+| `Units/legnavyconship_dead.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-02 |
 | `Units/legnavydestro.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
 | `Units/legnavydestro_dead.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
 | `Units/legnavyfrigate.s3o` | _awaiting license_ | EnderRobo | #6123 | 2026-09-01 |
 | `Units/legnavyfrigate_dead.s3o` | _awaiting license_ | EnderRobo | #6123 | 2026-09-01 |
+| `Units/legnavyrezsub.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-02 |
+| `Units/legnavyrezsub_dead.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-02 |
+| `Units/legnavyscout.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-02 |
+| `Units/legnavyscout_dead.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-02 |
 | `Units/legner.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
 | `Units/legner_dead.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
 | `Units/legotter.s3o` | _awaiting license_ | ZephyrSkies | #3049 | 2026-09-01 |
@@ -1293,6 +1321,8 @@ Total assets recorded: **1679**
 | `Units/legrail.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `Units/legrail_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `Units/legrampart.s3o` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
+| `Units/legrezbot.s3o` | _awaiting license_ | ZephyrSkies | #5061 | 2026-09-02 |
+| `Units/legrezbot_dead.s3o` | _awaiting license_ | ZephyrSkies | #5061 | 2026-09-02 |
 | `Units/legrhapsis.s3o` | _awaiting license_ | ZephyrSkies | #3021 | 2026-09-01 |
 | `Units/legrhapsis_dead.s3o` | _awaiting license_ | ZephyrSkies | #3021 | 2026-09-01 |
 | `Units/legrl.s3o` | _awaiting license_ | ZephyrSkies | #3021 | 2026-09-01 |
@@ -1304,6 +1334,8 @@ Total assets recorded: **1679**
 | `Units/legsd_dead.s3o` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
 | `Units/legsh.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
 | `Units/legsh_dead.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `Units/legshot.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
+| `Units/legshot_dead.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
 | `Units/legsilo.s3o` | _awaiting license_ | Tharsy | #3056 | 2026-09-01 |
 | `Units/legsilo_dead.s3o` | _awaiting license_ | Tharsy | #3056 | 2026-09-01 |
 | `Units/legsnapper.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
@@ -1331,6 +1363,8 @@ Total assets recorded: **1679**
 | `Units/legtide_dead.s3o` | _awaiting license_ | Mr Bob | #4951 | 2026-09-01 |
 | `Units/legtl.s3o` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
 | `Units/legtl_dead.s3o` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `Units/legvcarry.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
+| `Units/legvcarry_dead.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
 | `Units/legvenator.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `Units/legvflak.s3o` | _awaiting license_ | Tharsis | #4178 | 2026-09-01 |
 | `Units/legvflak_dead.s3o` | _awaiting license_ | Tharsis | #4178 | 2026-09-01 |
@@ -1374,6 +1408,8 @@ Total assets recorded: **1679**
 | `Units/scavboss/corcomboss.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/scavboss/corcomboss_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/scavboss/corcrwt4.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/scavboss/coresuppt3.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
+| `Units/scavboss/coresuppt3_dead.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
 | `Units/scavboss/corfblackhyt4.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `Units/scavboss/corfblackhyt4_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `Units/scavboss/corforge.s3o` | _awaiting license_ | MASHUP | manual-audit | 2026-09-01 |
