@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1715**
+Total assets recorded: **1729**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -36,8 +36,10 @@ Total assets recorded: **1715**
 | `Raptors/flying_raptor_remaster.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/kremenraptor1.s3o` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
 | `Raptors/kremenraptor2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptor_6legged_l.s3o` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-02 |
 | `Raptors/raptor_allterrain.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptor_alterrain_master_v2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptor_antinuke.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-02 |
 | `Raptors/raptor_colonizer.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptor_drone.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptor_egg_m.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
@@ -48,12 +50,23 @@ Total assets recorded: **1715**
 | `Raptors/raptor_miniqueen_healer.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptor_miniqueen_spectre.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptor_pidgeon_v2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptor_turretl_acid_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
+| `Raptors/raptor_turretl_electric_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
 | `Raptors/raptor_turretl_purple_v2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptor_turretl_red_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
+| `Raptors/raptor_turretl_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
+| `Raptors/raptor_turrets_acid_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
+| `Raptors/raptor_turrets_electric_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
 | `Raptors/raptor_turrets_purple_v2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptor_turrets_red_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
+| `Raptors/raptor_turrets_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
+| `Raptors/raptor_turretxl_meteor_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
 | `Raptors/raptor_walking_master_v2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptor_worm_brown.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptor_worm_green.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
 | `Raptors/raptorc.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptorc2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptorc3c.s3o` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-02 |
 | `Raptors/raptoregg.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptoregg_l_acidgreen.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptoregg_l_darkred.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
@@ -88,6 +101,7 @@ Total assets recorded: **1715**
 | `Raptors/raptorf2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptorq.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptorr.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptorr1.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/s_raptora_white.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/s_raptorq_spawner.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/s_raptors_white.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
@@ -421,7 +435,7 @@ Total assets recorded: **1715**
 | `Units/armrad.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armrad_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armraz.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
-| `Units/armraz_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
+| `Units/armraz_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-02 |
 | `Units/armrecl.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armrecl_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armrectr.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
