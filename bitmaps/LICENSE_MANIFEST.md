@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `bitmaps/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **223**
+Total assets recorded: **231**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -62,6 +62,8 @@ Total assets recorded: **223**
 | `gpl/sporetrail_xl.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `gpl/treefire.png` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
 | `graphPaper.bmp` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `loadpictures/armada.jpg` | _awaiting license_ | Rubus | manual-audit | 2026-09-02 |
+| `loadpictures/cortex.jpg` | _awaiting license_ | Rubus | manual-audit | 2026-09-02 |
 | `loadpictures/manual/donations.jpg` | `LicenseRef-BAR-CLA-1.0` | PtaQQ | manual-audit | 2026-06-01 |
 | `loadpictures/manual/scavengers/BAR4K_Loadingscreen_5.jpg` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4281 | 2026-06-01 |
 | `loadpictures/manual/scavengers/BAR4K_Loadingscreen_7.jpg` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4281 | 2026-06-01 |
@@ -216,18 +218,24 @@ Total assets recorded: **223**
 | `smoke/smoke11.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `taskbarLogo_notif.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `taskbarLogo_notif2.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `tracks/Corparrowtracks.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
+| `tracks/Corwidetracks.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
 | `tracks/arm_acv_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/arm_acv_tracks_2.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/arm_stumpy_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armacv_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armbull_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armcroc_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `tracks/armgremlin_tracks.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
 | `tracks/armmart_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armpincer_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armsam_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armseer_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armstump_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armyork_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
+| `tracks/bigfoot.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
 | `tracks/bottrack1.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `tracks/raptortrack.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
+| `tracks/raptortrackpointy.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
 | `ui/radarping1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `ui/radarping2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

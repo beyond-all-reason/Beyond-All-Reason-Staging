@@ -46217,6 +46217,24 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/loadpictures/armada.jpg",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Rubus",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:12:57Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/loadpictures/cortex.jpg",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Rubus",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:12:57Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "PtaQQ",
     "date": "2026-06-01T14:08:17Z",
     "file": "bitmaps/loadpictures/manual/donations.jpg",
@@ -47506,6 +47524,24 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/tracks/Corparrowtracks.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:12:57Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/tracks/Corwidetracks.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:12:57Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-05-27T20:06:20Z",
     "file": "bitmaps/tracks/arm_acv_tracks.bmp",
@@ -47551,6 +47587,15 @@
     "file": "bitmaps/tracks/armcroc_tracks.bmp",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/tracks/armgremlin_tracks.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:12:57Z",
     "source": "manual-audit"
   },
   {
@@ -47602,11 +47647,38 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/tracks/bigfoot.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:12:57Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Floris",
     "date": "2026-05-27T20:06:20Z",
     "file": "bitmaps/tracks/bottrack1.bmp",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/tracks/raptortrack.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:12:57Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/tracks/raptortrackpointy.bmp",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:12:57Z",
     "source": "manual-audit"
   },
   {
