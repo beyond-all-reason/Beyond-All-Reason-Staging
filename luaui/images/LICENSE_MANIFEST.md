@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **774**
+Total assets recorded: **773**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -333,6 +333,7 @@ Total assets recorded: **774**
 | `advplayerslist/ts.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/unally.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `advplayerslist/units.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
+| `advplayerslist/units0.png` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist_mascot/floriscat_body.png` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/floriscat_head.png` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/floriscat_headblink.png` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
@@ -345,6 +346,7 @@ Total assets recorded: **774**
 | `advplayerslist_mascot/santahat.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `allycursor.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `backgroundtile.png` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
+| `backward.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-09-02 |
 | `barglow-center.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `barglow-edge.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `commandsfx/glow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
@@ -696,10 +698,8 @@ Total assets recorded: **774**
 | `luagrass/grassx4.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `luagrass/grassx4_2.obj` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `luagrass/license.txt` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
-| `mapmarksfx/eraser.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
 | `mapmarksfx/eraser_old.dds` | _awaiting license_ | icexuick | manual-audit | 2026-09-01 |
 | `mapmarksfx/glow.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
-| `mapmarksfx/pencil.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
 | `mapmarksfx/ring.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `metal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `metalold.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
@@ -776,7 +776,6 @@ Total assets recorded: **774**
 | `skull.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `snow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `solid.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
-| `stripes.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `tidal-waves.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `vignette.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `vr_grid.png` | _awaiting license_ | Decay | manual-audit | 2026-09-01 |

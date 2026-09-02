@@ -57303,6 +57303,15 @@
     "source": "manual-audit"
   },
   {
+    "file": "luaui/images/advplayerslist/units0.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Marmoth",
+    "pr": "manual-audit",
+    "date": "2026-09-02T12:03:46Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Floris",
     "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/advplayerslist_mascot/floriscat_body.png",
@@ -57408,6 +57417,14 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "luaui/images/backward.dds",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-09-02T12:03:46Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Floris",
@@ -60245,15 +60262,6 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-09-01T10:12:50Z",
-    "file": "luaui/images/mapmarksfx/eraser.dds",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
     "contributor": "icexuick",
     "date": "2026-09-01T10:12:50Z",
     "file": "luaui/images/mapmarksfx/eraser_old.dds",
@@ -60266,15 +60274,6 @@
     "contributor": "Floris",
     "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/mapmarksfx/glow.dds",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-09-01T10:12:50Z",
-    "file": "luaui/images/mapmarksfx/pencil.dds",
     "license": "",
     "pr": "manual-audit",
     "source": "manual-audit",
@@ -60914,14 +60913,6 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-06-16T18:15:40Z",
-    "file": "luaui/images/stripes.png",
-    "license": "CC-BY-SA-4.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
     "contributor": "icexuick",
     "date": "2026-08-31T21:16:54Z",
     "file": "luaui/images/tidal-waves.png",
@@ -61018,99 +61009,9 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:28:31Z",
-    "file": "luaui/sounds/button.wav",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:28:31Z",
-    "file": "luaui/sounds/click.wav",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:28:31Z",
-    "file": "luaui/sounds/click2.wav",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:28:31Z",
-    "file": "luaui/sounds/ding.ogg",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:28:31Z",
-    "file": "luaui/sounds/hover.wav",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:28:31Z",
-    "file": "luaui/sounds/pushbutton.wav",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:28:31Z",
-    "file": "luaui/sounds/switchoff.wav",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:28:31Z",
-    "file": "luaui/sounds/switchon.wav",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:28:31Z",
-    "file": "luaui/sounds/tock.wav",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
     "contributor": "Decay",
     "date": "2026-08-28T12:28:31Z",
     "file": "luaui/sounds/volume_osd/pop.wav",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:28:31Z",
-    "file": "luaui/sounds/zap.wav",
     "license": "",
     "pr": "manual-audit",
     "source": "manual-audit",

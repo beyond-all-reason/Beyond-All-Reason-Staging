@@ -195,6 +195,16 @@
     ]
   },
   {
+    "file": "luarules/images/controlpoints.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/country.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
     "file": "luaui/images/advplayerslist/draw.dds",
     "flag": "unsure",
     "comments": []
@@ -265,6 +275,16 @@
     "comments": []
   },
   {
+    "file": "luaui/images/mapmarksfx/eraser.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/mapmarksfx/pencil.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
     "file": "luaui/images/rgbnoise.png",
     "flag": "unsure",
     "comments": []
@@ -272,6 +292,11 @@
   {
     "file": "luaui/images/skull.dds",
     "flag": "icexuick-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/stripes.png",
+    "flag": "unsure",
     "comments": []
   },
   {
