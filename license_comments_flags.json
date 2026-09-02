@@ -346,6 +346,11 @@
     ]
   },
   {
+    "file": "objects3d/Units/bridge.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
     "file": "objects3d/Units/corpyro.s3o",
     "flag": "beherith-review",
     "comments": []

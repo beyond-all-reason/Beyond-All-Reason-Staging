@@ -63026,6 +63026,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "objects3d/Units/arm5X5D.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cremuss",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Cremuss",
     "date": "2026-09-01T20:07:06Z",
     "file": "objects3d/Units/arm6X6A.s3o",
@@ -63067,6 +63076,15 @@
     "file": "objects3d/Units/arm7X7A.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/arm7X7B.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cremuss",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
     "source": "manual-audit"
   },
   {
@@ -64364,6 +64382,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "objects3d/Units/armfepoch.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Cremuss",
     "date": "2026-09-01T20:07:06Z",
     "file": "objects3d/Units/armferret.s3o",
@@ -64398,6 +64425,24 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/armfgate.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/armfgate_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",
@@ -64568,6 +64613,14 @@
     "status": "awaiting_license"
   },
   {
+    "file": "objects3d/Units/armfmmm.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-05-28T12:16:25Z",
     "file": "objects3d/Units/armfort.s3o",
@@ -64600,6 +64653,24 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/armfrock.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cremuss",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/armfrock_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cremuss",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",
@@ -65142,6 +65213,24 @@
     "file": "objects3d/Units/armlwall.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "2064",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/armmakr.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cremuss",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/armmakr_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cremuss",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
     "source": "manual-audit"
   },
   {
@@ -66862,6 +66951,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "objects3d/Units/cor4X4E.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Mr Bob",
     "date": "2026-09-01T20:11:59Z",
     "file": "objects3d/Units/cor5X5A.s3o",
@@ -66869,6 +66967,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/cor5X5B.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -66914,6 +67021,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/cor6X6D.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -68139,6 +68255,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "objects3d/Units/corfblackhy.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Zecrus",
     "date": "2026-09-01T20:11:59Z",
     "file": "objects3d/Units/corfdoom.s3o",
@@ -68173,6 +68298,23 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/corfgate.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corfgate_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -68326,6 +68468,24 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/corfrock.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corfrock_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-09-02T13:24:51Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",

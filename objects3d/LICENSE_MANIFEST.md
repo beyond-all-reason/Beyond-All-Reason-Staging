@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1729**
+Total assets recorded: **1747**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -133,11 +133,13 @@ Total assets recorded: **1729**
 | `Units/arm5X5A.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `Units/arm5X5B.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/arm5X5C.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/arm5X5D.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-02 |
 | `Units/arm6X6A.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/arm6X6B.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/arm6X6C.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/arm6X6D.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/arm7X7A.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `Units/arm7X7B.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-02 |
 | `Units/arm7X7D.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armaak.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `Units/armaak_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
@@ -285,10 +287,13 @@ Total assets recorded: **1729**
 | `Units/armfboy_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `Units/armfdrag.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armfdrag_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfepoch.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-02 |
 | `Units/armferret.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armferret_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armfflak.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armfflak_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfgate.s3o` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
+| `Units/armfgate_dead.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
 | `Units/armfhlt.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armfhlt_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armfhp.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -308,10 +313,13 @@ Total assets recorded: **1729**
 | `Units/armfmine3.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armfmkr.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armfmkr_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfmmm.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-02 |
 | `Units/armfort.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armfort_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armfrad.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armfrad_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/armfrock.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-02 |
+| `Units/armfrock_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-02 |
 | `Units/armfrt.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armfrt_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armfus.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
@@ -374,6 +382,8 @@ Total assets recorded: **1729**
 | `Units/armlun.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/armlun_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/armlwall.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #2064 | 2026-09-01 |
+| `Units/armmakr.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-02 |
+| `Units/armmakr_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-02 |
 | `Units/armmanni.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armmanni_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armmar.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
@@ -569,12 +579,15 @@ Total assets recorded: **1729**
 | `Units/cor4X4B.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cor4X4C.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/cor4X4D.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor4X4E.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-02 |
 | `Units/cor5X5A.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor5X5B.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-02 |
 | `Units/cor5X5C.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cor5X5D.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cor6X6A.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cor6X6B.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cor6X6C.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cor6X6D.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-02 |
 | `Units/cor7X7A.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cor7X7B.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cor7X7D.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -714,10 +727,13 @@ Total assets recorded: **1729**
 | `Units/corfatf_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corfav.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/corfav_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/corfblackhy.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
 | `Units/corfdoom.s3o` | _awaiting license_ | Zecrus | manual-audit | 2026-09-01 |
 | `Units/corfdoom_dead.s3o` | _awaiting license_ | Zecrus | manual-audit | 2026-09-01 |
 | `Units/corfdrag.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corfdrag_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfgate.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-02 |
+| `Units/corfgate_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-02 |
 | `Units/corfhlt.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corfhlt_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corfhp.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -735,6 +751,8 @@ Total assets recorded: **1729**
 | `Units/corfort_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corfrad.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corfrad_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corfrock.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-02 |
+| `Units/corfrock_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-02 |
 | `Units/corfrt.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corfrt_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corfship.s3o` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
