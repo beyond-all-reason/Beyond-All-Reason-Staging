@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1439**
+Total assets recorded: **1440**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -687,6 +687,7 @@ Total assets recorded: **1439**
 | `lootboxes/lootboxsilver.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `lootboxes/lootdrop.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `other/chip.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
+| `other/dice.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
 | `other/meteor.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `other/nuketest.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `other/resourcecheat.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |

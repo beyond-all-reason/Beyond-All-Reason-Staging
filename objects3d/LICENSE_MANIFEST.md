@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1747**
+Total assets recorded: **1748**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -1397,6 +1397,7 @@ Total assets recorded: **1747**
 | `Units/legtl_dead.s3o` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
 | `Units/legvcarry.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
 | `Units/legvcarry_dead.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
+| `Units/legvelite.s3o` | _awaiting license_ | TheSilverHornet | #3178 | 2026-09-03 |
 | `Units/legvenator.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `Units/legvflak.s3o` | _awaiting license_ | Tharsis | #4178 | 2026-09-01 |
 | `Units/legvflak_dead.s3o` | _awaiting license_ | Tharsis | #4178 | 2026-09-01 |
@@ -1522,7 +1523,7 @@ Total assets recorded: **1747**
 | `cor_palette_tester.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `coradvtorpedo.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `cordepthcharge.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
-| `cordice.s3o` | _awaiting license_ | robertthepie | #4346 | 2026-06-16 |
+| `cordice.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | #4346 | 2026-09-03 |
 | `corkbmissl-1.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7442 | 2026-05-28 |
 | `corkbmissl0.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7442 | 2026-05-28 |
 | `corkbmissl1.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
@@ -1539,7 +1540,7 @@ Total assets recorded: **1747**
 | `cortorpedo.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `cortronmissile.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `corvrocket.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
-| `dice.s3o` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
+| `dice.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
 | `epulse.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `gingerbread.s3o` | _awaiting license_ | Christiaan van Hoegee | manual-audit | 2026-08-31 |
 | `gingerbread.txt` | `LicenseRef-BAR-CLA-1.0` | Christiaan van Hoegee | manual-audit | 2026-09-02 |

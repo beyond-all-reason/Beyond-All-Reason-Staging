@@ -798,8 +798,8 @@ Total assets recorded: **801**
 | `decals_features/rocks30_def_28_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `decals_features/rocks30_def_29_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `decals_features/rocks30_def_30_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
-| `dice.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
-| `dice2.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
+| `dice.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
+| `dice2.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
 | `energyball_tex.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `energyball_tex2.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `greyrock2.tga` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
