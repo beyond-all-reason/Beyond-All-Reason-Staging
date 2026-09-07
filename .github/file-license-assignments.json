@@ -66631,6 +66631,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "objects3d/Units/armnukevader.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:22:03Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-05-28T12:16:25Z",
     "file": "objects3d/Units/armpb.s3o",
@@ -66725,6 +66734,24 @@
     "source": "manual-audit"
   },
   {
+    "file": "objects3d/Units/armpship.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:22:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/armpship_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:22:03Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-01T20:07:06Z",
     "file": "objects3d/Units/armpt.s3o",
@@ -66759,6 +66786,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/armpwcannon.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cremuss",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:22:03Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Cremuss",
@@ -67443,6 +67479,24 @@
     "status": "awaiting_license"
   },
   {
+    "file": "objects3d/Units/armthovr.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:22:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/armthovr_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:22:03Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-01T20:07:06Z",
     "file": "objects3d/Units/armthund.s3o",
@@ -67513,6 +67567,24 @@
     "pr": "2872",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/armtship.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:22:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/armtship_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:22:03Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Cremuss",
@@ -67826,6 +67898,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/bridge.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:22:03Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -76195,6 +76276,24 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/scavboss/armpshipt3.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:22:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/scavboss/armpshipt3_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:22:03Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",

@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1985**
+Total assets recorded: **1996**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -537,6 +537,7 @@ Total assets recorded: **1985**
 | `Units/armnanotcplat_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armnavaldefturret.s3o` | _awaiting license_ | ZephyrSkies | #5927 | 2026-09-01 |
 | `Units/armnavaldefturret_dead.s3o` | _awaiting license_ | ZephyrSkies | #5927 | 2026-09-01 |
+| `Units/armnukevader.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
 | `Units/armpb.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armpb_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armpeep.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -548,10 +549,13 @@ Total assets recorded: **1985**
 | `Units/armpnix.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armpnix_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armprowl.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
+| `Units/armpship.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
+| `Units/armpship_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
 | `Units/armpt.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armpt_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armpw.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `Units/armpw_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `Units/armpwcannon.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
 | `Units/armrad.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armrad_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armraz.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-05-28 |
@@ -629,6 +633,8 @@ Total assets recorded: **1985**
 | `Units/armtarg_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armthor.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/armthor_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armthovr.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
+| `Units/armthovr_dead.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `Units/armthund.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armthund_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armtide.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -637,6 +643,8 @@ Total assets recorded: **1985**
 | `Units/armtl_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armtrident.s3o` | _awaiting license_ | Odin | #2872 | 2026-09-01 |
 | `Units/armtrident_dead.s3o` | _awaiting license_ | Odin | #2872 | 2026-09-01 |
+| `Units/armtship.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
+| `Units/armtship_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
 | `Units/armuwadves.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armuwadves_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armuwadvms.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
@@ -672,6 +680,7 @@ Total assets recorded: **1985**
 | `Units/armzapper.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/armzeus.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armzeus_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/bridge.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `Units/comeffigy.s3o` | _awaiting license_ | Mr Bob | #3267 | 2026-09-01 |
 | `Units/cor1X1A.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/cor1X1B.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -1627,6 +1636,8 @@ Total assets recorded: **1985**
 | `Units/scavboss/armmeatball.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `Units/scavboss/armmeatball_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `Units/scavboss/armminebomber.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `Units/scavboss/armpshipt3.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
+| `Units/scavboss/armpshipt3_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
 | `Units/scavboss/armptt2.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/scavboss/armptt2_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/scavboss/armpwt4.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
