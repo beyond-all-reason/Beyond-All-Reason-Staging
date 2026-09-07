@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1785**
+Total assets recorded: **1963**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -16,7 +16,9 @@ Total assets recorded: **1785**
 | `Critters/critter_penguin.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
 | `Critters/critter_penguinbro.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
 | `Critters/critter_penguinking.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
-| `Lootboxes/lootbox.s3o` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
+| `LICENSE_MANIFEST.md` | _awaiting license_ | BAR CLA Bot | manual-audit | 2026-09-07 |
+| `LegionUnitCapsule.s3o` | _awaiting license_ | Tharsis | #3837 | 2026-09-07 |
+| `Lootboxes/lootbox.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-07 |
 | `Lootboxes/lootboxnanoarm.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
 | `Lootboxes/lootboxnanoarmT1.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
 | `Lootboxes/lootboxnanoarmT2.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
@@ -88,25 +90,63 @@ Total assets recorded: **1785**
 | `Raptors/raptor_pidgeonc.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `Raptors/raptor_pidgeond.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `Raptors/raptor_turretl_acid_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
+| `Raptors/raptor_turretl_antinuke_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-07 |
 | `Raptors/raptor_turretl_electric_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
 | `Raptors/raptor_turretl_purple_v2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptor_turretl_red_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
 | `Raptors/raptor_turretl_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
 | `Raptors/raptor_turrets_acid_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
+| `Raptors/raptor_turrets_antinuke_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-07 |
 | `Raptors/raptor_turrets_electric_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
 | `Raptors/raptor_turrets_purple_v2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptor_turrets_red_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
 | `Raptors/raptor_turrets_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
+| `Raptors/raptor_turretxl_acid_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turretxl_electric_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-07 |
 | `Raptors/raptor_turretxl_meteor_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
+| `Raptors/raptor_turretxl_red_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turretxl_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-07 |
 | `Raptors/raptor_walking_master_v2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptor_worm_brown.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptor_worm_green.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
+| `Raptors/raptora.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptora2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptora2_spectre.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptora2b.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptora_spectre.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorab.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorac.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptoracidallterrain.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptoracidallterrainassault.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptoracidarty.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptoracidassault.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptoracidbomber.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptoracidswarmer.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorairscout1.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorairscout2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorairscout3.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorallterraina1.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorallterraina1b.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorallterraina1c.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorapexallterrainassault.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorapexallterrainassaultb.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorartillery.dae` | _awaiting license_ | Rubus | #2436 | 2026-09-07 |
+| `Raptors/raptorbroodbomber.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `Raptors/raptorc.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptorc2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptorc3.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorc3b.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `Raptors/raptorc3c.s3o` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-02 |
+| `Raptors/raptore1.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptore2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorearty1.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorebomber1.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `Raptors/raptoregg.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptoregg_l_acidgreen.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptoregg_l_blue.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptoregg_l_darkgreen.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `Raptors/raptoregg_l_darkred.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptoregg_l_green.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `Raptors/raptoregg_l_pink.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptoregg_l_purple.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptoregg_l_red.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
@@ -114,6 +154,7 @@ Total assets recorded: **1785**
 | `Raptors/raptoregg_l_yellow.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptoregg_m_acidgreen.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptoregg_m_blue.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptoregg_m_darkgreen.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `Raptors/raptoregg_m_darkred.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptoregg_m_green.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptoregg_m_pink.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
@@ -123,6 +164,7 @@ Total assets recorded: **1785**
 | `Raptors/raptoregg_m_yellow.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptoregg_s_acidgreen.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptoregg_s_blue.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptoregg_s_darkgreen.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `Raptors/raptoregg_s_darkred.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptoregg_s_green.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptoregg_s_pink.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
@@ -133,15 +175,38 @@ Total assets recorded: **1785**
 | `Raptors/raptoreggb.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptoreggc.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptoreggd.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptoreggred.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `Raptors/raptoreggyellow.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptorelectricallterrain.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorelectricallterrainassault.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `Raptors/raptorf.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptorf1.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorf1_mini.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorf1apex.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorf1apexb.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorf1b.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `Raptors/raptorf2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptorhealer1.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorhealer2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorhealer3.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorhealer4.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorp2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorpyroallterrain.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `Raptors/raptorq.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptorr.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/raptorr1.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/raptors.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptors2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptors2_spectre.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptorw1_mini.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/s_raptor_white.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `Raptors/s_raptora_white.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/s_raptorboss2_white.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/s_raptorboss_white.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `Raptors/s_raptorq_spawner.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/s_raptors_white.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/sgreyrock1.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/spike.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `Raptors/tube.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/tubexl.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/ve_raptorq.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
@@ -522,6 +587,8 @@ Total assets recorded: **1785**
 | `Units/armsh_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armshltx.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armshltx_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/armshltxbig.s3o` | _awaiting license_ | Cremuss | #5546 | 2026-09-07 |
+| `Units/armshltxbig_dead.s3o` | _awaiting license_ | Cremuss | #5546 | 2026-09-07 |
 | `Units/armshockwave.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `Units/armshockwave_dead.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `Units/armsilo.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
@@ -835,6 +902,8 @@ Total assets recorded: **1785**
 | `Units/corhvytrans.s3o` | _awaiting license_ | Protar | #3743 | 2026-09-01 |
 | `Units/corint.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corint_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corintr.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-07 |
+| `Units/corintr_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-07 |
 | `Units/corjamt.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corjamt_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corjugg.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -1090,6 +1159,7 @@ Total assets recorded: **1785**
 | `Units/freefusion_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/legaabot.s3o` | _awaiting license_ | ZephyrSkies | #5061 | 2026-09-01 |
 | `Units/legaabot_dead.s3o` | _awaiting license_ | ZephyrSkies | #5061 | 2026-09-01 |
+| `Units/legaap.s3o` | _awaiting license_ | Protar | #4074 | 2026-09-07 |
 | `Units/legaap_dead.s3o` | _awaiting license_ | Cremuss | #4074 | 2026-09-01 |
 | `Units/legabm.s3o` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
 | `Units/legabm_dead.s3o` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
@@ -1128,6 +1198,9 @@ Total assets recorded: **1785**
 | `Units/legaheattank_dead.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
 | `Units/legajam.s3o` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
 | `Units/legajam_dead.s3o` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
+| `Units/legajamk.s3o` | _awaiting license_ | Tharsis | #5382 | 2026-09-07 |
+| `Units/legajamk_dead.s3o` | _awaiting license_ | Tharsis | #5382 | 2026-09-07 |
+| `Units/legalab.s3o` | _awaiting license_ | Protar | #4074 | 2026-09-07 |
 | `Units/legalab_dead.s3o` | _awaiting license_ | Cremuss | #4074 | 2026-09-01 |
 | `Units/legamcluster.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
 | `Units/legamcluster_dead.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
@@ -1139,12 +1212,20 @@ Total assets recorded: **1785**
 | `Units/legamphtank_dead.s3o` | _awaiting license_ | ZephyrSkies | #3144 | 2026-09-01 |
 | `Units/legamstor.s3o` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
 | `Units/legamstor_dead.s3o` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
+| `Units/leganavalaaturret.s3o` | _awaiting license_ | Tharsis | #6423 | 2026-09-07 |
+| `Units/leganavalaaturret_dead.s3o` | _awaiting license_ | Tharsis | #6423 | 2026-09-07 |
+| `Units/leganavaladvgeo.s3o` | _awaiting license_ | Tharsis | #6423 | 2026-09-07 |
+| `Units/leganavaladvgeo_dead.s3o` | _awaiting license_ | Tharsis | #6423 | 2026-09-07 |
 | `Units/leganavaldefturret.s3o` | _awaiting license_ | ZephyrSkies | #5987 | 2026-09-01 |
 | `Units/leganavaldefturret_dead.s3o` | _awaiting license_ | ZephyrSkies | #5987 | 2026-09-01 |
+| `Units/leganavaleconv.s3o` | _awaiting license_ | Protar | #6423 | 2026-09-07 |
+| `Units/leganavaleconv_dead.s3o` | _awaiting license_ | Protar | #6423 | 2026-09-07 |
 | `Units/leganavalfusion.s3o` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
 | `Units/leganavalfusion_dead.s3o` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
 | `Units/leganavalmex.s3o` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
 | `Units/leganavalmex_dead.s3o` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
+| `Units/leganavalpinpointer.s3o` | _awaiting license_ | Protar | #6423 | 2026-09-07 |
+| `Units/leganavalpinpointer_dead.s3o` | _awaiting license_ | Protar | #6423 | 2026-09-07 |
 | `Units/leganavalsonarstation.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-02 |
 | `Units/leganavalsonarstation_dead.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-02 |
 | `Units/leganavaltorpturret.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-02 |
@@ -1175,10 +1256,14 @@ Total assets recorded: **1785**
 | `Units/leganavymissileship_dead.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
 | `Units/leganavyradjamship.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #6423 | 2026-09-01 |
 | `Units/leganavyradjamship_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #6423 | 2026-09-01 |
+| `Units/legap.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-07 |
+| `Units/legap_dead.s3o` | _awaiting license_ | Protar | #4074 | 2026-09-07 |
 | `Units/legapopupdef.s3o` | _awaiting license_ | ZephyrSkies | #5189 | 2026-09-02 |
 | `Units/legapopupdef_dead.s3o` | _awaiting license_ | ZephyrSkies | #5189 | 2026-09-02 |
 | `Units/legarad.s3o` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
 | `Units/legarad_dead.s3o` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
+| `Units/legaradk.s3o` | _awaiting license_ | Tharsis | #5382 | 2026-09-07 |
+| `Units/legaradk_dead.s3o` | _awaiting license_ | Tharsis | #5382 | 2026-09-07 |
 | `Units/legaskirmtank.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
 | `Units/legaskirmtank_dead.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
 | `Units/legaspy.s3o` | _awaiting license_ | ZephyrSkies | #5357 | 2026-09-02 |
@@ -1242,6 +1327,10 @@ Total assets recorded: **1785**
 | `Units/legeallterrainmech_dead.s3o` | _awaiting license_ | ZephyrSkies | #5357 | 2026-09-02 |
 | `Units/legeconv.s3o` | _awaiting license_ | Protar | #3373 | 2026-09-01 |
 | `Units/legeconv_dead.s3o` | _awaiting license_ | Protar | #3373 | 2026-09-01 |
+| `Units/legeheatraymech.s3o` | _awaiting license_ | Protar | #4339 | 2026-09-07 |
+| `Units/legeheatraymech_dead.s3o` | _awaiting license_ | Protar | #4339 | 2026-09-07 |
+| `Units/legeheatraymech_old.s3o` | _awaiting license_ | Protar | #5739 | 2026-09-07 |
+| `Units/legeheatraymech_old_dead.s3o` | _awaiting license_ | Protar | #5739 | 2026-09-07 |
 | `Units/legehovertank.s3o` | _awaiting license_ | Gabs | #5357 | 2026-09-01 |
 | `Units/legehovertank_dead.s3o` | _awaiting license_ | Gabs | #5357 | 2026-09-01 |
 | `Units/legelrpcmech.s3o` | _awaiting license_ | ZephyrSkies | #4508 | 2026-09-02 |
@@ -1257,8 +1346,12 @@ Total assets recorded: **1785**
 | `Units/legevocom3.s3o` | _awaiting license_ | Tharsis | #3837 | 2026-09-01 |
 | `Units/legeyes.s3o` | _awaiting license_ | NebuchadnezzarII | #3730 | 2026-09-01 |
 | `Units/legfdrag.s3o` | _awaiting license_ | Tharsis | #5058 | 2026-09-01 |
+| `Units/legfeconv.s3o` | _awaiting license_ | Protar | #5047 | 2026-09-07 |
+| `Units/legfeconv_dead.s3o` | _awaiting license_ | Protar | #5047 | 2026-09-07 |
 | `Units/legfhive.s3o` | _awaiting license_ | Zephyr | #3222 | 2026-09-01 |
 | `Units/legfhive_dead.s3o` | _awaiting license_ | Zephyr | #3222 | 2026-09-01 |
+| `Units/legfhp.s3o` | _awaiting license_ | Protar | #5072 | 2026-09-07 |
+| `Units/legfhp_dead.s3o` | _awaiting license_ | Protar | #5072 | 2026-09-07 |
 | `Units/legfig.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
 | `Units/legflak.s3o` | _awaiting license_ | Tharsis | #2728 | 2026-09-01 |
 | `Units/legflak_dead.s3o` | _awaiting license_ | Tharsis | #2728 | 2026-09-01 |
@@ -1288,6 +1381,8 @@ Total assets recorded: **1785**
 | `Units/leghades_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `Units/leghalab.s3o` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
 | `Units/leghalab_dead.s3o` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
+| `Units/leghastatus.s3o` | _awaiting license_ | TheSilverHornet | #3178 | 2026-09-07 |
+| `Units/leghastatusalt.s3o` | _awaiting license_ | TheSilverHornet | #3178 | 2026-09-07 |
 | `Units/leghavp.s3o` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
 | `Units/leghavp_dead.s3o` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
 | `Units/legheavydrone.s3o` | _awaiting license_ | Tharsis | #3569 | 2026-09-01 |
@@ -1300,8 +1395,12 @@ Total assets recorded: **1785**
 | `Units/leghp_dead.s3o` | _awaiting license_ | Protar | #4169 | 2026-09-01 |
 | `Units/leghrk.s3o` | _awaiting license_ | Tharsis | #5034 | 2026-09-01 |
 | `Units/leghrk_dead.s3o` | _awaiting license_ | Tharsis | #5034 | 2026-09-01 |
+| `Units/leginc.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-07 |
+| `Units/leginc_dead.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-07 |
 | `Units/leginf.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
 | `Units/leginf_dead.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
+| `Units/leginfestor.s3o` | _awaiting license_ | Zath | manual-audit | 2026-09-07 |
+| `Units/leginfestor_dead.s3o` | _awaiting license_ | Zath | manual-audit | 2026-09-07 |
 | `Units/legionnaire.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `Units/legjam.s3o` | _awaiting license_ | ZephyrSkies | #2997 | 2026-09-01 |
 | `Units/legjam_dead.s3o` | _awaiting license_ | ZephyrSkies | #2997 | 2026-09-01 |
@@ -1349,6 +1448,8 @@ Total assets recorded: **1785**
 | `Units/legmoho_dead.s3o` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
 | `Units/legmohobp.s3o` | _awaiting license_ | Protar | #3516 | 2026-09-01 |
 | `Units/legmohobpct.s3o` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
+| `Units/legmohocon.s3o` | _awaiting license_ | Tharsis | #4710 | 2026-09-07 |
+| `Units/legmohocon_dead.s3o` | _awaiting license_ | Tharsis | #4710 | 2026-09-07 |
 | `Units/legmos.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `Units/legmost3.s3o` | _awaiting license_ | Tharsis | #3887 | 2026-09-01 |
 | `Units/legmrv.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
@@ -1377,6 +1478,8 @@ Total assets recorded: **1785**
 | `Units/legnavyrezsub_dead.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-02 |
 | `Units/legnavyscout.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-02 |
 | `Units/legnavyscout_dead.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-02 |
+| `Units/legnavysub.s3o` | _awaiting license_ | Tharsis | #6123 | 2026-09-07 |
+| `Units/legnavysub_dead.s3o` | _awaiting license_ | Tharsis | #6123 | 2026-09-07 |
 | `Units/legner.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
 | `Units/legner_dead.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
 | `Units/legotter.s3o` | _awaiting license_ | ZephyrSkies | #3049 | 2026-09-01 |
@@ -1385,6 +1488,8 @@ Total assets recorded: **1785**
 | `Units/legpede_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/legperdition.s3o` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
 | `Units/legperdition_dead.s3o` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
+| `Units/legphoenix.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-07 |
+| `Units/legphoenix_dead.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-07 |
 | `Units/legrad.s3o` | _awaiting license_ | ZephyrSkies | #2997 | 2026-09-01 |
 | `Units/legrad_dead.s3o` | _awaiting license_ | ZephyrSkies | #2997 | 2026-09-01 |
 | `Units/legrail.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
@@ -1428,10 +1533,18 @@ Total assets recorded: **1785**
 | `Units/legstronghold.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `Units/legsy.s3o` | _awaiting license_ | Tharsis | #6123 | 2026-09-01 |
 | `Units/legsy_dead.s3o` | _awaiting license_ | Tharsis | #6123 | 2026-09-01 |
+| `Units/legtarg.s3o` | _awaiting license_ | Protar | #4393 | 2026-09-07 |
+| `Units/legtarg_dead.s3o` | _awaiting license_ | Protar | #4393 | 2026-09-07 |
 | `Units/legtide.s3o` | _awaiting license_ | Mr Bob | #4951 | 2026-09-01 |
 | `Units/legtide_dead.s3o` | _awaiting license_ | Mr Bob | #4951 | 2026-09-01 |
 | `Units/legtl.s3o` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
 | `Units/legtl_dead.s3o` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `Units/leguwestore.s3o` | _awaiting license_ | Protar | #5047 | 2026-09-07 |
+| `Units/leguwestore_dead.s3o` | _awaiting license_ | Protar | #5047 | 2026-09-07 |
+| `Units/leguwgeo.s3o` | _awaiting license_ | Tharsis | #5047 | 2026-09-07 |
+| `Units/leguwgeo_dead.s3o` | _awaiting license_ | Tharsis | #5047 | 2026-09-07 |
+| `Units/leguwmstore.s3o` | _awaiting license_ | Protar | #5047 | 2026-09-07 |
+| `Units/leguwmstore_dead.s3o` | _awaiting license_ | Protar | #5047 | 2026-09-07 |
 | `Units/legvcarry.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
 | `Units/legvcarry_dead.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-02 |
 | `Units/legvelite.s3o` | _awaiting license_ | TheSilverHornet | #3178 | 2026-09-03 |
@@ -1439,11 +1552,48 @@ Total assets recorded: **1785**
 | `Units/legvflak.s3o` | _awaiting license_ | Tharsis | #4178 | 2026-09-01 |
 | `Units/legvflak_dead.s3o` | _awaiting license_ | Tharsis | #4178 | 2026-09-01 |
 | `Units/legvision.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/legvp.s3o` | _awaiting license_ | Protar | #4133 | 2026-09-07 |
+| `Units/legvp_dead.s3o` | _awaiting license_ | Protar | #4133 | 2026-09-07 |
 | `Units/legwhisper.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
 | `Units/legwin.s3o` | _awaiting license_ | Yzch | manual-audit | 2026-09-01 |
 | `Units/legwin_dead.s3o` | _awaiting license_ | Yzch | manual-audit | 2026-09-01 |
 | `Units/mission_command_tower.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/mission_command_tower_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `Units/parts/armcagelight.s3o` | `CC-BY-SA-4.0` | icexuick | #3 | 2026-09-07 |
+| `Units/parts/armcillinder.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/armdish.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/beacon1.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/corcagelight.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/arm_hexl_lg.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/armhexl_db.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/armhexl_dg.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/armhexl_dr.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/armhexl_dw.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/armhexl_dy.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/armhexl_lb.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/armhexl_lr.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/armhexl_lw.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/armhexl_ly.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/corhexl_db.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/corhexl_dg.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/corhexl_dr.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/corhexl_dw.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/corhexl_dy.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/corhexl_lb.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/corhexl_lg.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/corhexl_lr.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/corhexl_lw.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/hexlights/corhexl_ly.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/octlights/armoctl_db.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/octlights/armoctl_dg.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/octlights/armoctl_dr.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/octlights/armoctl_dw.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/octlights/armoctl_dy.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/octlights/armoctl_lb.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/octlights/armoctl_lg.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/octlights/armoctl_lr.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/octlights/armoctl_lw.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `Units/parts/octlights/armoctl_ly.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
 | `Units/scavboss/armassimilator.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `Units/scavboss/armassimilator_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `Units/scavboss/armassistdrone.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -1537,6 +1687,8 @@ Total assets recorded: **1785**
 | `airbomb.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
 | `airbombsea.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
 | `airbombt2.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `akbomb.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
+| `armpw_anim_projectile.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
 | `armstone.s3o` | _awaiting license_ | NebuchadnezzarII | manual-audit | 2026-09-01 |
 | `artshell-large.s3o` | `LicenseRef-BAR-CLA-1.0` | Kremenchuk | manual-audit | 2026-05-27 |
 | `artshell-medium.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -1564,6 +1716,7 @@ Total assets recorded: **1785**
 | `corkbmissl-1.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7442 | 2026-05-28 |
 | `corkbmissl0.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7442 | 2026-05-28 |
 | `corkbmissl1.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
+| `cormine1.s3o` | _awaiting license_ | Tristan | manual-audit | 2026-09-07 |
 | `cormissile.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `cormissile2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `cormissile2fast.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
@@ -1577,8 +1730,12 @@ Total assets recorded: **1785**
 | `cortorpedo.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `cortronmissile.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `corvrocket.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `crblmssl.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
 | `dice.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
+| `empty.s3o` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-09-07 |
 | `epulse.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `epulse_mini.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-07 |
+| `fmdmissile.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
 | `gingerbread.s3o` | _awaiting license_ | Christiaan van Hoegee | manual-audit | 2026-08-31 |
 | `gingerbread.txt` | `LicenseRef-BAR-CLA-1.0` | Christiaan van Hoegee | manual-audit | 2026-09-02 |
 | `hats/cor_hat_fightnight.s3o` | _awaiting license_ | NebuchadnezzarII= | #3778 | 2026-09-01 |
@@ -1586,7 +1743,22 @@ Total assets recorded: **1785**
 | `hats/cor_hat_legfn.s3o` | _awaiting license_ | NebuchadnezzarII | #3781 | 2026-09-01 |
 | `hats/cor_hat_ptaq.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `hats/cor_hat_viking.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
+| `legbasictorpedo.s3o` | _awaiting license_ | Johanthan Crimson | #4909 | 2026-09-07 |
+| `legbomb.s3o` | _awaiting license_ | Mr Bob | #3049 | 2026-09-07 |
+| `legfattorpedo.s3o` | _awaiting license_ | Tharsis | #6423 | 2026-09-07 |
+| `leghomingmissile.s3o` | _awaiting license_ | Tharsis | #3049 | 2026-09-07 |
+| `legicbm.s3o` | _awaiting license_ | Tharsy | #3049 | 2026-09-07 |
+| `legkambomb.s3o` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-07 |
+| `leglargerocket.s3o` | _awaiting license_ | Tharsis | #3049 | 2026-09-07 |
+| `leglmineproj.s3o` | _awaiting license_ | Tharsis | #4262 | 2026-09-07 |
+| `legmediumrocket.s3o` | _awaiting license_ | ZephyrSkies | #3049 | 2026-09-07 |
+| `legmediumtorpedo.s3o` | _awaiting license_ | ZephyrSkies | #4117 | 2026-09-07 |
+| `legnade.s3o` | _awaiting license_ | Protar | #2836 | 2026-09-07 |
+| `legsmallrocket.s3o` | _awaiting license_ | Tharsis | #3049 | 2026-09-07 |
 | `legstone.s3o` | _awaiting license_ | Tharsy | #3843 | 2026-09-01 |
+| `legtorpedo.s3o` | _awaiting license_ | Tharsis | #3281 | 2026-09-07 |
+| `legtorpedomini.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-07 |
+| `meteor.s3o` | _awaiting license_ | Bluestone | manual-audit | 2026-09-07 |
 | `pilha_crystal_1.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_2.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_3.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -1774,6 +1946,11 @@ Total assets recorded: **1785**
 | `scavs/armbotrail.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavs/cords.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavs/cormandot4.s3o` | _awaiting license_ | FireStorm | #3494 | 2026-09-01 |
+| `scavs/cube_ptaq_backup.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `scavs/scavbeacon.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `scavs/scavbeaconbyar.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `scavs/scavbeacondroppodbyar.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `scavs/scavcrate.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
 | `scavs/scavdrag.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavs/scavdtf.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavs/scavdtl.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -1781,6 +1958,7 @@ Total assets recorded: **1785**
 | `scavs/scavfort.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavs/scavmistflare.s3o` | _awaiting license_ | SethDGamre | #4 | 2026-09-01 |
 | `scavs/scavsafeareabeacon.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `torpedo.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
 | `xmasball1_1.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |
 | `xmasball1_2.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |
 | `xmasball1_3.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-16 |

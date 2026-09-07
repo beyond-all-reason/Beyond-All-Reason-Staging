@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **782**
+Total assets recorded: **787**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -57,6 +57,8 @@ Total assets recorded: **782**
 | `advplayerslist/flags/ba.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/barb.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/barb2.png` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-08-28 |
+| `advplayerslist/flags/barw.png` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-09-07 |
+| `advplayerslist/flags/barw2.png` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-09-07 |
 | `advplayerslist/flags/bb.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/bd.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/be.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
@@ -107,6 +109,7 @@ Total assets recorded: **782**
 | `advplayerslist/flags/ee.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/eg.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/eh.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
+| `advplayerslist/flags/en-pir.png` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-09-07 |
 | `advplayerslist/flags/er.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/es.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/et.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
@@ -195,6 +198,7 @@ Total assets recorded: **782**
 | `advplayerslist/flags/mm.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/mn.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/mo.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
+| `advplayerslist/flags/moon.png` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-09-07 |
 | `advplayerslist/flags/mp.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/mq.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/mr.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
@@ -785,6 +789,7 @@ Total assets recorded: **782**
 | `skull.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `snow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `solid.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `stripes-small.png` | _awaiting license_ | SethDGamre | #5915 | 2026-09-07 |
 | `tidal-waves.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `vignette.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `vr_grid.png` | _awaiting license_ | Decay | manual-audit | 2026-09-01 |

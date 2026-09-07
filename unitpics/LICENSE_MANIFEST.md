@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1440**
+Total assets recorded: **1472**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -70,6 +70,7 @@ Total assets recorded: **1440**
 | `armdecade.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armdecadet3.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armdecom.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `armdf (1).dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
 | `armdf.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `armdfly.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armdl.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
@@ -135,6 +136,7 @@ Total assets recorded: **1440**
 | `armlun.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `armlunchbox.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `armlwall.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #2064 | 2026-09-01 |
+| `armmakr.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
 | `armmanni.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `armmark.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -189,6 +191,7 @@ Total assets recorded: **1440**
 | `armsfig2.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armsh.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armshltx.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armshltx2.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
 | `armshltxuw.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `armshockwave.dds` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `armsilo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
@@ -213,7 +216,9 @@ Total assets recorded: **1440**
 | `armtl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armtrident.dds` | _awaiting license_ | Odin | #2872 | 2026-09-01 |
 | `armuwadves.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armuwadves_old.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
 | `armuwadvms.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armuwadvms_old.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
 | `armuwageo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `armuwes.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armuwfus.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -227,6 +232,7 @@ Total assets recorded: **1440**
 | `armvp.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `armvulc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armwar.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
+| `armwar_old.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-07 |
 | `armwin.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `armwint2.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `armyork.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -260,6 +266,7 @@ Total assets recorded: **1440**
 | `coratl.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `coravp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corawac.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corawac_old.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-07 |
 | `corban.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corbats.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `corbhmth.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -343,6 +350,7 @@ Total assets recorded: **1440**
 | `corhurc.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corhvytrans.dds` | _awaiting license_ | Protar | #3743 | 2026-09-01 |
 | `corint.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corintr.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-07 |
 | `corjamt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corjugg.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `corjuno.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -388,6 +396,7 @@ Total assets recorded: **1440**
 | `corplat.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corprince.dds` | _awaiting license_ | Johnathan Crimson | #5427 | 2026-09-01 |
 | `corprinter.dds` | _awaiting license_ | MASHUP | manual-audit | 2026-09-01 |
+| `corpship.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `corpt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corpun.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corpyro.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
@@ -438,6 +447,7 @@ Total assets recorded: **1440**
 | `cortarg.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `cortermite.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `corthermite.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #2239 | 2026-09-01 |
+| `corthovr.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `corthud.dds` | _awaiting license_ | jjackVII | manual-audit | 2026-09-01 |
 | `cortide.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `cortitan.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -446,6 +456,7 @@ Total assets recorded: **1440**
 | `cortorch.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `cortrem.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `cortron.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `cortship.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `coruwadves.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `coruwadvms.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `coruwageo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
@@ -495,6 +506,7 @@ Total assets recorded: **1440**
 | `legamphlab.dds` | _awaiting license_ | ZephyrSkies | #5072 | 2026-09-01 |
 | `legamphtank.dds` | _awaiting license_ | ZephyrSkies | #3144 | 2026-09-01 |
 | `legamstor.dds` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
+| `legamsub.dds` | _awaiting license_ | TheSilverHornet | #3085 | 2026-09-07 |
 | `leganavalaaturret.dds` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
 | `leganavaladvgeo.dds` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
 | `leganavaldefturret.dds` | _awaiting license_ | ZephyrSkies | #5987 | 2026-09-01 |
@@ -545,6 +557,7 @@ Total assets recorded: **1440**
 | `legck.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `legcluster.dds` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
 | `legcom.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
+| `legcomdef.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
 | `legcomecon.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `legcomoff.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `legcomt2com.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -586,6 +599,8 @@ Total assets recorded: **1440**
 | `leggob.dds` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
 | `leghades.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `leghalab.dds` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
+| `leghastatus.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
+| `leghastatusalt.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
 | `leghavp.dds` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
 | `legheavydrone.dds` | _awaiting license_ | Tharsis | #3569 | 2026-09-01 |
 | `leghelios.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
@@ -638,10 +653,12 @@ Total assets recorded: **1440**
 | `legnavyscout.dds` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
 | `legnavysub.dds` | _awaiting license_ | Tharsis | #6123 | 2026-09-01 |
 | `legner.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
+| `legoptio.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
 | `legotter.dds` | _awaiting license_ | ZephyrSkies | #2853 | 2026-09-01 |
 | `legpede.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `legperdition.dds` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
 | `legphoenix.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `legportent.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
 | `legrad.dds` | _awaiting license_ | ZephyrSkies | #2997 | 2026-09-01 |
 | `legrail.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `legrampart.dds` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
@@ -672,6 +689,9 @@ Total assets recorded: **1440**
 | `legtarg.dds` | _awaiting license_ | Protar | #4393 | 2026-09-01 |
 | `legtide.dds` | _awaiting license_ | Mr Bob | #4951 | 2026-09-01 |
 | `legtl.dds` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `legtriarius.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
+| `legtriariusdrone.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
+| `legtriariusheatray.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
 | `leguwestore.dds` | _awaiting license_ | Protar | #5047 | 2026-09-01 |
 | `leguwgeo.dds` | _awaiting license_ | Tharsis | #5047 | 2026-09-01 |
 | `leguwmstore.dds` | _awaiting license_ | Protar | #5047 | 2026-09-01 |
@@ -686,6 +706,8 @@ Total assets recorded: **1440**
 | `lootboxes/lootboxplatinum.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `lootboxes/lootboxsilver.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `lootboxes/lootdrop.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `mission_command_tower.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
+| `other/boombox.dds` | _awaiting license_ | Damgam | manual-audit | 2026-09-07 |
 | `other/chip.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
 | `other/dice.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
 | `other/meteor.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -815,6 +837,7 @@ Total assets recorded: **1440**
 | `scavengers/armart.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armaser.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armason.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armasp.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `scavengers/armassimilator.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `scavengers/armassistdrone.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armasy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -909,6 +932,7 @@ Total assets recorded: **1440**
 | `scavengers/armlun.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `scavengers/armlunchbox.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `scavengers/armlwall.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7224 | 2026-09-01 |
+| `scavengers/armmakr.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
 | `scavengers/armmanni.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `scavengers/armmark.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -963,6 +987,7 @@ Total assets recorded: **1440**
 | `scavengers/armsfig.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armsh.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armshltx.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armshltx2.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
 | `scavengers/armshltxuw.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `scavengers/armsilo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `scavengers/armsjam.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -986,7 +1011,9 @@ Total assets recorded: **1440**
 | `scavengers/armtide.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armtl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armuwadves.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armuwadves_old.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
 | `scavengers/armuwadvms.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armuwadvms_old.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
 | `scavengers/armuwes.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armuwfus.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armuwmme.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -1084,6 +1111,7 @@ Total assets recorded: **1440**
 | `scavengers/corforge.dds` | _awaiting license_ | MASHUP | manual-audit | 2026-09-01 |
 | `scavengers/corfort.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corfrad.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corfrock.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-07 |
 | `scavengers/corfrt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corftiger.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
 | `scavengers/corfus.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -1106,6 +1134,7 @@ Total assets recorded: **1440**
 | `scavengers/corhunt.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/corhurc.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corint.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corintr.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-07 |
 | `scavengers/corjamt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corjugg.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/corjuno.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -1147,6 +1176,7 @@ Total assets recorded: **1440**
 | `scavengers/cornecro.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/corparrow.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corplat.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/corpship.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `scavengers/corpt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corpun.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corpyro.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
@@ -1191,6 +1221,7 @@ Total assets recorded: **1440**
 | `scavengers/cortarg.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/cortermite.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/corthermite.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7224 | 2026-09-01 |
+| `scavengers/corthovr.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `scavengers/corthud.dds` | _awaiting license_ | jjackVII | manual-audit | 2026-09-01 |
 | `scavengers/cortide.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/cortitan.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -1199,6 +1230,7 @@ Total assets recorded: **1440**
 | `scavengers/cortorch.dds` | _awaiting license_ | Flaka | #7224 | 2026-09-01 |
 | `scavengers/cortrem.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/cortron.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/cortship.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `scavengers/coruwadves.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/coruwadvms.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/coruwes.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |

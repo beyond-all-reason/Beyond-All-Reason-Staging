@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `bitmaps/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **231**
+Total assets recorded: **232**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -116,6 +116,7 @@ Total assets recorded: **231**
 | `projectiletextures/firenovaexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flame.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flare.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `projectiletextures/flare2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-09-07 |
 | `projectiletextures/flash1.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flashside1.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flashside2.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |

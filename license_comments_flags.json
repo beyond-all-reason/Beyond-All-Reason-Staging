@@ -97,6 +97,21 @@
     "comments": []
   },
   {
+    "file": "bitmaps/projectiletextures/fireball.tga",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "bitmaps/projectiletextures/flare-raptors.tga",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "bitmaps/projectiletextures/flare1.tga",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
     "file": "bitmaps/projectiletextures/flashside3.tga",
     "flag": "unsure",
     "comments": [
@@ -106,6 +121,21 @@
         "text": "Needs double check if it uses old/free/opensource material or not."
       }
     ]
+  },
+  {
+    "file": "bitmaps/projectiletextures/glow.tga",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "bitmaps/projectiletextures/glow2.tga",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "bitmaps/projectiletextures/graysmoke.tga",
+    "flag": "unsure",
+    "comments": []
   },
   {
     "file": "bitmaps/projectiletextures/gunshotxl.tga",
@@ -162,6 +192,11 @@
     ]
   },
   {
+    "file": "bitmaps/projectiletextures/nanobeam-resurrect.png",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
     "file": "bitmaps/projectiletextures/new_dirta.png",
     "flag": "unsure",
     "comments": [
@@ -200,8 +235,58 @@
     "comments": []
   },
   {
+    "file": "luaui/images/advplayerslist/arrow.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/arrowd.png",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/bar.png",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/barglow-center.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/barglow-edge.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/blob_small.png",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/camera.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/chat.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
     "file": "luaui/images/advplayerslist/country.dds",
     "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/cpu.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/cross.dds",
+    "flag": "floris-review",
     "comments": []
   },
   {
@@ -215,8 +300,173 @@
     "comments": []
   },
   {
+    "file": "luaui/images/advplayerslist/hourglass.png",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/id.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/indent.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/indicator.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/low.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/notfirst.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/notfirst.png",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
     "file": "luaui/images/advplayerslist/pencil.dds",
     "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/ping.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/res.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/resbar.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/resbarbg.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/resources.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/separator.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/share.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/side.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/sizedn.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/sizeup.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/take.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/ts.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist/units0.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/floriscat_body.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/floriscat_head.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/floriscat_headblink.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/grumpycat_body.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/grumpycat_head.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/grumpycat_headblink.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/mrbeans_body.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/mrbeans_head.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/mrbeans_headblink.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/santahat.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/aliasing_test_grid_128.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/backgroundtile.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/black.bmp",
+    "flag": "beherith-review",
     "comments": []
   },
   {
@@ -315,8 +565,18 @@
     "comments": []
   },
   {
-    "file": "luaui/images/info_health.png",
-    "flag": "icexuick-review",
+    "file": "luaui/images/enemyspotter.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/glow2.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/halo.dds",
+    "flag": "floris-review",
     "comments": []
   },
   {
@@ -325,8 +585,138 @@
     "comments": []
   },
   {
+    "file": "luaui/images/mapmarksfx/eraser_old.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/mapmarksfx/glow.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
     "file": "luaui/images/mapmarksfx/pencil.dds",
     "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/mapmarksfx/ring.dds",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/music/forward.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/music/music.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/music/next.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/music/pause.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/music/play.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/music/volume.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipActivity.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipBlip.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipCam.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipCopy.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipExpand.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipGround.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipHelp.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipMaximize.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipMinimize.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipMinus.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipMove.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipPlus.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipShrink.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipSwitch.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipT.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipTV.png",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/pip/PipView.png",
+    "flag": "floris-review",
     "comments": []
   },
   {
@@ -335,18 +725,83 @@
     "comments": []
   },
   {
-    "file": "luaui/images/skull.dds",
-    "flag": "icexuick-review",
-    "comments": []
-  },
-  {
     "file": "luaui/images/stripes.png",
     "flag": "unsure",
     "comments": []
   },
   {
-    "file": "luaui/images/wind-blades.png",
-    "flag": "icexuick-review",
+    "file": "luaui/sounds/buildbar_add.wav",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/sounds/buildbar_click.wav",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/sounds/buildbar_hover.wav",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/sounds/buildbar_rem.wav",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/sounds/buildbar_waypoint.wav",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "luaui/sounds/button.wav",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/sounds/click.wav",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/sounds/click2.wav",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/sounds/ding.ogg",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/sounds/hover.wav",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/sounds/pushbutton.wav",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/sounds/switchoff.wav",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/sounds/switchon.wav",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/sounds/tock.wav",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "luaui/sounds/zap.wav",
+    "flag": "unsure",
     "comments": []
   },
   {
@@ -387,6 +842,11 @@
         "author": "BAR CLA Bot",
         "date": "2026-08-31",
         "text": "This unit was kitbashed from other Cortex Units. We probably should keep this GPL and make new lootbox model."
+      },
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-07",
+        "text": "Found MrBob as the author of the main part of the lootbox"
       }
     ]
   },
@@ -411,8 +871,113 @@
     "comments": []
   },
   {
+    "file": "objects3d/SimpleFlare.s3o",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/arm7X7C.s3o",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/armcom_vanilla.s3o",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/armflash_old.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/armgant.s3o",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/armgplat.s3o",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/armgplat_dead.s3o",
+    "flag": "floris-review",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/armpship.s3o",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/armpship_dead.s3o",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/armpwcannon.s3o",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/armthovr.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/armthovr_dead.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/armtship.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/armtship_dead.s3o",
+    "flag": "unused",
+    "comments": []
+  },
+  {
     "file": "objects3d/Units/bridge.s3o",
     "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/cor7X7C.s3o",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/corcom_vanilla.s3o",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/corgplat.s3o",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/corgplat_dead.s3o",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/corintr.s3o",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/corintr_dead.s3o",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/cormmkr_old_dead.s3o",
+    "flag": "unsure",
     "comments": []
   },
   {
@@ -422,6 +987,21 @@
   },
   {
     "file": "objects3d/Units/corpyro_dead.s3o",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/corvipev2.s3o",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/event/aprilfools/correap.s3o.needsupdate",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/license.txt",
     "flag": "beherith-review",
     "comments": []
   },
@@ -470,8 +1050,23 @@
     ]
   },
   {
+    "file": "objects3d/Units/scavboss/armpshipt3.s3o",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Units/scavboss/armpshipt3_dead.s3o",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
     "file": "objects3d/Units/unused/old_bladew.s3o",
     "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/akbomb2.s3o",
+    "flag": "unsure",
     "comments": []
   },
   {
@@ -545,8 +1140,48 @@
     "comments": []
   },
   {
+    "file": "objects3d/dbg_sphere.s3o",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "objects3d/dbg_sphere_fullmetal.s3o",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
     "file": "objects3d/dice.s3o",
     "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "objects3d/fgrep.exe",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "objects3d/fir_tree_large.s3o",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "objects3d/fir_tree_medium.s3o",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "objects3d/fir_tree_small.s3o",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "objects3d/fir_tree_smallest.s3o",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "objects3d/pbr_cube.s3o",
+    "flag": "beherith-review",
     "comments": []
   },
   {
@@ -577,6 +1212,16 @@
     ]
   },
   {
+    "file": "unitpics/armfgate.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unitpics/armgplat.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
     "file": "unitpics/armmeatball.dds",
     "flag": "",
     "comments": [
@@ -586,6 +1231,91 @@
         "text": "not mine"
       }
     ]
+  },
+  {
+    "file": "unitpics/armpship.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/armpshipt3.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/armthovr.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unitpics/armtship.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unitpics/corgplat.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/corintr.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/critters/critter_ant.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/critters/critter_duck.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/critters/critter_goldfish.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/critters/critter_gull.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/critters/critter_penguin.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/legamsub.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/leghastatusalt.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/legoptio.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/other/banana.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/other/boombox.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/scavengers/armasp.dds",
+    "flag": "beherith-review",
+    "comments": []
   },
   {
     "file": "unitpics/scavengers/armassimilator.dds",
@@ -599,6 +1329,21 @@
     ]
   },
   {
+    "file": "unitpics/scavengers/armfavold.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unitpics/scavengers/armfgate.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unitpics/scavengers/armgplat.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
     "file": "unitpics/scavengers/armmeatball.dds",
     "flag": "",
     "comments": [
@@ -608,6 +1353,51 @@
         "text": "not mine"
       }
     ]
+  },
+  {
+    "file": "unitpics/scavengers/armmg.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/scavengers/armpship.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/scavengers/armpshipt3.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/scavengers/armthovr.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unitpics/scavengers/armtship.dds",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unitpics/scavengers/cordemont4.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/scavengers/corgplat.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/scavengers/corintr.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unitpics/scavengers/corkargclassic.dds",
+    "flag": "unsure",
+    "comments": []
   },
   {
     "file": "unitpics/scavengers/corthovr.dds",
@@ -650,7 +1440,287 @@
     "comments": []
   },
   {
+    "file": "unittextures/PineTextureburnt.dds",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "unittextures/apexchicken.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/aquachicken.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/blackchicken.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/blank_normal.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/bluechicken.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/brownchicken.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
     "file": "unittextures/candycane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken1.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken1b.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken1c.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken1d.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken1x.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken1y.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken1z.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken2.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken2b.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_1_m_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_1_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_1b_m_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_1b_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_1c_m_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_1c_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_1d_m_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_1d_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_1x_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_1y_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_1z_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_acidgreen_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_acidgreen_m_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_acidgreen_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_apex_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_apex_m_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_aqua_m_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_black_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_black_m_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_black_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_blue_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_blue_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_brown_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_c3_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_c3b_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_c3c_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_crimson_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_crimson_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_darkgreen_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_darkgreen_m_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_darkgreen_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_electric_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_electric_m_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_electric_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_green_m_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_l_other.png",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_l_other_acid.png",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_m_other.png",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_m_other_acid.png",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_multi_l_color.dds",
     "flag": "beherith-review",
     "comments": []
   },
@@ -660,7 +1730,177 @@
     "comments": []
   },
   {
+    "file": "unittextures/chicken_normals_2020.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_normals_medium.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_pink_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_pink_m_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_pink_other.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_purple_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_red_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_red_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_redb_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_redc_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_redhead4_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_s_other.png",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_s_other_acid.png",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_tube_color.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_tube_normals.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_tube_other.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_vcrimson_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_vcrimson_m_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_white_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_white_m_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_white_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_whitehc_s_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_yellow_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_yellow_m_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chicken_yellowb_l_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chickenc3.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chickenc3b.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chickenc3c.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chickenegg.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
     "file": "unittextures/chickenegg_tex2.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chickeneggb.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chickeneggc.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chickeneggd.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chickeneggred.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/chickeneggyellow.dds",
     "flag": "beherith-review",
     "comments": []
   },
@@ -675,6 +1915,521 @@
     "comments": []
   },
   {
+    "file": "unittextures/cor_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/cor_color_wreck.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/cor_color_wreck_normal.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/cor_other.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/cor_other_wreck.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/crimsonchicken.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/dbg_sphere_color.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/dbg_sphere_fullmetal.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/dbg_sphere_other.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/arm5X5D_7_7_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/arm7X7B_9_9_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/arm7X7C_9_9_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/armfgate_dead_6_6_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/armfrock_dead_5_5_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/armgplat_dead_4_4_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/armmakr_dead_4_4_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/armpship_dead_12_12_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/armpshipt3_dead_22_22_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/armthovr_dead_8_8_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/armtship_dead_8_8_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/cor4X4E_5_5_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/cor5X5B_7_7_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/cor6X6D_8_8_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/cor7X7C_9_9_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/corfgate_dead_6_6_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/corgplat_dead_5_5_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/corintr_dead_7_7_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/corlevlrt4_dead_8_8_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/cormmkr_old_dead_6_6_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/corpship_dead_6_6_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/corsok_dead_5_5_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/corthovr_dead_9_9_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/cortship_dead_8_8_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/featureaoplates_atlas.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/freefusion_dead_7_7_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/leglaw_dead_3_3_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/mission_command_tower_dead_11_11_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_1_3_3_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_1_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_2_5_5_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_2_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_3_7_7_aoplane.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_3_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_blue_1_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_blue_2_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_blue_3_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_green_1_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_green_2_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_green_3_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_lime_1_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_lime_2_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_lime_3_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_obsidian_1_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_obsidian_2_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_obsidian_3_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_orange_1_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_orange_2_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_orange_3_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_quartz_1_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_quartz_2_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_quartz_3_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_red_1_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_red_2_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_red_3_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_teal_1_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_teal_2_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_teal_3_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_team_1_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_team_2_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_team_3_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_violet_1_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_violet_2_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/pilha_crystal_violet_3_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_01_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_02_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_03_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_04_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_05_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_06_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_07_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_08_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_09_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_10_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_11_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_12_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_13_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_14_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_15_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_16_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_17_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_18_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_19_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_20_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_21_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_22_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_23_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_24_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_25_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_26_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_27_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_28_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_29_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/decals_features/rocks30_def_30_aoplane.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
     "file": "unittextures/dice.dds",
     "flag": "unused",
     "comments": []
@@ -685,6 +2440,11 @@
     "comments": []
   },
   {
+    "file": "unittextures/emptyFullSpecular.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
     "file": "unittextures/gingerbread1.dds",
     "flag": "unused",
     "comments": []
@@ -692,6 +2452,161 @@
   {
     "file": "unittextures/gingerbread2.dds",
     "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "unittextures/greenchicken.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/license.txt",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/multichicken.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/palette_color.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/palette_normal.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/palette_other.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/pilha_crystal_blue_tex1.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/pilha_crystal_green_tex1.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/pilha_crystal_lime_tex1.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/pilha_crystal_obsidian_tex1.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/pilha_crystal_orange_tex1.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/pilha_crystal_quartz_tex1.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/pilha_crystal_red_tex1.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/pilha_crystal_teal_tex1.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/pilha_crystal_team_tex1.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/pilha_crystal_violet_tex1.tga",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/pinkchicken.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/raptorArtillery_1.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/raptorArtillery_2.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/redchicken.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/redchickenb.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/redchickenc.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/redhead4.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/tree_fir_tall_5_1.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/tree_fir_tall_5_2.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/tree_fir_tall_5_normal.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/vcrimsonchicken.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/whitechicken.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/whitechickenhc.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/yellowchicken.dds",
+    "flag": "beherith-review",
+    "comments": []
+  },
+  {
+    "file": "unittextures/yellowchickenb.dds",
+    "flag": "beherith-review",
     "comments": []
   }
 ]
