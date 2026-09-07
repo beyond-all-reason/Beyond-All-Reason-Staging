@@ -46670,13 +46670,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "bitmaps/projectiletextures/flare2.tga",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "icexuick",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:20:48Z",
-    "source": "manual-audit"
+    "file": "bitmaps/projectiletextures/flare2.tga",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ForbodingAngel",
@@ -55028,22 +55028,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "luaui/images/advplayerslist/flags/barw.png",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "TheSilverHornet",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "luaui/images/advplayerslist/flags/barw.png",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "luaui/images/advplayerslist/flags/barw2.png",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "TheSilverHornet",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "luaui/images/advplayerslist/flags/barw2.png",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "public domain",
@@ -55446,13 +55446,13 @@
     "source": "manual-audit"
   },
   {
-    "file": "luaui/images/advplayerslist/flags/en-pir.png",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "TheSilverHornet",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "luaui/images/advplayerslist/flags/en-pir.png",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "public domain",
@@ -56159,13 +56159,13 @@
     "source": "manual-audit"
   },
   {
-    "file": "luaui/images/advplayerslist/flags/moon.png",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "TheSilverHornet",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "luaui/images/advplayerslist/flags/moon.png",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "public domain",
@@ -60973,13 +60973,13 @@
     "source": "manual-audit"
   },
   {
-    "file": "luaui/images/stripes-small.png",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "SethDGamre",
-    "pr": "5915",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "luaui/images/stripes-small.png",
+    "license": "",
+    "pr": "5915",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "icexuick",
@@ -61078,85 +61078,85 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-09-07T14:01:24Z",
     "file": "luaui/sounds/button.wav",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:01:24Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-09-07T14:01:24Z",
     "file": "luaui/sounds/click.wav",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:01:24Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-09-07T14:01:24Z",
     "file": "luaui/sounds/click2.wav",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:01:24Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-09-07T14:01:24Z",
     "file": "luaui/sounds/ding.ogg",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:01:24Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-09-07T14:01:24Z",
     "file": "luaui/sounds/hover.wav",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:01:24Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-09-07T14:01:24Z",
     "file": "luaui/sounds/pushbutton.wav",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:01:24Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-09-07T14:01:24Z",
     "file": "luaui/sounds/switchoff.wav",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:01:24Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-09-07T14:01:24Z",
     "file": "luaui/sounds/switchon.wav",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:01:24Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "luaui/sounds/tock.wav",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Floris",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:01:24Z",
-    "source": "manual-audit"
+    "file": "luaui/sounds/tock.wav",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Decay",
@@ -61168,13 +61168,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "luaui/sounds/zap.wav",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Floris",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:01:24Z",
-    "source": "manual-audit"
+    "file": "luaui/sounds/zap.wav",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "BAR CLA Bot",
@@ -62192,31 +62192,31 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/LICENSE_MANIFEST.md",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "BAR CLA Bot",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/LICENSE_MANIFEST.md",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/LegionUnitCapsule.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "3837",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/LegionUnitCapsule.s3o",
+    "license": "",
+    "pr": "3837",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Lootboxes/lootbox.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:02:43Z",
-    "source": "manual-audit"
+    "file": "objects3d/Lootboxes/lootbox.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Damgam",
@@ -62795,391 +62795,356 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "LathanStanley",
-    "date": "2026-09-02T11:14:26Z",
     "file": "objects3d/Raptors/raptor_turretl_acid_v2.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T19:54:57Z",
+    "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptor_turretl_antinuke_v2.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "LathanStanley",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
-    "contributor": "LathanStanley",
-    "date": "2026-09-02T11:14:26Z",
     "file": "objects3d/Raptors/raptor_turretl_electric_v2.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T19:54:57Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
     "file": "objects3d/Raptors/raptor_turretl_purple_v2.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T19:54:57Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "LathanStanley",
-    "date": "2026-09-02T11:14:26Z",
     "file": "objects3d/Raptors/raptor_turretl_red_v2.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T19:54:57Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "LathanStanley",
-    "date": "2026-09-02T11:14:26Z",
     "file": "objects3d/Raptors/raptor_turretl_v2.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T19:54:57Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "LathanStanley",
-    "date": "2026-09-02T11:14:26Z",
     "file": "objects3d/Raptors/raptor_turrets_acid_v2.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T19:54:57Z",
+    "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptor_turrets_antinuke_v2.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "LathanStanley",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
-    "contributor": "LathanStanley",
-    "date": "2026-09-02T11:14:26Z",
     "file": "objects3d/Raptors/raptor_turrets_electric_v2.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T19:54:57Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
     "file": "objects3d/Raptors/raptor_turrets_purple_v2.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T19:54:57Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "LathanStanley",
-    "date": "2026-09-02T11:14:26Z",
     "file": "objects3d/Raptors/raptor_turrets_red_v2.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T19:54:57Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "LathanStanley",
-    "date": "2026-09-02T11:14:26Z",
     "file": "objects3d/Raptors/raptor_turrets_v2.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T19:54:57Z",
+    "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptor_turretxl_acid_v2.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "LathanStanley",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptor_turretxl_electric_v2.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "LathanStanley",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
-    "contributor": "LathanStanley",
-    "date": "2026-09-02T11:14:26Z",
     "file": "objects3d/Raptors/raptor_turretxl_meteor_v2.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T19:54:57Z",
+    "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptor_turretxl_red_v2.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "LathanStanley",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptor_turretxl_v2.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "LathanStanley",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
     "file": "objects3d/Raptors/raptor_walking_master_v2.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T19:54:57Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
     "file": "objects3d/Raptors/raptor_worm_brown.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T19:54:57Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "LathanStanley",
-    "date": "2026-09-02T11:14:26Z",
     "file": "objects3d/Raptors/raptor_worm_green.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T19:54:57Z",
+    "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptora.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "KDR_11k",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptora2.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "KDR_11k",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptora2_spectre.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "KDR_11k",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptora2b.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "KDR_11k",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptora_spectre.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "KDR_11k",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptorab.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "KDR_11k",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptorac.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "KDR_11k",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptoracidallterrain.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "KDR_11k",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptoracidallterrainassault.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "KDR_11k",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptoracidarty.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "KDR_11k",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptoracidassault.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "KDR_11k",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptoracidbomber.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "KDR_11k",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptoracidswarmer.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "KDR_11k",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptorairscout1.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "KDR_11k",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
     "file": "objects3d/Raptors/raptorairscout2.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "KDR_11k",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-09-07T19:54:57Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorairscout3.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorallterraina1.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorallterraina1b.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorallterraina1c.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorapexallterrainassault.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorapexallterrainassaultb.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/raptorartillery.dae",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Rubus",
-    "pr": "2436",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/raptorartillery.dae",
+    "license": "",
+    "pr": "2436",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/raptorbroodbomber.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/raptorbroodbomber.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "KDR_11k",
@@ -63200,22 +63165,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/raptorc3.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/raptorc3.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/raptorc3b.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/raptorc3b.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Kremenchuk",
@@ -63227,40 +63192,40 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptore1.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptore2.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorearty1.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/raptorebomber1.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/raptorebomber1.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "KDR_11k",
@@ -63281,22 +63246,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/raptoregg_l_blue.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/raptoregg_l_blue.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/raptoregg_l_darkgreen.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/raptoregg_l_darkgreen.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "KDR_11k",
@@ -63308,13 +63273,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/raptoregg_l_green.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/raptoregg_l_green.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "KDR_11k",
@@ -63380,13 +63345,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/raptoregg_m_darkgreen.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/raptoregg_m_darkgreen.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "KDR_11k",
@@ -63470,13 +63435,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/raptoregg_s_darkgreen.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/raptoregg_s_darkgreen.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "KDR_11k",
@@ -63569,13 +63534,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/raptoreggred.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/raptoreggred.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "KDR_11k",
@@ -63587,22 +63552,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/raptorelectricallterrain.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/raptorelectricallterrain.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/raptorelectricallterrainassault.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/raptorelectricallterrainassault.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "KDR_11k",
@@ -63614,49 +63579,49 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorf1.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorf1_mini.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorf1apex.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorf1apexb.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/raptorf1b.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/raptorf1b.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "KDR_11k",
@@ -63668,58 +63633,58 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorhealer1.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorhealer2.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorhealer3.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorhealer4.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorp2.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/raptorpyroallterrain.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/raptorpyroallterrain.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "KDR_11k",
@@ -63749,49 +63714,49 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptors.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptors2.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptors2_spectre.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "KDR_11k",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/Raptors/raptorw1_mini.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "KDR_11k",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/s_raptor_white.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/s_raptor_white.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "KDR_11k",
@@ -63803,22 +63768,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/s_raptorboss2_white.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/s_raptorboss2_white.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/s_raptorboss_white.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/s_raptorboss_white.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "KDR_11k",
@@ -63839,22 +63804,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/sgreyrock1.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/sgreyrock1.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Raptors/spike.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/Raptors/spike.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "KDR_11k",
@@ -67190,22 +67155,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/armshltxbig.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "5546",
     "date": "2026-09-07T14:56:19Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/armshltxbig.s3o",
+    "license": "",
+    "pr": "5546",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/armshltxbig_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "5546",
     "date": "2026-09-07T14:56:19Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/armshltxbig_dead.s3o",
+    "license": "",
+    "pr": "5546",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Hornet",
@@ -69985,22 +69950,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/corintr.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/corintr.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/corintr_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/corintr_dead.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Mr Bob",
@@ -72153,13 +72118,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legaap.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "4074",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legaap.s3o",
+    "license": "",
+    "pr": "4074",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Cremuss",
@@ -72504,31 +72469,31 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Tharsis",
+    "date": "2026-09-07T14:12:35Z",
     "file": "objects3d/Units/legajamk.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Tharsis",
     "pr": "5382",
-    "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Tharsis",
+    "date": "2026-09-07T14:12:35Z",
     "file": "objects3d/Units/legajamk_dead.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Tharsis",
     "pr": "5382",
-    "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legalab.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "4074",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legalab.s3o",
+    "license": "",
+    "pr": "4074",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Cremuss",
@@ -72630,40 +72595,40 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Tharsis",
+    "date": "2026-09-07T14:12:35Z",
     "file": "objects3d/Units/leganavalaaturret.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Tharsis",
     "pr": "6423",
-    "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Tharsis",
+    "date": "2026-09-07T14:12:35Z",
     "file": "objects3d/Units/leganavalaaturret_dead.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Tharsis",
     "pr": "6423",
-    "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Tharsis",
+    "date": "2026-09-07T14:12:35Z",
     "file": "objects3d/Units/leganavaladvgeo.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Tharsis",
     "pr": "6423",
-    "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/leganavaladvgeo_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "6423",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/leganavaladvgeo_dead.s3o",
+    "license": "",
+    "pr": "6423",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -72684,22 +72649,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/leganavaleconv.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "6423",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/leganavaleconv.s3o",
+    "license": "",
+    "pr": "6423",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/leganavaleconv_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "6423",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/leganavaleconv_dead.s3o",
+    "license": "",
+    "pr": "6423",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Protar",
@@ -72738,22 +72703,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/leganavalpinpointer.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "6423",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/leganavalpinpointer.s3o",
+    "license": "",
+    "pr": "6423",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/leganavalpinpointer_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "6423",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/leganavalpinpointer_dead.s3o",
+    "license": "",
+    "pr": "6423",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73024,22 +72989,22 @@
     "source": "manual-audit"
   },
   {
-    "file": "objects3d/Units/legap.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legap.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legap_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "4074",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legap_dead.s3o",
+    "license": "",
+    "pr": "4074",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73078,22 +73043,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legaradk.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "5382",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legaradk.s3o",
+    "license": "",
+    "pr": "5382",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legaradk_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "5382",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legaradk_dead.s3o",
+    "license": "",
+    "pr": "5382",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -73663,40 +73628,40 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Protar",
+    "date": "2026-09-07T14:12:35Z",
     "file": "objects3d/Units/legeheatraymech.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Protar",
     "pr": "4339",
-    "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Protar",
+    "date": "2026-09-07T14:12:35Z",
     "file": "objects3d/Units/legeheatraymech_dead.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Protar",
     "pr": "4339",
-    "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Protar",
+    "date": "2026-09-07T14:12:35Z",
     "file": "objects3d/Units/legeheatraymech_old.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Protar",
     "pr": "5739",
-    "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legeheatraymech_old_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "5739",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legeheatraymech_old_dead.s3o",
+    "license": "",
+    "pr": "5739",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Gabs",
@@ -73834,22 +73799,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legfeconv.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "5047",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legfeconv.s3o",
+    "license": "",
+    "pr": "5047",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legfeconv_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "5047",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legfeconv_dead.s3o",
+    "license": "",
+    "pr": "5047",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Zephyr",
@@ -73870,22 +73835,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legfhp.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "5072",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legfhp.s3o",
+    "license": "",
+    "pr": "5072",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legfhp_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "5072",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legfhp_dead.s3o",
+    "license": "",
+    "pr": "5072",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -74149,22 +74114,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/leghastatus.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "TheSilverHornet",
-    "pr": "3178",
     "date": "2026-09-07T14:00:04Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/leghastatus.s3o",
+    "license": "",
+    "pr": "3178",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/leghastatusalt.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "TheSilverHornet",
-    "pr": "3178",
     "date": "2026-09-07T14:00:04Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/leghastatusalt.s3o",
+    "license": "",
+    "pr": "3178",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Protar",
@@ -74275,22 +74240,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/leginc.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/leginc.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/leginc_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/leginc_dead.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -74311,22 +74276,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/leginfestor.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Zath",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/leginfestor.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/leginfestor_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Zath",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/leginfestor_dead.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Hornet",
@@ -74752,22 +74717,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legmohocon.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "4710",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legmohocon.s3o",
+    "license": "",
+    "pr": "4710",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legmohocon_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "4710",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legmohocon_dead.s3o",
+    "license": "",
+    "pr": "4710",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Tharsis",
@@ -75022,22 +74987,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legnavysub.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "6123",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legnavysub.s3o",
+    "license": "",
+    "pr": "6123",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legnavysub_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "6123",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legnavysub_dead.s3o",
+    "license": "",
+    "pr": "6123",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "EnderRobo",
@@ -75112,22 +75077,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legphoenix.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legphoenix.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legphoenix_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legphoenix_dead.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -75517,22 +75482,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legtarg.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "4393",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legtarg.s3o",
+    "license": "",
+    "pr": "4393",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legtarg_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "4393",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legtarg_dead.s3o",
+    "license": "",
+    "pr": "4393",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Mr Bob",
@@ -75571,58 +75536,58 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Protar",
+    "date": "2026-09-07T14:12:35Z",
     "file": "objects3d/Units/leguwestore.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Protar",
     "pr": "5047",
-    "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Protar",
+    "date": "2026-09-07T14:12:35Z",
     "file": "objects3d/Units/leguwestore_dead.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Protar",
     "pr": "5047",
-    "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Tharsis",
+    "date": "2026-09-07T14:12:35Z",
     "file": "objects3d/Units/leguwgeo.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Tharsis",
     "pr": "5047",
-    "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Tharsis",
+    "date": "2026-09-07T14:12:35Z",
     "file": "objects3d/Units/leguwgeo_dead.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Tharsis",
     "pr": "5047",
-    "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Protar",
+    "date": "2026-09-07T14:12:35Z",
     "file": "objects3d/Units/leguwmstore.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Protar",
     "pr": "5047",
-    "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/leguwmstore_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "5047",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/leguwmstore_dead.s3o",
+    "license": "",
+    "pr": "5047",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -75688,22 +75653,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legvp.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "4133",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legvp.s3o",
+    "license": "",
+    "pr": "4133",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legvp_dead.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "4133",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legvp_dead.s3o",
+    "license": "",
+    "pr": "4133",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -75751,283 +75716,283 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/armcagelight.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "3",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/armcillinder.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/armdish.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/beacon1.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/corcagelight.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/arm_hexl_lg.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/armhexl_db.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/armhexl_dg.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/armhexl_dr.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/armhexl_dw.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/armhexl_dy.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/armhexl_lb.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/armhexl_lr.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/armhexl_lw.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/armhexl_ly.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/corhexl_db.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/corhexl_dg.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/corhexl_dr.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/corhexl_dw.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/corhexl_dy.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/corhexl_lb.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/corhexl_lg.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/corhexl_lr.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/corhexl_lw.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/hexlights/corhexl_ly.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/octlights/armoctl_db.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/octlights/armoctl_dg.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/octlights/armoctl_dr.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/octlights/armoctl_dw.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/octlights/armoctl_dy.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/octlights/armoctl_lb.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/octlights/armoctl_lg.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/octlights/armoctl_lr.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/octlights/armoctl_lw.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/Units/parts/octlights/armoctl_ly.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
@@ -76856,22 +76821,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/akbomb.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "FireStorm",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/akbomb.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/armpw_anim_projectile.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "FireStorm",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/armpw_anim_projectile.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "NebuchadnezzarII",
@@ -77103,13 +77068,13 @@
     "source": "manual-audit"
   },
   {
-    "file": "objects3d/cormine1.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tristan",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/cormine1.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Beherith",
@@ -77216,13 +77181,13 @@
     "source": "manual-audit"
   },
   {
-    "file": "objects3d/crblmssl.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/crblmssl.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Floris",
@@ -77233,13 +77198,13 @@
     "source": "manual-audit"
   },
   {
-    "file": "objects3d/empty.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "TheSilverHornet",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:09:54Z",
-    "source": "manual-audit"
+    "file": "objects3d/empty.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Beherith",
@@ -77250,22 +77215,22 @@
     "source": "manual-audit"
   },
   {
-    "file": "objects3d/epulse_mini.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/epulse_mini.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/fmdmissile.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "FireStorm",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/fmdmissile.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Christiaan van Hoegee",
@@ -77329,112 +77294,112 @@
     "source": "manual-audit"
   },
   {
-    "file": "objects3d/legbasictorpedo.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Johanthan Crimson",
+    "date": "2026-09-07T14:12:35Z",
+    "file": "objects3d/legbasictorpedo.s3o",
+    "license": "",
     "pr": "4909",
-    "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/legbomb.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "3049",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/legbomb.s3o",
+    "license": "",
+    "pr": "3049",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/legfattorpedo.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "6423",
     "date": "2026-09-07T14:12:35Z",
-    "source": "manual-audit"
-  },
-  {
-    "file": "objects3d/leghomingmissile.s3o",
-    "status": "awaiting_license",
+    "file": "objects3d/legfattorpedo.s3o",
     "license": "",
-    "contributor": "Tharsis",
-    "pr": "3049",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
-  },
-  {
-    "file": "objects3d/legicbm.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "Tharsy",
-    "pr": "3049",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
-  },
-  {
-    "file": "objects3d/legkambomb.s3o",
-    "status": "awaiting_license",
-    "license": "",
-    "contributor": "ZephyrSkies",
     "pr": "6423",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Tharsis",
+    "date": "2026-09-07T13:49:28Z",
+    "file": "objects3d/leghomingmissile.s3o",
+    "license": "",
+    "pr": "3049",
+    "source": "manual-audit",
+    "status": "awaiting_license"
+  },
+  {
+    "contributor": "Tharsy",
+    "date": "2026-09-07T13:49:28Z",
+    "file": "objects3d/legicbm.s3o",
+    "license": "",
+    "pr": "3049",
+    "source": "manual-audit",
+    "status": "awaiting_license"
+  },
+  {
+    "contributor": "ZephyrSkies",
+    "date": "2026-09-07T13:49:28Z",
+    "file": "objects3d/legkambomb.s3o",
+    "license": "",
+    "pr": "6423",
+    "source": "manual-audit",
+    "status": "awaiting_license"
+  },
+  {
+    "contributor": "Tharsis",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/leglargerocket.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Tharsis",
     "pr": "3049",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Tharsis",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/leglmineproj.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Tharsis",
     "pr": "4262",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "ZephyrSkies",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/legmediumrocket.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "ZephyrSkies",
     "pr": "3049",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "ZephyrSkies",
+    "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/legmediumtorpedo.s3o",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "ZephyrSkies",
     "pr": "4117",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/legnade.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "2836",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/legnade.s3o",
+    "license": "",
+    "pr": "2836",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/legsmallrocket.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "3049",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/legsmallrocket.s3o",
+    "license": "",
+    "pr": "3049",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Tharsy",
@@ -77446,31 +77411,31 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/legtorpedo.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
+    "date": "2026-09-07T13:49:28Z",
+    "file": "objects3d/legtorpedo.s3o",
+    "license": "",
     "pr": "3281",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/legtorpedomini.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "6123",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/legtorpedomini.s3o",
+    "license": "",
+    "pr": "6123",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "objects3d/meteor.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Bluestone",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:08:41Z",
-    "source": "manual-audit"
+    "file": "objects3d/meteor.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "icexuick",
@@ -78972,43 +78937,43 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/scavs/cube_ptaq_backup.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/scavs/scavbeacon.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/scavs/scavbeaconbyar.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/scavs/scavbeacondroppodbyar.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-09-07T14:05:21Z",
     "file": "objects3d/scavs/scavcrate.s3o",
     "license": "CC-BY-SA-4.0",
-    "contributor": "icexuick",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:05:21Z",
     "source": "manual-audit"
   },
   {
@@ -79075,13 +79040,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/torpedo.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "FireStorm",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "objects3d/torpedo.s3o",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Floris",
@@ -79222,11 +79187,11 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "BAR CLA Bot",
+    "date": "2026-09-07T14:01:41Z",
     "file": "singleplayer/scenarios/LICENSE_MANIFEST.md",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "BAR CLA Bot",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:01:41Z",
     "source": "manual-audit"
   },
   {
@@ -92195,13 +92160,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/armdf (1).dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "unitpics/armdf (1).dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Cremuss",
@@ -92775,13 +92740,13 @@
     "source": "manual-audit"
   },
   {
-    "file": "unitpics/armmakr.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "unitpics/armmakr.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "FireStorm",
@@ -93251,13 +93216,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/armshltx2.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "unitpics/armshltx2.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Cremuss",
@@ -93476,13 +93441,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/armuwadves_old.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "unitpics/armuwadves_old.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Cremuss",
@@ -93494,13 +93459,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/armuwadvms_old.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "unitpics/armuwadvms_old.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Cremuss",
@@ -93619,13 +93584,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/armwar_old.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Kaiser",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:51:22Z",
-    "source": "manual-audit"
+    "file": "unitpics/armwar_old.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Cremuss",
@@ -93921,13 +93886,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/corawac_old.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:51:22Z",
-    "source": "manual-audit"
+    "file": "unitpics/corawac_old.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Mr Bob",
@@ -94662,13 +94627,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/corintr.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:51:22Z",
-    "source": "manual-audit"
+    "file": "unitpics/corintr.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Mr Bob",
@@ -95068,11 +95033,11 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:52:01Z",
     "file": "unitpics/corpship.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:52:01Z",
     "source": "manual-audit"
   },
   {
@@ -95508,11 +95473,11 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:52:24Z",
     "file": "unitpics/corthovr.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:52:24Z",
     "source": "manual-audit"
   },
   {
@@ -95588,11 +95553,11 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:54:12Z",
     "file": "unitpics/cortship.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:54:12Z",
     "source": "manual-audit"
   },
   {
@@ -96033,13 +95998,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legamsub.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "TheSilverHornet",
-    "pr": "3085",
     "date": "2026-09-07T14:00:04Z",
-    "source": "manual-audit"
+    "file": "unitpics/legamsub.dds",
+    "license": "",
+    "pr": "3085",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Tharsis",
@@ -96491,13 +96456,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legcomdef.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "FireStorm",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:54:12Z",
-    "source": "manual-audit"
+    "file": "unitpics/legcomdef.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "FireStorm",
@@ -96869,22 +96834,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/leghastatus.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "TheSilverHornet",
-    "pr": "3185",
     "date": "2026-09-07T14:00:04Z",
-    "source": "manual-audit"
+    "file": "unitpics/leghastatus.dds",
+    "license": "",
+    "pr": "3185",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/leghastatusalt.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "TheSilverHornet",
-    "pr": "3185",
     "date": "2026-09-07T14:00:04Z",
-    "source": "manual-audit"
+    "file": "unitpics/leghastatusalt.dds",
+    "license": "",
+    "pr": "3185",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Protar",
@@ -97355,13 +97320,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legoptio.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "TheSilverHornet",
-    "pr": "3185",
     "date": "2026-09-07T14:00:04Z",
-    "source": "manual-audit"
+    "file": "unitpics/legoptio.dds",
+    "license": "",
+    "pr": "3185",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -97400,13 +97365,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legportent.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "TheSilverHornet",
-    "pr": "3185",
     "date": "2026-09-07T14:00:04Z",
-    "source": "manual-audit"
+    "file": "unitpics/legportent.dds",
+    "license": "",
+    "pr": "3185",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -97679,31 +97644,31 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "TheSilverHornet",
+    "date": "2026-09-07T14:00:04Z",
     "file": "unitpics/legtriarius.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "TheSilverHornet",
     "pr": "3185",
-    "date": "2026-09-07T14:00:04Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "TheSilverHornet",
+    "date": "2026-09-07T14:00:04Z",
     "file": "unitpics/legtriariusdrone.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "TheSilverHornet",
     "pr": "3185",
-    "date": "2026-09-07T14:00:04Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/legtriariusheatray.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "TheSilverHornet",
-    "pr": "3185",
     "date": "2026-09-07T14:00:04Z",
-    "source": "manual-audit"
+    "file": "unitpics/legtriariusheatray.dds",
+    "license": "",
+    "pr": "3185",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Protar",
@@ -97827,22 +97792,22 @@
     "source": "manual-audit"
   },
   {
-    "file": "unitpics/mission_command_tower.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:54:12Z",
-    "source": "manual-audit"
+    "file": "unitpics/mission_command_tower.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/other/boombox.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Damgam",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:00:04Z",
-    "source": "manual-audit"
+    "file": "unitpics/other/boombox.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Floris",
@@ -98998,13 +98963,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/armasp.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Beherith",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/armasp.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "PtaQ",
@@ -99832,13 +99797,13 @@
     "source": "manual-audit"
   },
   {
-    "file": "unitpics/scavengers/armmakr.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/armmakr.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "FireStorm",
@@ -100309,13 +100274,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/armshltx2.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/armshltx2.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Cremuss",
@@ -100525,13 +100490,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/armuwadves_old.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/armuwadves_old.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Cremuss",
@@ -100543,13 +100508,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/armuwadvms_old.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/armuwadvms_old.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "FireStorm",
@@ -101408,13 +101373,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/corfrock.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:13:21Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/corfrock.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Mr Bob",
@@ -101612,13 +101577,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/scavengers/corintr.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "manual-audit",
     "date": "2026-09-07T13:51:22Z",
-    "source": "manual-audit"
+    "file": "unitpics/scavengers/corintr.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Mr Bob",
@@ -101983,11 +101948,11 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:52:01Z",
     "file": "unitpics/scavengers/corpship.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:52:01Z",
     "source": "manual-audit"
   },
   {
@@ -102370,11 +102335,11 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:52:24Z",
     "file": "unitpics/scavengers/corthovr.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:52:24Z",
     "source": "manual-audit"
   },
   {
@@ -102450,11 +102415,11 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:54:12Z",
     "file": "unitpics/scavengers/cortship.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:54:12Z",
     "source": "manual-audit"
   },
   {
@@ -104747,13 +104712,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/LICENSE_MANIFEST.md",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "BAR CLA Bot",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:49:11Z",
-    "source": "manual-audit"
+    "file": "unittextures/LICENSE_MANIFEST.md",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "knorker",
@@ -104782,22 +104747,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/chicken_l_normals.png",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T15:06:39Z",
-    "source": "manual-audit"
+    "file": "unittextures/chicken_l_normals.png",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unittextures/chicken_m_normals.png",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T15:06:39Z",
-    "source": "manual-audit"
+    "file": "unittextures/chicken_m_normals.png",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Beherith",
@@ -104809,13 +104774,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/chicken_s_normals.png",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T15:06:39Z",
-    "source": "manual-audit"
+    "file": "unittextures/chicken_s_normals.png",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Beherith",
@@ -104827,13 +104792,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/cor_normal.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "manual-audit",
     "date": "2026-09-07T15:06:39Z",
-    "source": "manual-audit"
+    "file": "unittextures/cor_normal.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "icexuick",
@@ -106637,13 +106602,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/arm2X2C_3_3_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Kaiser",
-    "pr": "manual-audit",
     "date": "2026-09-07T15:01:06Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/arm2X2C_3_3_aoplane.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Kaiser",
@@ -106799,13 +106764,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/arm6X6A_8_8_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "manual-audit",
     "date": "2026-09-07T15:01:21Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/arm6X6A_8_8_aoplane.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Cremuss",
@@ -106853,13 +106818,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/armaap_dead_11_11_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "5030",
     "date": "2026-09-07T15:01:21Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/armaap_dead_11_11_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "FireStorm",
@@ -107483,13 +107448,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/armfboy_dead_7_7_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Kaiser",
-    "pr": "5030",
     "date": "2026-09-07T15:01:45Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/armfboy_dead_7_7_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "FireStorm",
@@ -107555,13 +107520,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/armfify_dead_4_4_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Darknagura",
-    "pr": "5030",
     "date": "2026-09-07T15:01:45Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/armfify_dead_4_4_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "FireStorm",
@@ -107654,13 +107619,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/armgatet3_dead_8_8_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Beherith",
-    "pr": "5030",
     "date": "2026-09-07T15:01:45Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/armgatet3_dead_8_8_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Cremuss",
@@ -107762,13 +107727,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/armjeth_dead_5_5_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Kaiser",
-    "pr": "5030",
     "date": "2026-09-07T15:02:25Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/armjeth_dead_5_5_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Beherith",
@@ -107843,13 +107808,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/armlship_dead_8_8_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "mightyodin01",
-    "pr": "5030",
     "date": "2026-09-07T14:52:40Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/armlship_dead_8_8_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Flaka",
@@ -108509,13 +108474,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/armtrident_dead_7_7_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Odin",
-    "pr": "5030",
     "date": "2026-09-07T15:02:25Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/armtrident_dead_7_7_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Cremuss",
@@ -108896,13 +108861,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/cor7X7B_9_9_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "manual-audit",
     "date": "2026-09-07T15:02:25Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/cor7X7B_9_9_aoplane.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Beherith",
@@ -108923,13 +108888,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/coraca_dead_5_5_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "5030",
     "date": "2026-09-07T15:02:25Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/coraca_dead_5_5_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Mr Bob",
@@ -109202,13 +109167,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/corca_dead_5_5_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "5030",
     "date": "2026-09-07T15:02:25Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/corca_dead_5_5_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "FireStorm",
@@ -109301,13 +109266,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/corcrwh_dead_9_9_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "5030",
     "date": "2026-09-07T15:02:25Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/corcrwh_dead_9_9_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Mr Bob",
@@ -109454,13 +109419,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/coresuppt3_dead_20_20_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "5030",
     "date": "2026-09-07T15:02:25Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/coresuppt3_dead_20_20_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Beherith",
@@ -109625,13 +109590,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/corfrock_dead_6_6_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:13:27Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/corfrock_dead_6_6_aoplane.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Mr Bob",
@@ -109670,13 +109635,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/corgant_dead_15_15_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "5030",
     "date": "2026-09-07T15:02:56Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/corgant_dead_15_15_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Flaka",
@@ -109697,13 +109662,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/corgatet3_dead_7_7_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "5030",
     "date": "2026-09-07T15:02:56Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/corgatet3_dead_7_7_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Mr Bob",
@@ -109742,13 +109707,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/corgolt4_dead_7_7_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "5030",
     "date": "2026-09-07T15:02:56Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/corgolt4_dead_7_7_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Beherith",
@@ -110165,13 +110130,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/corprinter_dead_5_5_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "MASHUP",
-    "pr": "5030",
     "date": "2026-09-07T14:52:40Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/corprinter_dead_5_5_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Mr Bob",
@@ -110192,13 +110157,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/corpyro_dead_5_5_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Beherith",
-    "pr": "5030",
     "date": "2026-09-07T15:02:56Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/corpyro_dead_5_5_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Mr Bob",
@@ -110210,13 +110175,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/corraid_dead_4_4_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "5030",
     "date": "2026-09-07T15:02:56Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/corraid_dead_4_4_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Mr Bob",
@@ -110300,13 +110265,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/corseal_dead_4_4_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Itanthias",
-    "pr": "manual-audit",
     "date": "2026-09-07T15:03:10Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/corseal_dead_4_4_aoplane.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Beherith",
@@ -110318,22 +110283,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/corsent_dead_5_5_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "5030",
     "date": "2026-09-07T15:03:10Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/corsent_dead_5_5_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/corsentinel_dead_8_8_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Odin",
-    "pr": "5030",
     "date": "2026-09-07T15:03:10Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/corsentinel_dead_8_8_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Beherith",
@@ -110543,13 +110508,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/corthermite_dead_8_8_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Beherith",
-    "pr": "5030",
     "date": "2026-09-07T15:03:18Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/corthermite_dead_8_8_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "jjackVII",
@@ -110597,13 +110562,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/cortorch_dead_5_5_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Flaka",
-    "pr": "5030",
     "date": "2026-09-07T15:03:24Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/cortorch_dead_5_5_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Mr Bob",
@@ -110777,22 +110742,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/corwolv_dead_4_4_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Mr Bob",
-    "pr": "manual-audit",
     "date": "2026-09-07T15:03:33Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/corwolv_dead_4_4_aoplane.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/legaap_dead_13_13_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Cremuss",
-    "pr": "5030",
     "date": "2026-09-07T15:03:33Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/legaap_dead_13_13_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Tharsis",
@@ -110948,13 +110913,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/legamph_dead_7_7_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Johanthan Crimson",
-    "pr": "5030",
     "date": "2026-09-07T15:04:01Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/legamph_dead_7_7_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -110975,13 +110940,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/legap_dead_8_8_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "5030",
     "date": "2026-09-07T15:04:01Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/legap_dead_8_8_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -111056,13 +111021,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/legbart_dead_6_6_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "5030",
     "date": "2026-09-07T15:04:01Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/legbart_dead_6_6_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Gabs",
@@ -111083,13 +111048,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/legbunk_dead_8_8_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Johanthan Crimson",
-    "pr": "5030",
     "date": "2026-09-07T15:04:01Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/legbunk_dead_8_8_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "EnderRobo",
@@ -111200,22 +111165,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/legeheatraymech_dead_12_12_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "5030",
     "date": "2026-09-07T15:04:01Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/legeheatraymech_dead_12_12_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/legelrpcmech_dead_12_12_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "5030",
     "date": "2026-09-07T15:04:01Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/legelrpcmech_dead_12_12_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -111227,13 +111192,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/legeshotgunmech_dead_9_9_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Ghoulish",
-    "pr": "5030",
     "date": "2026-09-07T15:04:01Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/legeshotgunmech_dead_9_9_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Protar",
@@ -111389,31 +111354,31 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/leginc_dead_6_6_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "5030",
     "date": "2026-09-07T15:06:39Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/leginc_dead_6_6_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/leginf_dead_7_7_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "5030",
     "date": "2026-09-07T15:05:24Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/leginf_dead_7_7_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/leginfestor_dead_5_5_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Zath",
-    "pr": "5030",
     "date": "2026-09-07T15:06:39Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/leginfestor_dead_5_5_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -111515,13 +111480,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/legmed_dead_7_7_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "5030",
     "date": "2026-09-07T15:05:24Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/legmed_dead_7_7_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Protar",
@@ -111587,13 +111552,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/legmohocon_dead_6_6_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Tharsis",
-    "pr": "5030",
     "date": "2026-09-07T15:06:39Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/legmohocon_dead_6_6_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -111641,22 +111606,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/legperdition_dead_7_7_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Hornet",
-    "pr": "5030",
     "date": "2026-09-07T15:06:39Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/legperdition_dead_7_7_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/legphoenix_dead_10_10_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "5030",
     "date": "2026-09-07T15:06:39Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/legphoenix_dead_10_10_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -111722,13 +111687,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/legshot_dead_4_4_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "5030",
     "date": "2026-09-07T15:05:24Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/legshot_dead_4_4_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Tharsy",
@@ -111794,13 +111759,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/legtarg_dead_7_7_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "5030",
     "date": "2026-09-07T15:06:39Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/legtarg_dead_7_7_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ZephyrSkies",
@@ -111812,13 +111777,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/legvcarry_dead_7_7_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "5030",
     "date": "2026-09-07T15:05:24Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/legvcarry_dead_7_7_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Tharsis",
@@ -111830,13 +111795,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/legvp_dead_8_8_aoplane.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Protar",
-    "pr": "5030",
     "date": "2026-09-07T15:06:39Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/legvp_dead_8_8_aoplane.dds",
+    "license": "",
+    "pr": "5030",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Yzch",
@@ -111857,328 +111822,328 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_1_3_3_aoplane.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_1_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_2_5_5_aoplane.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_2_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_3_7_7_aoplane.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_3_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_blue_1_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_blue_2_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_blue_3_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_green_1_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_green_2_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_green_3_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_lime_1_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_lime_2_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_lime_3_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_obsidian_1_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_obsidian_2_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_obsidian_3_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_orange_1_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_orange_2_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_orange_3_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_quartz_1_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_quartz_2_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_quartz_3_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_red_1_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_red_2_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_red_3_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_teal_1_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_teal_2_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_teal_3_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_team_1_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_team_2_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_team_3_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_violet_1_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_violet_2_aoplane.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unittextures/decals_features/pilha_crystal_violet_3_aoplane.tga",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Beherith",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:49:32Z",
-    "source": "manual-audit"
+    "file": "unittextures/decals_features/pilha_crystal_violet_3_aoplane.tga",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Beherith",
@@ -112492,22 +112457,22 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unittextures/leegmech_normal.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "Kremenchuk",
-    "pr": "manual-audit",
     "date": "2026-09-07T14:52:40Z",
-    "source": "manual-audit"
+    "file": "unittextures/leegmech_normal.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unittextures/leg_normal.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "ZephyrSkies",
-    "pr": "manual-audit",
     "date": "2026-09-07T15:06:39Z",
-    "source": "manual-audit"
+    "file": "unittextures/leg_normal.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "icexuick",
@@ -112534,130 +112499,130 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:49:28Z",
     "file": "unittextures/rocks1a_normal.tga",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:49:28Z",
     "file": "unittextures/rocks30_def_color.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:49:28Z",
     "file": "unittextures/rocks30_def_normal.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:49:28Z",
     "file": "unittextures/rocks30_def_other.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:49:28Z",
     "file": "unittextures/rocks30_desert_color.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:49:28Z",
     "file": "unittextures/rocks30_desert_normal.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:49:28Z",
     "file": "unittextures/rocks30_desert_other.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:49:28Z",
     "file": "unittextures/rocks30_moss_color.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:49:28Z",
     "file": "unittextures/rocks30_moss_normal.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:49:28Z",
     "file": "unittextures/rocks30_moss_other.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:49:28Z",
     "file": "unittextures/rocks30_snow_color.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:49:28Z",
     "file": "unittextures/rocks30_snow_normal.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "Beherith",
+    "date": "2026-09-07T13:49:28Z",
     "file": "unittextures/rocks30_snow_other.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "Beherith",
     "pr": "manual-audit",
-    "date": "2026-09-07T13:49:28Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unittextures/sgreyrock1.tga",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "KDR_11k",
-    "pr": "manual-audit",
     "date": "2026-09-07T15:06:39Z",
-    "source": "manual-audit"
+    "file": "unittextures/sgreyrock1.tga",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Floris",

@@ -89,41 +89,41 @@ Total assets recorded: **1963**
 | `Raptors/raptor_pidgeonb.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `Raptors/raptor_pidgeonc.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `Raptors/raptor_pidgeond.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
-| `Raptors/raptor_turretl_acid_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
-| `Raptors/raptor_turretl_antinuke_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-07 |
-| `Raptors/raptor_turretl_electric_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
-| `Raptors/raptor_turretl_purple_v2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/raptor_turretl_red_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
-| `Raptors/raptor_turretl_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
-| `Raptors/raptor_turrets_acid_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
-| `Raptors/raptor_turrets_antinuke_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-07 |
-| `Raptors/raptor_turrets_electric_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
-| `Raptors/raptor_turrets_purple_v2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/raptor_turrets_red_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
-| `Raptors/raptor_turrets_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
-| `Raptors/raptor_turretxl_acid_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-07 |
-| `Raptors/raptor_turretxl_electric_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-07 |
-| `Raptors/raptor_turretxl_meteor_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
-| `Raptors/raptor_turretxl_red_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-07 |
-| `Raptors/raptor_turretxl_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-07 |
-| `Raptors/raptor_walking_master_v2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/raptor_worm_brown.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/raptor_worm_green.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
-| `Raptors/raptora.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `Raptors/raptora2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `Raptors/raptora2_spectre.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `Raptors/raptora2b.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `Raptors/raptora_spectre.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `Raptors/raptorab.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `Raptors/raptorac.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `Raptors/raptoracidallterrain.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `Raptors/raptoracidallterrainassault.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `Raptors/raptoracidarty.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `Raptors/raptoracidassault.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `Raptors/raptoracidbomber.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `Raptors/raptoracidswarmer.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `Raptors/raptorairscout1.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `Raptors/raptorairscout2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turretl_acid_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turretl_antinuke_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turretl_electric_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turretl_purple_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turretl_red_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turretl_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turrets_acid_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turrets_antinuke_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turrets_electric_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turrets_purple_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turrets_red_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turrets_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turretxl_acid_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turretxl_electric_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turretxl_meteor_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turretxl_red_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_turretxl_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_walking_master_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_worm_brown.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_worm_green.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptora.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptora2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptora2_spectre.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptora2b.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptora_spectre.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptorab.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptorac.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptoracidallterrain.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptoracidallterrainassault.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptoracidarty.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptoracidassault.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptoracidbomber.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptoracidswarmer.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptorairscout1.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptorairscout2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `Raptors/raptorairscout3.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `Raptors/raptorallterraina1.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `Raptors/raptorallterraina1b.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
