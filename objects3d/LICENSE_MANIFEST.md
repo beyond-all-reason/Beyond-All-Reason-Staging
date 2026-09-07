@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1966**
+Total assets recorded: **1978**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -755,6 +755,7 @@ Total assets recorded: **1966**
 | `Units/corawac_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corban.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corban_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corbana.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `Units/corbats.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corbats_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corbhmth.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -779,6 +780,7 @@ Total assets recorded: **1966**
 | `Units/corck_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corcom.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corcom_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corcom_vanilla.s3o` | _awaiting license_ | MrBob | manual-audit | 2026-09-07 |
 | `Units/corcomhilvl.s3o` | _awaiting license_ | Mr Bob | #2820 | 2026-09-01 |
 | `Units/corcrash.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corcrash_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
@@ -867,6 +869,8 @@ Total assets recorded: **1966**
 | `Units/corfus_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corgant.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corgant_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corgantbig.s3o` | _awaiting license_ | MrBob | #5546 | 2026-09-07 |
+| `Units/corgantbig_dead.s3o` | _awaiting license_ | MrBob | #5546 | 2026-09-07 |
 | `Units/corgarp.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/corgarp_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/corgate.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -879,6 +883,8 @@ Total assets recorded: **1966**
 | `Units/corgeo_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/corgol.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corgol_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/corgplat.s3o` | _awaiting license_ | MrBob | manual-audit | 2026-09-07 |
+| `Units/corgplat_dead.s3o` | _awaiting license_ | MrBob | manual-audit | 2026-09-07 |
 | `Units/corhaap.s3o` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
 | `Units/corhaap_dead.s3o` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
 | `Units/corhal.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
@@ -953,6 +959,7 @@ Total assets recorded: **1966**
 | `Units/cormlv_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cormmkr.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cormmkr_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `Units/cormmkr_old_dead.s3o` | _awaiting license_ | MrBob | manual-audit | 2026-09-07 |
 | `Units/cormmkrt3.s3o` | _awaiting license_ | Mr Bob | #4524 | 2026-09-01 |
 | `Units/cormmkrt3_dead.s3o` | _awaiting license_ | Mr Bob | #4524 | 2026-09-01 |
 | `Units/cormoho.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -1120,6 +1127,7 @@ Total assets recorded: **1966**
 | `Units/corveng_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corvipe.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
 | `Units/corvipe_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
+| `Units/corvipev2.s3o` | `LicenseRef-BAR-CLA-1.0` | Kyle Shepherd | manual-audit | 2026-09-07 |
 | `Units/corvoyr.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/corvoyr_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/corvp.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-06-16 |
@@ -1146,6 +1154,7 @@ Total assets recorded: **1966**
 | `Units/event/aprilfools/cordemon.s3o` | _awaiting license_ | FireStorm | #5997 | 2026-09-01 |
 | `Units/event/aprilfools/corhllt.s3o` | _awaiting license_ | Mr Bob | #5997 | 2026-09-01 |
 | `Units/event/aprilfools/corllt.s3o` | _awaiting license_ | Mr Bob | #5997 | 2026-09-01 |
+| `Units/event/aprilfools/correap.s3o.needsupdate` | _awaiting license_ | Damgam | #5997 | 2026-09-07 |
 | `Units/event/aprilfools/corstorm.s3o` | _awaiting license_ | Mr Bob | #5997 | 2026-09-01 |
 | `Units/event/aprilfools/corwin.s3o` | _awaiting license_ | Mr Bob | #5997 | 2026-09-01 |
 | `Units/event/halloween/armcom.s3o` | _awaiting license_ | FireStorm | #6006 | 2026-09-01 |
@@ -1644,6 +1653,9 @@ Total assets recorded: **1966**
 | `Units/scavboss/corgolt4_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/scavboss/corkarganetht4.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/scavboss/corkarganetht4_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/scavboss/corkorgmini.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
+| `Units/scavboss/corlevlrt4.s3o` | _awaiting license_ | MrBob | manual-audit | 2026-09-07 |
+| `Units/scavboss/corlevlrt4_dead.s3o` | _awaiting license_ | MrBob | manual-audit | 2026-09-07 |
 | `Units/scavboss/corslrpc.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/scavboss/corslrpc_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/scavboss/corthermite.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #2239 | 2026-09-01 |

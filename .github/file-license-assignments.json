@@ -68568,6 +68568,14 @@
     "status": "awaiting_license"
   },
   {
+    "file": "objects3d/Units/corbana.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:10:22Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-05-28T12:16:25Z",
     "file": "objects3d/Units/corbats.s3o",
@@ -68774,6 +68782,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/corcom_vanilla.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "MrBob",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:10:22Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -69555,6 +69572,24 @@
     "status": "awaiting_license"
   },
   {
+    "file": "objects3d/Units/corgantbig.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "MrBob",
+    "pr": "5546",
+    "date": "2026-09-07T20:10:22Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corgantbig_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "MrBob",
+    "pr": "5546",
+    "date": "2026-09-07T20:10:22Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Flaka",
     "date": "2026-09-01T20:07:06Z",
     "file": "objects3d/Units/corgarp.s3o",
@@ -69661,6 +69696,24 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/corgplat.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "MrBob",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:10:22Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/corgplat_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "MrBob",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:10:22Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -70316,6 +70369,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/cormmkr_old_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "MrBob",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:10:22Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -71694,6 +71756,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "objects3d/Units/corvipev2.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Kyle Shepherd",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:10:22Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-01T20:07:06Z",
     "file": "objects3d/Units/corvoyr.s3o",
@@ -71913,6 +71983,15 @@
     "pr": "5997",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/event/aprilfools/correap.s3o.needsupdate",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Damgam",
+    "pr": "5997",
+    "date": "2026-09-07T20:10:22Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -76350,6 +76429,33 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/scavboss/corkorgmini.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:10:22Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/scavboss/corlevlrt4.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "MrBob",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:10:22Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/scavboss/corlevlrt4_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "MrBob",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:10:22Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
