@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1965**
+Total assets recorded: **1966**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -1742,6 +1742,7 @@ Total assets recorded: **1965**
 | `gingerbread.txt` | `LicenseRef-BAR-CLA-1.0` | Christiaan van Hoegee | manual-audit | 2026-09-02 |
 | `hats/cor_hat_fightnight.s3o` | _awaiting license_ | NebuchadnezzarII= | #3778 | 2026-09-01 |
 | `hats/cor_hat_hornet.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
+| `hats/cor_hat_hw.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | #3943 | 2026-09-07 |
 | `hats/cor_hat_legfn.s3o` | _awaiting license_ | NebuchadnezzarII | #3781 | 2026-09-01 |
 | `hats/cor_hat_ptaq.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `hats/cor_hat_viking.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
