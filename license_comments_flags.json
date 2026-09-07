@@ -911,16 +911,6 @@
     "comments": []
   },
   {
-    "file": "objects3d/Units/armgplat.s3o",
-    "flag": "unsure",
-    "comments": []
-  },
-  {
-    "file": "objects3d/Units/armgplat_dead.s3o",
-    "flag": "floris-review",
-    "comments": []
-  },
-  {
     "file": "objects3d/Units/armpship.s3o",
     "flag": "unsure",
     "comments": []

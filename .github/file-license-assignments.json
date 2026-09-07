@@ -64065,6 +64065,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "objects3d/Units/arm7X7C.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:16:53Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Cremuss",
     "date": "2026-09-01T20:07:06Z",
     "file": "objects3d/Units/arm7X7D.s3o",
@@ -64944,6 +64953,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "objects3d/Units/armcom_vanilla.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:16:53Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-01T20:07:06Z",
     "file": "objects3d/Units/armcomhilvl.s3o",
@@ -65546,6 +65564,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "objects3d/Units/armflash_old.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:16:53Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Kaiser",
     "date": "2026-09-01T20:08:56Z",
     "file": "objects3d/Units/armflea.s3o",
@@ -65686,6 +65712,14 @@
     "status": "awaiting_license"
   },
   {
+    "file": "objects3d/Units/armgant.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:16:53Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-05-28T12:16:25Z",
     "file": "objects3d/Units/armgate.s3o",
@@ -65752,6 +65786,22 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/armgplat.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:16:53Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/armgplat_dead.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:16:53Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",
@@ -68043,6 +68093,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/Units/cor7X7C.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:16:53Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
