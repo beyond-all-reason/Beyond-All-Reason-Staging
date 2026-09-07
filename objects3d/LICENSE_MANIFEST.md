@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1963**
+Total assets recorded: **1965**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -205,11 +205,13 @@ Total assets recorded: **1963**
 | `Raptors/s_raptorboss_white.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `Raptors/s_raptorq_spawner.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `Raptors/s_raptors_white.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
-| `Raptors/sgreyrock1.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `Raptors/spike.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
+| `Raptors/sgreyrock1.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/spike.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/spiker_gunship.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `Raptors/tube.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/tubexl.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/ve_raptorq.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/ve_raptorq.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/vh_raptorq.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `SimpleFlareXL.s3o` | `LicenseRef-BAR-CLA-1.0` | KDR_11k, Beherith | manual-audit | 2026-05-27 |
 | `Units/CorPrince.s3o` | _awaiting license_ | Johnathan Crimson | #5427 | 2026-09-01 |
 | `Units/CorPrince_dead.s3o` | _awaiting license_ | Johnathan Crimson | #5427 | 2026-09-01 |
