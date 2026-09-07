@@ -106968,6 +106968,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/decals_features/arm5X5D_7_7_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Cremuss",
     "date": "2026-09-07T15:01:21Z",
     "file": "unittextures/decals_features/arm6X6A_8_8_aoplane.dds",
@@ -107011,6 +107020,24 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/decals_features/arm7X7B_9_9_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals_features/arm7X7C_9_9_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Kaiser",
@@ -107697,6 +107724,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/decals_features/armfgate_dead_6_6_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-01T20:25:05Z",
     "file": "unittextures/decals_features/armfhlt_dead_5_5_aoplane.dds",
@@ -107796,6 +107832,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/decals_features/armfrock_dead_5_5_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-01T20:25:05Z",
     "file": "unittextures/decals_features/armfrt_dead_5_5_aoplane.dds",
@@ -107848,6 +107893,15 @@
     "pr": "5030",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/decals_features/armgplat_dead_4_4_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "5030",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",
@@ -108037,6 +108091,15 @@
     "pr": "5030",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/decals_features/armmakr_dead_4_4_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cremuss",
+    "pr": "5030",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",
@@ -108262,6 +108325,24 @@
     "pr": "5030",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/decals_features/armpship_dead_12_12_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "5030",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals_features/armpshipt3_dead_22_22_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "5030",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",
@@ -108651,6 +108732,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/decals_features/armthovr_dead_8_8_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "5030",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-01T20:25:05Z",
     "file": "unittextures/decals_features/armthund_dead_6_6_aoplane.dds",
@@ -108685,6 +108775,15 @@
     "pr": "5030",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/decals_features/armtship_dead_8_8_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "5030",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Cremuss",
@@ -109002,6 +109101,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/decals_features/cor4X4E_5_5_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Mr Bob",
     "date": "2026-09-01T20:25:05Z",
     "file": "unittextures/decals_features/cor5X5A_7_7_aoplane.dds",
@@ -109009,6 +109117,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/decals_features/cor5X5B_7_7_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -109056,6 +109173,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/decals_features/cor6X6D_8_8_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Mr Bob",
     "date": "2026-09-01T20:25:05Z",
     "file": "unittextures/decals_features/cor7X7A_9_9_aoplane.dds",
@@ -109072,6 +109198,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/decals_features/cor7X7C_9_9_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -109713,6 +109848,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/decals_features/corfgate_dead_6_6_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "MrBob",
+    "pr": "5030",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Mr Bob",
     "date": "2026-09-01T20:25:05Z",
     "file": "unittextures/decals_features/corfhlt_dead_7_7_aoplane.dds",
@@ -109920,6 +110064,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/decals_features/corgplat_dead_5_5_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "MrBob",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-09-01T20:25:05Z",
     "file": "unittextures/decals_features/corhal_dead_4_4_aoplane.dds",
@@ -110001,6 +110154,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/decals_features/corintr_dead_7_7_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "MrBob",
+    "pr": "5030",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Mr Bob",
     "date": "2026-09-01T20:25:05Z",
     "file": "unittextures/decals_features/corjamt_dead_4_4_aoplane.dds",
@@ -110080,6 +110242,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/decals_features/corlevlrt4_dead_8_8_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "MrBob",
+    "pr": "5030",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -110217,6 +110388,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/decals_features/cormmkr_old_dead_6_6_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "MrBob",
+    "pr": "5030",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Mr Bob",
     "date": "2026-09-01T20:25:05Z",
     "file": "unittextures/decals_features/cormmkrt3_dead_9_9_aoplane.dds",
@@ -110341,6 +110521,15 @@
     "pr": "5030",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/decals_features/corpship_dead_6_6_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "5030",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -110721,6 +110910,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/decals_features/corthovr_dead_9_9_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "5030",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "jjackVII",
     "date": "2026-09-01T20:25:05Z",
     "file": "unittextures/decals_features/corthud_dead_6_6_aoplane.dds",
@@ -110791,6 +110989,15 @@
     "pr": "5030",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/decals_features/cortship_dead_8_8_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "5030",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -110953,6 +111160,33 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/decals_features/featureaoplates_atlas.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals_features/featureaoplates_atlas.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "4001",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/decals_features/freefusion_dead_7_7_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cremuss",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Cremuss",
@@ -112350,274 +112584,244 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_01_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_02_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_03_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_04_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_05_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_06_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_07_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_08_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_09_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_10_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_11_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_12_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_13_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_14_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_15_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_16_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_17_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_18_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_19_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_20_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_21_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_22_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_23_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_24_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_25_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_26_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_27_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_28_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_29_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T20:25:17Z",
     "file": "unittextures/decals_features/rocks30_def_30_aoplane.tga",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:27:39Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Floris",
