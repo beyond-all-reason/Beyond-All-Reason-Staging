@@ -220,6 +220,51 @@
     "comments": []
   },
   {
+    "file": "luaui/images/chiliskin_gl4/tech_button_action_bk.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/chiliskin_gl4/tech_button_action_fg.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/chiliskin_gl4/tech_button_bright_fg.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/chiliskin_gl4/tech_button_bright_small_alt_fg.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/chiliskin_gl4/tech_button_bright_small_bk.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/chiliskin_gl4/tech_button_bright_small_bk_grey.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/chiliskin_gl4/tech_button_bright_small_fg.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/chiliskin_gl4/tech_button_dark_small_bk.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
+    "file": "luaui/images/chiliskin_gl4/tech_button_dark_small_fg.png",
+    "flag": "unused",
+    "comments": []
+  },
+  {
     "file": "luaui/images/ecostats/arm_default.png",
     "flag": "unused",
     "comments": []

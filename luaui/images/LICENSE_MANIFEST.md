@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **773**
+Total assets recorded: **782**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -349,6 +349,15 @@ Total assets recorded: **773**
 | `backward.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-09-02 |
 | `barglow-center.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `barglow-edge.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `chiliskin_gl4/tech_button_action_bk.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
+| `chiliskin_gl4/tech_button_action_fg.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
+| `chiliskin_gl4/tech_button_bright_fg.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
+| `chiliskin_gl4/tech_button_bright_small_alt_fg.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
+| `chiliskin_gl4/tech_button_bright_small_bk.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
+| `chiliskin_gl4/tech_button_bright_small_bk_grey.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
+| `chiliskin_gl4/tech_button_bright_small_fg.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
+| `chiliskin_gl4/tech_button_dark_small_bk.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
+| `chiliskin_gl4/tech_button_dark_small_fg.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
 | `commandsfx/glow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `commandsfx/line.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `decals_gl4/decalsgl4_atlas_diffuse.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |

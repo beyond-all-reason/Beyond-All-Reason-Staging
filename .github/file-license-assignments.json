@@ -57386,6 +57386,78 @@
     "source": "manual-audit"
   },
   {
+    "file": "luaui/images/chiliskin_gl4/tech_button_action_bk.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "jK",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:47:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/chiliskin_gl4/tech_button_action_fg.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "jK",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:47:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/chiliskin_gl4/tech_button_bright_fg.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "jK",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:47:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/chiliskin_gl4/tech_button_bright_small_alt_fg.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "jK",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:47:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/chiliskin_gl4/tech_button_bright_small_bk.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "jK",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:47:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/chiliskin_gl4/tech_button_bright_small_bk_grey.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "jK",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:47:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/chiliskin_gl4/tech_button_bright_small_fg.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "jK",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:47:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/chiliskin_gl4/tech_button_dark_small_bk.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "jK",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:47:40Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/chiliskin_gl4/tech_button_dark_small_fg.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "jK",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:47:40Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Floris",
     "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/commandsfx/glow.dds",
