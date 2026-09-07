@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unittextures/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1000**
+Total assets recorded: **1003**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -987,6 +987,9 @@ Total assets recorded: **1000**
 | `pilha_crystal_license.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_normal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_tex2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptorArtillery_1.dds` | _awaiting license_ | Rubus | #2436 | 2026-09-07 |
+| `raptorArtillery_2.dds` | _awaiting license_ | Rubus | #2436 | 2026-09-07 |
+| `raptorArtillery_n.png` | _awaiting license_ | Rubus | #2436 | 2026-09-07 |
 | `redhead4.dds` | `CC-BY-SA-4.0` | ForbodingAngel | manual-audit | 2026-09-07 |
 | `rocks1a_normal.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `rocks30_def_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
