@@ -74131,13 +74131,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "objects3d/Units/legvelite.s3o",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "TheSilverHornet",
-    "pr": "3178",
     "date": "2026-09-03T09:52:24Z",
-    "source": "manual-audit"
+    "file": "objects3d/Units/legvelite.s3o",
+    "license": "",
+    "pr": "3178",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Tharsis",
@@ -75243,11 +75243,11 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-09-03T09:52:24Z",
     "file": "objects3d/cordice.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Floris",
     "pr": "4346",
-    "date": "2026-09-03T09:52:24Z",
     "source": "manual-audit"
   },
   {
@@ -75379,11 +75379,11 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-09-03T09:52:24Z",
     "file": "objects3d/dice.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-09-03T09:52:24Z",
     "source": "manual-audit"
   },
   {
@@ -77163,6 +77163,190 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario001.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:44:56Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario002.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:44:26Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario003.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:44:33Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario004.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:44:26Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario005.jpg",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Zow",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:44:26Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario006.jpg",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Zow",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:44:26Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario007.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Basic",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:44:26Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario008.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:44:26Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario009.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:44:26Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario010.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:44:26Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario011.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:44:33Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario012.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:42:16Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario013.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:42:16Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario014.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:42:16Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario015.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:42:16Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario016.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:42:16Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario017.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:42:16Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario018.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:42:16Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario019.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:42:16Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario020.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "WatchTheFort",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:42:16Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario021.jpg",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "wilkubyk",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:42:16Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario022.jpg",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Ezahiel",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:42:16Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "singleplayer/scenarios/scenario023.jpg",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T08:42:16Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "BAR CLA Bot",
@@ -95410,11 +95594,11 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-09-03T09:52:24Z",
     "file": "unitpics/other/dice.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-09-03T09:52:24Z",
     "source": "manual-audit"
   },
   {
@@ -109137,19 +109321,19 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-09-03T09:52:24Z",
     "file": "unittextures/dice.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-09-03T09:52:24Z",
     "source": "manual-audit"
   },
   {
+    "contributor": "Floris",
+    "date": "2026-09-03T09:52:24Z",
     "file": "unittextures/dice2.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "Floris",
     "pr": "manual-audit",
-    "date": "2026-09-03T09:52:24Z",
     "source": "manual-audit"
   },
   {
