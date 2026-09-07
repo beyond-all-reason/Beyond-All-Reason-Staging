@@ -57390,6 +57390,14 @@
     "status": "awaiting_license"
   },
   {
+    "file": "luaui/images/aliasing_test_grid_128.tga",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "1828",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Floris",
     "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/allycursor.dds",
@@ -57428,6 +57436,14 @@
     "file": "luaui/images/barglow-edge.png",
     "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/black.bmp",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "3266",
+    "date": "2026-09-07T20:34:55Z",
     "source": "manual-audit"
   },
   {
@@ -60914,6 +60930,15 @@
     "file": "luaui/images/returnfire.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "7585",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/rgbnoise.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
     "source": "manual-audit"
   },
   {
@@ -104951,6 +104976,321 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/chicken_1_m_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_1_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_1b_m_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_1b_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_1c_m_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_1c_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_1d_m_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_1d_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_1x_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_1y_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_1z_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_acidgreen_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_acidgreen_m_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_acidgreen_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_apex_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_apex_m_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_aqua_m_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_black_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_black_m_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_black_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_blue_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_blue_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_brown_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_c3_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_c3b_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_c3c_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_crimson_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_crimson_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_darkgreen_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Damgam",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_darkgreen_m_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Damgam",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_darkgreen_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Damgam",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_electric_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Damgam",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_electric_m_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Damgam",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_electric_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Damgam",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_green_m_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "KDR_11k",
     "date": "2026-09-07T15:06:39Z",
     "file": "unittextures/chicken_l_normals.png",
@@ -104958,6 +105298,24 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/chicken_l_other.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_l_other_acid.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "TheSilverHornet",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "KDR_11k",
@@ -104969,6 +105327,33 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/chicken_m_other.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_m_other_acid.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "TheSilverHornet",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_multi_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-06-16T17:55:36Z",
     "file": "unittextures/chicken_normal.tga",
@@ -104978,6 +105363,105 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/chicken_normals_2020.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_normals_medium.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_pink_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_pink_m_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_pink_other.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_purple_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_red_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_red_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_redb_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_redc_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_redhead4_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "KDR_11k",
     "date": "2026-09-07T15:06:39Z",
     "file": "unittextures/chicken_s_normals.png",
@@ -104985,6 +105469,132 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/chicken_s_other.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_s_other_acid.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "TheSilverHornet",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_tube_color.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_tube_normals.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_tube_other.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_vcrimson_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_vcrimson_m_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_white_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_white_m_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_white_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_whitehc_s_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_yellow_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_yellow_m_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken_yellowb_l_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -112260,6 +112870,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/decals_features/mission_command_tower_dead_11_11_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Cremuss",
+    "pr": "5030",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-09-07T14:49:32Z",
     "file": "unittextures/decals_features/pilha_crystal_1_3_3_aoplane.dds",
@@ -112907,6 +113526,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "unittextures/redhead4.dds",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-09-07T13:49:28Z",
     "file": "unittextures/rocks1a_normal.tga",
@@ -113031,6 +113658,30 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/tree_fir_tall_5_1.dds",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "0 AD",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/tree_fir_tall_5_2.dds",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "0 AD",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/tree_fir_tall_5_normal.dds",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "0 AD",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:34:55Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Floris",

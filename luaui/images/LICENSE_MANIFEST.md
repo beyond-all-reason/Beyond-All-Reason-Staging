@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **787**
+Total assets recorded: **790**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -348,11 +348,13 @@ Total assets recorded: **787**
 | `advplayerslist_mascot/mrbeans_head.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/mrbeans_headblink.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/santahat.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `aliasing_test_grid_128.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | #1828 | 2026-09-07 |
 | `allycursor.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `backgroundtile.png` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
 | `backward.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-09-02 |
 | `barglow-center.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `barglow-edge.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `black.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | #3266 | 2026-09-07 |
 | `chiliskin_gl4/tech_button_action_bk.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
 | `chiliskin_gl4/tech_button_action_fg.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
 | `chiliskin_gl4/tech_button_bright_fg.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
@@ -782,6 +784,7 @@ Total assets recorded: **787**
 | `repeat.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `repeat_old.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `returnfire.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7585 | 2026-08-31 |
+| `rgbnoise.png` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `scav-tileable_v001-alpha.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
 | `scav-tileable_v001_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
 | `scav-tileable_v002_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
