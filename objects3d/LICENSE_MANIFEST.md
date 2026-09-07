@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1748**
+Total assets recorded: **1785**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -33,23 +33,60 @@ Total assets recorded: **1748**
 | `Lootboxes/lootboxv2_platinum.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
 | `Lootboxes/lootboxv2_silver.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
 | `Raptors/agamautoburst.s3o` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
-| `Raptors/flying_raptor_remaster.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/kremenraptor1.s3o` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
-| `Raptors/kremenraptor2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/raptor_6legged_l.s3o` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-02 |
-| `Raptors/raptor_allterrain.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/raptor_alterrain_master_v2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/raptor_antinuke.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-02 |
-| `Raptors/raptor_colonizer.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/raptor_drone.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/raptor_egg_m.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/raptor_miniqueen_acid.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/raptor_miniqueen_basic.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/raptor_miniqueen_electric.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/raptor_miniqueen_fire.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/raptor_miniqueen_healer.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/raptor_miniqueen_spectre.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/raptor_pidgeon_v2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
+| `Raptors/big_raptor_dodo.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/brain_bug.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/e_raptorq.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/epic_raptorq.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/flying_raptor_remaster.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/h_raptorq.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/kremenraptor1.s3o` | `CC-BY-SA-4.0` | Kremenchuk | manual-audit | 2026-09-07 |
+| `Raptors/kremenraptor2.s3o` | `CC-BY-SA-4.0` | Kremenchuk | manual-audit | 2026-09-07 |
+| `Raptors/raptor.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor1b.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor1c.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor1d.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor1x.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor1x_spectre.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor1y.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor1z.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor2_spectre.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor2b.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_6legged_l.s3o` | `CC-BY-SA-4.0` | Kremenchuk | manual-audit | 2026-09-07 |
+| `Raptors/raptor_allterrain.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_alterrain_master_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_antinuke.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-09-07 |
+| `Raptors/raptor_artillery_acid_v2.s3o` | `CC-BY-SA-4.0` | Kremenchuk | manual-audit | 2026-09-07 |
+| `Raptors/raptor_artillery_brood_big.s3o` | `CC-BY-SA-4.0` | Kremenchuk | manual-audit | 2026-09-07 |
+| `Raptors/raptor_artillery_brood_small.s3o` | `CC-BY-SA-4.0` | Kremenchuk | manual-audit | 2026-09-07 |
+| `Raptors/raptor_artillery_electric_v2.s3o` | `CC-BY-SA-4.0` | Kremenchuk | manual-audit | 2026-09-07 |
+| `Raptors/raptor_artillery_meteor_v2.s3o` | `CC-BY-SA-4.0` | Kremenchuk | manual-audit | 2026-09-07 |
+| `Raptors/raptor_artillery_meteor_v2_acid.s3o` | `CC-BY-SA-4.0` | Kremenchuk | manual-audit | 2026-09-07 |
+| `Raptors/raptor_artillery_meteor_v2_electric.s3o` | `CC-BY-SA-4.0` | Kremenchuk | manual-audit | 2026-09-07 |
+| `Raptors/raptor_artillery_v2.s3o` | `CC-BY-SA-4.0` | Kremenchuk | manual-audit | 2026-09-07 |
+| `Raptors/raptor_colonizer.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_crow.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_dodo.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_dodo2_electric.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_dodo_air.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_dodo_electric.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_drone.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_droneb.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_egg_m.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_hive.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-09-07 |
+| `Raptors/raptor_listener.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_mini.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_miniqueen_acid.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_miniqueen_basic.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_miniqueen_electric.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_miniqueen_fire.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_miniqueen_healer.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_miniqueen_spectre.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_pidgeon.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_pidgeon_v2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_pidgeonb.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_pidgeonc.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
+| `Raptors/raptor_pidgeond.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `Raptors/raptor_turretl_acid_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
 | `Raptors/raptor_turretl_electric_v2.s3o` | _awaiting license_ | LathanStanley | manual-audit | 2026-09-02 |
 | `Raptors/raptor_turretl_purple_v2.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |

@@ -62201,157 +62201,436 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
+    "file": "objects3d/Raptors/big_raptor_dodo.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/brain_bug.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/e_raptorq.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/epic_raptorq.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "objects3d/Raptors/flying_raptor_remaster.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-09-02T11:06:17Z",
+    "file": "objects3d/Raptors/h_raptorq.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "objects3d/Raptors/kremenraptor1.s3o",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
-    "file": "objects3d/Raptors/kremenraptor2.s3o",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
+    "license": "CC-BY-SA-4.0",
     "contributor": "Kremenchuk",
-    "date": "2026-09-02T11:14:26Z",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/kremenraptor2.s3o",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Kremenchuk",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor1b.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor1c.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor1d.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor1x.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor1x_spectre.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor1y.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor1z.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor2.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor2_spectre.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor2b.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "objects3d/Raptors/raptor_6legged_l.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Kremenchuk",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
     "file": "objects3d/Raptors/raptor_allterrain.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
     "file": "objects3d/Raptors/raptor_alterrain_master_v2.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Mr Bob",
-    "date": "2026-09-02T11:14:26Z",
     "file": "objects3d/Raptors/raptor_antinuke.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Mr Bob",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
+    "file": "objects3d/Raptors/raptor_artillery_acid_v2.s3o",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Kremenchuk",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_artillery_brood_big.s3o",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Kremenchuk",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_artillery_brood_small.s3o",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Kremenchuk",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_artillery_electric_v2.s3o",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Kremenchuk",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_artillery_meteor_v2.s3o",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Kremenchuk",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_artillery_meteor_v2_acid.s3o",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Kremenchuk",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_artillery_meteor_v2_electric.s3o",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Kremenchuk",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_artillery_v2.s3o",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Kremenchuk",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "objects3d/Raptors/raptor_colonizer.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
+    "file": "objects3d/Raptors/raptor_crow.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_dodo.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_dodo2_electric.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_dodo_air.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_dodo_electric.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "objects3d/Raptors/raptor_drone.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
+    "file": "objects3d/Raptors/raptor_droneb.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "objects3d/Raptors/raptor_egg_m.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
+    "file": "objects3d/Raptors/raptor_hive.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_listener.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_mini.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
     "file": "objects3d/Raptors/raptor_miniqueen_acid.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
     "file": "objects3d/Raptors/raptor_miniqueen_basic.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
     "file": "objects3d/Raptors/raptor_miniqueen_electric.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
     "file": "objects3d/Raptors/raptor_miniqueen_fire.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
     "file": "objects3d/Raptors/raptor_miniqueen_healer.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
     "file": "objects3d/Raptors/raptor_miniqueen_spectre.s3o",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "KDR_11k",
-    "date": "2026-09-02T11:06:17Z",
-    "file": "objects3d/Raptors/raptor_pidgeon_v2.s3o",
-    "license": "",
+    "file": "objects3d/Raptors/raptor_pidgeon.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_pidgeon_v2.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_pidgeonb.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_pidgeonc.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Raptors/raptor_pidgeond.s3o",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T09:31:48Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "LathanStanley",

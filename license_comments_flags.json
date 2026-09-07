@@ -391,6 +391,26 @@
     ]
   },
   {
+    "file": "objects3d/Raptors/agamautoburst.s3o",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Raptors/greyrock2.s3o",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Raptors/kremenraptor1.s3o",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
+    "file": "objects3d/Raptors/kremenraptor2.s3o",
+    "flag": "unsure",
+    "comments": []
+  },
+  {
     "file": "objects3d/Units/bridge.s3o",
     "flag": "unused",
     "comments": []
