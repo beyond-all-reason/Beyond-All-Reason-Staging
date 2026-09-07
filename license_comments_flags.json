@@ -1925,31 +1925,6 @@
     "comments": []
   },
   {
-    "file": "unittextures/cor_color.dds",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "unittextures/cor_color_wreck.dds",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "unittextures/cor_color_wreck_normal.dds",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "unittextures/cor_other.dds",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "unittextures/cor_other_wreck.dds",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
     "file": "unittextures/crimsonchicken.dds",
     "flag": "unused",
     "comments": []

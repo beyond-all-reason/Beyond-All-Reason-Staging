@@ -104959,6 +104959,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/blank_normal.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "5",
+    "date": "2026-09-07T20:43:58Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Floris",
     "date": "2026-06-15T21:16:11Z",
     "file": "unittextures/blank_texture2.tga",
@@ -105606,13 +105615,58 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Mr Bob",
-    "date": "2026-09-07T15:06:39Z",
-    "file": "unittextures/cor_normal.dds",
+    "file": "unittextures/cor_color.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Zagupi",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-07T20:43:58Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/cor_color_wreck.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Zagupi",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:43:58Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/cor_color_wreck_normal.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Zagupi",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:43:58Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/cor_normal.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Zagupi",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:43:58Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/cor_other.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Zagupi",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:43:58Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/cor_other_wreck.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Zagupi",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:43:58Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -105674,6 +105728,33 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/dbg_sphere_color.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:43:58Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/dbg_sphere_fullmetal.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:43:58Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/dbg_sphere_other.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:43:58Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -113500,6 +113581,33 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/palette_color.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:43:58Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/palette_normal.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:43:58Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/palette_other.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-07T20:43:58Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
