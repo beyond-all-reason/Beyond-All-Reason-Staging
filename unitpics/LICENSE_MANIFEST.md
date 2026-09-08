@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1472**
+Total assets recorded: **1477**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -477,7 +477,12 @@ Total assets recorded: **1472**
 | `corwin.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corwint2.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corwolv.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `critters/critter_ant.dds` | _awaiting license_ | knorker | manual-audit | 2026-09-08 |
 | `critters/critter_crab.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `critters/critter_duck.dds` | _awaiting license_ | knorker | manual-audit | 2026-09-08 |
+| `critters/critter_goldfish.dds` | _awaiting license_ | knorker | manual-audit | 2026-09-08 |
+| `critters/critter_gull.dds` | _awaiting license_ | knorker | manual-audit | 2026-09-08 |
+| `critters/critter_penguin.dds` | _awaiting license_ | knorker | manual-audit | 2026-09-08 |
 | `freefusion.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-02 |
 | `legaabot.dds` | _awaiting license_ | ZephyrSkies | #5061 | 2026-09-01 |
 | `legaap.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
