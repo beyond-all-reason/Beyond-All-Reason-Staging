@@ -92759,6 +92759,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unitpics/armgplat.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:56:41Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-01T19:52:22Z",
     "file": "unitpics/armgremlin.dds",
@@ -99895,6 +99904,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unitpics/scavengers/armgplat.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:56:41Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",
@@ -108865,13 +108883,13 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "FireStorm",
-    "date": "2026-09-07T20:27:39Z",
     "file": "unittextures/decals_features/armgplat_dead_4_4_aoplane.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Beherith",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-09T13:56:41Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",

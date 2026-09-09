@@ -458,7 +458,7 @@ Total assets recorded: **1052**
 | `decals_features/armgatet3_dead_8_8_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-07 |
 | `decals_features/armgeo_dead_6_6_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
 | `decals_features/armgmm_dead_6_6_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
-| `decals_features/armgplat_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-07 |
+| `decals_features/armgplat_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-09 |
 | `decals_features/armgremlin_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/armguard_dead_6_6_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
 | `decals_features/armham_dead_6_6_aoplane.dds` | _awaiting license_ | Kaiser | #5030 | 2026-09-01 |

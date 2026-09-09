@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1477**
+Total assets recorded: **1479**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -110,6 +110,7 @@ Total assets recorded: **1477**
 | `armgatet3.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #4104 | 2026-09-01 |
 | `armgeo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `armgmm.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armgplat.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-09 |
 | `armgremlin.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armguard.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armhaap.dds` | _awaiting license_ | Cremuss | #5546 | 2026-09-01 |
@@ -915,6 +916,7 @@ Total assets recorded: **1477**
 | `scavengers/armgatet3.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7224 | 2026-09-01 |
 | `scavengers/armgeo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `scavengers/armgmm.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armgplat.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-09 |
 | `scavengers/armgremlin.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armguard.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armham.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
