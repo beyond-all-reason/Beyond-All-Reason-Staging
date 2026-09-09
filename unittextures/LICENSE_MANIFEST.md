@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unittextures/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1017**
+Total assets recorded: **1052**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -16,9 +16,23 @@ Total assets recorded: **1017**
 | `Arm_wreck_other.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
 | `LICENSE_MANIFEST.md` | _awaiting license_ | BAR CLA Bot | manual-audit | 2026-09-07 |
 | `anttex.dds` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
+| `apexchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `aquachicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `blackchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `blank_normal.dds` | _awaiting license_ | Beherith | #5 | 2026-09-07 |
 | `blank_texture2.tga` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-15 |
+| `bluechicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `brownchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `candycane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `chicken1.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `chicken1b.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `chicken1c.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `chicken1d.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `chicken1x.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `chicken1y.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `chicken1z.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `chicken2.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `chicken2b.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `chicken_1_m_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `chicken_1_s_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `chicken_1b_m_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
@@ -88,7 +102,16 @@ Total assets recorded: **1017**
 | `chicken_yellow_l_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `chicken_yellow_m_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `chicken_yellowb_l_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
+| `chickenc3.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `chickenc3b.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `chickenc3c.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `chickenegg.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `chickenegg_tex2.dds` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `chickeneggb.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `chickeneggc.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `chickeneggd.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `chickeneggred.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `chickeneggyellow.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `cor_color.dds` | _awaiting license_ | Zagupi | manual-audit | 2026-09-07 |
 | `cor_color_wreck.dds` | _awaiting license_ | Zagupi | manual-audit | 2026-09-07 |
 | `cor_color_wreck_normal.dds` | _awaiting license_ | Zagupi | manual-audit | 2026-09-07 |
@@ -97,6 +120,7 @@ Total assets recorded: **1017**
 | `cor_other_wreck.dds` | _awaiting license_ | Zagupi | manual-audit | 2026-09-07 |
 | `crab_tex.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `crab_tex_other.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `crimsonchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `critter_duck.tga` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
 | `critter_goldfish.tga` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
 | `critter_gull.dds` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
@@ -992,18 +1016,24 @@ Total assets recorded: **1017**
 | `dice2.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
 | `energyball_tex.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `energyball_tex2.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `greenchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `greyrock2.tga` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `leegmech_normal.dds` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-07 |
 | `leg_normal.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-07 |
+| `multichicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `palette_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `palette_normal.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `palette_other.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `pilha_crystal_license.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_normal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_tex2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `pinkchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `raptorArtillery_1.dds` | _awaiting license_ | Rubus | #2436 | 2026-09-07 |
 | `raptorArtillery_2.dds` | _awaiting license_ | Rubus | #2436 | 2026-09-07 |
 | `raptorArtillery_n.png` | _awaiting license_ | Rubus | #2436 | 2026-09-07 |
+| `redchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `redchickenb.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `redchickenc.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `redhead4.dds` | `CC-BY-SA-4.0` | ForbodingAngel | manual-audit | 2026-09-07 |
 | `rocks1a_normal.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `rocks30_def_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
@@ -1022,6 +1052,11 @@ Total assets recorded: **1017**
 | `tree_fir_tall_5_1.dds` | `CC-BY-SA-4.0` | 0 AD | manual-audit | 2026-09-07 |
 | `tree_fir_tall_5_2.dds` | `CC-BY-SA-4.0` | 0 AD | manual-audit | 2026-09-07 |
 | `tree_fir_tall_5_normal.dds` | `CC-BY-SA-4.0` | 0 AD | manual-audit | 2026-09-07 |
+| `vcrimsonchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `whitechicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `whitechickenhc.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `xmasball.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-15 |
 | `xmasball2.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-15 |
 | `xmasball3.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-06-15 |
+| `yellowchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
+| `yellowchickenb.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |

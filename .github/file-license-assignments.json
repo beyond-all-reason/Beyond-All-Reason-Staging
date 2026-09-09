@@ -105022,6 +105022,33 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/apexchicken.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/aquachicken.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/blackchicken.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-09-07T20:43:58Z",
     "file": "unittextures/blank_normal.dds",
@@ -105039,6 +105066,24 @@
     "source": "manual-audit"
   },
   {
+    "file": "unittextures/bluechicken.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/brownchicken.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-06-16T17:55:36Z",
     "file": "unittextures/candycane.dds",
@@ -105046,6 +105091,87 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/chicken1.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken1b.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken1c.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken1d.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken1x.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken1y.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken1z.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken2.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chicken2b.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -105669,6 +105795,42 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/chickenc3.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chickenc3b.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chickenc3c.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chickenegg.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-06-16T17:55:36Z",
     "file": "unittextures/chickenegg_tex2.dds",
@@ -105676,6 +105838,51 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/chickeneggb.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chickeneggc.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chickeneggd.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chickeneggred.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/chickeneggyellow.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Zagupi",
@@ -105745,6 +105952,15 @@
     "file": "unittextures/crab_tex_other.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/crimsonchicken.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
     "source": "manual-audit"
   },
   {
@@ -113637,6 +113853,15 @@
     "source": "manual-audit"
   },
   {
+    "file": "unittextures/greenchicken.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-01T20:20:47Z",
     "file": "unittextures/greyrock2.tga",
@@ -113662,6 +113887,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/multichicken.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -113715,6 +113949,15 @@
     "source": "manual-audit"
   },
   {
+    "file": "unittextures/pinkchicken.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Rubus",
     "date": "2026-09-07T20:40:48Z",
     "file": "unittextures/raptorArtillery_1.dds",
@@ -113740,6 +113983,33 @@
     "pr": "2436",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/redchicken.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/redchickenb.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/redchickenc.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "ForbodingAngel",
@@ -113900,6 +114170,33 @@
     "source": "manual-audit"
   },
   {
+    "file": "unittextures/vcrimsonchicken.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/whitechicken.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/whitechickenhc.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Floris",
     "date": "2026-06-15T21:01:56Z",
     "file": "unittextures/xmasball.dds",
@@ -113921,6 +114218,24 @@
     "file": "unittextures/xmasball3.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/yellowchicken.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/yellowchickenb.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ForbodingAngel",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:54:03Z",
     "source": "manual-audit"
   }
 ]
