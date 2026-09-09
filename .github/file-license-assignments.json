@@ -93252,6 +93252,24 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unitpics/armpship.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:57:41Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/armpshipt3.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:57:41Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-01T19:48:45Z",
     "file": "unitpics/armpt.dds",
@@ -94767,6 +94785,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unitpics/corgplat.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "MrBob",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:57:41Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -100364,6 +100391,24 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unitpics/scavengers/armpship.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:57:41Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unitpics/scavengers/armpshipt3.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:57:41Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-01T19:48:45Z",
     "file": "unitpics/scavengers/armpt.dds",
@@ -101807,6 +101852,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unitpics/scavengers/corgplat.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "MrBob",
+    "pr": "manual-audit",
+    "date": "2026-09-09T13:57:41Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
