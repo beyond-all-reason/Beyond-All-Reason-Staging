@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1489**
+Total assets recorded: **1491**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -219,6 +219,7 @@ Total assets recorded: **1489**
 | `armtide.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armtl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armtrident.dds` | _awaiting license_ | Odin | #2872 | 2026-09-01 |
+| `armtship.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-09 |
 | `armuwadves.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `armuwadves_old.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
 | `armuwadvms.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
@@ -1024,6 +1025,7 @@ Total assets recorded: **1489**
 | `scavengers/armthundt4.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armtide.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armtl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `scavengers/armtship.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-09 |
 | `scavengers/armuwadves.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `scavengers/armuwadves_old.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
 | `scavengers/armuwadvms.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |

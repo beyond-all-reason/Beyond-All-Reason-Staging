@@ -93715,6 +93715,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unitpics/armtship.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-09T14:00:52Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Cremuss",
     "date": "2026-09-01T19:52:22Z",
     "file": "unitpics/armuwadves.dds",
@@ -100852,6 +100861,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unitpics/scavengers/armtship.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-09T14:00:52Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Cremuss",
