@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1485**
+Total assets recorded: **1489**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -213,6 +213,7 @@ Total assets recorded: **1485**
 | `armsy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armtarg.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `armthor.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `armthovr.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-09 |
 | `armthund.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armthundt4.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armtide.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -1018,6 +1019,7 @@ Total assets recorded: **1485**
 | `scavengers/armsy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armtarg.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `scavengers/armthor.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/armthovr.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-09 |
 | `scavengers/armthund.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armthundt4.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armtide.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -1092,6 +1094,7 @@ Total assets recorded: **1485**
 | `scavengers/corcv.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/cordeadeye.dds` | _awaiting license_ | Kaludjo | #7224 | 2026-09-01 |
 | `scavengers/cordecom.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/cordemont4.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-09 |
 | `scavengers/cordl.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/cordoom.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/cordoomt3.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -1153,6 +1156,7 @@ Total assets recorded: **1485**
 | `scavengers/corjuno.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corkarg.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `scavengers/corkarganetht4.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/corkargclassic.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-09 |
 | `scavengers/corkark.dds` | _awaiting license_ | Firestorm | manual-audit | 2026-09-01 |
 | `scavengers/corkorg.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/corlab.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |

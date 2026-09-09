@@ -551,7 +551,7 @@ Total assets recorded: **1052**
 | `decals_features/armsy_dead_8_8_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/armtarg_dead_5_5_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `decals_features/armthor_dead_8_8_aoplane.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
-| `decals_features/armthovr_dead_8_8_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-07 |
+| `decals_features/armthovr_dead_8_8_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-09 |
 | `decals_features/armthund_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `decals_features/armtide_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/armtl_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |

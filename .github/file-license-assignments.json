@@ -93661,6 +93661,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unitpics/armthovr.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-09T14:00:24Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-01T19:48:45Z",
     "file": "unitpics/armthund.dds",
@@ -100800,6 +100809,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unitpics/scavengers/armthovr.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith",
+    "pr": "manual-audit",
+    "date": "2026-09-09T14:00:24Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-01T19:48:45Z",
     "file": "unitpics/scavengers/armthund.dds",
@@ -101452,6 +101470,15 @@
     "source": "manual-audit"
   },
   {
+    "file": "unitpics/scavengers/cordemont4.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-09T14:00:24Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Mr Bob",
     "date": "2026-09-01T19:51:52Z",
     "file": "unitpics/scavengers/cordl.dds",
@@ -101993,6 +102020,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unitpics/scavengers/corkargclassic.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "FireStorm",
+    "pr": "manual-audit",
+    "date": "2026-09-09T14:00:24Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Firestorm",
@@ -109774,13 +109810,13 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "FireStorm",
-    "date": "2026-09-07T20:27:39Z",
     "file": "unittextures/decals_features/armthovr_dead_8_8_aoplane.dds",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Beherith",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-09T14:00:24Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",
