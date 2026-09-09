@@ -74596,6 +74596,24 @@
     "status": "awaiting_license"
   },
   {
+    "file": "objects3d/Units/leglaw.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies7",
+    "pr": "2999",
+    "date": "2026-09-09T13:51:56Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "objects3d/Units/leglaw_dead.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies7",
+    "pr": "2999",
+    "date": "2026-09-09T13:51:56Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "ZephyrSkies",
     "date": "2026-09-01T20:11:59Z",
     "file": "objects3d/Units/leglht.s3o",
@@ -95968,13 +95986,13 @@
     "status": "awaiting_license"
   },
   {
-    "file": "unitpics/critters/critter_ant.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "knorker",
-    "pr": "manual-audit",
     "date": "2026-09-08T17:41:01Z",
-    "source": "manual-audit"
+    "file": "unitpics/critters/critter_ant.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "icexuick",
@@ -95985,40 +96003,40 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "knorker",
+    "date": "2026-09-08T17:41:01Z",
     "file": "unitpics/critters/critter_duck.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "knorker",
     "pr": "manual-audit",
-    "date": "2026-09-08T17:41:01Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "knorker",
+    "date": "2026-09-08T17:41:01Z",
     "file": "unitpics/critters/critter_goldfish.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "knorker",
     "pr": "manual-audit",
-    "date": "2026-09-08T17:41:01Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
+    "contributor": "knorker",
+    "date": "2026-09-08T17:41:01Z",
     "file": "unitpics/critters/critter_gull.dds",
-    "status": "awaiting_license",
     "license": "",
-    "contributor": "knorker",
     "pr": "manual-audit",
-    "date": "2026-09-08T17:41:01Z",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
-    "file": "unitpics/critters/critter_penguin.dds",
-    "status": "awaiting_license",
-    "license": "",
     "contributor": "knorker",
-    "pr": "manual-audit",
     "date": "2026-09-08T17:41:01Z",
-    "source": "manual-audit"
+    "file": "unitpics/critters/critter_penguin.dds",
+    "license": "",
+    "pr": "manual-audit",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Floris",
@@ -111538,6 +111556,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/decals_features/corsok_dead_5_5_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Tharsis",
+    "pr": "5030",
+    "date": "2026-09-09T13:51:56Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Mr Bob",
     "date": "2026-09-01T20:25:05Z",
     "file": "unittextures/decals_features/corsolar_dead_6_6_aoplane.dds",
@@ -112598,6 +112625,15 @@
     "pr": "5030",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "unittextures/decals_features/leglaw_dead_3_3_aoplane.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "ZephyrSkies7",
+    "pr": "5030",
+    "date": "2026-09-09T13:51:56Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",

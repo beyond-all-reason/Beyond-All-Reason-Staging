@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unittextures/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1015**
+Total assets recorded: **1017**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -757,6 +757,7 @@ Total assets recorded: **1015**
 | `decals_features/corsktl_dead_3_3_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `decals_features/corslrpc_dead_17_17_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
 | `decals_features/corsnap_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
+| `decals_features/corsok_dead_5_5_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-09 |
 | `decals_features/corsolar_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
 | `decals_features/corsonar_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
 | `decals_features/corspec_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
@@ -875,6 +876,7 @@ Total assets recorded: **1015**
 | `decals_features/legkark_dead_4_4_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/legkeres_dead_7_7_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
 | `decals_features/leglab_dead_9_9_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
+| `decals_features/leglaw_dead_3_3_aoplane.dds` | _awaiting license_ | ZephyrSkies7 | #5030 | 2026-09-09 |
 | `decals_features/leglht_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
 | `decals_features/leglob_dead_4_4_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/leglraa_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |

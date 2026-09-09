@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1996**
+Total assets recorded: **1998**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -1442,6 +1442,8 @@ Total assets recorded: **1996**
 | `Units/legkeres_dead.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
 | `Units/leglab.s3o` | _awaiting license_ | Tharsis | #3343 | 2026-09-01 |
 | `Units/leglab_dead.s3o` | _awaiting license_ | Tharsis | #3343 | 2026-09-01 |
+| `Units/leglaw.s3o` | _awaiting license_ | ZephyrSkies7 | #2999 | 2026-09-09 |
+| `Units/leglaw_dead.s3o` | _awaiting license_ | ZephyrSkies7 | #2999 | 2026-09-09 |
 | `Units/leglht.s3o` | _awaiting license_ | ZephyrSkies | #2876 | 2026-09-01 |
 | `Units/leglht_dead.s3o` | _awaiting license_ | ZephyrSkies | #2876 | 2026-09-01 |
 | `Units/leglob.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
