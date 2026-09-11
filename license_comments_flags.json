@@ -2568,6 +2568,28 @@
     "comments": []
   },
   {
+    "file": "unittextures/leg_color.dds",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "Flaka?"
+      }
+    ]
+  },
+  {
+    "file": "unittextures/leg_shader.dds",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "Flaka?"
+      }
+    ]
+  },
+  {
     "file": "unittextures/license.txt",
     "flag": "beherith-review",
     "comments": []

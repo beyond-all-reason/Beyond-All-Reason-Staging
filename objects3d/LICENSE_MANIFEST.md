@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **2005**
+Total assets recorded: **2006**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -1402,6 +1402,7 @@ Total assets recorded: **2005**
 | `Units/leggat_dead.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `Units/leggatet3.s3o` | _awaiting license_ | Protar | #4292 | 2026-09-01 |
 | `Units/leggatet3_dead.s3o` | _awaiting license_ | Protar | #4292 | 2026-09-01 |
+| `Units/leggatet3_dmg.s3o` | _awaiting license_ | Protar | #4292 | 2026-09-11 |
 | `Units/leggeo.s3o` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
 | `Units/leggeo_dead.s3o` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
 | `Units/leggob.s3o` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
