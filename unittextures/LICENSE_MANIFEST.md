@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unittextures/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1054**
+Total assets recorded: **1066**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -24,6 +24,7 @@ Total assets recorded: **1054**
 | `bluechicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `brownchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `candycane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `candycane2.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `chicken1.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `chicken1b.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `chicken1c.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
@@ -126,9 +127,9 @@ Total assets recorded: **1054**
 | `critter_gull.dds` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
 | `critter_penguin-tex2.tga` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
 | `critter_penguin.tga` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
-| `dbg_sphere_color.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `dbg_sphere_fullmetal.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `dbg_sphere_other.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
+| `dbg_sphere_color.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `dbg_sphere_fullmetal.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `dbg_sphere_other.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `decals/armaap_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/armadvsol_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/armafus_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
@@ -946,42 +947,42 @@ Total assets recorded: **1054**
 | `decals_features/legwin_dead_4_4_aoplane.dds` | _awaiting license_ | Yzch | #5030 | 2026-09-01 |
 | `decals_features/legwint2_dead_6_6_aoplane.dds` | _awaiting license_ | Yzch | #5030 | 2026-09-01 |
 | `decals_features/mission_command_tower_dead_11_11_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-07 |
-| `decals_features/pilha_crystal_1_3_3_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_1_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_2_5_5_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_2_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_3_7_7_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_3_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_blue_1_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_blue_2_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_blue_3_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_green_1_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_green_2_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_green_3_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_lime_1_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_lime_2_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_lime_3_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_obsidian_1_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_obsidian_2_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_obsidian_3_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_orange_1_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_orange_2_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_orange_3_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_quartz_1_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_quartz_2_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_quartz_3_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_red_1_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_red_2_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_red_3_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_teal_1_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_teal_2_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_teal_3_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_team_1_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_team_2_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_team_3_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_violet_1_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_violet_2_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `decals_features/pilha_crystal_violet_3_aoplane.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
+| `decals_features/pilha_crystal_1_3_3_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_1_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_2_5_5_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_2_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_3_7_7_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_3_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_blue_1_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_blue_2_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_blue_3_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_green_1_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_green_2_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_green_3_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_lime_1_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_lime_2_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_lime_3_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_obsidian_1_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_obsidian_2_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_obsidian_3_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_orange_1_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_orange_2_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_orange_3_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_quartz_1_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_quartz_2_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_quartz_3_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_red_1_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_red_2_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_red_3_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_teal_1_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_teal_2_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_teal_3_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_team_1_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_team_2_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_team_3_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_violet_1_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_violet_2_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `decals_features/pilha_crystal_violet_3_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `decals_features/rocks30_def_01_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `decals_features/rocks30_def_02_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `decals_features/rocks30_def_03_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
@@ -1022,13 +1023,24 @@ Total assets recorded: **1054**
 | `greyrock2.tga` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `leegmech_normal.dds` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-07 |
 | `leg_normal.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-07 |
+| `license.txt` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `multichicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `palette_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `palette_normal.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `palette_other.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
+| `pilha_crystal_blue_tex1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `pilha_crystal_green_tex1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `pilha_crystal_license.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `pilha_crystal_lime_tex1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `pilha_crystal_normal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `pilha_crystal_obsidian_tex1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `pilha_crystal_orange_tex1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `pilha_crystal_quartz_tex1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `pilha_crystal_red_tex1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `pilha_crystal_teal_tex1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `pilha_crystal_team_tex1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `pilha_crystal_tex2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `pilha_crystal_violet_tex1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `pinkchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `raptorArtillery_1.dds` | _awaiting license_ | Rubus | #2436 | 2026-09-07 |
 | `raptorArtillery_2.dds` | _awaiting license_ | Rubus | #2436 | 2026-09-07 |

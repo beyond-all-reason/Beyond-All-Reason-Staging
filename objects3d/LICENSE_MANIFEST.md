@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **2008**
+Total assets recorded: **2015**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -1769,10 +1769,16 @@ Total assets recorded: **2008**
 | `cortronmissile.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `corvrocket.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `crblmssl.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
+| `dbg_sphere.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `dbg_sphere_fullmetal.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `dice.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
 | `empty.s3o` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-09-07 |
 | `epulse.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `epulse_mini.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-07 |
+| `fir_tree_large.s3o` | `CC-BY-SA-4.0` | 0 AD | manual-audit | 2026-09-11 |
+| `fir_tree_medium.s3o` | `CC-BY-SA-4.0` | 0 AD | manual-audit | 2026-09-11 |
+| `fir_tree_small.s3o` | `CC-BY-SA-4.0` | 0 AD | manual-audit | 2026-09-11 |
+| `fir_tree_smallest.s3o` | `CC-BY-SA-4.0` | 0 AD | manual-audit | 2026-09-11 |
 | `fmdmissile.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
 | `gingerbread.s3o` | _awaiting license_ | Christiaan van Hoegee | manual-audit | 2026-08-31 |
 | `gingerbread.txt` | `LicenseRef-BAR-CLA-1.0` | Christiaan van Hoegee | manual-audit | 2026-09-02 |
@@ -1798,6 +1804,7 @@ Total assets recorded: **2008**
 | `legtorpedo.s3o` | _awaiting license_ | Tharsis | #3281 | 2026-09-07 |
 | `legtorpedomini.s3o` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-07 |
 | `meteor.s3o` | _awaiting license_ | Bluestone | manual-audit | 2026-09-07 |
+| `pbr_cube.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `pilha_crystal_1.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_2.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_3.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

@@ -1106,7 +1106,7 @@
   },
   {
     "file": "objects3d/Units/license.txt",
-    "flag": "beherith-review",
+    "flag": "unused",
     "comments": []
   },
   {
@@ -1260,7 +1260,7 @@
   },
   {
     "file": "objects3d/fgrep.exe",
-    "flag": "beherith-review",
+    "flag": "unused",
     "comments": [
       {
         "author": "BAR CLA Bot",
@@ -1268,26 +1268,6 @@
         "text": "Why is the .exe in here?"
       }
     ]
-  },
-  {
-    "file": "objects3d/fir_tree_large.s3o",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "objects3d/fir_tree_medium.s3o",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "objects3d/fir_tree_small.s3o",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "objects3d/fir_tree_smallest.s3o",
-    "flag": "beherith-review",
-    "comments": []
   },
   {
     "file": "objects3d/pbr_cube.s3o",
@@ -2620,56 +2600,6 @@
     "comments": []
   },
   {
-    "file": "unittextures/pilha_crystal_blue_tex1.tga",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "unittextures/pilha_crystal_green_tex1.tga",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "unittextures/pilha_crystal_lime_tex1.tga",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "unittextures/pilha_crystal_obsidian_tex1.tga",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "unittextures/pilha_crystal_orange_tex1.tga",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "unittextures/pilha_crystal_quartz_tex1.tga",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "unittextures/pilha_crystal_red_tex1.tga",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "unittextures/pilha_crystal_teal_tex1.tga",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "unittextures/pilha_crystal_team_tex1.tga",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "unittextures/pilha_crystal_violet_tex1.tga",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
     "file": "unittextures/pinkchicken.dds",
     "flag": "unused",
     "comments": []
@@ -2701,21 +2631,6 @@
   },
   {
     "file": "unittextures/redhead4.dds",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "unittextures/tree_fir_tall_5_1.dds",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "unittextures/tree_fir_tall_5_2.dds",
-    "flag": "beherith-review",
-    "comments": []
-  },
-  {
-    "file": "unittextures/tree_fir_tall_5_normal.dds",
     "flag": "beherith-review",
     "comments": []
   },
