@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1998**
+Total assets recorded: **2005**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -1396,6 +1396,8 @@ Total assets recorded: **1998**
 | `Units/legfus_dead.s3o` | _awaiting license_ | Protar | #4158 | 2026-09-01 |
 | `Units/leggant.s3o` | _awaiting license_ | Protar | #5136 | 2026-09-01 |
 | `Units/leggant_dead.s3o` | _awaiting license_ | Protar | #5136 | 2026-09-01 |
+| `Units/leggantbig.s3o` | _awaiting license_ | Protar | #5879 | 2026-09-11 |
+| `Units/leggantbig_dead.s3o` | _awaiting license_ | Protar | #5879 | 2026-09-11 |
 | `Units/leggat.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `Units/leggat_dead.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `Units/leggatet3.s3o` | _awaiting license_ | Protar | #4292 | 2026-09-01 |
@@ -1983,8 +1985,13 @@ Total assets recorded: **1998**
 | `scavs/cormandot4.s3o` | _awaiting license_ | FireStorm | #3494 | 2026-09-01 |
 | `scavs/cube_ptaq_backup.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
 | `scavs/scavbeacon.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `scavs/scavbeacon_t1.s3o` | _awaiting license_ | Protar | #3096 | 2026-09-11 |
+| `scavs/scavbeacon_t2.s3o` | _awaiting license_ | Protar | #3096 | 2026-09-11 |
+| `scavs/scavbeacon_t3.s3o` | _awaiting license_ | Protar | #3096 | 2026-09-11 |
+| `scavs/scavbeacon_t4.s3o` | _awaiting license_ | Protar | #3096 | 2026-09-11 |
 | `scavs/scavbeaconbyar.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
 | `scavs/scavbeacondroppodbyar.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
+| `scavs/scavbeaconprotar.s3o` | _awaiting license_ | Protar | manual-audit | 2026-09-11 |
 | `scavs/scavcrate.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
 | `scavs/scavdrag.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavs/scavdtf.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |

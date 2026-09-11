@@ -99,17 +99,46 @@
   {
     "file": "bitmaps/projectiletextures/fireball.tga",
     "flag": "unsure",
-    "comments": []
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "Only used in Nuke explosion - can/should be replaced"
+      }
+    ]
   },
   {
     "file": "bitmaps/projectiletextures/flare-raptors.tga",
     "flag": "unsure",
-    "comments": []
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "Old unedited variant of flare.tga (which icexuick made transparent)."
+      }
+    ]
+  },
+  {
+    "file": "bitmaps/projectiletextures/flare.tga",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "Icexuick made it transparant.\nOriginal from (probably) Forboding"
+      }
+    ]
   },
   {
     "file": "bitmaps/projectiletextures/flare1.tga",
     "flag": "unsure",
-    "comments": []
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "original not from me(icexuick), but made it transparant.\nneeds remake"
+      }
+    ]
   },
   {
     "file": "bitmaps/projectiletextures/flashside3.tga",
@@ -125,17 +154,35 @@
   {
     "file": "bitmaps/projectiletextures/glow.tga",
     "flag": "unsure",
-    "comments": []
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "original not from me(icexuick), but made it transparant.\nneeds remake"
+      }
+    ]
   },
   {
     "file": "bitmaps/projectiletextures/glow2.tga",
     "flag": "unsure",
-    "comments": []
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "original not from me(icexuick), but made it transparant.\nneeds remake"
+      }
+    ]
   },
   {
     "file": "bitmaps/projectiletextures/graysmoke.tga",
     "flag": "unsure",
-    "comments": []
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "This one is old and ugly. I think it is currently in in 38 effects, so should be remade."
+      }
+    ]
   },
   {
     "file": "bitmaps/projectiletextures/gunshotxl.tga",
@@ -194,7 +241,13 @@
   {
     "file": "bitmaps/projectiletextures/nanobeam-resurrect.png",
     "flag": "unsure",
-    "comments": []
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "Currently only used by Juno Sphere emit GFX. Can be easily replaced, or even removed."
+      }
+    ]
   },
   {
     "file": "bitmaps/projectiletextures/new_dirta.png",
@@ -888,7 +941,24 @@
   {
     "file": "objects3d/SimpleFlare.s3o",
     "flag": "unsure",
-    "comments": []
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "not used in BAR, but SimpleFlareXL is used everywhere.\nProbably XL is tainted by the original?"
+      }
+    ]
+  },
+  {
+    "file": "objects3d/SimpleFlareXL.s3o",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "Used by raptors for missiles/AA weapons.\nI guess this came from SimpleFlare.s3o from fx-Doo?"
+      }
+    ]
   },
   {
     "file": "objects3d/Units/arm7X7C.s3o",
@@ -1167,7 +1237,13 @@
   {
     "file": "objects3d/fgrep.exe",
     "flag": "beherith-review",
-    "comments": []
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "Why is the .exe in here?"
+      }
+    ]
   },
   {
     "file": "objects3d/fir_tree_large.s3o",
@@ -1202,6 +1278,17 @@
         "author": "BAR CLA Bot",
         "date": "2026-09-01",
         "text": "The rocks30 files have this comment: They are licensed to Beherith (mysterme@gmail.com) under the Royalty-Free Blender Market license to be included in BAR. - Do we have this included in BAR?"
+      }
+    ]
+  },
+  {
+    "file": "objects3d/scavs/corscavtcg.s3o",
+    "flag": "",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "custom scav cloud generator thing - seems to not be in any file/or in use."
       }
     ]
   },
