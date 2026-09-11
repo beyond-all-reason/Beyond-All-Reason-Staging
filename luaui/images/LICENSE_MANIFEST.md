@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **790**
+Total assets recorded: **792**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -37,6 +37,7 @@ Total assets recorded: **790**
 | `advplayerslist/cpu.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/cross.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/energy.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `advplayerslist/eraser.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-09-11 |
 | `advplayerslist/flags/ad.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/ae.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/af.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
@@ -713,6 +714,7 @@ Total assets recorded: **790**
 | `luagrass/grassx4.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `luagrass/grassx4_2.obj` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `luagrass/license.txt` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `mapmarksfx/eraser.dds` | _awaiting license_ | icexuick | manual-audit | 2026-09-11 |
 | `mapmarksfx/eraser_old.dds` | _awaiting license_ | icexuick | manual-audit | 2026-09-01 |
 | `mapmarksfx/glow.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `mapmarksfx/ring.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |

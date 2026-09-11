@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unittextures/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1052**
+Total assets recorded: **1054**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -1016,6 +1016,8 @@ Total assets recorded: **1052**
 | `dice2.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
 | `energyball_tex.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `energyball_tex2.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `gingerbread1.dds` | `LicenseRef-BAR-CLA-1.0` | Christiaan van Hoegee | manual-audit | 2026-09-11 |
+| `gingerbread2.dds` | `LicenseRef-BAR-CLA-1.0` | Christiaan van Hoegee | manual-audit | 2026-09-11 |
 | `greenchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `greyrock2.tga` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `leegmech_normal.dds` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-07 |

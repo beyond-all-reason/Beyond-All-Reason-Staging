@@ -345,7 +345,13 @@
   {
     "file": "luaui/images/advplayerslist/draw.dds",
     "flag": "unsure",
-    "comments": []
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "No idea, probably can be removed?"
+      }
+    ]
   },
   {
     "file": "luaui/images/advplayerslist/eraser.dds",
@@ -389,8 +395,14 @@
   },
   {
     "file": "luaui/images/advplayerslist/pencil.dds",
-    "flag": "unsure",
-    "comments": []
+    "flag": "unused",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "Is for non-commercial use only -remove (also unused)"
+      }
+    ]
   },
   {
     "file": "luaui/images/advplayerslist/ping.dds",
@@ -649,8 +661,14 @@
   },
   {
     "file": "luaui/images/mapmarksfx/pencil.dds",
-    "flag": "unsure",
-    "comments": []
+    "flag": "unused",
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "is for non-commercial use only - remove (also should be unised)"
+      }
+    ]
   },
   {
     "file": "luaui/images/mapmarksfx/ring.dds",
@@ -780,7 +798,13 @@
   {
     "file": "luaui/images/stripes.png",
     "flag": "unsure",
-    "comments": []
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "Probably Floris or Icexuick made this"
+      }
+    ]
   },
   {
     "file": "luaui/sounds/buildbar_add.wav",
@@ -1428,7 +1452,13 @@
   {
     "file": "unitpics/scavengers/armfavold.dds",
     "flag": "unused",
-    "comments": []
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "I think Flaka made this one..."
+      }
+    ]
   },
   {
     "file": "unitpics/scavengers/armfgate.dds",
@@ -1454,7 +1484,13 @@
   {
     "file": "unitpics/scavengers/armmg.dds",
     "flag": "unsure",
-    "comments": []
+    "comments": [
+      {
+        "author": "BAR CLA Bot",
+        "date": "2026-09-11",
+        "text": "I think Icexuick kitbashed this from armraz and armbeamer - so authors would be Beherith and PtaQ"
+      }
+    ]
   },
   {
     "file": "unitpics/scavengers/armpship.dds",

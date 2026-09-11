@@ -54867,6 +54867,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "luaui/images/advplayerslist/eraser.dds",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-09-11T09:36:05Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "public domain",
     "date": "2026-09-01T20:27:05Z",
     "file": "luaui/images/advplayerslist/flags/ad.png",
@@ -60336,6 +60344,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "luaui/images/mapmarksfx/eraser.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-09-11T09:36:05Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -100302,6 +100319,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unitpics/scavengers/armmg.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Beherith, PtaQ",
+    "pr": "manual-audit",
+    "date": "2026-09-11T09:25:33Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Beherith",
     "date": "2026-09-01T19:52:22Z",
     "file": "unitpics/scavengers/armmh.dds",
@@ -114039,6 +114065,22 @@
     "file": "unittextures/energyball_tex2.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/gingerbread1.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Christiaan van Hoegee",
+    "pr": "manual-audit",
+    "date": "2026-09-11T09:25:33Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/gingerbread2.dds",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Christiaan van Hoegee",
+    "pr": "manual-audit",
+    "date": "2026-09-11T09:25:33Z",
     "source": "manual-audit"
   },
   {
