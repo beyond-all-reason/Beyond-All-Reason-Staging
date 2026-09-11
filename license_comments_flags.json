@@ -1307,7 +1307,7 @@
   },
   {
     "file": "objects3d/scavs/corscavtcg.s3o",
-    "flag": "",
+    "flag": "unused",
     "comments": [
       {
         "author": "BAR CLA Bot",

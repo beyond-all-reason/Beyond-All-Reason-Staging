@@ -67503,22 +67503,22 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Flaka",
-    "date": "2026-09-01T20:07:06Z",
     "file": "objects3d/Units/armthor.s3o",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Flaka",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-11T09:59:17Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Flaka",
-    "date": "2026-09-01T20:07:06Z",
     "file": "objects3d/Units/armthor_dead.s3o",
+    "status": "awaiting_license",
     "license": "",
+    "contributor": "Flaka",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-09-11T09:59:17Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -79235,6 +79235,15 @@
     "pr": "3494",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "objects3d/scavs/corscavtcg.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Fjoersteller",
+    "pr": "manual-audit",
+    "date": "2026-09-11T09:59:17Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",

@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **2007**
+Total assets recorded: **2008**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -631,8 +631,8 @@ Total assets recorded: **2007**
 | `Units/armsy_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armtarg.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armtarg_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `Units/armthor.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
-| `Units/armthor_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `Units/armthor.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-11 |
+| `Units/armthor_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-11 |
 | `Units/armthovr.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `Units/armthovr_dead.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `Units/armthund.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -1985,6 +1985,7 @@ Total assets recorded: **2007**
 | `scavs/armbotrail.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavs/cords.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavs/cormandot4.s3o` | _awaiting license_ | FireStorm | #3494 | 2026-09-01 |
+| `scavs/corscavtcg.s3o` | _awaiting license_ | Fjoersteller | manual-audit | 2026-09-11 |
 | `scavs/cube_ptaq_backup.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
 | `scavs/scavbeacon.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
 | `scavs/scavbeacon_t1.s3o` | _awaiting license_ | Protar | #3096 | 2026-09-11 |
