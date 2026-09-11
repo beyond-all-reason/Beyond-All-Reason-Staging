@@ -77113,6 +77113,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "objects3d/akbomb2.s3o",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Mr Bob",
+    "pr": "manual-audit",
+    "date": "2026-09-11T09:57:03Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/armpw_anim_projectile.s3o",
