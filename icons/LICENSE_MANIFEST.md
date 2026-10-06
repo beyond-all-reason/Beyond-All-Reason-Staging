@@ -171,7 +171,7 @@ Total assets recorded: **831**
 | `cormando.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `cormlv_1.0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `corparrow.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `corprinter.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `corprinter.png` | _awaiting license_ | Kyle Shepherd | manual-audit | 2026-10-06 |
 | `corpyro_1.15.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `corroach_0.9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `corseal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -182,7 +182,7 @@ Total assets recorded: **831**
 | `corsumo.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `cortermite_1.5.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `corthermite.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `cortorch.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `cortorch.png` | _awaiting license_ | Kyle Shepherd | manual-audit | 2026-10-06 |
 | `cortrem_t2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `def_beamer.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `def_t1_arty.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -615,7 +615,7 @@ Total assets recorded: **831**
 | `inverted/sub_t3x.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/sub_t4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/sub_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `inverted/t2_quad_artillery_ship.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5427 | 2026-08-31 |
+| `inverted/t2_quad_artillery_ship.png` | _awaiting license_ | Johnathan Crimson | #5427 | 2026-10-06 |
 | `inverted/t3_allterrain_drone_cluster_bot.png` | _awaiting license_ | ZephyrSkies7 | #5357 | 2026-08-31 |
 | `inverted/t3_bot_clusterarty.png` | _awaiting license_ | ZephyrSkies7 | #4508 | 2026-08-31 |
 | `inverted/t3_bot_shotgun.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4339 | 2026-08-31 |
@@ -788,7 +788,7 @@ Total assets recorded: **831**
 | `sub_t3x.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `sub_t4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `sub_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `t2_quad_artillery_ship.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5427 | 2026-08-31 |
+| `t2_quad_artillery_ship.png` | _awaiting license_ | Johnathan Crimson | #5427 | 2026-10-06 |
 | `t3_allterrain_drone_cluster_bot.png` | _awaiting license_ | ZephyrSkies7 | #5357 | 2026-08-31 |
 | `t3_bot_clusterarty.png` | _awaiting license_ | ZephyrSkies7 | #4508 | 2026-08-31 |
 | `t3_bot_shotgun.png` | _awaiting license_ | ZephyrSkies7 | #4382 | 2026-08-31 |

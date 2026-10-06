@@ -1134,7 +1134,7 @@ Total assets recorded: **5719**
 | `icexuick_100/cursorupgmex_60.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorupgmex_61.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorupgmex_62.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `icexuick_100/cursorupgmex_63.png` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-08-28 |
+| `icexuick_100/cursorupgmex_63.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-10-06 |
 | `icexuick_100/cursorupgmex_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorupgmex_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorupgmex_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |

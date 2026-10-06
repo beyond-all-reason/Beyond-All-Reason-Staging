@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **792**
+Total assets recorded: **793**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -593,7 +593,7 @@ Total assets recorded: **792**
 | `energy.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `flank_icon.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `flank_icon_old.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `flowui_gl4/backgroundtile.png` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `flowui_gl4/backgroundtile.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-06 |
 | `flowui_gl4/glow.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `flowui_gl4/glow2.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `flowui_gl4/leaderboard.png` | _awaiting license_ | SethDGamre | #5767 | 2026-09-01 |
@@ -702,20 +702,20 @@ Total assets recorded: **792**
 | `lava/lava6_normalheight.tga` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `lava/lava7_diffuseemit.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `lava/lava7_normalheight.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `lava/license.txt` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `lava/license.txt` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-06 |
 | `lavadistortion.dds` | _awaiting license_ | Beherith | #3118 | 2026-09-01 |
 | `lavadistortion.png` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `license.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
-| `luagrass/Taldarim_V3_grassDist.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `luagrass/Taldarim_V3_grassDist.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-06 |
 | `luagrass/grass_field_medit.dds.cached.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `luagrass/grass_field_medit_flowering.dds.cached.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `luagrass/grass_field_mixed.dds.cached.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
-| `luagrass/grassx4.obj` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
-| `luagrass/grassx4.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
-| `luagrass/grassx4_2.obj` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
-| `luagrass/license.txt` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `luagrass/grassx4.obj` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-10-06 |
+| `luagrass/grassx4.s3o` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-10-06 |
+| `luagrass/grassx4_2.obj` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-10-06 |
+| `luagrass/license.txt` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-10-06 |
 | `mapmarksfx/eraser.dds` | _awaiting license_ | icexuick | manual-audit | 2026-09-11 |
-| `mapmarksfx/eraser_old.dds` | _awaiting license_ | icexuick | manual-audit | 2026-09-01 |
+| `mapmarksfx/eraser_old.dds` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-10-06 |
 | `mapmarksfx/glow.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `mapmarksfx/ring.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
 | `metal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -795,6 +795,7 @@ Total assets recorded: **792**
 | `snow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `solid.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `stripes-small.png` | _awaiting license_ | SethDGamre | #5915 | 2026-09-07 |
+| `stripes.png` | _awaiting license_ | Floris | manual-audit | 2026-10-06 |
 | `tidal-waves.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `vignette.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `vr_grid.png` | _awaiting license_ | Decay | manual-audit | 2026-09-01 |

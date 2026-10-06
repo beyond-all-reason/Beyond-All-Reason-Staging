@@ -472,8 +472,8 @@ Total assets recorded: **1441**
 | `raptors/nuke4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `raptors/rangeraptorhit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `raptors/rangeraptorroar.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/raptor_nuke.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/roostdie.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/raptor_nuke.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-06 |
+| `raptors/roostdie.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-06 |
 | `raptors/smallraptorattack.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `raptors/smallraptordead.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `raptors/talonattack.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

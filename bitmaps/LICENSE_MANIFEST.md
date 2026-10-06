@@ -52,22 +52,22 @@ Total assets recorded: **232**
 | `default/randdots.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `default/sakexplo2.tga` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `default/wake.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
-| `gpl/fire.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `gpl/fire.tga` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-10-06 |
 | `gpl/flame.tga` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
-| `gpl/flame_alt.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `gpl/flame_alt.tga` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-10-06 |
 | `gpl/jet.bmp` | `GPL-2.0-or-later` | Floris | #6118 | 2026-06-01 |
 | `gpl/jet2.bmp` | `GPL-2.0-or-later` | Floris | #6118 | 2026-06-01 |
 | `gpl/perlin_noise.jpg` | `GPL-2.0-or-later` | Floris | #6118 | 2026-06-01 |
-| `gpl/sporetrail.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
-| `gpl/sporetrail_xl.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `gpl/sporetrail.tga` | `GPL-2.0-or-later` | ForbodingAngel | manual-audit | 2026-10-06 |
+| `gpl/sporetrail_xl.tga` | `GPL-2.0-or-later` | ForbodingAngel | manual-audit | 2026-10-06 |
 | `gpl/treefire.png` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
 | `graphPaper.bmp` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `loadpictures/armada.jpg` | _awaiting license_ | Rubus | manual-audit | 2026-09-02 |
 | `loadpictures/cortex.jpg` | _awaiting license_ | Rubus | manual-audit | 2026-09-02 |
 | `loadpictures/manual/donations.jpg` | `LicenseRef-BAR-CLA-1.0` | PtaQQ | manual-audit | 2026-06-01 |
-| `loadpictures/manual/scavengers/BAR4K_Loadingscreen_5.jpg` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4281 | 2026-06-01 |
-| `loadpictures/manual/scavengers/BAR4K_Loadingscreen_7.jpg` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4281 | 2026-06-01 |
-| `loadpictures/manual/scavengers/BAR4K_Loadingscreen_8.jpg` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4281 | 2026-06-01 |
+| `loadpictures/manual/scavengers/BAR4K_Loadingscreen_5.jpg` | `GPL-2.0-or-later` | icexuick | #4281 | 2026-10-06 |
+| `loadpictures/manual/scavengers/BAR4K_Loadingscreen_7.jpg` | `GPL-2.0-or-later` | icexuick | #4281 | 2026-10-06 |
+| `loadpictures/manual/scavengers/BAR4K_Loadingscreen_8.jpg` | `GPL-2.0-or-later` | icexuick | #4281 | 2026-10-06 |
 | `logo.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `logo2.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `logo_a.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
@@ -119,7 +119,7 @@ Total assets recorded: **232**
 | `projectiletextures/flare2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-09-07 |
 | `projectiletextures/flash1.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flashside1.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
-| `projectiletextures/flashside2.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `projectiletextures/flashside2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-06 |
 | `projectiletextures/flashside3.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/fragment.tga` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
 | `projectiletextures/glow3.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
