@@ -28,7 +28,7 @@ Total assets recorded: **232**
 | `atmos/smoke_puff_red.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2 | 2026-05-27 |
 | `atmos/smoke_puff_red.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `atmos/waterfoam.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `cc/dirt.png` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
+| `cc/dirt.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `cc/purpleexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `cc/uglynovaexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `decals/decal_scar_50.tga` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
@@ -199,12 +199,12 @@ Total assets recorded: **232**
 | `raptors/bloodsplat2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `raptors/bloodsplat2_white.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `raptors/bloodsplat2old.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `scars/scar1.bmp` | `LicenseRef-BAR-CLA-1.0` | beherith | manual-audit | 2026-05-27 |
-| `scars/scar2.bmp` | `LicenseRef-BAR-CLA-1.0` | beherith | manual-audit | 2026-05-27 |
-| `scars/scar3.bmp` | `LicenseRef-BAR-CLA-1.0` | beherith | manual-audit | 2026-05-27 |
-| `scars/scar4.bmp` | `LicenseRef-BAR-CLA-1.0` | beherith | manual-audit | 2026-05-27 |
-| `scars/scar5.bmp` | `LicenseRef-BAR-CLA-1.0` | beherith | manual-audit | 2026-05-27 |
-| `scars/scar6.bmp` | `LicenseRef-BAR-CLA-1.0` | beherith | manual-audit | 2026-05-27 |
+| `scars/scar1.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-07 |
+| `scars/scar2.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-07 |
+| `scars/scar3.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-07 |
+| `scars/scar4.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-07 |
+| `scars/scar5.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-07 |
+| `scars/scar6.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-07 |
 | `smoke/smoke00.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `smoke/smoke01.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `smoke/smoke02.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

@@ -14,7 +14,7 @@ Total assets recorded: **1066**
 | `Arm_wreck_color.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
 | `Arm_wreck_color_normal.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
 | `Arm_wreck_other.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
-| `LICENSE_MANIFEST.md` | _awaiting license_ | BAR CLA Bot | manual-audit | 2026-09-07 |
+| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-10-07 |
 | `anttex.dds` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
 | `apexchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `aquachicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |

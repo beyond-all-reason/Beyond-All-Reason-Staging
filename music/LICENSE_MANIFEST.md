@@ -8,7 +8,7 @@ Total assets recorded: **102**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
-| `LICENSE_MANIFEST.md` | _awaiting license_ | BAR CLA Bot | manual-audit | 2026-08-31 |
+| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-10-07 |
 | `custom/readme.txt` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
 | `original/credits.txt` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
 | `original/defeat/placeholder.txt` | _awaiting license_ | Damgam | #5922 | 2026-08-31 |

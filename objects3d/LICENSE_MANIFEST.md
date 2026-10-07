@@ -16,7 +16,7 @@ Total assets recorded: **2015**
 | `Critters/critter_penguin.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
 | `Critters/critter_penguinbro.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
 | `Critters/critter_penguinking.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
-| `LICENSE_MANIFEST.md` | _awaiting license_ | BAR CLA Bot | manual-audit | 2026-09-07 |
+| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-10-07 |
 | `LegionUnitCapsule.s3o` | _awaiting license_ | Tharsis | #3837 | 2026-09-07 |
 | `Lootboxes/lootbox.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-07 |
 | `Lootboxes/lootboxnanoarm.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |

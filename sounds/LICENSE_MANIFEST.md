@@ -8,7 +8,7 @@ Total assets recorded: **1441**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
-| `LICENSE_MANIFEST.md` | _awaiting license_ | BAR CLA Bot | manual-audit | 2026-08-31 |
+| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-10-07 |
 | `atmos-geovents/geovent.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `atmos-geovents/geoventshort.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `atmos-local/fireburn.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

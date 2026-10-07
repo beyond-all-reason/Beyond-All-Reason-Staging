@@ -8,7 +8,7 @@ Total assets recorded: **9**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
-| `LICENSE_MANIFEST.md` | _awaiting license_ | BAR CLA Bot | manual-audit | 2026-08-31 |
+| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-10-07 |
 | `blank.png` | `GPL-2.0-or-later` | Fx-Doo | manual-audit | 2026-08-28 |
 | `bullcup.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `comwreath.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |

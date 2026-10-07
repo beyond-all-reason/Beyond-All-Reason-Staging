@@ -8,7 +8,7 @@ Total assets recorded: **5**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
-| `LICENSE_MANIFEST.md` | _awaiting license_ | BAR CLA Bot | manual-audit | 2026-08-31 |
+| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-10-07 |
 | `Legion.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7071 | 2026-05-27 |
 | `armada.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `cortex.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

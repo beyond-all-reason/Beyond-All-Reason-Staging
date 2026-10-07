@@ -10,7 +10,7 @@ Total assets recorded: **20**
 |---|---|---|---|---|
 | `Exo2-Regular.otf` | _awaiting license_ | Natanael Gama | manual-audit | 2026-09-02 |
 | `Exo2-SemiBold.otf` | _awaiting license_ | Natanael Gama | manual-audit | 2026-09-02 |
-| `LICENSE_MANIFEST.md` | _awaiting license_ | BAR CLA Bot | manual-audit | 2026-09-02 |
+| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-10-07 |
 | `Mesmerize-Bold.ttf` | `CC0-1.0` | public domain | manual-audit | 2026-09-02 |
 | `Mesmerize-Regular.ttf` | `CC0-1.0` | public domain | manual-audit | 2026-09-02 |
 | `OFL-Poppins.txt` | _awaiting license_ | Indian Type Foundry / Jonny Pinhorn | #3977 | 2026-09-02 |

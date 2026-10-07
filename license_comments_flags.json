@@ -352,7 +352,8 @@
     {
       "file": "bitmaps/projectiletextures/fireball.tga",
       "flags": [
-        "unsure"
+        "unsure",
+        "replace"
       ],
       "comments": [
         {
@@ -365,7 +366,8 @@
     {
       "file": "bitmaps/projectiletextures/flare-raptors.tga",
       "flags": [
-        "unsure"
+        "unsure",
+        "replace"
       ],
       "comments": [
         {
@@ -507,6 +509,13 @@
           "text": "Needs double check if it's clear of tainted artwork"
         }
       ]
+    },
+    {
+      "file": "bitmaps/projectiletextures/lightning.tga",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
     },
     {
       "file": "bitmaps/projectiletextures/lightninginair.tga",
@@ -1062,14 +1071,16 @@
     {
       "file": "luaui/images/advplayerslist/arrowd.png",
       "flags": [
-        "unsure"
+        "unsure",
+        "replace"
       ],
       "comments": []
     },
     {
       "file": "luaui/images/advplayerslist/bar.png",
       "flags": [
-        "unsure"
+        "unsure",
+        "replace"
       ],
       "comments": []
     },
@@ -1111,9 +1122,16 @@
     {
       "file": "luaui/images/advplayerslist/country.dds",
       "flags": [
-        "unsure"
+        "unsure",
+        "replace"
       ],
-      "comments": []
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-10-07",
+          "text": "Is this one even used?"
+        }
+      ]
     },
     {
       "file": "luaui/images/advplayerslist/cpu.dds",
@@ -1132,7 +1150,8 @@
     {
       "file": "luaui/images/advplayerslist/draw.dds",
       "flags": [
-        "unsure"
+        "unsure",
+        "replace"
       ],
       "comments": [
         {
@@ -1167,7 +1186,8 @@
     {
       "file": "luaui/images/advplayerslist/hourglass.png",
       "flags": [
-        "unsure"
+        "unsure",
+        "replace"
       ],
       "comments": []
     },
@@ -1209,9 +1229,16 @@
     {
       "file": "luaui/images/advplayerslist/notfirst.png",
       "flags": [
-        "unsure"
+        "unsure",
+        "replace"
       ],
-      "comments": []
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-10-07",
+          "text": "Where is this used?"
+        }
+      ]
     },
     {
       "file": "luaui/images/advplayerslist/pencil.dds",
@@ -2529,6 +2556,13 @@
           "text": "custom scav cloud generator thing - seems to not be in any file/or in use."
         }
       ]
+    },
+    {
+      "file": "sidepics/random.png",
+      "flags": [
+        "replace"
+      ],
+      "comments": []
     },
     {
       "file": "sounds/atmos-geovents/geovent.wav",
@@ -5310,6 +5344,167 @@
       "comments": []
     },
     {
+      "file": "sounds/raptors/bigbugdie.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/bigbugdie1.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/bigraptorbreath.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/bigraptordead.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/bigraptorroar.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/bloodsplash.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/bloodsplash2.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/bloodsplash3.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/bugarty.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/bugattack.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/bugdie.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/cflamhvy1.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/cxplomed2.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/cxplonuk4.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/cxplosml2.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/e16.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/e25.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/empbomb.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/empbomb_OLD.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/junohit2edit.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/nuke4.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/rangeraptorhit.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/rangeraptorroar.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
       "file": "sounds/raptors/raptor_nuke.wav",
       "flags": [
         "unsure"
@@ -5320,6 +5515,34 @@
       "file": "sounds/raptors/roostdie.wav",
       "flags": [
         "unsure"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/smallraptorattack.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/smallraptordead.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/talonattack.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/raptors/talondie.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
       ],
       "comments": []
     },
@@ -7292,6 +7515,20 @@
     },
     {
       "file": "sounds/uw/xplodep1.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/uw/xplodep2.wav",
+      "flags": [
+        "mixed-assets-multiple-asset-stores"
+      ],
+      "comments": []
+    },
+    {
+      "file": "sounds/uw/xplodep3.wav",
       "flags": [
         "mixed-assets-multiple-asset-stores"
       ],

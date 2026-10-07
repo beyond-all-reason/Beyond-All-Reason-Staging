@@ -8,12 +8,12 @@ Total assets recorded: **17**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
-| `LICENSE_MANIFEST.md` | _awaiting license_ | BAR CLA Bot | manual-audit | 2026-09-01 |
-| `buildbar_add.wav` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
-| `buildbar_click.wav` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
-| `buildbar_hover.wav` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
-| `buildbar_rem.wav` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
-| `buildbar_waypoint.wav` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
+| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-10-07 |
+| `buildbar_add.wav` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
+| `buildbar_click.wav` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
+| `buildbar_hover.wav` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
+| `buildbar_rem.wav` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
+| `buildbar_waypoint.wav` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `button.wav` | _awaiting license_ | Floris | manual-audit | 2026-09-07 |
 | `click.wav` | _awaiting license_ | Floris | manual-audit | 2026-09-07 |
 | `click2.wav` | _awaiting license_ | Floris | manual-audit | 2026-09-07 |

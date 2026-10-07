@@ -306,8 +306,8 @@ Total assets recorded: **793**
 | `advplayerslist/flags/za.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/zm.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/zw.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
-| `advplayerslist/gbr.png` | _awaiting license_ | beherith | manual-audit | 2026-09-01 |
-| `advplayerslist/ger.png` | _awaiting license_ | beherith | manual-audit | 2026-09-01 |
+| `advplayerslist/gbr.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
+| `advplayerslist/ger.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `advplayerslist/id.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/indent.png` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
 | `advplayerslist/indicator.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
@@ -606,7 +606,7 @@ Total assets recorded: **793**
 | `fractal_voronoi_tiled_1024_1.png` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `glow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `glow2.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
-| `gradient_alpha_2.png` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
+| `gradient_alpha_2.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `grid3d64rgb.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
 | `groupicons/aa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `groupicons/antinuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -754,7 +754,7 @@ Total assets recorded: **793**
 | `noisetextures/worley_rgbnorm_01_asum_128_v1_mip.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `noisetextures/worley_rsum_bgaind_128_v1.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `nuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `paralyzed.png` | _awaiting license_ | beherith | manual-audit | 2026-09-01 |
+| `paralyzed.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `pip/PipActivity.png` | _awaiting license_ | Floris | #6945 | 2026-06-16 |
 | `pip/PipBlip.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
 | `pip/PipCam.png` | _awaiting license_ | Floris | #6649 | 2026-06-16 |

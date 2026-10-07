@@ -9,22 +9,22 @@ Total assets recorded: **5719**
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
 | `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-08-28 |
-| `cursorattack_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
-| `cursorcapture_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
-| `cursordefend_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
+| `cursorattack_0.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
+| `cursorcapture_0.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
+| `cursordefend_0.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `cursordgun_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
 | `cursorfight_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
-| `cursormove_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
+| `cursormove_0.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `cursornormal.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `cursornormal_0.png` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
-| `cursorpatrol_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
-| `cursorpickup_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
-| `cursorreclamate_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
-| `cursorrepair_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
-| `cursorrevive_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
+| `cursorpatrol_0.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
+| `cursorpickup_0.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
+| `cursorreclamate_0.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
+| `cursorrepair_0.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
+| `cursorrevive_0.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `cursorselfd_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
 | `cursorsettarget_0.bmp` | _awaiting license_ | Bluestone | manual-audit | 2026-08-28 |
-| `cursorunload_0.bmp` | _awaiting license_ | beherith | manual-audit | 2026-08-28 |
+| `cursorunload_0.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `cursorwait_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
 | `icexuick_100/cursorBomb.PNG` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `icexuick_100/cursorBomb.txt` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
