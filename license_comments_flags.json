@@ -366,7 +366,7 @@
     {
       "file": "bitmaps/projectiletextures/flare-raptors.tga",
       "flags": [
-        "unsure",
+        "unused",
         "replace"
       ],
       "comments": [
@@ -578,6 +578,7 @@
     {
       "file": "bitmaps/projectiletextures/nanobeam-resurrect.png",
       "flags": [
+        "unused",
         "replace"
       ],
       "comments": [

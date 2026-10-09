@@ -46641,6 +46641,14 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/projectiletextures/fireball.tga",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
+    "pr": "manual-audit",
+    "date": "2026-10-09T10:21:01Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "ForbodingAngel",
     "date": "2026-08-28T11:46:48Z",
     "file": "bitmaps/projectiletextures/firenovaexplo.tga",
@@ -46666,6 +46674,14 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "bitmaps/projectiletextures/flare1.tga",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
+    "pr": "manual-audit",
+    "date": "2026-10-09T10:21:01Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -46721,11 +46737,37 @@
     "status": "awaiting_license"
   },
   {
+    "file": "bitmaps/projectiletextures/glow.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Yeha",
+    "pr": "manual-audit",
+    "date": "2026-10-09T10:21:01Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/glow2.tga",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-10-09T10:21:01Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-05-27T19:34:40Z",
     "file": "bitmaps/projectiletextures/glow3.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/graysmoke.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Yeha",
+    "pr": "manual-audit",
+    "date": "2026-10-09T10:21:01Z",
     "source": "manual-audit"
   },
   {
@@ -46915,6 +46957,14 @@
     "file": "bitmaps/projectiletextures/nanobeam-reclaim.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "bitmaps/projectiletextures/nanobeam-resurrect.png",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-10-09T10:21:01Z",
     "source": "manual-audit"
   },
   {
@@ -47723,11 +47773,11 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "BAR CLA Bot",
+    "date": "2026-10-07T09:51:31Z",
     "file": "fonts/LICENSE_MANIFEST.md",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "BAR CLA Bot",
     "pr": "manual-audit",
-    "date": "2026-10-07T09:51:31Z",
     "source": "manual-audit"
   },
   {
@@ -52746,11 +52796,11 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-10-07T09:47:31Z",
     "file": "icons/inverted/t2_quad_artillery_ship.png",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "icexuick",
     "pr": "5427",
-    "date": "2026-10-07T09:47:31Z",
     "source": "manual-audit"
   },
   {
@@ -54139,11 +54189,11 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "icexuick",
+    "date": "2026-10-07T09:47:31Z",
     "file": "icons/t2_quad_artillery_ship.png",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "icexuick",
     "pr": "5427",
-    "date": "2026-10-07T09:47:31Z",
     "source": "manual-audit"
   },
   {
@@ -54552,11 +54602,11 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "BAR CLA Bot",
+    "date": "2026-10-07T09:51:31Z",
     "file": "luarules/images/LICENSE_MANIFEST.md",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "BAR CLA Bot",
     "pr": "manual-audit",
-    "date": "2026-10-07T09:51:31Z",
     "source": "manual-audit"
   },
   {
@@ -54836,6 +54886,15 @@
     "file": "luaui/images/advplayerslist/cortex_default.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist/country.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-10-09T10:21:01Z",
     "source": "manual-audit"
   },
   {
@@ -61065,11 +61124,11 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "BAR CLA Bot",
+    "date": "2026-10-07T09:51:03Z",
     "file": "luaui/sounds/LICENSE_MANIFEST.md",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "BAR CLA Bot",
     "pr": "manual-audit",
-    "date": "2026-10-07T09:51:03Z",
     "source": "manual-audit"
   },
   {
@@ -61243,11 +61302,11 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "BAR CLA Bot",
+    "date": "2026-10-07T09:51:31Z",
     "file": "music/LICENSE_MANIFEST.md",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "BAR CLA Bot",
     "pr": "manual-audit",
-    "date": "2026-10-07T09:51:31Z",
     "source": "manual-audit"
   },
   {
@@ -62231,11 +62290,11 @@
     "status": "awaiting_license"
   },
   {
+    "contributor": "BAR CLA Bot",
+    "date": "2026-10-07T09:51:31Z",
     "file": "objects3d/LICENSE_MANIFEST.md",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "BAR CLA Bot",
     "pr": "manual-audit",
-    "date": "2026-10-07T09:51:31Z",
     "source": "manual-audit"
   },
   {
@@ -79551,11 +79610,11 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "BAR CLA Bot",
+    "date": "2026-10-07T09:50:22Z",
     "file": "sidepics/LICENSE_MANIFEST.md",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "BAR CLA Bot",
     "pr": "manual-audit",
-    "date": "2026-10-07T09:50:22Z",
     "source": "manual-audit"
   },
   {
@@ -79784,11 +79843,11 @@
     "source": "manual-audit"
   },
   {
+    "contributor": "BAR CLA Bot",
+    "date": "2026-10-07T09:51:31Z",
     "file": "sounds/LICENSE_MANIFEST.md",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "BAR CLA Bot",
     "pr": "manual-audit",
-    "date": "2026-10-07T09:51:31Z",
     "source": "manual-audit"
   },
   {
@@ -105244,6 +105303,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/AlienTreeTexture.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "TheTeaGuns",
+    "pr": "manual-audit",
+    "date": "2026-10-09T10:21:01Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "FireStorm",
     "date": "2026-06-15T21:16:11Z",
     "file": "unittextures/Arm_color.dds",
@@ -105298,11 +105366,46 @@
     "status": "awaiting_license"
   },
   {
+    "file": "unittextures/EvergreenTexture.dds",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-10-09T10:21:01Z",
+    "source": "manual-audit"
+  },
+  {
+    "contributor": "BAR CLA Bot",
+    "date": "2026-10-07T09:51:31Z",
     "file": "unittextures/LICENSE_MANIFEST.md",
     "license": "LicenseRef-BAR-CLA-1.0",
-    "contributor": "BAR CLA Bot",
     "pr": "manual-audit",
-    "date": "2026-10-07T09:51:31Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/PineSnowyTexture.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "TheTeaGuns",
+    "pr": "manual-audit",
+    "date": "2026-10-09T10:21:01Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/PineSnowyTexture_w.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "TheTeaGuns",
+    "pr": "manual-audit",
+    "date": "2026-10-09T10:21:01Z",
+    "source": "manual-audit"
+  },
+  {
+    "file": "unittextures/PineTexture.dds",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-10-09T10:21:01Z",
     "source": "manual-audit"
   },
   {

@@ -4,17 +4,22 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unittextures/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1066**
+Total assets recorded: **1071**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
+| `AlienTreeTexture.dds` | _awaiting license_ | TheTeaGuns | manual-audit | 2026-10-09 |
 | `Arm_color.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
 | `Arm_normal.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-16 |
 | `Arm_other.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
 | `Arm_wreck_color.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
 | `Arm_wreck_color_normal.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
 | `Arm_wreck_other.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
+| `EvergreenTexture.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-10-09 |
 | `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-10-07 |
+| `PineSnowyTexture.dds` | _awaiting license_ | TheTeaGuns | manual-audit | 2026-10-09 |
+| `PineSnowyTexture_w.dds` | _awaiting license_ | TheTeaGuns | manual-audit | 2026-10-09 |
+| `PineTexture.dds` | _awaiting license_ | Floris | manual-audit | 2026-10-09 |
 | `anttex.dds` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
 | `apexchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `aquachicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |

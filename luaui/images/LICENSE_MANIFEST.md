@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **793**
+Total assets recorded: **794**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -34,6 +34,7 @@ Total assets recorded: **793**
 | `advplayerslist/camera.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
 | `advplayerslist/chat.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/cortex_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `advplayerslist/country.dds` | _awaiting license_ | Floris | manual-audit | 2026-10-09 |
 | `advplayerslist/cpu.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/cross.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/energy.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
