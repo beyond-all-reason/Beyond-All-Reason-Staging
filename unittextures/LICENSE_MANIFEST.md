@@ -946,7 +946,7 @@ Total assets recorded: **1066**
 | `decals_features/legvp_dead_8_8_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-07 |
 | `decals_features/legwin_dead_4_4_aoplane.dds` | _awaiting license_ | Yzch | #5030 | 2026-09-01 |
 | `decals_features/legwint2_dead_6_6_aoplane.dds` | _awaiting license_ | Yzch | #5030 | 2026-09-01 |
-| `decals_features/mission_command_tower_dead_11_11_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-07 |
+| `decals_features/mission_command_tower_dead_11_11_aoplane.dds` | `CC-BY-SA-4.0` | Cremuss | #5030 | 2026-10-12 |
 | `decals_features/pilha_crystal_1_3_3_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `decals_features/pilha_crystal_1_aoplane.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `decals_features/pilha_crystal_2_5_5_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
@@ -1042,13 +1042,13 @@ Total assets recorded: **1066**
 | `pilha_crystal_tex2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_violet_tex1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `pinkchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
-| `raptorArtillery_1.dds` | _awaiting license_ | Rubus | #2436 | 2026-09-07 |
-| `raptorArtillery_2.dds` | _awaiting license_ | Rubus | #2436 | 2026-09-07 |
+| `raptorArtillery_1.dds` | `LicenseRef-BAR-CLA-1.0` | Rubus | #2436 | 2026-10-12 |
+| `raptorArtillery_2.dds` | `LicenseRef-BAR-CLA-1.0` | Rubus | #2436 | 2026-10-12 |
 | `raptorArtillery_n.png` | _awaiting license_ | Rubus | #2436 | 2026-09-07 |
 | `redchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `redchickenb.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `redchickenc.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
-| `redhead4.dds` | `CC-BY-SA-4.0` | ForbodingAngel | manual-audit | 2026-09-07 |
+| `redhead4.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `rocks1a_normal.tga` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `rocks30_def_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `rocks30_def_normal.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |

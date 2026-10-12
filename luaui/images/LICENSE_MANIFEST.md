@@ -599,12 +599,12 @@ Total assets recorded: **790**
 | `flowui_gl4/metalold.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `formationDot.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `forward.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
-| `fractal_voronoi_tiled.tmd` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
-| `fractal_voronoi_tiled_1024_1.png` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `fractal_voronoi_tiled.tmd` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `fractal_voronoi_tiled_1024_1.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `glow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `glow2.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
-| `gradient_alpha_2.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
-| `grid3d64rgb.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
+| `gradient_alpha_2.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `grid3d64rgb.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `groupicons/aa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `groupicons/antinuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `groupicons/builder.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
@@ -697,11 +697,11 @@ Total assets recorded: **790**
 | `lava/lava2_normalheight.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `lava/lava6_diffuseemit.tga` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `lava/lava6_normalheight.tga` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
-| `lava/lava7_diffuseemit.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `lava/lava7_normalheight.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `lava/lava7_diffuseemit.dds` | _awaiting license_ | icexuick | manual-audit | 2026-10-12 |
+| `lava/lava7_normalheight.dds` | _awaiting license_ | icexuick | manual-audit | 2026-10-12 |
 | `lava/license.txt` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-06 |
-| `lavadistortion.dds` | _awaiting license_ | Beherith | #3118 | 2026-09-01 |
-| `lavadistortion.png` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
+| `lavadistortion.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #3118 | 2026-10-12 |
+| `lavadistortion.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `license.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `luagrass/Taldarim_V3_grassDist.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-06 |
 | `luagrass/grass_field_medit.dds.cached.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
@@ -783,7 +783,7 @@ Total assets recorded: **790**
 | `repeat.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `repeat_old.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `returnfire.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7585 | 2026-08-31 |
-| `rgbnoise.png` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
+| `rgbnoise.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `scav-tileable_v001-alpha.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
 | `scav-tileable_v001_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
 | `scav-tileable_v002_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |

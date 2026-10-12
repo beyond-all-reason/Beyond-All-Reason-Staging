@@ -298,8 +298,7 @@
     {
       "file": "bitmaps/projectiletextures/decal_scar_50.tga",
       "flags": [
-        "unsure",
-        "beherith-review"
+        "unsure"
       ],
       "comments": [
         {
@@ -979,14 +978,14 @@
     {
       "file": "luaui/images/advplayerslist/gbr.png",
       "flags": [
-        "beherith-review"
+        "unused"
       ],
       "comments": []
     },
     {
       "file": "luaui/images/advplayerslist/ger.png",
       "flags": [
-        "beherith-review"
+        "unused"
       ],
       "comments": []
     },
@@ -1050,20 +1049,6 @@
       "file": "luaui/images/advplayerslist_mascot/santahat.png",
       "flags": [
         "unsure"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/aliasing_test_grid_128.tga",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/black.bmp",
-      "flags": [
-        "beherith-review"
       ],
       "comments": []
     },
@@ -1201,65 +1186,16 @@
       "comments": []
     },
     {
-      "file": "luaui/images/fractal_voronoi_tiled.tmd",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/fractal_voronoi_tiled_1024_1.png",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/gradient_alpha_2.png",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/grid3d64rgb.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/hexgrid.tga",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "luaui/images/lava/lava7_diffuseemit.dds",
       "flags": [
-        "beherith-review"
+        "icexuick-review"
       ],
       "comments": []
     },
     {
       "file": "luaui/images/lava/lava7_normalheight.dds",
       "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/lavadistortion.dds",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/lavadistortion.png",
-      "flags": [
-        "beherith-review"
+        "icexuick-review"
       ],
       "comments": []
     },
@@ -1294,7 +1230,7 @@
     {
       "file": "luaui/images/paralyzed.png",
       "flags": [
-        "beherith-review"
+        "replace"
       ],
       "comments": []
     },
@@ -1315,8 +1251,7 @@
     {
       "file": "luaui/images/rgbnoise.png",
       "flags": [
-        "unsure",
-        "beherith-review"
+        "replace"
       ],
       "comments": []
     },
@@ -1336,35 +1271,35 @@
     {
       "file": "luaui/sounds/buildbar_add.wav",
       "flags": [
-        "beherith-review"
+        "replace"
       ],
       "comments": []
     },
     {
       "file": "luaui/sounds/buildbar_click.wav",
       "flags": [
-        "beherith-review"
+        "replace"
       ],
       "comments": []
     },
     {
       "file": "luaui/sounds/buildbar_hover.wav",
       "flags": [
-        "beherith-review"
+        "replace"
       ],
       "comments": []
     },
     {
       "file": "luaui/sounds/buildbar_rem.wav",
       "flags": [
-        "beherith-review"
+        "replace"
       ],
       "comments": []
     },
     {
       "file": "luaui/sounds/buildbar_waypoint.wav",
       "flags": [
-        "beherith-review"
+        "replace"
       ],
       "comments": []
     },
@@ -9930,8 +9865,7 @@
     {
       "file": "unittextures/blank_normal.dds",
       "flags": [
-        "unused",
-        "beherith-review"
+        "unused"
       ],
       "comments": []
     },
@@ -10114,13 +10048,6 @@
       "file": "unittextures/crimsonchicken.dds",
       "flags": [
         "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "unittextures/decals_features/mission_command_tower_dead_11_11_aoplane.dds",
-      "flags": [
-        "beherith-review"
       ],
       "comments": []
     },
@@ -10770,20 +10697,6 @@
       "comments": []
     },
     {
-      "file": "unittextures/raptorArtillery_1.dds",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "unittextures/raptorArtillery_2.dds",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "unittextures/redchicken.dds",
       "flags": [
         "unused"
@@ -10801,13 +10714,6 @@
       "file": "unittextures/redchickenc.dds",
       "flags": [
         "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "unittextures/redhead4.dds",
-      "flags": [
-        "beherith-review"
       ],
       "comments": []
     },

@@ -59370,22 +59370,20 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T07:27:58Z",
     "file": "luaui/images/fractal_voronoi_tiled.tmd",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T19:46:26Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T07:27:58Z",
     "file": "luaui/images/fractal_voronoi_tiled_1024_1.png",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T19:46:26Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Floris",
@@ -59404,22 +59402,20 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-10-07T09:38:39Z",
     "file": "luaui/images/gradient_alpha_2.png",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T19:46:26Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-08-28T12:38:00Z",
     "file": "luaui/images/grid3d64rgb.bmp",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T19:46:26Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -60158,19 +60154,21 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T07:27:58Z",
     "file": "luaui/images/lava/lava7_diffuseemit.dds",
-    "license": "LicenseRef-BAR-CLA-1.0",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
     "pr": "manual-audit",
+    "date": "2026-10-12T19:46:26Z",
     "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T07:27:58Z",
     "file": "luaui/images/lava/lava7_normalheight.dds",
-    "license": "LicenseRef-BAR-CLA-1.0",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
     "pr": "manual-audit",
+    "date": "2026-10-12T19:46:26Z",
     "source": "manual-audit"
   },
   {
@@ -60182,22 +60180,20 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T07:27:58Z",
     "file": "luaui/images/lavadistortion.dds",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "3118",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T19:46:26Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-01T07:27:58Z",
     "file": "luaui/images/lavadistortion.png",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Beherith",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T19:46:26Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -60850,13 +60846,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-09-07T20:34:55Z",
     "file": "luaui/images/rgbnoise.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T19:46:26Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -113339,13 +113334,12 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Cremuss",
-    "date": "2026-09-07T20:34:55Z",
     "file": "unittextures/decals_features/mission_command_tower_dead_11_11_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "Cremuss",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T19:46:26Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -114114,22 +114108,20 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Rubus",
-    "date": "2026-09-07T20:40:48Z",
     "file": "unittextures/raptorArtillery_1.dds",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Rubus",
     "pr": "2436",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T19:46:26Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Rubus",
-    "date": "2026-09-07T20:40:48Z",
     "file": "unittextures/raptorArtillery_2.dds",
-    "license": "",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "Rubus",
     "pr": "2436",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T19:46:26Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Rubus",
@@ -114168,11 +114160,11 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "ForbodingAngel",
-    "date": "2026-09-07T20:34:55Z",
     "file": "unittextures/redhead4.dds",
-    "license": "CC-BY-SA-4.0",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
+    "date": "2026-10-12T19:46:26Z",
     "source": "manual-audit"
   },
   {
