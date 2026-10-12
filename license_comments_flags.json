@@ -1067,13 +1067,6 @@
       "comments": []
     },
     {
-      "file": "luaui/images/advplayerslist/arrow.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "luaui/images/advplayerslist/arrowd.png",
       "flags": [
         "unsure",
@@ -1097,13 +1090,6 @@
       "comments": []
     },
     {
-      "file": "luaui/images/advplayerslist/chat.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "luaui/images/advplayerslist/country.dds",
       "flags": [
         "unsure",
@@ -1116,20 +1102,6 @@
           "text": "Is this one even used?"
         }
       ]
-    },
-    {
-      "file": "luaui/images/advplayerslist/cpu.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist/cross.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
     },
     {
       "file": "luaui/images/advplayerslist/draw.dds",
@@ -1176,27 +1148,6 @@
       "comments": []
     },
     {
-      "file": "luaui/images/advplayerslist/id.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist/low.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist/notfirst.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "luaui/images/advplayerslist/notfirst.png",
       "flags": [
         "unsure",
@@ -1224,69 +1175,6 @@
       ]
     },
     {
-      "file": "luaui/images/advplayerslist/ping.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist/res.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist/resources.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist/share.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist/side.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist/sizedn.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist/sizeup.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist/ts.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist/units0.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "luaui/images/advplayerslist_mascot/grumpycat_body.png",
       "flags": [
         "unused"
@@ -1310,8 +1198,7 @@
     {
       "file": "luaui/images/advplayerslist_mascot/santahat.png",
       "flags": [
-        "unsure",
-        "floris-review"
+        "unsure"
       ],
       "comments": []
     },
@@ -1557,83 +1444,6 @@
       "file": "luaui/images/paralyzed.png",
       "flags": [
         "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/pip/PipBlip.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/pip/PipExpand.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/pip/PipGround.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/pip/PipMaximize.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/pip/PipMinimize.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/pip/PipMinus.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/pip/PipMove.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/pip/PipPlus.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/pip/PipShrink.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/pip/PipSwitch.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/pip/PipT.png",
-      "flags": [
-        "floris-review"
       ],
       "comments": []
     },

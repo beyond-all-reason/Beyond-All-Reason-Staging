@@ -28,14 +28,14 @@ Total assets recorded: **790**
 | `Ranks/rank9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/ally.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/armada_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `advplayerslist/arrow.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/arrow.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
 | `advplayerslist/barglow-center.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist/barglow-edge.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist/camera.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
-| `advplayerslist/chat.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/chat.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
 | `advplayerslist/cortex_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `advplayerslist/cpu.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
-| `advplayerslist/cross.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/cpu.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
+| `advplayerslist/cross.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
 | `advplayerslist/energy.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/eraser.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-09-11 |
 | `advplayerslist/flags/ad.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
@@ -308,14 +308,14 @@ Total assets recorded: **790**
 | `advplayerslist/flags/zw.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/gbr.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `advplayerslist/ger.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
-| `advplayerslist/id.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/id.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
 | `advplayerslist/indent.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist/indicator.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist/legion_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
-| `advplayerslist/low.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/low.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
 | `advplayerslist/metal.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `advplayerslist/notfirst.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
-| `advplayerslist/ping.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/notfirst.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
+| `advplayerslist/ping.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
 | `advplayerslist/point.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `advplayerslist/ranks/1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/ranks/2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -325,20 +325,20 @@ Total assets recorded: **790**
 | `advplayerslist/ranks/6.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/ranks/7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/ranks/8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `advplayerslist/res.png` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/res.png` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
 | `advplayerslist/resbar.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist/resbarbg.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
-| `advplayerslist/resources.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/resources.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
 | `advplayerslist/separator.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
-| `advplayerslist/share.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
-| `advplayerslist/side.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
-| `advplayerslist/sizedn.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
-| `advplayerslist/sizeup.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/share.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
+| `advplayerslist/side.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
+| `advplayerslist/sizedn.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
+| `advplayerslist/sizeup.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
 | `advplayerslist/take.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
-| `advplayerslist/ts.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/ts.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
 | `advplayerslist/unally.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `advplayerslist/units.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
-| `advplayerslist/units0.png` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
+| `advplayerslist/units0.png` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
 | `advplayerslist_mascot/floriscat_body.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist_mascot/floriscat_head.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist_mascot/floriscat_headblink.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
@@ -753,20 +753,20 @@ Total assets recorded: **790**
 | `nuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `paralyzed.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `pip/PipActivity.png` | `CC0-1.0` | public domain | #6945 | 2026-10-12 |
-| `pip/PipBlip.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
+| `pip/PipBlip.png` | `CC0-1.0` | public domain | #6051 | 2026-10-12 |
 | `pip/PipCam.png` | `CC0-1.0` | public domain | #6649 | 2026-10-12 |
 | `pip/PipCopy.png` | `CC0-1.0` | public domain | #6594 | 2026-10-12 |
-| `pip/PipExpand.png` | _awaiting license_ | Niobium | #6748 | 2026-06-16 |
-| `pip/PipGround.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
+| `pip/PipExpand.png` | `GPL-2.0-or-later` | Niobium | #6748 | 2026-10-12 |
+| `pip/PipGround.png` | `GPL-2.0-or-later` | Niobium | #6051 | 2026-10-12 |
 | `pip/PipHelp.png` | `CC0-1.0` | public domain | #7054 | 2026-10-12 |
-| `pip/PipMaximize.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
-| `pip/PipMinimize.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
-| `pip/PipMinus.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
-| `pip/PipMove.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
-| `pip/PipPlus.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
-| `pip/PipShrink.png` | _awaiting license_ | Niobium | #6748 | 2026-06-16 |
-| `pip/PipSwitch.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
-| `pip/PipT.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
+| `pip/PipMaximize.png` | `GPL-2.0-or-later` | Niobium | #6051 | 2026-10-12 |
+| `pip/PipMinimize.png` | `GPL-2.0-or-later` | Niobium | #6051 | 2026-10-12 |
+| `pip/PipMinus.png` | `GPL-2.0-or-later` | Niobium | #6051 | 2026-10-12 |
+| `pip/PipMove.png` | `GPL-2.0-or-later` | Niobium | #6051 | 2026-10-12 |
+| `pip/PipPlus.png` | `GPL-2.0-or-later` | Niobium | #6051 | 2026-10-12 |
+| `pip/PipShrink.png` | `GPL-2.0-or-later` | Niobium | #6748 | 2026-10-12 |
+| `pip/PipSwitch.png` | `GPL-2.0-or-later` | Niobium | #6051 | 2026-10-12 |
+| `pip/PipT.png` | `GPL-2.0-or-later` | Niobium | #6051 | 2026-10-12 |
 | `pip/PipTV.png` | `CC0-1.0` | public domain | #6956 | 2026-10-12 |
 | `pip/PipView.png` | `CC0-1.0` | public domain | #6711 | 2026-10-12 |
 | `rapt-tileable_v001_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |

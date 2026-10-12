@@ -54786,13 +54786,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Marmoth",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/arrow.dds",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "public domain",
@@ -54819,13 +54818,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Marmoth",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/chat.dds",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -54836,22 +54834,20 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Marmoth",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/cpu.dds",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Marmoth",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/cross.dds",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -57037,13 +57033,12 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Marmoth",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/id.dds",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "public domain",
@@ -57070,13 +57065,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Marmoth",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/low.dds",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -57087,22 +57081,20 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Marmoth",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/notfirst.dds",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Marmoth",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/ping.dds",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -57177,13 +57169,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Marmoth",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/res.png",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "public domain",
@@ -57202,13 +57193,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Marmoth",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/resources.dds",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "public domain",
@@ -57219,40 +57209,36 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Marmoth",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/share.dds",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Marmoth",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/side.dds",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Marmoth",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/sizedn.dds",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Marmoth",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/sizeup.dds",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "public domain",
@@ -57263,13 +57249,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Marmoth",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/ts.dds",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -57288,13 +57273,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Marmoth",
-    "date": "2026-09-02T12:03:46Z",
     "file": "luaui/images/advplayerslist/units0.png",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Marmoth",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "public domain",
@@ -60632,13 +60616,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Niobium",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipBlip.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "6051",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
     "file": "luaui/images/pip/PipCam.png",
@@ -60657,22 +60640,20 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Niobium",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipExpand.png",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Niobium",
     "pr": "6748",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Niobium",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipGround.png",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Niobium",
     "pr": "6051",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
     "file": "luaui/images/pip/PipHelp.png",
@@ -60683,76 +60664,68 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Niobium",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipMaximize.png",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Niobium",
     "pr": "6051",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Niobium",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipMinimize.png",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Niobium",
     "pr": "6051",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Niobium",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipMinus.png",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Niobium",
     "pr": "6051",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Niobium",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipMove.png",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Niobium",
     "pr": "6051",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Niobium",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipPlus.png",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Niobium",
     "pr": "6051",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Niobium",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipShrink.png",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Niobium",
     "pr": "6748",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Niobium",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipSwitch.png",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Niobium",
     "pr": "6051",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Niobium",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipT.png",
-    "license": "",
+    "license": "GPL-2.0-or-later",
+    "contributor": "Niobium",
     "pr": "6051",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T16:20:42Z",
+    "source": "manual-audit"
   },
   {
     "file": "luaui/images/pip/PipTV.png",
