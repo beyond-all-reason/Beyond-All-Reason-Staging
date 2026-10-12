@@ -1090,30 +1090,9 @@
       "comments": []
     },
     {
-      "file": "luaui/images/advplayerslist/barglow-center.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist/barglow-edge.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "luaui/images/advplayerslist/blob_small.png",
       "flags": [
         "unsure"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist/camera.dds",
-      "flags": [
-        "floris-review"
       ],
       "comments": []
     },
@@ -1204,20 +1183,6 @@
       "comments": []
     },
     {
-      "file": "luaui/images/advplayerslist/indent.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist/indicator.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "luaui/images/advplayerslist/low.dds",
       "flags": [
         "floris-review"
@@ -1273,28 +1238,7 @@
       "comments": []
     },
     {
-      "file": "luaui/images/advplayerslist/resbar.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist/resbarbg.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "luaui/images/advplayerslist/resources.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist/separator.png",
       "flags": [
         "floris-review"
       ],
@@ -1329,13 +1273,6 @@
       "comments": []
     },
     {
-      "file": "luaui/images/advplayerslist/take.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "luaui/images/advplayerslist/ts.dds",
       "flags": [
         "floris-review"
@@ -1344,69 +1281,6 @@
     },
     {
       "file": "luaui/images/advplayerslist/units0.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist_mascot/floriscat_body.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist_mascot/floriscat_head.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist_mascot/floriscat_headblink.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist_mascot/grumpycat_body.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist_mascot/grumpycat_head.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist_mascot/grumpycat_headblink.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist_mascot/mrbeans_body.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist_mascot/mrbeans_head.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist_mascot/mrbeans_headblink.png",
       "flags": [
         "floris-review"
       ],
@@ -1423,13 +1297,6 @@
       "file": "luaui/images/aliasing_test_grid_128.tga",
       "flags": [
         "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/backgroundtile.png",
-      "flags": [
-        "floris-review"
       ],
       "comments": []
     },
@@ -1574,13 +1441,6 @@
       "comments": []
     },
     {
-      "file": "luaui/images/enemyspotter.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "luaui/images/fractal_voronoi_tiled.tmd",
       "flags": [
         "beherith-review"
@@ -1595,13 +1455,6 @@
       "comments": []
     },
     {
-      "file": "luaui/images/glow2.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "luaui/images/gradient_alpha_2.png",
       "flags": [
         "beherith-review"
@@ -1612,13 +1465,6 @@
       "file": "luaui/images/grid3d64rgb.bmp",
       "flags": [
         "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/halo.dds",
-      "flags": [
-        "floris-review"
       ],
       "comments": []
     },
@@ -1673,13 +1519,6 @@
       "comments": []
     },
     {
-      "file": "luaui/images/mapmarksfx/glow.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "luaui/images/mapmarksfx/pencil.dds",
       "flags": [
         "unused"
@@ -1691,55 +1530,6 @@
           "text": "is for non-commercial use only - remove (also should be unised)"
         }
       ]
-    },
-    {
-      "file": "luaui/images/mapmarksfx/ring.dds",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/music/forward.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/music/music.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/music/next.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/music/pause.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/music/play.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/music/volume.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
     },
     {
       "file": "luaui/images/paralyzed.png",
