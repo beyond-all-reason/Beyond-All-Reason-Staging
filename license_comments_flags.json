@@ -1287,6 +1287,27 @@
       "comments": []
     },
     {
+      "file": "luaui/images/advplayerslist_mascot/grumpycat_body.png",
+      "flags": [
+        "unused"
+      ],
+      "comments": []
+    },
+    {
+      "file": "luaui/images/advplayerslist_mascot/grumpycat_head.png",
+      "flags": [
+        "unused"
+      ],
+      "comments": []
+    },
+    {
+      "file": "luaui/images/advplayerslist_mascot/grumpycat_headblink.png",
+      "flags": [
+        "unused"
+      ],
+      "comments": []
+    },
+    {
       "file": "luaui/images/advplayerslist_mascot/santahat.png",
       "flags": [
         "floris-review"
@@ -1966,8 +1987,7 @@
     {
       "file": "objects3d/Units/armgant.s3o",
       "flags": [
-        "unused",
-        "floris-review"
+        "unused"
       ],
       "comments": []
     },

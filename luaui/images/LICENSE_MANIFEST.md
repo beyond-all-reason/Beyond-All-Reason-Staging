@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **793**
+Total assets recorded: **790**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -342,9 +342,6 @@ Total assets recorded: **793**
 | `advplayerslist_mascot/floriscat_body.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist_mascot/floriscat_head.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist_mascot/floriscat_headblink.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
-| `advplayerslist_mascot/grumpycat_body.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
-| `advplayerslist_mascot/grumpycat_head.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
-| `advplayerslist_mascot/grumpycat_headblink.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist_mascot/mrbeans_body.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/mrbeans_head.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/mrbeans_headblink.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |

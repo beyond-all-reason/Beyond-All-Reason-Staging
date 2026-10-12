@@ -57321,30 +57321,6 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "public domain",
-    "date": "2026-10-12T10:57:40Z",
-    "file": "luaui/images/advplayerslist_mascot/grumpycat_body.png",
-    "license": "CC0-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "public domain",
-    "date": "2026-10-12T10:57:40Z",
-    "file": "luaui/images/advplayerslist_mascot/grumpycat_head.png",
-    "license": "CC0-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "public domain",
-    "date": "2026-10-12T10:57:40Z",
-    "file": "luaui/images/advplayerslist_mascot/grumpycat_headblink.png",
-    "license": "CC0-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
     "contributor": "teifion",
     "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/advplayerslist_mascot/mrbeans_body.png",
