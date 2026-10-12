@@ -752,13 +752,13 @@ Total assets recorded: **790**
 | `noisetextures/worley_rsum_bgaind_128_v1.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `nuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `paralyzed.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
-| `pip/PipActivity.png` | _awaiting license_ | Floris | #6945 | 2026-06-16 |
+| `pip/PipActivity.png` | `CC0-1.0` | public domain | #6945 | 2026-10-12 |
 | `pip/PipBlip.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
-| `pip/PipCam.png` | _awaiting license_ | Floris | #6649 | 2026-06-16 |
-| `pip/PipCopy.png` | _awaiting license_ | Floris | #6594 | 2026-06-16 |
+| `pip/PipCam.png` | `CC0-1.0` | public domain | #6649 | 2026-10-12 |
+| `pip/PipCopy.png` | `CC0-1.0` | public domain | #6594 | 2026-10-12 |
 | `pip/PipExpand.png` | _awaiting license_ | Niobium | #6748 | 2026-06-16 |
 | `pip/PipGround.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
-| `pip/PipHelp.png` | _awaiting license_ | Floris | #7054 | 2026-06-16 |
+| `pip/PipHelp.png` | `CC0-1.0` | public domain | #7054 | 2026-10-12 |
 | `pip/PipMaximize.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
 | `pip/PipMinimize.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
 | `pip/PipMinus.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
@@ -767,8 +767,8 @@ Total assets recorded: **790**
 | `pip/PipShrink.png` | _awaiting license_ | Niobium | #6748 | 2026-06-16 |
 | `pip/PipSwitch.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
 | `pip/PipT.png` | _awaiting license_ | Niobium | #6051 | 2026-06-16 |
-| `pip/PipTV.png` | _awaiting license_ | Floris | #6956 | 2026-06-16 |
-| `pip/PipView.png` | _awaiting license_ | Floris | #6711 | 2026-06-16 |
+| `pip/PipTV.png` | `CC0-1.0` | public domain | #6956 | 2026-10-12 |
+| `pip/PipView.png` | `CC0-1.0` | public domain | #6711 | 2026-10-12 |
 | `rapt-tileable_v001_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
 | `rapt-tileable_v001_small_alpha.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
 | `rapt-tileable_v002_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |

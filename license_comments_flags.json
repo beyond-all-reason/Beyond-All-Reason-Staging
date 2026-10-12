@@ -1310,6 +1310,7 @@
     {
       "file": "luaui/images/advplayerslist_mascot/santahat.png",
       "flags": [
+        "unsure",
         "floris-review"
       ],
       "comments": []
@@ -1560,28 +1561,7 @@
       "comments": []
     },
     {
-      "file": "luaui/images/pip/PipActivity.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "luaui/images/pip/PipBlip.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/pip/PipCam.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/pip/PipCopy.png",
       "flags": [
         "floris-review"
       ],
@@ -1596,13 +1576,6 @@
     },
     {
       "file": "luaui/images/pip/PipGround.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/pip/PipHelp.png",
       "flags": [
         "floris-review"
       ],
@@ -1659,20 +1632,6 @@
     },
     {
       "file": "luaui/images/pip/PipT.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/pip/PipTV.png",
-      "flags": [
-        "floris-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/pip/PipView.png",
       "flags": [
         "floris-review"
       ],

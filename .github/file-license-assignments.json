@@ -60624,13 +60624,12 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipActivity.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "6945",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T11:08:17Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Niobium",
@@ -60642,22 +60641,20 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipCam.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "6649",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T11:08:17Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipCopy.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "6594",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T11:08:17Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Niobium",
@@ -60678,13 +60675,12 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipHelp.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "7054",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T11:08:17Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Niobium",
@@ -60759,22 +60755,20 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipTV.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "6956",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T11:08:17Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/pip/PipView.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "6711",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T11:08:17Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
