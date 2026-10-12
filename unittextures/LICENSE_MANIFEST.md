@@ -34,49 +34,49 @@ Total assets recorded: **1066**
 | `chicken1z.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `chicken2.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `chicken2b.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
-| `chicken_1_m_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_1_s_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_1b_m_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_1b_s_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_1c_m_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_1c_s_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_1d_m_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_1d_s_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_1x_s_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_1y_s_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_1z_s_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_acidgreen_l_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_acidgreen_m_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_acidgreen_s_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_apex_l_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_apex_m_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_aqua_m_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_black_l_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_black_m_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_black_s_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_blue_l_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_blue_s_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_brown_l_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_c3_s_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_c3b_s_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_c3c_s_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_crimson_l_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_crimson_s_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_darkgreen_l_color.dds` | _awaiting license_ | Damgam | manual-audit | 2026-09-07 |
-| `chicken_darkgreen_m_color.dds` | _awaiting license_ | Damgam | manual-audit | 2026-09-07 |
-| `chicken_darkgreen_s_color.dds` | _awaiting license_ | Damgam | manual-audit | 2026-09-07 |
-| `chicken_electric_l_color.dds` | _awaiting license_ | Damgam | manual-audit | 2026-09-07 |
-| `chicken_electric_m_color.dds` | _awaiting license_ | Damgam | manual-audit | 2026-09-07 |
-| `chicken_electric_s_color.dds` | _awaiting license_ | Damgam | manual-audit | 2026-09-07 |
-| `chicken_green_m_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
+| `chicken_1_m_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_1_s_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_1b_m_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_1b_s_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_1c_m_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_1c_s_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_1d_m_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_1d_s_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_1x_s_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_1y_s_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_1z_s_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_acidgreen_l_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_acidgreen_m_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_acidgreen_s_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_apex_l_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_apex_m_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_aqua_m_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_black_l_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_black_m_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_black_s_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_blue_l_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_blue_s_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_brown_l_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_c3_s_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_c3b_s_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_c3c_s_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_crimson_l_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_crimson_s_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_darkgreen_l_color.dds` | `LicenseRef-BAR-CLA-1.0` | Damgam | manual-audit | 2026-10-12 |
+| `chicken_darkgreen_m_color.dds` | `LicenseRef-BAR-CLA-1.0` | Damgam | manual-audit | 2026-10-12 |
+| `chicken_darkgreen_s_color.dds` | `LicenseRef-BAR-CLA-1.0` | Damgam | manual-audit | 2026-10-12 |
+| `chicken_electric_l_color.dds` | `LicenseRef-BAR-CLA-1.0` | Damgam | manual-audit | 2026-10-12 |
+| `chicken_electric_m_color.dds` | `LicenseRef-BAR-CLA-1.0` | Damgam | manual-audit | 2026-10-12 |
+| `chicken_electric_s_color.dds` | `LicenseRef-BAR-CLA-1.0` | Damgam | manual-audit | 2026-10-12 |
+| `chicken_green_m_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `chicken_l_normals.png` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `chicken_l_other.png` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_l_other_acid.png` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-09-07 |
+| `chicken_l_other.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_l_other_acid.png` | `LicenseRef-BAR-CLA-1.0` | TheSilverHornet | manual-audit | 2026-10-12 |
 | `chicken_m_normals.png` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `chicken_m_other.png` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_m_other_acid.png` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-09-07 |
-| `chicken_multi_l_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `chicken_normal.tga` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `chicken_m_other.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_m_other_acid.png` | `LicenseRef-BAR-CLA-1.0` | TheSilverHornet | manual-audit | 2026-10-12 |
+| `chicken_multi_l_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `chicken_normal.tga` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `chicken_normals_2020.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `chicken_normals_medium.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `chicken_pink_color.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
