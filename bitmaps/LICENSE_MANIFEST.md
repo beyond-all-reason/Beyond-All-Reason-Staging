@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `bitmaps/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **232**
+Total assets recorded: **238**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -113,16 +113,21 @@ Total assets recorded: **232**
 | `projectiletextures/exploflare.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/explosionwave.png` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/explowater.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/fireball.tga` | `CC0-1.0` | public domain | manual-audit | 2026-10-09 |
 | `projectiletextures/firenovaexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flame.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flare.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `projectiletextures/flare1.tga` | `CC0-1.0` | public domain | manual-audit | 2026-10-09 |
 | `projectiletextures/flare2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-09-07 |
 | `projectiletextures/flash1.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flashside1.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flashside2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-06 |
 | `projectiletextures/flashside3.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/fragment.tga` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
+| `projectiletextures/glow.tga` | _awaiting license_ | Yeha | manual-audit | 2026-10-09 |
+| `projectiletextures/glow2.tga` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-10-09 |
 | `projectiletextures/glow3.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/graysmoke.tga` | _awaiting license_ | Yeha | manual-audit | 2026-10-09 |
 | `projectiletextures/greennovaexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/gunshot.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/gunshotglow.tga` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
@@ -145,6 +150,7 @@ Total assets recorded: **232**
 | `projectiletextures/muzzleside.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `projectiletextures/muzzlesideflipped.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `projectiletextures/nanobeam-reclaim.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `projectiletextures/nanobeam-resurrect.png` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-10-09 |
 | `projectiletextures/nanopart.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/new_dirta.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/new_dirtb.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
