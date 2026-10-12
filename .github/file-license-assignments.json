@@ -54795,31 +54795,28 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:44:40Z",
     "file": "luaui/images/advplayerslist/barglow-center.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:44:40Z",
     "file": "luaui/images/advplayerslist/barglow-edge.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/camera.dds",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Marmoth",
@@ -57049,22 +57046,20 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/indent.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/indicator.dds",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -57191,22 +57186,20 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/resbar.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/resbarbg.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Marmoth",
@@ -57218,13 +57211,12 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/separator.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Marmoth",
@@ -57263,13 +57255,12 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-09-02T11:51:35Z",
     "file": "luaui/images/advplayerslist/take.dds",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Marmoth",
@@ -57306,58 +57297,52 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/advplayerslist_mascot/floriscat_body.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/advplayerslist_mascot/floriscat_head.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/advplayerslist_mascot/floriscat_headblink.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:11Z",
     "file": "luaui/images/advplayerslist_mascot/grumpycat_body.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:11Z",
     "file": "luaui/images/advplayerslist_mascot/grumpycat_head.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-31T14:42:11Z",
     "file": "luaui/images/advplayerslist_mascot/grumpycat_headblink.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "teifion",
@@ -57412,13 +57397,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:38:00Z",
     "file": "luaui/images/backgroundtile.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Floris",
@@ -59317,13 +59301,12 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:38:00Z",
     "file": "luaui/images/enemyspotter.dds",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -59459,13 +59442,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/glow2.dds",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -59614,13 +59596,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/halo.dds",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -60354,22 +60335,20 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/mapmarksfx/glow.dds",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-06-16T18:15:40Z",
     "file": "luaui/images/mapmarksfx/ring.dds",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -60388,58 +60367,52 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-09-01T10:12:50Z",
     "file": "luaui/images/music/forward.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-09-01T10:12:50Z",
     "file": "luaui/images/music/music.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-09-01T10:12:50Z",
     "file": "luaui/images/music/next.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-09-01T10:12:50Z",
     "file": "luaui/images/music/pause.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-09-01T10:12:50Z",
     "file": "luaui/images/music/play.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-09-01T10:12:50Z",
     "file": "luaui/images/music/volume.png",
-    "license": "",
+    "license": "CC0-1.0",
+    "contributor": "public domain",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "date": "2026-10-12T10:57:40Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",

@@ -29,9 +29,9 @@ Total assets recorded: **793**
 | `advplayerslist/ally.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/armada_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/arrow.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
-| `advplayerslist/barglow-center.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/barglow-edge.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist/camera.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
+| `advplayerslist/barglow-center.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `advplayerslist/barglow-edge.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `advplayerslist/camera.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist/chat.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/cortex_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/cpu.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
@@ -309,8 +309,8 @@ Total assets recorded: **793**
 | `advplayerslist/gbr.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `advplayerslist/ger.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `advplayerslist/id.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
-| `advplayerslist/indent.png` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
-| `advplayerslist/indicator.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
+| `advplayerslist/indent.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `advplayerslist/indicator.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist/legion_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `advplayerslist/low.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/metal.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -326,32 +326,32 @@ Total assets recorded: **793**
 | `advplayerslist/ranks/7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/ranks/8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/res.png` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
-| `advplayerslist/resbar.png` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
-| `advplayerslist/resbarbg.png` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
+| `advplayerslist/resbar.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `advplayerslist/resbarbg.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist/resources.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
-| `advplayerslist/separator.png` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
+| `advplayerslist/separator.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist/share.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/side.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/sizedn.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/sizeup.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
-| `advplayerslist/take.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
+| `advplayerslist/take.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist/ts.dds` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
 | `advplayerslist/unally.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `advplayerslist/units.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `advplayerslist/units0.png` | _awaiting license_ | Marmoth | manual-audit | 2026-09-02 |
-| `advplayerslist_mascot/floriscat_body.png` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
-| `advplayerslist_mascot/floriscat_head.png` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
-| `advplayerslist_mascot/floriscat_headblink.png` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
-| `advplayerslist_mascot/grumpycat_body.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist_mascot/grumpycat_head.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `advplayerslist_mascot/grumpycat_headblink.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `advplayerslist_mascot/floriscat_body.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `advplayerslist_mascot/floriscat_head.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `advplayerslist_mascot/floriscat_headblink.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `advplayerslist_mascot/grumpycat_body.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `advplayerslist_mascot/grumpycat_head.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `advplayerslist_mascot/grumpycat_headblink.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist_mascot/mrbeans_body.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/mrbeans_head.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/mrbeans_headblink.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/santahat.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `aliasing_test_grid_128.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | #1828 | 2026-09-07 |
 | `allycursor.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
-| `backgroundtile.png` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
+| `backgroundtile.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `backward.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-09-02 |
 | `barglow-center.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `barglow-edge.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
@@ -588,7 +588,7 @@ Total assets recorded: **793**
 | `ecostats/default.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `ecostats/ecommander.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `ecostats/tll_default.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `enemyspotter.dds` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
+| `enemyspotter.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `energy-red.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `energy.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `flank_icon.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -605,7 +605,7 @@ Total assets recorded: **793**
 | `fractal_voronoi_tiled.tmd` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `fractal_voronoi_tiled_1024_1.png` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `glow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
-| `glow2.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
+| `glow2.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `gradient_alpha_2.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `grid3d64rgb.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
 | `groupicons/aa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -624,7 +624,7 @@ Total assets recorded: **793**
 | `groupicons/weaponaa.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `groupicons/weaponexplo.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `groupicons/weaponsub.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
-| `halo.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
+| `halo.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `healtbars_exo4.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `hexgrid.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `holdfire.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7585 | 2026-08-31 |
@@ -716,16 +716,16 @@ Total assets recorded: **793**
 | `luagrass/license.txt` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-10-06 |
 | `mapmarksfx/eraser.dds` | _awaiting license_ | icexuick | manual-audit | 2026-09-11 |
 | `mapmarksfx/eraser_old.dds` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-10-06 |
-| `mapmarksfx/glow.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
-| `mapmarksfx/ring.dds` | _awaiting license_ | Floris | manual-audit | 2026-06-16 |
+| `mapmarksfx/glow.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `mapmarksfx/ring.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `metal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `metalold.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
-| `music/forward.png` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
-| `music/music.png` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
-| `music/next.png` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
-| `music/pause.png` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
-| `music/play.png` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
-| `music/volume.png` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
+| `music/forward.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `music/music.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `music/next.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `music/pause.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `music/play.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `music/volume.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `new.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `noisetextures/blue_noise_64.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `noisetextures/bluenoise_128_rgba_1pixoffset.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |

@@ -2176,6 +2176,7 @@
     {
       "file": "objects3d/Units/armgant.s3o",
       "flags": [
+        "unused",
         "floris-review"
       ],
       "comments": []
