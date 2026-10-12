@@ -90,7 +90,7 @@ Total assets recorded: **1492**
 | `armfepocht4.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armferret.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `armfflak.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `armfgate.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
+| `armfgate.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `armfhlt.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armfhp.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armfido.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
@@ -848,7 +848,7 @@ Total assets recorded: **1492**
 | `scavengers/armart.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armaser.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armason.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/armasp.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
+| `scavengers/armasp.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `scavengers/armassimilator.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `scavengers/armassistdrone.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armasy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -901,7 +901,7 @@ Total assets recorded: **1492**
 | `scavengers/armfepocht4.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armferret.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `scavengers/armfflak.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/armfgate.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
+| `scavengers/armfgate.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `scavengers/armfhlt.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armfhp.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armfido.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |

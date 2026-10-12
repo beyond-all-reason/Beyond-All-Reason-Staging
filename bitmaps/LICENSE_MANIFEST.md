@@ -199,12 +199,12 @@ Total assets recorded: **232**
 | `raptors/bloodsplat2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `raptors/bloodsplat2_white.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `raptors/bloodsplat2old.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `scars/scar1.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-07 |
-| `scars/scar2.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-07 |
-| `scars/scar3.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-07 |
-| `scars/scar4.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-07 |
-| `scars/scar5.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-07 |
-| `scars/scar6.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-07 |
+| `scars/scar1.bmp` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `scars/scar2.bmp` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `scars/scar3.bmp` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `scars/scar4.bmp` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `scars/scar5.bmp` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `scars/scar6.bmp` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `smoke/smoke00.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `smoke/smoke01.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `smoke/smoke02.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -219,24 +219,24 @@ Total assets recorded: **232**
 | `smoke/smoke11.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `taskbarLogo_notif.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `taskbarLogo_notif2.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
-| `tracks/Corparrowtracks.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
-| `tracks/Corwidetracks.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
+| `tracks/Corparrowtracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `tracks/Corwidetracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `tracks/arm_acv_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/arm_acv_tracks_2.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/arm_stumpy_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armacv_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armbull_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armcroc_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
-| `tracks/armgremlin_tracks.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
+| `tracks/armgremlin_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `tracks/armmart_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armpincer_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armsam_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armseer_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armstump_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armyork_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
-| `tracks/bigfoot.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
+| `tracks/bigfoot.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `tracks/bottrack1.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
-| `tracks/raptortrack.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
-| `tracks/raptortrackpointy.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
+| `tracks/raptortrack.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `tracks/raptortrackpointy.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `ui/radarping1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `ui/radarping2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

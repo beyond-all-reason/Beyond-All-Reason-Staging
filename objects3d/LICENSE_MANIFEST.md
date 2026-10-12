@@ -244,7 +244,7 @@ Total assets recorded: **2015**
 | `Units/arm6X6D.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/arm7X7A.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/arm7X7B.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-02 |
-| `Units/arm7X7C.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
+| `Units/arm7X7C.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-10-12 |
 | `Units/arm7X7D.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armaak.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `Units/armaak_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
@@ -345,7 +345,7 @@ Total assets recorded: **2015**
 | `Units/armclaw_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armcom.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armcom_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `Units/armcom_vanilla.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
+| `Units/armcom_vanilla.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-10-12 |
 | `Units/armcomhilvl.s3o` | _awaiting license_ | FireStorm | #3480 | 2026-09-01 |
 | `Units/armconsul.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armconsul_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -398,8 +398,8 @@ Total assets recorded: **2015**
 | `Units/armferret_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/armfflak.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armfflak_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `Units/armfgate.s3o` | _awaiting license_ | Floris | manual-audit | 2026-09-02 |
-| `Units/armfgate_dead.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-02 |
+| `Units/armfgate.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `Units/armfgate_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `Units/armfhlt.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armfhlt_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armfhp.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -711,7 +711,7 @@ Total assets recorded: **2015**
 | `Units/cor6X6D.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-02 |
 | `Units/cor7X7A.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cor7X7B.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `Units/cor7X7C.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
+| `Units/cor7X7C.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | manual-audit | 2026-10-12 |
 | `Units/cor7X7D.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/coraak.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/coraak_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
@@ -796,7 +796,7 @@ Total assets recorded: **2015**
 | `Units/corck_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corcom.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corcom_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `Units/corcom_vanilla.s3o` | _awaiting license_ | MrBob | manual-audit | 2026-09-07 |
+| `Units/corcom_vanilla.s3o` | `LicenseRef-BAR-CLA-1.0` | MrBob | manual-audit | 2026-10-12 |
 | `Units/corcomhilvl.s3o` | _awaiting license_ | Mr Bob | #2820 | 2026-09-01 |
 | `Units/corcrash.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corcrash_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
@@ -1732,18 +1732,18 @@ Total assets recorded: **2015**
 | `artshell-medium.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `artshell-small.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `banishermissile.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
-| `candycane.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
-| `candycane2.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
-| `candycane3.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
-| `candycane4.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
-| `candycane5.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
-| `candycane6.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
-| `candycane7.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
-| `candycane_corkbmissl1.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
-| `candycane_corshiprocket.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
-| `candycane_cortronmissile.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
-| `candycane_corvrocket.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
-| `candycane_crblmssl.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
+| `candycane.s3o` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `candycane2.s3o` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `candycane3.s3o` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `candycane4.s3o` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `candycane5.s3o` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `candycane6.s3o` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `candycane7.s3o` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `candycane_corkbmissl1.s3o` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `candycane_corshiprocket.s3o` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `candycane_cortronmissile.s3o` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `candycane_corvrocket.s3o` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `candycane_crblmssl.s3o` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `cannon-small.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `cannon-tiny.s3o` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `catapultmissile.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |

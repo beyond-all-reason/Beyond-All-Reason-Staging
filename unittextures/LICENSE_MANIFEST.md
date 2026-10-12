@@ -19,12 +19,12 @@ Total assets recorded: **1066**
 | `apexchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `aquachicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `blackchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
-| `blank_normal.dds` | _awaiting license_ | Beherith | #5 | 2026-09-07 |
+| `blank_normal.dds` | `CC0-1.0` | public domain | #5 | 2026-10-12 |
 | `blank_texture2.tga` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-15 |
 | `bluechicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `brownchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
-| `candycane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
-| `candycane2.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
+| `candycane.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `candycane2.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `chicken1.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `chicken1b.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `chicken1c.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
@@ -440,7 +440,7 @@ Total assets recorded: **1066**
 | `decals_features/armfepocht4_dead_15_15_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/armferret_dead_4_4_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
 | `decals_features/armfflak_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
-| `decals_features/armfgate_dead_6_6_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
+| `decals_features/armfgate_dead_6_6_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `decals_features/armfhlt_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `decals_features/armfhp_dead_9_9_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/armfido_dead_4_4_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
@@ -455,8 +455,8 @@ Total assets recorded: **1066**
 | `decals_features/armfrock_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `decals_features/armfrt_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/armfus_dead_8_8_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
-| `decals_features/armgate_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
-| `decals_features/armgatet3_dead_8_8_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-07 |
+| `decals_features/armgate_dead_5_5_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #5030 | 2026-10-12 |
+| `decals_features/armgatet3_dead_8_8_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #5030 | 2026-10-12 |
 | `decals_features/armgeo_dead_6_6_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
 | `decals_features/armgmm_dead_6_6_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
 | `decals_features/armgplat_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-09 |

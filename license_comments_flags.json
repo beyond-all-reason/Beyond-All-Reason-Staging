@@ -90,9 +90,7 @@
     },
     {
       "file": "anims/icexuick_100/cursorfight.txt",
-      "flags": [
-        "beherith-review"
-      ],
+      "flags": [],
       "comments": [
         {
           "author": "PtaQQ",
@@ -704,48 +702,6 @@
       "comments": []
     },
     {
-      "file": "bitmaps/scars/scar1.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/scars/scar2.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/scars/scar3.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/scars/scar4.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/scars/scar5.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/scars/scar6.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "bitmaps/smoke/smoke00.tga",
       "flags": [
         "mixed-assets-multiple-asset-stores"
@@ -826,111 +782,6 @@
       "file": "bitmaps/smoke/smoke11.tga",
       "flags": [
         "mixed-assets-multiple-asset-stores"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/tracks/Corparrowtracks.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/tracks/Corwidetracks.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/tracks/arm_acv_tracks_2.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/tracks/armacv_tracks.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/tracks/armbull_tracks.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/tracks/armcroc_tracks.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/tracks/armgremlin_tracks.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/tracks/armpincer_tracks.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/tracks/armsam_tracks.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/tracks/armseer_tracks.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/tracks/armstump_tracks.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/tracks/armyork_tracks.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/tracks/bigfoot.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/tracks/raptortrack.bmp",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "bitmaps/tracks/raptortrackpointy.bmp",
-      "flags": [
-        "beherith-review"
       ],
       "comments": []
     },
@@ -1588,20 +1439,6 @@
       "comments": []
     },
     {
-      "file": "modelmaterials_gl4/brdf_0.png",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "modelmaterials_gl4/envLut_0.png",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "objects3d/Critters/critter_duck.s3o",
       "flags": [
         "unused"
@@ -1733,20 +1570,6 @@
       ]
     },
     {
-      "file": "objects3d/Units/arm7X7C.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/Units/armcom_vanilla.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "objects3d/Units/armflash_old.s3o",
       "flags": [
         "unused"
@@ -1817,20 +1640,6 @@
       "comments": []
     },
     {
-      "file": "objects3d/Units/cor7X7C.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/Units/corcom_vanilla.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "objects3d/Units/corgplat.s3o",
       "flags": [
         "unsure"
@@ -1862,20 +1671,6 @@
       "file": "objects3d/Units/cormmkr_old_dead.s3o",
       "flags": [
         "unsure"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/Units/corpyro.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/Units/corpyro_dead.s3o",
-      "flags": [
-        "beherith-review"
       ],
       "comments": []
     },
@@ -1980,90 +1775,6 @@
       "comments": []
     },
     {
-      "file": "objects3d/candycane.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/candycane2.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/candycane3.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/candycane4.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/candycane5.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/candycane6.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/candycane7.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/candycane_corkbmissl1.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/candycane_corshiprocket.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/candycane_cortronmissile.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/candycane_corvrocket.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/candycane_crblmssl.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "objects3d/chip.s3o",
       "flags": [
         "unused"
@@ -2074,20 +1785,6 @@
       "file": "objects3d/cordice.s3o",
       "flags": [
         "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/dbg_sphere.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/dbg_sphere_fullmetal.s3o",
-      "flags": [
-        "beherith-review"
       ],
       "comments": []
     },
@@ -2110,13 +1807,6 @@
           "text": "Why is the .exe in here?"
         }
       ]
-    },
-    {
-      "file": "objects3d/pbr_cube.s3o",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
     },
     {
       "file": "objects3d/pilha_crystal_1.s3o",
@@ -9912,13 +9602,6 @@
       ]
     },
     {
-      "file": "unitpics/armfgate.dds",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "unitpics/armgplat.dds",
       "flags": [
         "unsure"
@@ -10050,13 +9733,6 @@
       "comments": []
     },
     {
-      "file": "unitpics/scavengers/armasp.dds",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
       "file": "unitpics/scavengers/armassimilator.dds",
       "flags": [],
       "comments": [
@@ -10079,13 +9755,6 @@
           "text": "I think Flaka made this one..."
         }
       ]
-    },
-    {
-      "file": "unitpics/scavengers/armfgate.dds",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
     },
     {
       "file": "unitpics/scavengers/armgplat.dds",
@@ -10261,6 +9930,7 @@
     {
       "file": "unittextures/blank_normal.dds",
       "flags": [
+        "unused",
         "beherith-review"
       ],
       "comments": []
@@ -10276,13 +9946,6 @@
       "file": "unittextures/brownchicken.dds",
       "flags": [
         "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "unittextures/candycane.dds",
-      "flags": [
-        "beherith-review"
       ],
       "comments": []
     },
@@ -10939,13 +10602,6 @@
     },
     {
       "file": "unittextures/decals_features/arm7X7C_9_9_aoplane.dds",
-      "flags": [
-        "beherith-review"
-      ],
-      "comments": []
-    },
-    {
-      "file": "unittextures/decals_features/armfgate_dead_6_6_aoplane.dds",
       "flags": [
         "beherith-review"
       ],

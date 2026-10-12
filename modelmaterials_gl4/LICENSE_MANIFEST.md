@@ -9,5 +9,5 @@ Total assets recorded: **3**
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
 | `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-09-01 |
-| `brdf_0.png` | _awaiting license_ | Beherith | manual-audit | 2026-08-31 |
-| `envLut_0.png` | _awaiting license_ | Beherith | manual-audit | 2026-08-31 |
+| `brdf_0.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `envLut_0.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
