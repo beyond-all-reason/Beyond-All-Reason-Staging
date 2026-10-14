@@ -312,7 +312,6 @@
     {
       "file": "bitmaps/projectiletextures/decal_scar_50_glow.tga",
       "flags": [
-        "envato",
         "mixed-assets-multiple-asset-stores"
       ],
       "comments": []
@@ -5968,6 +5967,7 @@
     {
       "file": "sounds/raptors/empbomb_OLD.wav",
       "flags": [
+        "unused",
         "mixed-assets-multiple-asset-stores"
       ],
       "comments": []
@@ -9030,6 +9030,7 @@
     {
       "file": "sounds/weapons/rapidrocket3_OLD.wav",
       "flags": [
+        "unused",
         "mixed-assets-multiple-asset-stores"
       ],
       "comments": []
@@ -9100,6 +9101,7 @@
     {
       "file": "sounds/weapons/rockhvy3_OLD.wav",
       "flags": [
+        "unused",
         "mixed-assets-multiple-asset-stores"
       ],
       "comments": []
@@ -9291,6 +9293,7 @@
     {
       "file": "sounds/weapons/tgunshipfire_OLD.wav",
       "flags": [
+        "unused",
         "mixed-assets-multiple-asset-stores"
       ],
       "comments": []

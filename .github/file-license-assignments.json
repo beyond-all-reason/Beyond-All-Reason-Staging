@@ -46666,6 +46666,15 @@
     "source": "manual-audit"
   },
   {
+    "file": "bitmaps/projectiletextures/fireball.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-10-14T11:11:32Z",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "ForbodingAngel",
     "date": "2026-08-28T11:46:48Z",
     "file": "bitmaps/projectiletextures/firenovaexplo.tga",
@@ -46682,6 +46691,15 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "bitmaps/projectiletextures/flare-raptors.tga",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "icexuick",
+    "pr": "manual-audit",
+    "date": "2026-10-14T11:11:32Z",
+    "source": "manual-audit"
   },
   {
     "contributor": "ForbodingAngel",

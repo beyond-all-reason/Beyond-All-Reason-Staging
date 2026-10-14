@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `bitmaps/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **237**
+Total assets recorded: **239**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -113,8 +113,10 @@ Total assets recorded: **237**
 | `projectiletextures/exploflare.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/explosionwave.png` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/explowater.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `projectiletextures/fireball.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/firenovaexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flame.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `projectiletextures/flare-raptors.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/flare.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flare1.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/flare2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
