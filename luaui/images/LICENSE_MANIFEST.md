@@ -778,8 +778,8 @@ Total assets recorded: **790**
 | `raptor_scum/alien_guts_normalspec.tga` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `raptor_scum/alien_guts_normalspec_u8888.dds` | `CC-BY-SA-4.0` | Beherith | #3118 | 2026-09-01 |
 | `raptor_scum/license.txt` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
-| `raptorpanel.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `raptorpanel.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `raptorpanel.png` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptorpanel.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `repeat.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `repeat_old.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `returnfire.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7585 | 2026-08-31 |

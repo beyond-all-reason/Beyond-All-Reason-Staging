@@ -4,36 +4,36 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `bitmaps/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **232**
+Total assets recorded: **237**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
 | `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-08-28 |
 | `Other/Burst.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `Other/Foam.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
-| `atmos/barmist.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `atmos/cloudmist.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `atmos/cloudpuff.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-26 |
-| `atmos/dirtdebrisexplo.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `atmos/dirtpuff.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `atmos/flamestream.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `atmos/fogdirty.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `atmos/lavachunk.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/lavaplosion.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/lavasplats.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/rain.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/sandblast.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/smoke_puff.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/smoke_puff2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/smoke_puff_red.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2 | 2026-05-27 |
-| `atmos/smoke_puff_red.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/waterfoam.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `atmos/barmist.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/cloudmist.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/cloudpuff.tga` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `atmos/dirtdebrisexplo.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/dirtpuff.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/flamestream.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/fogdirty.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/lavachunk.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/lavaplosion.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/lavasplats.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/rain.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/sandblast.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/smoke_puff.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/smoke_puff2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/smoke_puff_red.png` | _awaiting license_ | icexuick | #2 | 2026-10-14 |
+| `atmos/smoke_puff_red.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/waterfoam.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `cc/dirt.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `cc/purpleexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `cc/uglynovaexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `decals/decal_scar_50.tga` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
 | `default/BARshockwave1.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5174 | 2026-08-28 |
-| `default/centersplatsh_white.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `default/centersplatsh_white.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `default/circlefx0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `default/circlefx1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `default/circlefx2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -61,7 +61,7 @@ Total assets recorded: **232**
 | `gpl/sporetrail.tga` | `GPL-2.0-or-later` | ForbodingAngel | manual-audit | 2026-10-06 |
 | `gpl/sporetrail_xl.tga` | `GPL-2.0-or-later` | ForbodingAngel | manual-audit | 2026-10-06 |
 | `gpl/treefire.png` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
-| `graphPaper.bmp` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `graphPaper.bmp` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-10-14 |
 | `loadpictures/armada.jpg` | _awaiting license_ | Rubus | manual-audit | 2026-09-02 |
 | `loadpictures/cortex.jpg` | _awaiting license_ | Rubus | manual-audit | 2026-09-02 |
 | `loadpictures/manual/donations.jpg` | `LicenseRef-BAR-CLA-1.0` | PtaQQ | manual-audit | 2026-06-01 |
@@ -96,38 +96,42 @@ Total assets recorded: **232**
 | `projectiletextures/FireBall02-anim.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/bigexplosmoke-raptors.tga` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `projectiletextures/bigexplosmoke.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
-| `projectiletextures/blastwave.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/blastwave.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/blueexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/bluenovaexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/brightblueexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/bubbletexture.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/circularthingy.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
-| `projectiletextures/decal_scar_50.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `projectiletextures/decal_scar_50_glow.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `projectiletextures/dirt.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `projectiletextures/dirtbar.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/decal_scar_50.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `projectiletextures/decal_scar_50_glow.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `projectiletextures/dirt.png` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `projectiletextures/dirtbar.png` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/dot.png` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-02 |
-| `projectiletextures/explo.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/explo.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/explo2.tga` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-28 |
-| `projectiletextures/explofade.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
+| `projectiletextures/explofade.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/exploflare.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/explosionwave.png` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
-| `projectiletextures/explowater.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/explowater.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/firenovaexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flame.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flare.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
-| `projectiletextures/flare2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-09-07 |
+| `projectiletextures/flare1.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `projectiletextures/flare2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/flash1.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flashside1.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/flashside2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-06 |
-| `projectiletextures/flashside3.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/flashside3.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/fragment.tga` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
+| `projectiletextures/glow.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `projectiletextures/glow2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/glow3.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/graysmoke.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/greennovaexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/gunshot.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/gunshotglow.tga` | _awaiting license_ | Floris | manual-audit | 2026-08-28 |
-| `projectiletextures/gunshotxl.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `projectiletextures/gunshotxl2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/gunshotxl.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `projectiletextures/gunshotxl2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/heal.png` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/heatcloud.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/largebeam.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
@@ -135,19 +139,20 @@ Total assets recorded: **232**
 | `projectiletextures/laser.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/laserend.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/laserfalloff.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
-| `projectiletextures/lightb.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/lightb.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/lightbw.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
-| `projectiletextures/lightning.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `projectiletextures/lightninginair.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
+| `projectiletextures/lightning.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `projectiletextures/lightninginair.tga` | _awaiting license_ | icexuick | #7 | 2026-10-14 |
 | `projectiletextures/longshot.png` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
-| `projectiletextures/megaparticle2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/megaparticle2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/muzzlefront.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
-| `projectiletextures/muzzleside.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
-| `projectiletextures/muzzlesideflipped.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
+| `projectiletextures/muzzleside.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `projectiletextures/muzzlesideflipped.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/nanobeam-reclaim.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
+| `projectiletextures/nanobeam-resurrect.png` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/nanopart.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `projectiletextures/new_dirta.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `projectiletextures/new_dirtb.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/new_dirta.png` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `projectiletextures/new_dirtb.png` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/orangenovaexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/plasmaball.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/purpleexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
@@ -183,21 +188,21 @@ Total assets recorded: **232**
 | `projectiletextures/trail.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
 | `projectiletextures/trail2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/trail3.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `projectiletextures/wake.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `projectiletextures/wakegrey.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `projectiletextures/wake.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `projectiletextures/wakegrey.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/waterrush.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/wave.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/whitelightb.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
-| `raptors/blood_centersplatsh.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/blood_centersplatsh_white.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/blood_splat.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/blood_splat_white.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/bloodblast2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/bloodblast2_white.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/blooddrop2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/blooddrop2_white.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/bloodsplat2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/bloodsplat2_white.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/blood_centersplatsh.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/blood_centersplatsh_white.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/blood_splat.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/blood_splat_white.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/bloodblast2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/bloodblast2_white.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/blooddrop2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/blooddrop2_white.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/bloodsplat2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/bloodsplat2_white.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `raptors/bloodsplat2old.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `scars/scar1.bmp` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `scars/scar2.bmp` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
@@ -205,18 +210,18 @@ Total assets recorded: **232**
 | `scars/scar4.bmp` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `scars/scar5.bmp` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `scars/scar6.bmp` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
-| `smoke/smoke00.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `smoke/smoke01.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `smoke/smoke02.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `smoke/smoke03.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `smoke/smoke04.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `smoke/smoke05.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `smoke/smoke06.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `smoke/smoke07.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `smoke/smoke08.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `smoke/smoke09.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `smoke/smoke10.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `smoke/smoke11.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `smoke/smoke00.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `smoke/smoke01.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `smoke/smoke02.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `smoke/smoke03.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `smoke/smoke04.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `smoke/smoke05.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `smoke/smoke06.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `smoke/smoke07.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `smoke/smoke08.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `smoke/smoke09.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `smoke/smoke10.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `smoke/smoke11.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `taskbarLogo_notif.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `taskbarLogo_notif2.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `tracks/Corparrowtracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |

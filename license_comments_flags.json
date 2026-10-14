@@ -283,6 +283,7 @@
     {
       "file": "bitmaps/projectiletextures/blastwave.tga",
       "flags": [
+        "replace",
         "mixed-assets-multiple-asset-stores"
       ],
       "comments": []
@@ -488,14 +489,16 @@
     {
       "file": "bitmaps/projectiletextures/gunshotxl.tga",
       "flags": [
-        "unsure"
+        "unsure",
+        "replace"
       ],
       "comments": []
     },
     {
       "file": "bitmaps/projectiletextures/gunshotxl2.tga",
       "flags": [
-        "unsure"
+        "unsure",
+        "replace"
       ],
       "comments": []
     },
@@ -1188,14 +1191,14 @@
     {
       "file": "luaui/images/lava/lava7_diffuseemit.dds",
       "flags": [
-        "icexuick-review"
+        "gametextures-com"
       ],
       "comments": []
     },
     {
       "file": "luaui/images/lava/lava7_normalheight.dds",
       "flags": [
-        "icexuick-review"
+        "gametextures-com"
       ],
       "comments": []
     },
@@ -6057,7 +6060,8 @@
     {
       "file": "sounds/replies/akeradsel.wav",
       "flags": [
-        "mixed-assets-multiple-asset-stores"
+        "unused",
+        "unsure"
       ],
       "comments": []
     },
@@ -7291,6 +7295,8 @@
     {
       "file": "sounds/replies/solar1_old.wav",
       "flags": [
+        "unused",
+        "unsure",
         "mixed-assets-multiple-asset-stores"
       ],
       "comments": []
@@ -8527,7 +8533,8 @@
     {
       "file": "sounds/weapons/heatray1_OLD.wav",
       "flags": [
-        "mixed-assets-multiple-asset-stores"
+        "unused",
+        "unsure"
       ],
       "comments": []
     },
@@ -8548,7 +8555,8 @@
     {
       "file": "sounds/weapons/heatray2_OLD.wav",
       "flags": [
-        "mixed-assets-multiple-asset-stores"
+        "unused",
+        "unsure"
       ],
       "comments": []
     },
@@ -8611,7 +8619,8 @@
     {
       "file": "sounds/weapons/kroggie2_OLD.wav",
       "flags": [
-        "mixed-assets-multiple-asset-stores"
+        "unused",
+        "unsure"
       ],
       "comments": []
     },
@@ -8807,7 +8816,8 @@
     {
       "file": "sounds/weapons/launch1_OLD.wav",
       "flags": [
-        "mixed-assets-multiple-asset-stores"
+        "unused",
+        "unsure"
       ],
       "comments": []
     },
@@ -8912,13 +8922,16 @@
     {
       "file": "sounds/weapons/nanlath1.wav",
       "flags": [
-        "mixed-assets-multiple-asset-stores"
+        "unsure",
+        "replace"
       ],
       "comments": []
     },
     {
       "file": "sounds/weapons/nanlath2.wav",
       "flags": [
+        "unsure",
+        "replace",
         "mixed-assets-multiple-asset-stores"
       ],
       "comments": []
@@ -9115,7 +9128,8 @@
     {
       "file": "sounds/weapons/rocklit1_OLD.wav",
       "flags": [
-        "mixed-assets-multiple-asset-stores"
+        "unused",
+        "unsure"
       ],
       "comments": []
     },
@@ -9136,7 +9150,8 @@
     {
       "file": "sounds/weapons/rocklit2_OLD.wav",
       "flags": [
-        "mixed-assets-multiple-asset-stores"
+        "unused",
+        "unsure"
       ],
       "comments": []
     },

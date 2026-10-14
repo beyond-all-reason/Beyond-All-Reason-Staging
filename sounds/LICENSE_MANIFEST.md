@@ -9,185 +9,185 @@ Total assets recorded: **1441**
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
 | `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-10-07 |
-| `atmos-geovents/geovent.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos-geovents/geoventshort.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos-local/fireburn.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos-local/lavaburst1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos-local/lavaburst2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos-local/magicalhum.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos-local/ocean1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos-local/ocean2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos-local/ocean3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos-local/ocean4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos-local/ocean5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos-local/ocean6.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos-local/ventair.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos-local/windgust1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos-local/windgust2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos-local/windgust3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/beach1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/beach2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/beach3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/beach4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/beach5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/beach6.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/distantthunder.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
-| `atmos/humheavy.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `atmos/lavabubbles.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `atmos/lavabubbleshort1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `atmos/lavabubbleshort2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `atmos/lavarumble.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `atmos/lavarumble2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `atmos/lavarumble3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `atmos/lavarumbleshort1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `atmos/lavarumbleshort2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `atmos/lavarumbleshort3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `atmos/oceangentlesurf.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2 | 2026-05-26 |
-| `atmos/rainlight.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/scavsynth1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
-| `atmos/scavsynth10.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
-| `atmos/scavsynth11.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
-| `atmos/scavsynth12.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
-| `atmos/scavsynth2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
-| `atmos/scavsynth3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
-| `atmos/scavsynth4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
-| `atmos/scavsynth5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
-| `atmos/scavsynth6.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
-| `atmos/scavsynth7.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
-| `atmos/scavsynth8.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
-| `atmos/scavsynth9.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4899 | 2026-05-27 |
-| `atmos/thunder1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/thunder2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/thunder3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/thunder4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/thunder5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/thunder6.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/tropicalbeach.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2 | 2026-05-27 |
-| `atmos/windy.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/windy1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/windy2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/windy3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/windy4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/windy5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `atmos/windy_mountains.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `bombs/alien_bombrel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `bombs/bombrel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `bombs/bombrelxl.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `bombs/bombsmed1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
-| `bombs/bombsmed2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
-| `bombs/bombssml1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
-| `bombs/bombssml1_alt.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `bombs/bombssml1_old.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-bld-ap-t2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `buildings/arm-bld-ap.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-bld-defense-action-t1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-defense-action-t2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-defense-action-t3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-defense-action-water-t1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-defense-action-water-t2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-defense-action-water-t3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-bld-defense-action.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `buildings/arm-bld-factory-hover-water.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-bld-factory-hover.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-bld-factory-t2-uw.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-bld-factory-t2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `buildings/arm-bld-factory-t3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `buildings/arm-bld-factory-water-t2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-bld-factory-water.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-bld-factory.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `buildings/arm-bld-gant-t3-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-bld-gant-t3-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-bld-geo-t2-explo.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #11 | 2026-05-27 |
-| `buildings/arm-bld-geo-t2-safe.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #11 | 2026-05-27 |
-| `buildings/arm-bld-geo-t2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #11 | 2026-05-27 |
-| `buildings/arm-bld-geo.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #11 | 2026-05-27 |
-| `buildings/arm-bld-ics.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #11 | 2026-05-27 |
-| `buildings/arm-bld-lab-t2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-bld-lab.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-bld-lolcannon.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #11 | 2026-05-27 |
-| `buildings/arm-bld-metal-t2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-metal.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `buildings/arm-bld-metalmaker-t2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `buildings/arm-bld-metalmaker.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `buildings/arm-bld-mex.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `buildings/arm-bld-mm-activate.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #9 | 2026-05-27 |
-| `buildings/arm-bld-mm-deactivate.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #9 | 2026-05-27 |
-| `buildings/arm-bld-nrg-fusion-adv.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #11 | 2026-05-27 |
-| `buildings/arm-bld-nrg-fusion-decoy.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #11 | 2026-05-27 |
-| `buildings/arm-bld-nrg-fusion-uw.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #11 | 2026-05-27 |
-| `buildings/arm-bld-nrg-fusion.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #11 | 2026-05-27 |
-| `buildings/arm-bld-nrg.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `buildings/arm-bld-nrghum.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #9 | 2026-05-27 |
-| `buildings/arm-bld-radar-alt-t2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-radar-sonar.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-radar-t2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #9 | 2026-05-27 |
-| `buildings/arm-bld-radar.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `buildings/arm-bld-repairpad.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-bld-select-large-water.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-select-large.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-select-medium.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-bld-select-small-water.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-select-small.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-select-water.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-select.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `buildings/arm-bld-shield.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #11 | 2026-05-27 |
-| `buildings/arm-bld-solar-activate.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #9 | 2026-05-27 |
-| `buildings/arm-bld-solar-alt-adv.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-solar-alt.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #9 | 2026-05-27 |
-| `buildings/arm-bld-solar-deactivate.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #9 | 2026-05-27 |
-| `buildings/arm-bld-solar.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `buildings/arm-bld-sonar-t2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `buildings/arm-bld-sp.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-bld-storage-metal.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-storage-nrg.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-storage.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `buildings/arm-bld-vp-t2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `buildings/arm-bld-vp.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-bld-wall-t2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-wall-water.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `buildings/arm-bld-wall.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `buildings/arm-bld-windgen.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-lltok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-lltselect.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/arm-mine-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/cor-bld-mm-t2-activate.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/cor-bld-mm-t2-deactivate.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `buildings/cor-bld-solar-activate.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #14 | 2026-05-27 |
-| `buildings/cor-bld-solar-deactivate.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #14 | 2026-05-27 |
-| `buildings/cor-mine-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/blanksound.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-attack.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `commands/cmd-build.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-default-select.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `commands/cmd-default.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-defaultbaselayer.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-defaultweapon.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-dgun.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-fight.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-fightxs.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-guard.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-guardxs.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-move-short.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-move-shorter.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-move-supershort.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5 | 2026-05-27 |
-| `commands/cmd-move-swoosh.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
-| `commands/cmd-move.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-none.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-off.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #11 | 2026-05-27 |
-| `commands/cmd-on.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #11 | 2026-05-27 |
-| `commands/cmd-onoff.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
-| `commands/cmd-patrol.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-reclaim.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-repair.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-repairxs.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-repeat.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `commands/cmd-rez.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-rez2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-rez3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `commands/cmd-selfd.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
-| `commands/cmd-settarget.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
-| `commands/cmd-stop.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `commands/cmd-wait.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
+| `atmos-geovents/geovent.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos-geovents/geoventshort.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos-local/fireburn.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos-local/lavaburst1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos-local/lavaburst2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos-local/magicalhum.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos-local/ocean1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos-local/ocean2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos-local/ocean3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos-local/ocean4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos-local/ocean5.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos-local/ocean6.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos-local/ventair.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos-local/windgust1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos-local/windgust2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos-local/windgust3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/beach1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/beach2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/beach3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/beach4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/beach5.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/beach6.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/distantthunder.wav` | _awaiting license_ | icexuick | #7 | 2026-10-14 |
+| `atmos/humheavy.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/lavabubbles.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/lavabubbleshort1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/lavabubbleshort2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/lavarumble.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/lavarumble2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/lavarumble3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/lavarumbleshort1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/lavarumbleshort2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/lavarumbleshort3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/oceangentlesurf.wav` | _awaiting license_ | icexuick | #2 | 2026-10-14 |
+| `atmos/rainlight.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/scavsynth1.wav` | _awaiting license_ | icexuick | #4899 | 2026-10-14 |
+| `atmos/scavsynth10.wav` | _awaiting license_ | icexuick | #4899 | 2026-10-14 |
+| `atmos/scavsynth11.wav` | _awaiting license_ | icexuick | #4899 | 2026-10-14 |
+| `atmos/scavsynth12.wav` | _awaiting license_ | icexuick | #4899 | 2026-10-14 |
+| `atmos/scavsynth2.wav` | _awaiting license_ | icexuick | #4899 | 2026-10-14 |
+| `atmos/scavsynth3.wav` | _awaiting license_ | icexuick | #4899 | 2026-10-14 |
+| `atmos/scavsynth4.wav` | _awaiting license_ | icexuick | #4899 | 2026-10-14 |
+| `atmos/scavsynth5.wav` | _awaiting license_ | icexuick | #4899 | 2026-10-14 |
+| `atmos/scavsynth6.wav` | _awaiting license_ | icexuick | #4899 | 2026-10-14 |
+| `atmos/scavsynth7.wav` | _awaiting license_ | icexuick | #4899 | 2026-10-14 |
+| `atmos/scavsynth8.wav` | _awaiting license_ | icexuick | #4899 | 2026-10-14 |
+| `atmos/scavsynth9.wav` | _awaiting license_ | icexuick | #4899 | 2026-10-14 |
+| `atmos/thunder1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/thunder2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/thunder3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/thunder4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/thunder5.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/thunder6.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/tropicalbeach.wav` | _awaiting license_ | icexuick | #2 | 2026-10-14 |
+| `atmos/windy.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/windy1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/windy2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/windy3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/windy4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/windy5.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `atmos/windy_mountains.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `bombs/alien_bombrel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `bombs/bombrel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `bombs/bombrelxl.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `bombs/bombsmed1.wav` | _awaiting license_ | icexuick | #3 | 2026-10-14 |
+| `bombs/bombsmed2.wav` | _awaiting license_ | icexuick | #3 | 2026-10-14 |
+| `bombs/bombssml1.wav` | _awaiting license_ | icexuick | #3 | 2026-10-14 |
+| `bombs/bombssml1_alt.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `bombs/bombssml1_old.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-bld-ap-t2.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `buildings/arm-bld-ap.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-bld-defense-action-t1.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-defense-action-t2.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-defense-action-t3.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-defense-action-water-t1.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-defense-action-water-t2.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-defense-action-water-t3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-bld-defense-action.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `buildings/arm-bld-factory-hover-water.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-bld-factory-hover.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-bld-factory-t2-uw.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-bld-factory-t2.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `buildings/arm-bld-factory-t3.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `buildings/arm-bld-factory-water-t2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-bld-factory-water.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-bld-factory.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `buildings/arm-bld-gant-t3-ok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-bld-gant-t3-sel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-bld-geo-t2-explo.wav` | _awaiting license_ | icexuick | #11 | 2026-10-14 |
+| `buildings/arm-bld-geo-t2-safe.wav` | _awaiting license_ | icexuick | #11 | 2026-10-14 |
+| `buildings/arm-bld-geo-t2.wav` | _awaiting license_ | icexuick | #11 | 2026-10-14 |
+| `buildings/arm-bld-geo.wav` | _awaiting license_ | icexuick | #11 | 2026-10-14 |
+| `buildings/arm-bld-ics.wav` | _awaiting license_ | icexuick | #11 | 2026-10-14 |
+| `buildings/arm-bld-lab-t2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-bld-lab.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-bld-lolcannon.wav` | _awaiting license_ | icexuick | #11 | 2026-10-14 |
+| `buildings/arm-bld-metal-t2.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-metal.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `buildings/arm-bld-metalmaker-t2.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `buildings/arm-bld-metalmaker.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `buildings/arm-bld-mex.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `buildings/arm-bld-mm-activate.wav` | _awaiting license_ | icexuick | #9 | 2026-10-14 |
+| `buildings/arm-bld-mm-deactivate.wav` | _awaiting license_ | icexuick | #9 | 2026-10-14 |
+| `buildings/arm-bld-nrg-fusion-adv.wav` | _awaiting license_ | icexuick | #11 | 2026-10-14 |
+| `buildings/arm-bld-nrg-fusion-decoy.wav` | _awaiting license_ | icexuick | #11 | 2026-10-14 |
+| `buildings/arm-bld-nrg-fusion-uw.wav` | _awaiting license_ | icexuick | #11 | 2026-10-14 |
+| `buildings/arm-bld-nrg-fusion.wav` | _awaiting license_ | icexuick | #11 | 2026-10-14 |
+| `buildings/arm-bld-nrg.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `buildings/arm-bld-nrghum.wav` | _awaiting license_ | icexuick | #9 | 2026-10-14 |
+| `buildings/arm-bld-radar-alt-t2.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-radar-sonar.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-radar-t2.wav` | _awaiting license_ | icexuick | #9 | 2026-10-14 |
+| `buildings/arm-bld-radar.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `buildings/arm-bld-repairpad.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-bld-select-large-water.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-select-large.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-select-medium.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-bld-select-small-water.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-select-small.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-select-water.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-select.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `buildings/arm-bld-shield.wav` | _awaiting license_ | icexuick | #11 | 2026-10-14 |
+| `buildings/arm-bld-solar-activate.wav` | _awaiting license_ | icexuick | #9 | 2026-10-14 |
+| `buildings/arm-bld-solar-alt-adv.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-solar-alt.wav` | _awaiting license_ | icexuick | #9 | 2026-10-14 |
+| `buildings/arm-bld-solar-deactivate.wav` | _awaiting license_ | icexuick | #9 | 2026-10-14 |
+| `buildings/arm-bld-solar.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `buildings/arm-bld-sonar-t2.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `buildings/arm-bld-sp.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-bld-storage-metal.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-storage-nrg.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-storage.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `buildings/arm-bld-vp-t2.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `buildings/arm-bld-vp.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-bld-wall-t2.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-wall-water.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `buildings/arm-bld-wall.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `buildings/arm-bld-windgen.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-lltok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-lltselect.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/arm-mine-sel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/cor-bld-mm-t2-activate.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/cor-bld-mm-t2-deactivate.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `buildings/cor-bld-solar-activate.wav` | _awaiting license_ | icexuick | #14 | 2026-10-14 |
+| `buildings/cor-bld-solar-deactivate.wav` | _awaiting license_ | icexuick | #14 | 2026-10-14 |
+| `buildings/cor-mine-sel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/blanksound.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-attack.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `commands/cmd-build.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-default-select.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `commands/cmd-default.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-defaultbaselayer.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-defaultweapon.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-dgun.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-fight.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-fightxs.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-guard.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-guardxs.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-move-short.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-move-shorter.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-move-supershort.wav` | _awaiting license_ | icexuick | #5 | 2026-10-14 |
+| `commands/cmd-move-swoosh.wav` | _awaiting license_ | icexuick | #7 | 2026-10-14 |
+| `commands/cmd-move.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-none.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-off.wav` | _awaiting license_ | icexuick | #11 | 2026-10-14 |
+| `commands/cmd-on.wav` | _awaiting license_ | icexuick | #11 | 2026-10-14 |
+| `commands/cmd-onoff.wav` | _awaiting license_ | icexuick | #7 | 2026-10-14 |
+| `commands/cmd-patrol.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-reclaim.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-repair.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-repairxs.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-repeat.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `commands/cmd-rez.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-rez2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-rez3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `commands/cmd-selfd.wav` | _awaiting license_ | icexuick | #7 | 2026-10-14 |
+| `commands/cmd-settarget.wav` | _awaiting license_ | icexuick | #7 | 2026-10-14 |
+| `commands/cmd-stop.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `commands/cmd-wait.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
 | `critters/duckcall1.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `critters/duckcall2.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `critters/duckcall3.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
@@ -201,226 +201,226 @@ Total assets recorded: **1441**
 | `critters/seacry1.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `critters/seacry2.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `critters/seacry3.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `function/aarocket-air.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `function/aarocket-large.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #9 | 2026-05-27 |
-| `function/aarocket-medium-flak.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `function/aarocket-medium.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `function/aarocket-small.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `function/air-bomb-large-emp.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `function/air-bomb-large-nuclear.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `function/air-bomb-large-torp.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `function/air-bomb-large.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `function/air-bomb-small-torp.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `function/air-bomb-small.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `function/arty-large.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `function/arty-medium.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6 | 2026-05-27 |
-| `function/arty-small.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `function/beamer.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `function/bld-juno.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #11 | 2026-05-27 |
-| `function/bomb.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `function/cloak.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6 | 2026-05-27 |
-| `function/comlevelup.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `function/con-assist.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `function/con-small.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `function/conalt-medium.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `function/conalt-small.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `function/emp-laser.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `function/emp-rocket.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `function/fastemg-medium.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `function/fastemg-small.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `function/fastemgalt-small.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `function/flak.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6 | 2026-05-27 |
-| `function/flame-alt.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `function/flame.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `function/func-armcom.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `function/heatray-xl.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `function/heatray.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
+| `function/aarocket-air.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `function/aarocket-large.wav` | _awaiting license_ | icexuick | #9 | 2026-10-14 |
+| `function/aarocket-medium-flak.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `function/aarocket-medium.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `function/aarocket-small.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `function/air-bomb-large-emp.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `function/air-bomb-large-nuclear.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `function/air-bomb-large-torp.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `function/air-bomb-large.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `function/air-bomb-small-torp.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `function/air-bomb-small.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `function/arty-large.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `function/arty-medium.wav` | _awaiting license_ | icexuick | #6 | 2026-10-14 |
+| `function/arty-small.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `function/beamer.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `function/bld-juno.wav` | _awaiting license_ | icexuick | #11 | 2026-10-14 |
+| `function/bomb.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `function/cloak.wav` | _awaiting license_ | icexuick | #6 | 2026-10-14 |
+| `function/comlevelup.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `function/con-assist.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `function/con-small.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `function/conalt-medium.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `function/conalt-small.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `function/emp-laser.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `function/emp-rocket.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `function/fastemg-medium.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `function/fastemg-small.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `function/fastemgalt-small.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `function/flak.wav` | _awaiting license_ | icexuick | #6 | 2026-10-14 |
+| `function/flame-alt.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `function/flame.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `function/func-armcom.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `function/heatray-xl.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `function/heatray.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
 | `function/helios-weapon-type.wav` | _awaiting license_ | Arbsquid | #3295 | 2026-08-31 |
-| `function/jammer-t2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `function/jammer.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6 | 2026-05-27 |
+| `function/jammer-t2.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `function/jammer.wav` | _awaiting license_ | icexuick | #6 | 2026-10-14 |
 | `function/lance-weapon-type.wav` | _awaiting license_ | Arbsquid | #3295 | 2026-08-31 |
-| `function/laser-large.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `function/laser-medium.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `function/laser-small-cor.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `function/laser-small.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `function/laser-tiny.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `function/lightning.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6 | 2026-05-27 |
-| `function/lrpc.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `function/mine-large-water.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `function/mine-large.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `function/mine-medium.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `function/mine-small.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `function/nuke-anti.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `function/nuke-old.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `function/nuke.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `function/oranges-gun.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `function/plasma-huge.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
-| `function/plasma-large-alt.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `function/plasma-large.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
-| `function/plasma-medium-alt.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `function/plasma-medium-torpedo.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5 | 2026-05-27 |
-| `function/plasma-medium.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5 | 2026-05-27 |
-| `function/plasma-small.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `function/radar-support.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
-| `function/radar-t2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `function/radar.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6 | 2026-05-27 |
-| `function/rez-small.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `function/rocket-large.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `function/rocket-medium.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `function/rocket-small.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `function/rocketalt-large.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
-| `function/rocketalt-small.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `function/sniper.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `function/targeting.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `function/torpedo-medium.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5 | 2026-05-27 |
-| `function/torpedo-small.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5 | 2026-05-27 |
-| `function/transport-large.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `global-events/scavdroplootspawn.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `global-events/scavdropspawn.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `global-events/scavdropspawnbeacon.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `global-events/scavdropspawnprinter.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `global-events/scavlootdrop.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `global-events/scavspawn.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `movement-air/arm-air-bomber-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement-air/arm-air-bomber-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement-air/arm-air-gunship-alt-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement-air/arm-air-gunship-alt-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement-air/arm-air-gunship-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement-air/arm-air-gunship-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement-air/arm-air-large-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement-air/arm-air-large-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement-air/arm-air-medium-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement-air/arm-air-medium-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement-air/arm-air-small-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement-air/arm-air-small-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement-air/arm-air-transport-large-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement-air/arm-air-transport-large-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement-air/arm-air-transport-small-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement-air/arm-air-transport-small-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement-air/cor-air-gunship-large-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `movement-air/cor-air-gunship-large-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `movement-air/cor-air-tiny-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement-air/cor-air-tiny-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/arm-banth-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-banth-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-bot-at-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-bot-at-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-bot-huge-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-bot-huge-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-bot-large-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-bot-large-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-bot-medium-alt-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-bot-medium-amph-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-bot-medium-amph-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-bot-medium-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `movement/arm-bot-medium-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-bot-medium-stealth-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-bot-medium-stealth-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-bot-small-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `movement/arm-bot-small-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `movement/arm-bot-t3-ok-alt.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-bot-t3-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-bot-t3-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-bot-tiny-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `movement/arm-bot-tiny-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #10 | 2026-05-27 |
-| `movement/arm-com-ok-1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `movement/arm-com-ok-2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `movement/arm-com-ok-3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `movement/arm-com-ok-4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `movement/arm-com-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
-| `movement/arm-hov-large-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `movement/arm-hov-large-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `movement/arm-hov-small-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `movement/arm-hov-small-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `movement/arm-shp-huge-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/arm-shp-huge-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/arm-shp-large-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5 | 2026-05-27 |
-| `movement/arm-shp-large-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5 | 2026-05-27 |
-| `movement/arm-shp-medium-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5 | 2026-05-27 |
-| `movement/arm-shp-medium-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5 | 2026-05-27 |
-| `movement/arm-shp-small-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5 | 2026-05-27 |
-| `movement/arm-shp-small-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5 | 2026-05-27 |
-| `movement/arm-sub-medium-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5 | 2026-05-27 |
-| `movement/arm-sub-medium-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5 | 2026-05-27 |
-| `movement/arm-sub-small-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5 | 2026-05-27 |
-| `movement/arm-sub-small-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5 | 2026-05-27 |
-| `movement/arm-tnk-large-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6 | 2026-05-27 |
-| `movement/arm-tnk-large-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6 | 2026-05-27 |
-| `movement/arm-tnk-largealt-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
-| `movement/arm-tnk-medium-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6 | 2026-05-27 |
-| `movement/arm-tnk-medium-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6 | 2026-05-27 |
-| `movement/arm-tnk-small-amph-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `movement/arm-tnk-small-amph-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `movement/arm-tnk-small-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `movement/arm-tnk-small-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `movement/arm-veh-small-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `movement/arm-veh-small-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `movement/arm-veh-tiny-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `movement/arm-veh-tiny-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `movement/cor-bot-at-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-bot-at-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-bot-huge-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-bot-huge-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-bot-large-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-bot-large-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-bot-medium-amph-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-bot-medium-amph-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-bot-medium-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-bot-medium-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-bot-medium-stealth-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-bot-medium-stealth-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-bot-small-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `movement/cor-bot-small-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `movement/cor-bot-t3-at-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-bot-t3-at-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-bot-t3-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-bot-t3-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-bot-tiny-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `movement/cor-bot-tiny-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `movement/cor-com-ok-1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-com-ok-2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-com-ok-3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-com-ok-4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-com-ok-5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-com-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-hov-large-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-hov-large-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-hov-small-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-hov-small-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-jugg-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-jugg-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-korg-ok1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-korg-ok2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-korg-ok3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-korg-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #12 | 2026-05-27 |
-| `movement/cor-shp-huge-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-shp-huge-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-shp-large-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-shp-large-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-shp-medium-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-shp-medium-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-shp-small-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-shp-small-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-sub-medium-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-sub-medium-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-sub-small-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-sub-small-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-tnk-huge-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-tnk-huge-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-tnk-large-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement/cor-tnk-large-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement/cor-tnk-medium-amph-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-tnk-medium-amph-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-tnk-medium-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-tnk-medium-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-tnk-small-amph-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-tnk-small-amph-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-tnk-small-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-tnk-small-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-veh-small-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-veh-small-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #13 | 2026-05-27 |
-| `movement/cor-veh-tiny-ok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
-| `movement/cor-veh-tiny-sel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #8 | 2026-05-27 |
+| `function/laser-large.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `function/laser-medium.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `function/laser-small-cor.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `function/laser-small.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `function/laser-tiny.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `function/lightning.wav` | _awaiting license_ | icexuick | #6 | 2026-10-14 |
+| `function/lrpc.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `function/mine-large-water.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `function/mine-large.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `function/mine-medium.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `function/mine-small.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `function/nuke-anti.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `function/nuke-old.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `function/nuke.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `function/oranges-gun.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `function/plasma-huge.wav` | _awaiting license_ | icexuick | #7 | 2026-10-14 |
+| `function/plasma-large-alt.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `function/plasma-large.wav` | _awaiting license_ | icexuick | #7 | 2026-10-14 |
+| `function/plasma-medium-alt.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `function/plasma-medium-torpedo.wav` | _awaiting license_ | icexuick | #5 | 2026-10-14 |
+| `function/plasma-medium.wav` | _awaiting license_ | icexuick | #5 | 2026-10-14 |
+| `function/plasma-small.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `function/radar-support.wav` | _awaiting license_ | icexuick | #7 | 2026-10-14 |
+| `function/radar-t2.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `function/radar.wav` | _awaiting license_ | icexuick | #6 | 2026-10-14 |
+| `function/rez-small.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `function/rocket-large.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `function/rocket-medium.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `function/rocket-small.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `function/rocketalt-large.wav` | _awaiting license_ | icexuick | #7 | 2026-10-14 |
+| `function/rocketalt-small.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `function/sniper.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `function/targeting.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `function/torpedo-medium.wav` | _awaiting license_ | icexuick | #5 | 2026-10-14 |
+| `function/torpedo-small.wav` | _awaiting license_ | icexuick | #5 | 2026-10-14 |
+| `function/transport-large.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `global-events/scavdroplootspawn.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `global-events/scavdropspawn.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `global-events/scavdropspawnbeacon.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `global-events/scavdropspawnprinter.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `global-events/scavlootdrop.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `global-events/scavspawn.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `movement-air/arm-air-bomber-ok.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement-air/arm-air-bomber-sel.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement-air/arm-air-gunship-alt-ok.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement-air/arm-air-gunship-alt-sel.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement-air/arm-air-gunship-ok.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement-air/arm-air-gunship-sel.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement-air/arm-air-large-ok.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement-air/arm-air-large-sel.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement-air/arm-air-medium-ok.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement-air/arm-air-medium-sel.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement-air/arm-air-small-ok.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement-air/arm-air-small-sel.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement-air/arm-air-transport-large-ok.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement-air/arm-air-transport-large-sel.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement-air/arm-air-transport-small-ok.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement-air/arm-air-transport-small-sel.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement-air/cor-air-gunship-large-ok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `movement-air/cor-air-gunship-large-sel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `movement-air/cor-air-tiny-ok.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement-air/cor-air-tiny-sel.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/arm-banth-ok.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-banth-sel.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-bot-at-ok.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-bot-at-sel.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-bot-huge-ok.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-bot-huge-sel.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-bot-large-ok.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-bot-large-sel.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-bot-medium-alt-ok.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-bot-medium-amph-ok.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-bot-medium-amph-sel.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-bot-medium-ok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `movement/arm-bot-medium-sel.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-bot-medium-stealth-ok.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-bot-medium-stealth-sel.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-bot-small-ok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `movement/arm-bot-small-sel.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `movement/arm-bot-t3-ok-alt.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-bot-t3-ok.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-bot-t3-sel.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-bot-tiny-ok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `movement/arm-bot-tiny-sel.wav` | _awaiting license_ | icexuick | #10 | 2026-10-14 |
+| `movement/arm-com-ok-1.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `movement/arm-com-ok-2.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `movement/arm-com-ok-3.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `movement/arm-com-ok-4.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `movement/arm-com-sel.wav` | _awaiting license_ | icexuick | #7 | 2026-10-14 |
+| `movement/arm-hov-large-ok.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `movement/arm-hov-large-sel.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `movement/arm-hov-small-ok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `movement/arm-hov-small-sel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `movement/arm-shp-huge-ok.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/arm-shp-huge-sel.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/arm-shp-large-ok.wav` | _awaiting license_ | icexuick | #5 | 2026-10-14 |
+| `movement/arm-shp-large-sel.wav` | _awaiting license_ | icexuick | #5 | 2026-10-14 |
+| `movement/arm-shp-medium-ok.wav` | _awaiting license_ | icexuick | #5 | 2026-10-14 |
+| `movement/arm-shp-medium-sel.wav` | _awaiting license_ | icexuick | #5 | 2026-10-14 |
+| `movement/arm-shp-small-ok.wav` | _awaiting license_ | icexuick | #5 | 2026-10-14 |
+| `movement/arm-shp-small-sel.wav` | _awaiting license_ | icexuick | #5 | 2026-10-14 |
+| `movement/arm-sub-medium-ok.wav` | _awaiting license_ | icexuick | #5 | 2026-10-14 |
+| `movement/arm-sub-medium-sel.wav` | _awaiting license_ | icexuick | #5 | 2026-10-14 |
+| `movement/arm-sub-small-ok.wav` | _awaiting license_ | icexuick | #5 | 2026-10-14 |
+| `movement/arm-sub-small-sel.wav` | _awaiting license_ | icexuick | #5 | 2026-10-14 |
+| `movement/arm-tnk-large-ok.wav` | _awaiting license_ | icexuick | #6 | 2026-10-14 |
+| `movement/arm-tnk-large-sel.wav` | _awaiting license_ | icexuick | #6 | 2026-10-14 |
+| `movement/arm-tnk-largealt-ok.wav` | _awaiting license_ | icexuick | #7 | 2026-10-14 |
+| `movement/arm-tnk-medium-ok.wav` | _awaiting license_ | icexuick | #6 | 2026-10-14 |
+| `movement/arm-tnk-medium-sel.wav` | _awaiting license_ | icexuick | #6 | 2026-10-14 |
+| `movement/arm-tnk-small-amph-ok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `movement/arm-tnk-small-amph-sel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `movement/arm-tnk-small-ok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `movement/arm-tnk-small-sel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `movement/arm-veh-small-ok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `movement/arm-veh-small-sel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `movement/arm-veh-tiny-ok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `movement/arm-veh-tiny-sel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `movement/cor-bot-at-ok.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-bot-at-sel.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-bot-huge-ok.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-bot-huge-sel.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-bot-large-ok.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-bot-large-sel.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-bot-medium-amph-ok.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-bot-medium-amph-sel.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-bot-medium-ok.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-bot-medium-sel.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-bot-medium-stealth-ok.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-bot-medium-stealth-sel.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-bot-small-ok.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `movement/cor-bot-small-sel.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `movement/cor-bot-t3-at-ok.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-bot-t3-at-sel.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-bot-t3-ok.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-bot-t3-sel.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-bot-tiny-ok.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `movement/cor-bot-tiny-sel.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `movement/cor-com-ok-1.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-com-ok-2.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-com-ok-3.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-com-ok-4.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-com-ok-5.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-com-sel.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-hov-large-ok.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-hov-large-sel.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-hov-small-ok.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-hov-small-sel.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-jugg-ok.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-jugg-sel.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-korg-ok1.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-korg-ok2.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-korg-ok3.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-korg-sel.wav` | _awaiting license_ | icexuick | #12 | 2026-10-14 |
+| `movement/cor-shp-huge-ok.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-shp-huge-sel.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-shp-large-ok.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-shp-large-sel.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-shp-medium-ok.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-shp-medium-sel.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-shp-small-ok.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-shp-small-sel.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-sub-medium-ok.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-sub-medium-sel.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-sub-small-ok.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-sub-small-sel.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-tnk-huge-ok.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-tnk-huge-sel.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-tnk-large-ok.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement/cor-tnk-large-sel.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement/cor-tnk-medium-amph-ok.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-tnk-medium-amph-sel.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-tnk-medium-ok.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-tnk-medium-sel.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-tnk-small-amph-ok.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-tnk-small-amph-sel.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-tnk-small-ok.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-tnk-small-sel.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-veh-small-ok.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-veh-small-sel.wav` | _awaiting license_ | icexuick | #13 | 2026-10-14 |
+| `movement/cor-veh-tiny-ok.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
+| `movement/cor-veh-tiny-sel.wav` | _awaiting license_ | icexuick | #8 | 2026-10-14 |
 | `movement/leg-bar-medium-ok.wav` | _awaiting license_ | Arbsquid | #3831 | 2026-08-31 |
 | `movement/leg-bar-medium-sel.wav` | _awaiting license_ | Arbsquid | #3831 | 2026-08-31 |
 | `movement/leg-bot-aceb-ok.wav` | _awaiting license_ | Arbsquid | #3831 | 2026-08-31 |
@@ -449,82 +449,82 @@ Total assets recorded: **1441**
 | `movement/leg-veh-small-sel.wav` | _awaiting license_ | Arbsquid | #3295 | 2026-08-31 |
 | `movement/leg-veh-tiny-ok.wav` | _awaiting license_ | Arbsquid | #3295 | 2026-08-31 |
 | `movement/leg-veh-tiny-sel.wav` | _awaiting license_ | Arbsquid | #3295 | 2026-08-31 |
-| `raptors/bigbugdie.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/bigbugdie1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/bigraptorbreath.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/bigraptordead.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/bigraptorroar.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/bloodsplash.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/bloodsplash2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/bloodsplash3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/bugarty.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/bugattack.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/bugdie.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/cflamhvy1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/cxplomed2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/cxplonuk4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/cxplosml2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/e16.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/e25.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/empbomb.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/empbomb_OLD.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/junohit2edit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/nuke4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/rangeraptorhit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/rangeraptorroar.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/raptor_nuke.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-06 |
-| `raptors/roostdie.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-06 |
-| `raptors/smallraptorattack.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/smallraptordead.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/talonattack.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `raptors/talondie.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `raptors/bigbugdie.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/bigbugdie1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/bigraptorbreath.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/bigraptordead.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/bigraptorroar.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/bloodsplash.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/bloodsplash2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/bloodsplash3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/bugarty.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/bugattack.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/bugdie.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/cflamhvy1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/cxplomed2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/cxplonuk4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/cxplosml2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/e16.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/e25.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/empbomb.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/empbomb_OLD.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/junohit2edit.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/nuke4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/rangeraptorhit.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/rangeraptorroar.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/raptor_nuke.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/roostdie.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/smallraptorattack.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/smallraptordead.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/talonattack.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `raptors/talondie.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/aaradsel.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/airplantselect.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/akeradsel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
+| `replies/airplantselect.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/akeradsel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/akradsel.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/amphok1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/amphsel1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/amphstp.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `replies/anni.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/armcom1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
-| `replies/armcom2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
-| `replies/armcom3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
-| `replies/armcom4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
-| `replies/armcomsel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
+| `replies/anni.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/armcom1.wav` | _awaiting license_ | icexuick | #3 | 2026-10-14 |
+| `replies/armcom2.wav` | _awaiting license_ | icexuick | #3 | 2026-10-14 |
+| `replies/armcom3.wav` | _awaiting license_ | icexuick | #3 | 2026-10-14 |
+| `replies/armcom4.wav` | _awaiting license_ | icexuick | #3 | 2026-10-14 |
+| `replies/armcomsel.wav` | _awaiting license_ | icexuick | #3 | 2026-10-14 |
 | `replies/avradsel.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/build2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/cantdo4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
+| `replies/cantdo4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/capture2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/caradsel.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/ckradsel.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/cloak.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/corcom1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
-| `replies/corcom2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
-| `replies/corcom3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
-| `replies/corcom4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
-| `replies/corcom5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
-| `replies/corcomsel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3 | 2026-05-27 |
+| `replies/cloak.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/corcom1.wav` | _awaiting license_ | icexuick | #3 | 2026-10-14 |
+| `replies/corcom2.wav` | _awaiting license_ | icexuick | #3 | 2026-10-14 |
+| `replies/corcom3.wav` | _awaiting license_ | icexuick | #3 | 2026-10-14 |
+| `replies/corcom4.wav` | _awaiting license_ | icexuick | #3 | 2026-10-14 |
+| `replies/corcom5.wav` | _awaiting license_ | icexuick | #3 | 2026-10-14 |
+| `replies/corcomsel.wav` | _awaiting license_ | icexuick | #3 | 2026-10-14 |
 | `replies/cvradsel.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/doom.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `replies/doom.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/drone1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/explode.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `replies/fusion1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/fusion2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `replies/fusion1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/fusion2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/gantok2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/gantsel1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/geothrm1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/geothrm2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/hlltselect.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `replies/gantsel1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/geothrm1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/geothrm2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hlltselect.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/hoverok1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/hoverok2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/hoversel1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/hoversel2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/hoversl1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/hoversl2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
+| `replies/hoversel1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hoversel2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hoversl1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hoversl2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/hovlgok1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/hovlgok2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/hovlgsl1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/hovlgsl2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
+| `replies/hovlgsl1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hovlgsl2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/hovmdok1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/hovmdok2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/hovmdsl1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
@@ -533,20 +533,20 @@ Total assets recorded: **1441**
 | `replies/hovsmok2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/hovsmsl1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/hovsmsl2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/hovt1aaok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/hovt1aasel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/hovt1canok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/hovt1cansel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/hovt1conok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/hovt1consel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/hovt1fastok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/hovt1fastsel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/hovt1transok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/hovt1transsel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/hovt1vrocok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/hovt1vrocsel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/hovt2lasok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/hovt2lassel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `replies/hovt1aaok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hovt1aasel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hovt1canok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hovt1cansel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hovt1conok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hovt1consel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hovt1fastok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hovt1fastsel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hovt1transok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hovt1transsel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hovt1vrocok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hovt1vrocsel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hovt2lasok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/hovt2lassel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/kbarmmov.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/kbarmsel.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/kbcormov.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
@@ -555,16 +555,16 @@ Total assets recorded: **1441**
 | `replies/kcarmsel.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/kccorsel.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/kcormov.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/kloak1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/kloak1un.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/kloak2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/kloak2un.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
+| `replies/kloak1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/kloak1un.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/kloak2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/kloak2un.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/krogok1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/krogsel1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/labselect.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/labselect2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/lltok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/lltselect.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `replies/labselect.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/labselect2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/lltok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/lltselect.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/loadwtr1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/loadwtr2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/mavbok1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
@@ -576,30 +576,30 @@ Total assets recorded: **1441**
 | `replies/metlon2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/metlrun1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/metlrun2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/mexoff.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `replies/mexoff.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/mexoff1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/mexoff2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/mexon.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/mexon1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/mexon2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/mexrun1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/mexrun2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/mexselect.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/mexworking.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/minesel1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/minesel2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/mohooff1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/mohooff2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/mohoon1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/mohoon2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/mohorun1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/mohorun2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
+| `replies/mexon.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/mexon1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/mexon2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/mexrun1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/mexrun2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/mexselect.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/mexworking.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/minesel1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/minesel2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/mohooff1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/mohooff2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/mohoon1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/mohoon2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/mohorun1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/mohorun2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/nanolath1.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `replies/nanolath2.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `replies/necrok1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/necrok2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/necrsel1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/necrsel2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
+| `replies/necrok1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/necrok2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/necrsel1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/necrsel2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/pairactv.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/pairwork.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/plabactv.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
@@ -615,11 +615,11 @@ Total assets recorded: **1441**
 | `replies/radar1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/radar2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/radarde1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/radaroff.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/radaron.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/radarselect.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/radjam1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `replies/radjam2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `replies/radaroff.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/radaron.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/radarselect.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/radjam1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/radjam2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/reclaim1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/reclaimate.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/seaplok1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
@@ -637,14 +637,14 @@ Total assets recorded: **1441**
 | `replies/servsml5.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/servsml6.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/servtny1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/servtny2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/servtny2B.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `replies/servtny2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/servtny2B.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/sharmmov.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/sharmsel.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/shcormov.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/shcorsel.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/solar1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/solar1_old.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #9 | 2026-05-27 |
+| `replies/solar1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/solar1_old.wav` | _awaiting license_ | icexuick | #9 | 2026-10-14 |
 | `replies/solar2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/sonar1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/sonar2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
@@ -653,8 +653,8 @@ Total assets recorded: **1441**
 | `replies/spider.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/spider2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/spider3.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/stormtl1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/stormtl3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
+| `replies/stormtl1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/stormtl3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/storngy1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/storngy2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/suarmmov.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
@@ -663,55 +663,55 @@ Total assets recorded: **1441**
 | `replies/sucorsel.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/targoff1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/targoff2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/targon.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `replies/targon.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/targon1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/targon2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/targsel1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/targsel2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
+| `replies/targsel1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/targsel2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/tarmmov.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `replies/tarmmove.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/tarmsel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
+| `replies/tarmmove.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/tarmsel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/taroff2.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `replies/taron1.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `replies/taron2.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `replies/tarsel1.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `replies/tarsel2.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `replies/tawf114a.wav` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `replies/tawf114b.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/tcormove.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/tcorsel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
+| `replies/tawf114b.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/tcormove.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/tcorsel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/tidegen1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/tidegen2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/tnkt1aaok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/tnkt1aasel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/tnkt1artyok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/tnkt1artysel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/tnkt1canamphok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/tnkt1canamphsel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/tnkt1canok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/tnkt1cansel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/tnkt1rockok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/tnkt1rocksel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `replies/tnkt1aaok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/tnkt1aasel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/tnkt1artyok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/tnkt1artysel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/tnkt1canamphok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/tnkt1canamphsel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/tnkt1canok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/tnkt1cansel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/tnkt1rockok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/tnkt1rocksel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/torpadv2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/twractv2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/twractv3.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/twrturn3.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/unitready.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/varmmove.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/varmsel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/vcormove.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/vcorsel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-08-31 |
-| `replies/vehplantselect.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/veht1aaok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/veht1aasel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/veht1buggyok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/veht1buggysel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/veht1conamphok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/veht1conamphsel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/veht1conok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/veht1consel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/veht1emgok.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/veht1emgsel.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `replies/unitready.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/varmmove.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/varmsel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/vcormove.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/vcorsel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/vehplantselect.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/veht1aaok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/veht1aasel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/veht1buggyok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/veht1buggysel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/veht1conamphok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/veht1conamphsel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/veht1conok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/veht1consel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/veht1emgok.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/veht1emgsel.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/vtolarac.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/vtolarmv.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/vtolcrac.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
@@ -720,49 +720,49 @@ Total assets recorded: **1441**
 | `replies/waterex2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/watfusn1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `replies/watfusn2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `replies/windgen.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `replies/windgen1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `replies/windgen2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `replies/windgen_stereo.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `replies/windgen.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/windgen1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/windgen2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `replies/windgen_stereo.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `sound_file_lengths.ipynb` | _awaiting license_ | Beherith | manual-audit | 2026-08-31 |
-| `ui/beep4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `ui/beep6.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `ui/beep4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `ui/beep6.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `ui/blank.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `ui/button9.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `ui/chat.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `ui/commanderspawn-mono.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3444 | 2026-08-31 |
-| `ui/commanderspawn.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `ui/mappoint.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `ui/mappoint2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `ui/multiselect.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `ui/old_multiselect.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
+| `ui/chat.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `ui/commanderspawn-mono.wav` | _awaiting license_ | icexuick | #3444 | 2026-10-14 |
+| `ui/commanderspawn.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `ui/mappoint.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `ui/mappoint2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `ui/multiselect.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `ui/old_multiselect.wav` | _awaiting license_ | icexuick | #7 | 2026-10-14 |
 | `ui/teleport-charge-loop.wav` | _awaiting license_ | SethDGamre | #5235 | 2026-08-31 |
 | `ui/teleport-short-mono.wav` | _awaiting license_ | SethDGamre | #5235 | 2026-08-31 |
 | `ui/teleport-winddown.wav` | _awaiting license_ | SethDGamre | #5235 | 2026-08-31 |
 | `ui/teleport-windup.wav` | _awaiting license_ | SethDGamre | #5235 | 2026-08-31 |
-| `ui/warning1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `ui/warning2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `unit-local/korgaim.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `unit-local/korgaim2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `unit-local/korgrestore.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `unit-local/korgrestore2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `unit/banthstep.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `unit/korgstep.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `uw/xplodep1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `uw/xplodep2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `uw/xplodep3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `ui/warning1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `ui/warning2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `unit-local/korgaim.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `unit-local/korgaim2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `unit-local/korgrestore.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `unit-local/korgrestore2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `unit/banthstep.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `unit/korgstep.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `uw/xplodep1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `uw/xplodep2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `uw/xplodep3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `voice-soundeffects/AllyRequest.wav` | _awaiting license_ | msem-me | #6236 | 2026-08-31 |
-| `voice-soundeffects/CommanderHeavilyDamaged.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6101 | 2026-05-27 |
-| `voice-soundeffects/CommanderUnderAttack.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6101 | 2026-05-27 |
-| `voice-soundeffects/EnemyComDead.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6111 | 2026-05-27 |
-| `voice-soundeffects/FriendlyComDead.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6111 | 2026-05-27 |
-| `voice-soundeffects/GameEnd.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6101 | 2026-05-27 |
-| `voice-soundeffects/LavaAlert.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6101 | 2026-05-27 |
-| `voice-soundeffects/NeutralComDead.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6111 | 2026-05-27 |
-| `voice-soundeffects/NukeAlert.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6117 | 2026-05-27 |
-| `voice-soundeffects/UnitUnderAttack.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6101 | 2026-05-27 |
-| `voice-soundeffects/YouHaveTheLastCommander.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6101 | 2026-05-27 |
-| `voice-soundeffects/YourTeamHasTheLastCommander.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #6101 | 2026-05-27 |
+| `voice-soundeffects/CommanderHeavilyDamaged.wav` | _awaiting license_ | icexuick | #6101 | 2026-10-14 |
+| `voice-soundeffects/CommanderUnderAttack.wav` | _awaiting license_ | icexuick | #6101 | 2026-10-14 |
+| `voice-soundeffects/EnemyComDead.wav` | _awaiting license_ | icexuick | #6111 | 2026-10-14 |
+| `voice-soundeffects/FriendlyComDead.wav` | _awaiting license_ | icexuick | #6111 | 2026-10-14 |
+| `voice-soundeffects/GameEnd.wav` | _awaiting license_ | icexuick | #6101 | 2026-10-14 |
+| `voice-soundeffects/LavaAlert.wav` | _awaiting license_ | icexuick | #6101 | 2026-10-14 |
+| `voice-soundeffects/NeutralComDead.wav` | _awaiting license_ | icexuick | #6111 | 2026-10-14 |
+| `voice-soundeffects/NukeAlert.wav` | _awaiting license_ | icexuick | #6117 | 2026-10-14 |
+| `voice-soundeffects/UnitUnderAttack.wav` | _awaiting license_ | icexuick | #6101 | 2026-10-14 |
+| `voice-soundeffects/YouHaveTheLastCommander.wav` | _awaiting license_ | icexuick | #6101 | 2026-10-14 |
+| `voice-soundeffects/YourTeamHasTheLastCommander.wav` | _awaiting license_ | icexuick | #6101 | 2026-10-14 |
 | `voice/en/cephis/AdvancedRadarLost.wav` | _awaiting license_ | Cephis | #6101 | 2026-09-01 |
 | `voice/en/cephis/AdvancedRadarLost2.wav` | _awaiting license_ | Cephis | #6101 | 2026-08-31 |
 | `voice/en/cephis/BaseUnderAttack.wav` | _awaiting license_ | Cephis | #6101 | 2026-08-31 |
@@ -1227,225 +1227,225 @@ Total assets recorded: **1441**
 | `voice/en/winter/unused/321.wav` | _awaiting license_ | Winter | manual-audit | 2026-09-01 |
 | `voice/en/winter/unused/IdleBuilders.wav` | _awaiting license_ | Winter | manual-audit | 2026-09-01 |
 | `voice/en/winter/unused/ReinforcementsHaveArrived.wav` | _awaiting license_ | Winter | manual-audit | 2026-09-01 |
-| `weapons-mult/alien_electric.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons-mult/alien_electric_xl.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons-mult/kroggie2xs.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons-mult/lasrhvy3short.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons-mult/lrpcexplo.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons-mult/alien_electric.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons-mult/alien_electric_xl.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons-mult/kroggie2xs.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons-mult/lasrhvy3short.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons-mult/lrpcexplo.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons-mult/mgun12.wav` | _awaiting license_ | Tharsy | #5204 | 2026-08-31 |
-| `weapons-mult/mgun3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons-mult/mgun3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons-mult/mgun6.wav` | _awaiting license_ | Tharsy | #5204 | 2026-08-31 |
 | `weapons-mult/mgun6heavy.wav` | _awaiting license_ | Tharsy | #5204 | 2026-08-31 |
-| `weapons-mult/minigun.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons-mult/minigun2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons-mult/minigun3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons-mult/rflrpcexplo.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons-mult/shotgunbig.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons-mult/spore_xl.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons-mult/xplomed2xs.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons-mult/xplonuk2xs.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/aarocket.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/annigun1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/antinukelaunch.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/banthie.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/banthie2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons-mult/minigun.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons-mult/minigun2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons-mult/minigun3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons-mult/rflrpcexplo.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons-mult/shotgunbig.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons-mult/spore_xl.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons-mult/xplomed2xs.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons-mult/xplonuk2xs.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/aarocket.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/annigun1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/antinukelaunch.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/banthie.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/banthie2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/beamershot.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `weapons/beamershot2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/bertha1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/bertha6.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/bimpact1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/bimpact2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/bimpact3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/bombdropxx.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/brawlemg.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/burn02.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/beamershot2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/bertha1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/bertha6.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/bimpact1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/bimpact2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/bimpact3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/bombdropxx.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/brawlemg.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/burn02.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/canlite3.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `weapons/cannhvy1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `weapons/cannhvy2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/cannhvy2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/cannhvy3.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `weapons/cannhvy5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/cannhvy6.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/cannon1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/cannon1clean.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/cannon1old.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/cannon2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/cannon2old.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/cannon3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/cannhvy5.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/cannhvy6.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/cannon1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/cannon1clean.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/cannon1old.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/cannon2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/cannon2old.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/cannon3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/comgate.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `weapons/corban_a.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/corban_b.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/corlevlr.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/corlevlrhit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/corraid.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/disigun1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/emgpuls1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/fastemg.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/fastermg.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/fireburnshort.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/flakfire.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/flakhit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/flakhit2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/flamhit1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/flamhvy1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/flashemg.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/flashemgxl.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/flashemgxlhit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/flashemgxlhit2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/hackshot.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/hackshotxl3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/heatray1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/heatray1_OLD.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/heatray1s.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/heatray2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/heatray2_OLD.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/heatray2xl.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/heatray3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/heatray3burn.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/heatray3lp.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/heatray3start.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/corban_a.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/corban_b.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/corlevlr.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/corlevlrhit.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/corraid.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/disigun1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/emgpuls1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/fastemg.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/fastermg.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/fireburnshort.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/flakfire.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/flakhit.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/flakhit2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/flamhit1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/flamhvy1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/flashemg.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/flashemgxl.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/flashemgxlhit.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/flashemgxlhit2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/hackshot.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/hackshotxl3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/heatray1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/heatray1_OLD.wav` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-10-14 |
+| `weapons/heatray1s.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/heatray2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/heatray2_OLD.wav` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-10-14 |
+| `weapons/heatray2xl.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/heatray3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/heatray3burn.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/heatray3lp.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/heatray3start.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/heatray4burn.wav` | _awaiting license_ | ZephyrSkies7 | #4339 | 2026-08-31 |
 | `weapons/heavyrailgun.wav` | _awaiting license_ | Arbsquid | #3739 | 2026-08-31 |
 | `weapons/heliosfire.wav` | _awaiting license_ | Arbsquid | #3295 | 2026-08-31 |
-| `weapons/impact.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `weapons/impact.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/junofir2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `weapons/junohit2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/kroggie2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/kroggie2_OLD.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/krogun1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `weapons/junohit2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/kroggie2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/kroggie2_OLD.wav` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-10-14 |
+| `weapons/krogun1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/lancefire.wav` | _awaiting license_ | Arbsquid | #3295 | 2026-08-31 |
-| `weapons/largegun.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/laserroar.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasfirerb.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasfirerc.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lashit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrcrw1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrcrw2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrfast.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrfir1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrfir2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrfir3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrfir3alt.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrfir3alt2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrfir3scav.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrfir4scav.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrfir5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrfir6.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrhit1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrhit2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrhvy2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/lasrhvy3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/lasrlit3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrlit3scav.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lasrmas2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/launch.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/launch1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/launch1_OLD.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/lghthvy1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/lghthvy2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `weapons/lrpcshot.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `weapons/lrpcshot2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `weapons/lrpcshot2alt.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `weapons/lrpcshot3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
+| `weapons/largegun.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/laserroar.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasfirerb.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasfirerc.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lashit.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrcrw1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrcrw2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrfast.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrfir1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrfir2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrfir3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrfir3alt.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrfir3alt2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrfir3scav.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrfir4scav.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrfir5.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrfir6.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrhit1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrhit2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrhvy2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrhvy3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrlit3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrlit3scav.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lasrmas2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/launch.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/launch1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/launch1_OLD.wav` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lghthvy1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/lghthvy2.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `weapons/lrpcshot.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `weapons/lrpcshot2.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `weapons/lrpcshot2alt.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `weapons/lrpcshot3.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
 | `weapons/mavgun2.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `weapons/mavgun3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/mavgun4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/mavgun5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/metalhit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/mavgun3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/mavgun4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/mavgun5.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/metalhit.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/mgun1.wav` | _awaiting license_ | Tharsy | #5204 | 2026-08-31 |
 | `weapons/mgun2.wav` | _awaiting license_ | Tharsy | #5204 | 2026-08-31 |
-| `weapons/mine1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/mine1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/ministarfallchargup.wav` | _awaiting license_ | ZephyrSkies7 | #6525 | 2026-08-31 |
 | `weapons/misicbm1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `weapons/mismed1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/mismed1emp.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/mismed1emp1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/nanlath1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/nanlath2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/newboom.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/newboomuw.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/nukearm.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/nukecor.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/nukelaunch.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/nukelaunchalarm.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/nukewater.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/mismed1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/mismed1emp.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/mismed1emp1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/nanlath1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/nanlath2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/newboom.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/newboomuw.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/nukearm.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/nukecor.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/nukelaunch.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/nukelaunchalarm.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/nukewater.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/packohit.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
-| `weapons/packolau.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/railgun.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/railgun2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/railgun3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/railgunxl.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3846 | 2026-05-27 |
-| `weapons/rapidrocket3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rapidrocket3_OLD.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/raptorlaser.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rflrpc3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rockhit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rockhit2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rockhit3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rockhvy1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rockhvy2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rockhvy2x.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rockhvy3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rockhvy3_OLD.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rockhvy4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rocklit1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rocklit1_ALT.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rocklit1_OLD.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rocklit1scav.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rocklit2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rocklit2_OLD.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rocklit3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/rocksalvo.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/sabotfire.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/sabothit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/sizzle.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/sizzlexs.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/sniper2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/sniper3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/sniperhit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/splshbig.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/splslrg.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/splsmed.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/splssml.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/spore_explo.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/packolau.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/railgun.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/railgun2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/railgun3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/railgunxl.wav` | _awaiting license_ | icexuick | #3846 | 2026-10-14 |
+| `weapons/rapidrocket3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rapidrocket3_OLD.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/raptorlaser.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rflrpc3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rockhit.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rockhit2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rockhit3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rockhvy1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rockhvy2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rockhvy2x.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rockhvy3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rockhvy3_OLD.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rockhvy4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rocklit1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rocklit1_ALT.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rocklit1_OLD.wav` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rocklit1scav.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rocklit2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rocklit2_OLD.wav` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rocklit3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/rocksalvo.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/sabotfire.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/sabothit.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/sizzle.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/sizzlexs.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/sniper2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/sniper3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/sniperhit.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/splshbig.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/splslrg.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/splsmed.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/splssml.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/spore_explo.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/starfallchargup.wav` | _awaiting license_ | ZephyrSkies7 | #6510 | 2026-09-01 |
-| `weapons/stormtl2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/t1arthit.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/tawf113a.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/tawf113b.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/tgunshipfire.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/tgunshipfire_OLD.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/tonukeex.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/torpedo1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/treefall.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/triotfire.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/uwlasrfir1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/xplodragconcrete.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplodragmetal.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplodragwater.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xploelc1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xploelc2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `weapons/xploelc3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `weapons/xplolrg1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplolrg2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplolrg3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `weapons/xplolrg4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplolrg5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplolrg7.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplomas2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplomas2s.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplomed1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplomed2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplomed3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplomed4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplomed5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplonuk1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplonuk1xs.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `weapons/xplonuk2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplonuk3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplonuk4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplonuk5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplosml1.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplosml2.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplosml3.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplosml4.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `weapons/xplosml5.wav` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `weapons/stormtl2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/t1arthit.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/tawf113a.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/tawf113b.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/tgunshipfire.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/tgunshipfire_OLD.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/tonukeex.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/torpedo1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/treefall.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/triotfire.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/uwlasrfir1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplodragconcrete.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplodragmetal.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplodragwater.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xploelc1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xploelc2.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `weapons/xploelc3.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `weapons/xplolrg1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplolrg2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplolrg3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplolrg4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplolrg5.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplolrg7.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplomas2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplomas2s.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplomed1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplomed2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplomed3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplomed4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplomed5.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplonuk1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplonuk1xs.wav` | _awaiting license_ | icexuick | #4 | 2026-10-14 |
+| `weapons/xplonuk2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplonuk3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplonuk4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplonuk5.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplosml1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplosml2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplosml3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplosml4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
+| `weapons/xplosml5.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
