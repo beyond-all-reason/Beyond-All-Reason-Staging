@@ -62,8 +62,8 @@ Total assets recorded: **239**
 | `gpl/sporetrail_xl.tga` | `GPL-2.0-or-later` | ForbodingAngel | manual-audit | 2026-10-06 |
 | `gpl/treefire.png` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
 | `graphPaper.bmp` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-10-14 |
-| `loadpictures/armada.jpg` | _awaiting license_ | Rubus | manual-audit | 2026-09-02 |
-| `loadpictures/cortex.jpg` | _awaiting license_ | Rubus | manual-audit | 2026-09-02 |
+| `loadpictures/armada.jpg` | `LicenseRef-BAR-CLA-1.0` | Rubus | manual-audit | 2026-11-04 |
+| `loadpictures/cortex.jpg` | `LicenseRef-BAR-CLA-1.0` | Rubus | manual-audit | 2026-11-04 |
 | `loadpictures/manual/donations.jpg` | `LicenseRef-BAR-CLA-1.0` | PtaQQ | manual-audit | 2026-06-01 |
 | `loadpictures/manual/scavengers/BAR4K_Loadingscreen_5.jpg` | `GPL-2.0-or-later` | icexuick | #4281 | 2026-10-06 |
 | `loadpictures/manual/scavengers/BAR4K_Loadingscreen_7.jpg` | `GPL-2.0-or-later` | icexuick | #4281 | 2026-10-06 |
