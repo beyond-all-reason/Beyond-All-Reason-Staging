@@ -46122,14 +46122,6 @@
   {
     "contributor": "Floris",
     "date": "2026-06-01T14:08:17Z",
-    "file": "bitmaps/gpl/jet2.bmp",
-    "license": "GPL-2.0-or-later",
-    "pr": "6118",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-06-01T14:08:17Z",
     "file": "bitmaps/gpl/perlin_noise.jpg",
     "license": "GPL-2.0-or-later",
     "pr": "6118",
@@ -46339,14 +46331,6 @@
     "contributor": "Floris",
     "date": "2026-05-27T15:57:59Z",
     "file": "bitmaps/logo_c_pausednotif2.png",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-05-27T20:08:52Z",
-    "file": "bitmaps/nano.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
     "source": "manual-audit"
@@ -46726,14 +46710,6 @@
   },
   {
     "contributor": "icexuick",
-    "date": "2026-05-27T19:34:40Z",
-    "file": "bitmaps/projectiletextures/glow3.tga",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "icexuick",
     "date": "2026-10-14T11:09:36Z",
     "file": "bitmaps/projectiletextures/graysmoke.tga",
     "license": "",
@@ -46929,14 +46905,6 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-05-27T20:00:05Z",
-    "file": "bitmaps/projectiletextures/nanobeam-reclaim.png",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -47195,14 +47163,6 @@
   {
     "contributor": "icexuick",
     "date": "2026-05-27T20:05:04Z",
-    "file": "bitmaps/projectiletextures/smoketrailaa2.tga",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "icexuick",
-    "date": "2026-05-27T20:05:04Z",
     "file": "bitmaps/projectiletextures/smoketrailaa3.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
@@ -47233,14 +47193,6 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Ruwetuin",
-    "date": "2026-05-27T20:05:04Z",
-    "file": "bitmaps/projectiletextures/smoketrailsoft.tga",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
     "contributor": "icexuick",
     "date": "2026-05-27T20:05:04Z",
     "file": "bitmaps/projectiletextures/subwake.tga",
@@ -47254,14 +47206,6 @@
     "file": "bitmaps/projectiletextures/trail.tga",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "4",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "icexuick",
-    "date": "2026-05-27T20:05:04Z",
-    "file": "bitmaps/projectiletextures/trail2.tga",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
     "source": "manual-audit"
   },
   {
@@ -47405,14 +47349,6 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
-  },
-  {
-    "contributor": "icexuick",
-    "date": "2026-05-27T20:06:03Z",
-    "file": "bitmaps/raptors/bloodsplat2old.tga",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -47605,23 +47541,7 @@
   {
     "contributor": "Beherith",
     "date": "2026-05-27T20:06:20Z",
-    "file": "bitmaps/tracks/arm_acv_tracks.bmp",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Beherith",
-    "date": "2026-05-27T20:06:20Z",
     "file": "bitmaps/tracks/arm_acv_tracks_2.bmp",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Beherith",
-    "date": "2026-05-27T20:06:20Z",
-    "file": "bitmaps/tracks/arm_stumpy_tracks.bmp",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
     "source": "manual-audit"
@@ -47654,14 +47574,6 @@
     "contributor": "Beherith",
     "date": "2026-10-12T19:10:03Z",
     "file": "bitmaps/tracks/armgremlin_tracks.bmp",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Beherith",
-    "date": "2026-05-27T20:06:20Z",
-    "file": "bitmaps/tracks/armmart_tracks.bmp",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
     "source": "manual-audit"
@@ -47710,14 +47622,6 @@
     "contributor": "Beherith",
     "date": "2026-10-12T19:10:03Z",
     "file": "bitmaps/tracks/bigfoot.bmp",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Floris",
-    "date": "2026-05-27T20:06:20Z",
-    "file": "bitmaps/tracks/bottrack1.bmp",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
     "source": "manual-audit"
@@ -47882,15 +47786,6 @@
     "contributor": "Severin Meyer",
     "date": "2026-09-02T07:35:55Z",
     "file": "fonts/unlisted/Xolonium.otf",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Nebiolo 1952",
-    "date": "2026-09-02T07:35:55Z",
-    "file": "fonts/unlisted/microgrammadbold.ttf",
     "license": "",
     "pr": "manual-audit",
     "source": "manual-audit",
@@ -54575,15 +54470,6 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Floris",
-    "date": "2026-08-28T12:38:00Z",
-    "file": "luarules/images/controlpoints.png",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
     "contributor": "icexuick",
     "date": "2026-08-28T12:38:00Z",
     "file": "luarules/images/cow.png",
@@ -59251,65 +59137,6 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Beherith",
-    "date": "2026-10-06T14:12:54Z",
-    "file": "luaui/images/flowui_gl4/backgroundtile.png",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "Beherith",
-    "date": "2026-09-01T07:27:58Z",
-    "file": "luaui/images/flowui_gl4/glow.dds",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Beherith",
-    "date": "2026-09-01T07:27:58Z",
-    "file": "luaui/images/flowui_gl4/glow2.dds",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "SethDGamre",
-    "date": "2026-09-01T11:05:10Z",
-    "file": "luaui/images/flowui_gl4/leaderboard.png",
-    "license": "",
-    "pr": "5767",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "icexuick",
-    "date": "2026-08-31T21:18:04Z",
-    "file": "luaui/images/flowui_gl4/metal.png",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "icexuick",
-    "date": "2026-08-31T21:18:04Z",
-    "file": "luaui/images/flowui_gl4/metalenergy.png",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "5915",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "icexuick",
-    "date": "2026-08-31T21:18:04Z",
-    "file": "luaui/images/flowui_gl4/metalold.png",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "manual-audit",
-    "source": "manual-audit"
-  },
-  {
     "contributor": "Floris",
     "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/formationDot.dds",
@@ -60022,54 +59849,6 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "icexuick",
-    "date": "2026-08-31T21:18:04Z",
-    "file": "luaui/images/keybinds/grid_keys.png",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "2934",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "icexuick",
-    "date": "2026-08-31T21:18:04Z",
-    "file": "luaui/images/keybinds/grid_keys_ALT.png",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "2934",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "icexuick",
-    "date": "2026-08-31T21:18:04Z",
-    "file": "luaui/images/keybinds/grid_keys_CTRL.png",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "2934",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "icexuick",
-    "date": "2026-08-31T21:18:04Z",
-    "file": "luaui/images/keybinds/legacy_keys.png",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "2934",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "icexuick",
-    "date": "2026-08-31T21:18:04Z",
-    "file": "luaui/images/keybinds/legacy_keys_ALT.png",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "2934",
-    "source": "manual-audit"
-  },
-  {
-    "contributor": "icexuick",
-    "date": "2026-08-31T21:18:04Z",
-    "file": "luaui/images/keybinds/legacy_keys_CTRL.png",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "pr": "2934",
-    "source": "manual-audit"
-  },
-  {
     "contributor": "Beherith",
     "date": "2026-09-01T07:27:58Z",
     "file": "luaui/images/lava/lava2_diffuseemit.dds",
@@ -60142,6 +59921,15 @@
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
     "source": "manual-audit"
+  },
+  {
+    "contributor": "SethDGamre",
+    "date": "2026-09-01T11:05:10Z",
+    "file": "luaui/images/leaderboard.png",
+    "license": "",
+    "pr": "5767",
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "Beherith",
@@ -60238,6 +60026,14 @@
     "file": "luaui/images/metal.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
+    "source": "manual-audit"
+  },
+  {
+    "contributor": "icexuick",
+    "date": "2026-08-31T21:18:04Z",
+    "file": "luaui/images/metalenergy.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "pr": "5915",
     "source": "manual-audit"
   },
   {
@@ -71973,15 +71769,6 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "FireStorm",
-    "date": "2026-09-01T20:07:06Z",
-    "file": "objects3d/Units/event/halloween/armcom.s3o",
-    "license": "",
-    "pr": "6006",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
     "contributor": "Kaiser",
     "date": "2026-09-01T20:08:56Z",
     "file": "objects3d/Units/event/halloween/armrectr.s3o",
@@ -72002,25 +71789,7 @@
   {
     "contributor": "Mr Bob",
     "date": "2026-09-01T20:11:59Z",
-    "file": "objects3d/Units/event/halloween/corcom.s3o",
-    "license": "",
-    "pr": "6006",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Mr Bob",
-    "date": "2026-09-01T20:11:59Z",
     "file": "objects3d/Units/event/halloween/correap.s3o",
-    "license": "",
-    "pr": "6006",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Tharsis",
-    "date": "2026-09-01T20:11:59Z",
-    "file": "objects3d/Units/event/halloween/legcom.s3o",
     "license": "",
     "pr": "6006",
     "source": "manual-audit",
@@ -72032,24 +71801,6 @@
     "file": "objects3d/Units/event/halloween/leggob.s3o",
     "license": "",
     "pr": "6006",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "FireStorm",
-    "date": "2026-09-01T20:07:06Z",
-    "file": "objects3d/Units/event/xmas/armcom.s3o",
-    "license": "",
-    "pr": "5997",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "Mr Bob",
-    "date": "2026-09-01T20:11:59Z",
-    "file": "objects3d/Units/event/xmas/corcom.s3o",
-    "license": "",
-    "pr": "5997",
     "source": "manual-audit",
     "status": "awaiting_license"
   },
@@ -76136,15 +75887,6 @@
   },
   {
     "contributor": "FireStorm",
-    "date": "2026-09-01T20:07:06Z",
-    "file": "objects3d/Units/scavboss/armminebomber.s3o",
-    "license": "",
-    "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
-  },
-  {
-    "contributor": "FireStorm",
     "date": "2026-09-07T20:22:03Z",
     "file": "objects3d/Units/scavboss/armpshipt3.s3o",
     "license": "",
@@ -77368,7 +77110,7 @@
   {
     "contributor": "Hornet",
     "date": "2026-09-01T20:13:36Z",
-    "file": "objects3d/hats/cor_hat_hornet.s3o",
+    "file": "objects3d/hats/cor_hat_gnome.s3o",
     "license": "",
     "pr": "manual-audit",
     "source": "manual-audit",
@@ -77377,7 +77119,7 @@
   {
     "contributor": "FireStorm",
     "date": "2026-09-07T20:02:39Z",
-    "file": "objects3d/hats/cor_hat_hw.s3o",
+    "file": "objects3d/hats/cor_hat_halloween_pumpkin.s3o",
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "3943",
     "source": "manual-audit"
@@ -77394,7 +77136,7 @@
   {
     "contributor": "Hornet",
     "date": "2026-09-01T20:13:36Z",
-    "file": "objects3d/hats/cor_hat_ptaq.s3o",
+    "file": "objects3d/hats/cor_hat_pirate.s3o",
     "license": "",
     "pr": "manual-audit",
     "source": "manual-audit",
@@ -100881,15 +100623,6 @@
     "license": "LicenseRef-BAR-CLA-1.0",
     "pr": "manual-audit",
     "source": "manual-audit"
-  },
-  {
-    "contributor": "FireStorm",
-    "date": "2026-09-01T19:48:45Z",
-    "file": "unitpics/scavengers/armminebomber.dds",
-    "license": "",
-    "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
   },
   {
     "contributor": "Beherith",

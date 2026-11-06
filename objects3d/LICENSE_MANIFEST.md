@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **2013**
+Total assets recorded: **2007**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -1172,15 +1172,10 @@ Total assets recorded: **2013**
 | `Units/event/aprilfools/correap.s3o.needsupdate` | _awaiting license_ | Damgam | #5997 | 2026-09-07 |
 | `Units/event/aprilfools/corstorm.s3o` | _awaiting license_ | Mr Bob | #5997 | 2026-09-01 |
 | `Units/event/aprilfools/corwin.s3o` | _awaiting license_ | Mr Bob | #5997 | 2026-09-01 |
-| `Units/event/halloween/armcom.s3o` | _awaiting license_ | FireStorm | #6006 | 2026-09-01 |
 | `Units/event/halloween/armrectr.s3o` | _awaiting license_ | Kaiser | #6006 | 2026-09-01 |
 | `Units/event/halloween/armspy.s3o` | _awaiting license_ | FireStorm | #6006 | 2026-09-01 |
-| `Units/event/halloween/corcom.s3o` | _awaiting license_ | Mr Bob | #6006 | 2026-09-01 |
 | `Units/event/halloween/correap.s3o` | _awaiting license_ | Mr Bob | #6006 | 2026-09-01 |
-| `Units/event/halloween/legcom.s3o` | _awaiting license_ | Tharsis | #6006 | 2026-09-01 |
 | `Units/event/halloween/leggob.s3o` | _awaiting license_ | Odin | #6006 | 2026-09-01 |
-| `Units/event/xmas/armcom.s3o` | _awaiting license_ | FireStorm | #5997 | 2026-09-01 |
-| `Units/event/xmas/corcom.s3o` | _awaiting license_ | Mr Bob | #5997 | 2026-09-01 |
 | `Units/freefusion.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/freefusion_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/legaabot.s3o` | _awaiting license_ | ZephyrSkies | #5061 | 2026-09-01 |
@@ -1639,7 +1634,6 @@ Total assets recorded: **2013**
 | `Units/scavboss/armlunchbox_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/scavboss/armmeatball.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `Units/scavboss/armmeatball_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
-| `Units/scavboss/armminebomber.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/scavboss/armpshipt3.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
 | `Units/scavboss/armpshipt3_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
 | `Units/scavboss/armptt2.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -1782,10 +1776,10 @@ Total assets recorded: **2013**
 | `gingerbread.s3o` | _awaiting license_ | Christiaan van Hoegee | manual-audit | 2026-08-31 |
 | `gingerbread.txt` | `LicenseRef-BAR-CLA-1.0` | Christiaan van Hoegee | manual-audit | 2026-09-02 |
 | `hats/cor_hat_fightnight.s3o` | _awaiting license_ | NebuchadnezzarII | #3778 | 2026-09-01 |
-| `hats/cor_hat_hornet.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
-| `hats/cor_hat_hw.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | #3943 | 2026-09-07 |
+| `hats/cor_hat_gnome.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
+| `hats/cor_hat_halloween_pumpkin.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | #3943 | 2026-09-07 |
 | `hats/cor_hat_legfn.s3o` | _awaiting license_ | NebuchadnezzarII | #3781 | 2026-09-01 |
-| `hats/cor_hat_ptaq.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
+| `hats/cor_hat_pirate.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `hats/cor_hat_viking.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `legbasictorpedo.s3o` | _awaiting license_ | Johnathan Crimson | #4909 | 2026-09-07 |
 | `legbomb.s3o` | _awaiting license_ | Mr Bob | #3049 | 2026-09-07 |

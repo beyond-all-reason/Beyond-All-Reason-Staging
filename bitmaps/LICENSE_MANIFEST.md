@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `bitmaps/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **238**
+Total assets recorded: **226**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -55,7 +55,6 @@ Total assets recorded: **238**
 | `gpl/flame.tga` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-08-28 |
 | `gpl/flame_alt.tga` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-10-06 |
 | `gpl/jet.bmp` | `GPL-2.0-or-later` | Floris | #6118 | 2026-06-01 |
-| `gpl/jet2.bmp` | `GPL-2.0-or-later` | Floris | #6118 | 2026-06-01 |
 | `gpl/perlin_noise.jpg` | `GPL-2.0-or-later` | Floris | #6118 | 2026-06-01 |
 | `gpl/sporetrail.tga` | `GPL-2.0-or-later` | ForbodingAngel | manual-audit | 2026-10-06 |
 | `gpl/sporetrail_xl.tga` | `GPL-2.0-or-later` | ForbodingAngel | manual-audit | 2026-10-06 |
@@ -83,7 +82,6 @@ Total assets recorded: **238**
 | `logo_c_paused.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `logo_c_pausednotif.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `logo_c_pausednotif2.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
-| `nano.tga` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `pd/bloodblast.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `pd/bloodblastwhite.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `pd/blooddrop.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
@@ -126,7 +124,6 @@ Total assets recorded: **238**
 | `projectiletextures/fragment.tga` | _awaiting license_ | Beherith | manual-audit | 2026-08-28 |
 | `projectiletextures/glow.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/glow2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
-| `projectiletextures/glow3.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/graysmoke.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/greennovaexplo.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/gunshot.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
@@ -149,7 +146,6 @@ Total assets recorded: **238**
 | `projectiletextures/muzzlefront.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/muzzleside.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/muzzlesideflipped.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
-| `projectiletextures/nanobeam-reclaim.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `projectiletextures/nanobeam-resurrect.png` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/nanopart.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/new_dirta.png` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
@@ -179,15 +175,12 @@ Total assets recorded: **238**
 | `projectiletextures/smoke.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/smoketrail.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `projectiletextures/smoketrailaa.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `projectiletextures/smoketrailaa2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/smoketrailaa3.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/smoketrailaaflak.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/smoketrailbar.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/smoketraildark.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `projectiletextures/smoketrailsoft.tga` | `LicenseRef-BAR-CLA-1.0` | Ruwetuin | manual-audit | 2026-05-27 |
 | `projectiletextures/subwake.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/trail.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4 | 2026-05-27 |
-| `projectiletextures/trail2.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/trail3.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `projectiletextures/wake.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `projectiletextures/wakegrey.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
@@ -204,7 +197,6 @@ Total assets recorded: **238**
 | `raptors/blooddrop2_white.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `raptors/bloodsplat2.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `raptors/bloodsplat2_white.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
-| `raptors/bloodsplat2old.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `scars/scar1.bmp` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `scars/scar2.bmp` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `scars/scar3.bmp` | `CC0-1.0` | Beherith | manual-audit | 2026-10-12 |
@@ -227,21 +219,17 @@ Total assets recorded: **238**
 | `taskbarLogo_notif2.png` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `tracks/Corparrowtracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `tracks/Corwidetracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
-| `tracks/arm_acv_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/arm_acv_tracks_2.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
-| `tracks/arm_stumpy_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armacv_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armbull_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armcroc_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armgremlin_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
-| `tracks/armmart_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armpincer_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armsam_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armseer_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armstump_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/armyork_tracks.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `tracks/bigfoot.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
-| `tracks/bottrack1.bmp` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-05-27 |
 | `tracks/raptortrack.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `tracks/raptortrackpointy.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `ui/radarping1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

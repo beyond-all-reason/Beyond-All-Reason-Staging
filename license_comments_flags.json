@@ -864,26 +864,6 @@
       "comments": []
     },
     {
-      "file": "fonts/unlisted/microgrammadbold.ttf",
-      "flags": [
-        "unused"
-      ],
-      "comments": [
-        {
-          "author": "BAR CLA Bot",
-          "date": "2026-08-31",
-          "text": "this font needs to be removed - it's a per-machine-paid font"
-        }
-      ]
-    },
-    {
-      "file": "luarules/images/controlpoints.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
       "file": "luaui/images/advplayerslist/arrowd.png",
       "flags": [
         "unsure",
@@ -1673,13 +1653,6 @@
       "file": "objects3d/akbomb2.s3o",
       "flags": [
         "unsure"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/chip.s3o",
-      "flags": [
-        "unused"
       ],
       "comments": []
     },
@@ -9797,34 +9770,6 @@
       "comments": []
     },
     {
-      "file": "unittextures/PineSnowyTexture.dds",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "unittextures/PineSnowyTexture_w.dds",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "unittextures/PineTexture.dds",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "unittextures/PineTextureburnt.dds",
-      "flags": [
-        "unsure"
-      ],
-      "comments": []
-    },
-    {
       "file": "unittextures/apexchicken.dds",
       "flags": [
         "unused"
@@ -10008,20 +9953,6 @@
     },
     {
       "file": "unittextures/chickeneggyellow.dds",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "unittextures/chip.dds",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "unittextures/chip2.dds",
       "flags": [
         "unused"
       ],

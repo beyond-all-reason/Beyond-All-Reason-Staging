@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1491**
+Total assets recorded: **1490**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -958,7 +958,6 @@ Total assets recorded: **1491**
 | `scavengers/armmine1.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armmine2.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armmine3.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `scavengers/armminebomber.dds` | _awaiting license_ | FireStorm | #7224 | 2026-09-01 |
 | `scavengers/armminivulc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armmls.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armmlv.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |

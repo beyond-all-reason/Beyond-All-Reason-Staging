@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **781**
+Total assets recorded: **770**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -586,13 +586,6 @@ Total assets recorded: **781**
 | `energy.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `flank_icon.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `flank_icon_old.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `flowui_gl4/backgroundtile.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-06 |
-| `flowui_gl4/glow.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
-| `flowui_gl4/glow2.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
-| `flowui_gl4/leaderboard.png` | _awaiting license_ | SethDGamre | #5767 | 2026-09-01 |
-| `flowui_gl4/metal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `flowui_gl4/metalenergy.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5915 | 2026-08-31 |
-| `flowui_gl4/metalold.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `formationDot.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `forward.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `fractal_voronoi_tiled.tmd` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
@@ -682,12 +675,6 @@ Total assets recorded: **781**
 | `idleicon/idlecon_058.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `idleicon/idlecon_059.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `info_health.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `keybinds/grid_keys.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2934 | 2026-08-31 |
-| `keybinds/grid_keys_ALT.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2934 | 2026-08-31 |
-| `keybinds/grid_keys_CTRL.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2934 | 2026-08-31 |
-| `keybinds/legacy_keys.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2934 | 2026-08-31 |
-| `keybinds/legacy_keys_ALT.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2934 | 2026-08-31 |
-| `keybinds/legacy_keys_CTRL.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #2934 | 2026-08-31 |
 | `lava/lava2_diffuseemit.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `lava/lava2_diffuseemitblue.dds` | `CC-BY-SA-4.0` | AntlerForce | #3911 | 2026-09-01 |
 | `lava/lava2_normalheight.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
@@ -697,6 +684,7 @@ Total assets recorded: **781**
 | `lava/lava7_normalheight.dds` | _awaiting license_ | icexuick | manual-audit | 2026-10-12 |
 | `lavadistortion.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #3118 | 2026-10-12 |
 | `lavadistortion.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
+| `leaderboard.png` | _awaiting license_ | SethDGamre | #5767 | 2026-09-01 |
 | `luagrass/Taldarim_V3_grassDist.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-06 |
 | `luagrass/grass_field_medit.dds.cached.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `luagrass/grass_field_medit_flowering.dds.cached.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
@@ -709,6 +697,7 @@ Total assets recorded: **781**
 | `mapmarksfx/glow.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `mapmarksfx/ring.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `metal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `metalenergy.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5915 | 2026-08-31 |
 | `metalold.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `music/forward.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `music/music.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |

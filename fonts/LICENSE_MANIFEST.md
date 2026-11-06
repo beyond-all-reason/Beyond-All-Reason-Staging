@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `fonts/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **16**
+Total assets recorded: **15**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -23,4 +23,3 @@ Total assets recorded: **16**
 | `monospaced/SourceCodePro-Medium.otf` | _awaiting license_ | Adobe | manual-audit | 2026-09-02 |
 | `monospaced/SourceCodePro-Semibold.otf` | _awaiting license_ | Adobe | manual-audit | 2026-09-02 |
 | `unlisted/Xolonium.otf` | _awaiting license_ | Severin Meyer | manual-audit | 2026-09-02 |
-| `unlisted/microgrammadbold.ttf` | _awaiting license_ | Nebiolo 1952 | manual-audit | 2026-09-02 |
