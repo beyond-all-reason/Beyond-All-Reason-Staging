@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **2015**
+Total assets recorded: **2013**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -16,7 +16,6 @@ Total assets recorded: **2015**
 | `Critters/critter_penguin.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
 | `Critters/critter_penguinbro.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
 | `Critters/critter_penguinking.s3o` | _awaiting license_ | knorker | manual-audit | 2026-06-16 |
-| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-10-07 |
 | `LegionUnitCapsule.s3o` | _awaiting license_ | Tharsis | #3837 | 2026-09-07 |
 | `Lootboxes/lootbox.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-07 |
 | `Lootboxes/lootboxnanoarm.s3o` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
@@ -796,7 +795,7 @@ Total assets recorded: **2015**
 | `Units/corck_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corcom.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corcom_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `Units/corcom_vanilla.s3o` | `LicenseRef-BAR-CLA-1.0` | MrBob | manual-audit | 2026-10-12 |
+| `Units/corcom_vanilla.s3o` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-10-12 |
 | `Units/corcomhilvl.s3o` | _awaiting license_ | Mr Bob | #2820 | 2026-09-01 |
 | `Units/corcrash.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/corcrash_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
@@ -885,8 +884,8 @@ Total assets recorded: **2015**
 | `Units/corfus_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corgant.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corgant_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `Units/corgantbig.s3o` | _awaiting license_ | MrBob | #5546 | 2026-09-07 |
-| `Units/corgantbig_dead.s3o` | _awaiting license_ | MrBob | #5546 | 2026-09-07 |
+| `Units/corgantbig.s3o` | _awaiting license_ | Mr Bob | #5546 | 2026-09-07 |
+| `Units/corgantbig_dead.s3o` | _awaiting license_ | Mr Bob | #5546 | 2026-09-07 |
 | `Units/corgarp.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/corgarp_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/corgate.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -899,8 +898,8 @@ Total assets recorded: **2015**
 | `Units/corgeo_dead.s3o` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `Units/corgol.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/corgol_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `Units/corgplat.s3o` | _awaiting license_ | MrBob | manual-audit | 2026-09-07 |
-| `Units/corgplat_dead.s3o` | _awaiting license_ | MrBob | manual-audit | 2026-09-07 |
+| `Units/corgplat.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-07 |
+| `Units/corgplat_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-07 |
 | `Units/corhaap.s3o` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
 | `Units/corhaap_dead.s3o` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
 | `Units/corhal.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
@@ -975,7 +974,7 @@ Total assets recorded: **2015**
 | `Units/cormlv_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cormmkr.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/cormmkr_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `Units/cormmkr_old_dead.s3o` | _awaiting license_ | MrBob | manual-audit | 2026-09-07 |
+| `Units/cormmkr_old_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-07 |
 | `Units/cormmkrt3.s3o` | _awaiting license_ | Mr Bob | #4524 | 2026-09-01 |
 | `Units/cormmkrt3_dead.s3o` | _awaiting license_ | Mr Bob | #4524 | 2026-09-01 |
 | `Units/cormoho.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -1231,8 +1230,8 @@ Total assets recorded: **2015**
 | `Units/legalab_dead.s3o` | _awaiting license_ | Cremuss | #4074 | 2026-09-01 |
 | `Units/legamcluster.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
 | `Units/legamcluster_dead.s3o` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
-| `Units/legamph.s3o` | _awaiting license_ | Johanthan Crimson | #4829 | 2026-09-01 |
-| `Units/legamph_dead.s3o` | _awaiting license_ | Johanthan Crimson | #4829 | 2026-09-01 |
+| `Units/legamph.s3o` | _awaiting license_ | Johnathan Crimson | #4829 | 2026-09-01 |
+| `Units/legamph_dead.s3o` | _awaiting license_ | Johnathan Crimson | #4829 | 2026-09-01 |
 | `Units/legamphlab.s3o` | _awaiting license_ | ZephyrSkies | #5072 | 2026-09-02 |
 | `Units/legamphlab_dead.s3o` | _awaiting license_ | ZephyrSkies | #5072 | 2026-09-02 |
 | `Units/legamphtank.s3o` | _awaiting license_ | ZephyrSkies | #3144 | 2026-09-01 |
@@ -1318,8 +1317,8 @@ Total assets recorded: **2015**
 | `Units/legbastion_dead.s3o` | _awaiting license_ | Gabs | manual-audit | 2026-09-01 |
 | `Units/legbombard.s3o` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
 | `Units/legbombard_dead.s3o` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
-| `Units/legbunk.s3o` | _awaiting license_ | Johanthan Crimson | #4613 | 2026-09-01 |
-| `Units/legbunk_dead.s3o` | _awaiting license_ | Johanthan Crimson | #4613 | 2026-09-01 |
+| `Units/legbunk.s3o` | _awaiting license_ | Johnathan Crimson | #4613 | 2026-09-01 |
+| `Units/legbunk_dead.s3o` | _awaiting license_ | Johnathan Crimson | #4613 | 2026-09-01 |
 | `Units/legca.s3o` | _awaiting license_ | ZephyrSkies | #3046 | 2026-09-01 |
 | `Units/legcar.s3o` | _awaiting license_ | EnderRobo | #3343 | 2026-09-01 |
 | `Units/legcar_dead.s3o` | _awaiting license_ | EnderRobo | #3343 | 2026-09-01 |
@@ -1677,8 +1676,8 @@ Total assets recorded: **2015**
 | `Units/scavboss/corkarganetht4.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/scavboss/corkarganetht4_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `Units/scavboss/corkorgmini.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
-| `Units/scavboss/corlevlrt4.s3o` | _awaiting license_ | MrBob | manual-audit | 2026-09-07 |
-| `Units/scavboss/corlevlrt4_dead.s3o` | _awaiting license_ | MrBob | manual-audit | 2026-09-07 |
+| `Units/scavboss/corlevlrt4.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-07 |
+| `Units/scavboss/corlevlrt4_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-07 |
 | `Units/scavboss/corslrpc.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/scavboss/corslrpc_dead.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `Units/scavboss/corthermite.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #2239 | 2026-09-01 |
@@ -1782,13 +1781,13 @@ Total assets recorded: **2015**
 | `fmdmissile.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
 | `gingerbread.s3o` | _awaiting license_ | Christiaan van Hoegee | manual-audit | 2026-08-31 |
 | `gingerbread.txt` | `LicenseRef-BAR-CLA-1.0` | Christiaan van Hoegee | manual-audit | 2026-09-02 |
-| `hats/cor_hat_fightnight.s3o` | _awaiting license_ | NebuchadnezzarII= | #3778 | 2026-09-01 |
+| `hats/cor_hat_fightnight.s3o` | _awaiting license_ | NebuchadnezzarII | #3778 | 2026-09-01 |
 | `hats/cor_hat_hornet.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `hats/cor_hat_hw.s3o` | `LicenseRef-BAR-CLA-1.0` | FireStorm | #3943 | 2026-09-07 |
 | `hats/cor_hat_legfn.s3o` | _awaiting license_ | NebuchadnezzarII | #3781 | 2026-09-01 |
 | `hats/cor_hat_ptaq.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `hats/cor_hat_viking.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
-| `legbasictorpedo.s3o` | _awaiting license_ | Johanthan Crimson | #4909 | 2026-09-07 |
+| `legbasictorpedo.s3o` | _awaiting license_ | Johnathan Crimson | #4909 | 2026-09-07 |
 | `legbomb.s3o` | _awaiting license_ | Mr Bob | #3049 | 2026-09-07 |
 | `legfattorpedo.s3o` | _awaiting license_ | Tharsis | #6423 | 2026-09-07 |
 | `leghomingmissile.s3o` | _awaiting license_ | Tharsis | #3049 | 2026-09-07 |
@@ -1838,7 +1837,6 @@ Total assets recorded: **2015**
 | `pilha_crystal_violet_1.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `pilha_crystal_violet_2.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
 | `pilha_crystal_violet_3.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-27 |
-| `rocks30/licence.txt` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `rocks30/rocks30_def_01.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `rocks30/rocks30_def_02.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `rocks30/rocks30_def_03.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |

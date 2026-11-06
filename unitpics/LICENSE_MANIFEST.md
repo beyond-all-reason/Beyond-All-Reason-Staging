@@ -4,12 +4,11 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1492**
+Total assets recorded: **1491**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
 | `LEGESTOR.dds` | _awaiting license_ | Protar | #3689 | 2026-09-01 |
-| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-09-01 |
 | `armaak.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `armaap.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `armaas.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -342,7 +341,7 @@ Total assets recorded: **1492**
 | `corgeo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `corgol.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corgolt4.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `corgplat.dds` | _awaiting license_ | MrBob | manual-audit | 2026-09-09 |
+| `corgplat.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-09 |
 | `corhaap.dds` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
 | `corhal.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `corhalab.dds` | _awaiting license_ | Mr Bob | #5546 | 2026-09-01 |
@@ -362,7 +361,7 @@ Total assets recorded: **1492**
 | `corjuno.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corkarg.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `corkarganetht4.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
-| `corkark.dds` | _awaiting license_ | Firestorm | manual-audit | 2026-09-01 |
+| `corkark.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `corkorg.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `corlab.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corlevlr.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -513,7 +512,7 @@ Total assets recorded: **1492**
 | `legajamk.dds` | _awaiting license_ | Tharsis | #5382 | 2026-09-01 |
 | `legalab.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `legamcluster.dds` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
-| `legamph.dds` | _awaiting license_ | Johanthan Crimson | #4829 | 2026-09-01 |
+| `legamph.dds` | _awaiting license_ | Johnathan Crimson | #4829 | 2026-09-01 |
 | `legamphlab.dds` | _awaiting license_ | ZephyrSkies | #5072 | 2026-09-01 |
 | `legamphtank.dds` | _awaiting license_ | ZephyrSkies | #3144 | 2026-09-01 |
 | `legamstor.dds` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
@@ -559,7 +558,7 @@ Total assets recorded: **1492**
 | `legbart.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
 | `legbastion.dds` | _awaiting license_ | Gabs | manual-audit | 2026-09-01 |
 | `legbombard.dds` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
-| `legbunk.dds` | _awaiting license_ | Johanthan Crimson | #4613 | 2026-09-01 |
+| `legbunk.dds` | _awaiting license_ | Johnathan Crimson | #4613 | 2026-09-01 |
 | `legca.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
 | `legcar.dds` | _awaiting license_ | EnderRobo | #3343 | 2026-09-01 |
 | `legcen.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
@@ -1143,7 +1142,7 @@ Total assets recorded: **1492**
 | `scavengers/corgeo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `scavengers/corgol.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corgolt4.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `scavengers/corgplat.dds` | _awaiting license_ | MrBob | manual-audit | 2026-09-09 |
+| `scavengers/corgplat.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-09 |
 | `scavengers/corhal.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/corhllllt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corhllt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -1160,7 +1159,7 @@ Total assets recorded: **1492**
 | `scavengers/corkarg.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `scavengers/corkarganetht4.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `scavengers/corkargclassic.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-09 |
-| `scavengers/corkark.dds` | _awaiting license_ | Firestorm | manual-audit | 2026-09-01 |
+| `scavengers/corkark.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/corkorg.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/corlab.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corlevlr.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -1295,7 +1294,7 @@ Total assets recorded: **1492**
 | `scavengers/legajamk.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legalab.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legamcluster.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legamph.dds` | _awaiting license_ | Johanthan Crimson | #7224 | 2026-09-01 |
+| `scavengers/legamph.dds` | _awaiting license_ | Johnathan Crimson | #7224 | 2026-09-01 |
 | `scavengers/legamphlab.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legamphtank.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
 | `scavengers/legamstor.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
@@ -1489,13 +1488,13 @@ Total assets recorded: **1492**
 | `scavengers/legwint2.dds` | _awaiting license_ | Yzch | #7224 | 2026-09-01 |
 | `scavengers/mission_command_tower.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `scavengers/scavbeacon.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
-| `scavengers/scavbeacon_t1.dds` | _awaiting license_ | MrBob | #7224 | 2026-09-01 |
-| `scavengers/scavbeacon_t2.dds` | _awaiting license_ | MrBob | #7224 | 2026-09-01 |
-| `scavengers/scavbeacon_t3.dds` | _awaiting license_ | MrBob | #7224 | 2026-09-01 |
-| `scavengers/scavbeacon_t4.dds` | _awaiting license_ | MrBob | #7224 | 2026-09-01 |
+| `scavengers/scavbeacon_t1.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
+| `scavengers/scavbeacon_t2.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
+| `scavengers/scavbeacon_t3.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
+| `scavengers/scavbeacon_t4.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
 | `scavengers/scavdrag.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `scavengers/scavengerdroppod.dds` | _awaiting license_ | MrBob | manual-audit | 2026-09-01 |
-| `scavengers/scavengerdroppodfriendly.dds` | _awaiting license_ | MrBob | #7224 | 2026-09-01 |
+| `scavengers/scavengerdroppod.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/scavengerdroppodfriendly.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
 | `scavengers/scavfort.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/scavmist.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `scavengers/scavsafeareabeacon.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |

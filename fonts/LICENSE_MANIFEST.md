@@ -4,25 +4,21 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `fonts/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **20**
+Total assets recorded: **16**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
 | `Exo2-Regular.otf` | _awaiting license_ | Natanael Gama | manual-audit | 2026-09-02 |
 | `Exo2-SemiBold.otf` | _awaiting license_ | Natanael Gama | manual-audit | 2026-09-02 |
-| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-10-07 |
 | `Mesmerize-Bold.ttf` | `CC0-1.0` | public domain | manual-audit | 2026-09-02 |
 | `Mesmerize-Regular.ttf` | `CC0-1.0` | public domain | manual-audit | 2026-09-02 |
-| `OFL-Poppins.txt` | _awaiting license_ | Indian Type Foundry / Jonny Pinhorn | #3977 | 2026-09-02 |
 | `Poppins-Medium.otf` | _awaiting license_ | Indian Type Foundry / Jonny Pinhorn | manual-audit | 2026-09-02 |
 | `Poppins-Regular.otf` | _awaiting license_ | Indian Type Foundry / Jonny Pinhorn | manual-audit | 2026-09-02 |
 | `exo2/Exo2-Bold.ttf` | _awaiting license_ | Natanael Gama | #3977 | 2026-09-02 |
 | `exo2/Exo2-BoldItalic.ttf` | _awaiting license_ | Natanael Gama | #3977 | 2026-09-02 |
 | `exo2/Exo2-Italic.ttf` | _awaiting license_ | Natanael Gama | #3977 | 2026-09-02 |
 | `exo2/Exo2-Regular.ttf` | _awaiting license_ | Natanael Gama | #3977 | 2026-09-02 |
-| `exo2/OFL.txt` | _awaiting license_ | Natanael Gama | #3977 | 2026-09-02 |
 | `fallbacks/NotoEmoji-VariableFont_wght.ttf` | _awaiting license_ | Google | #4102 | 2026-09-02 |
-| `fallbacks/OFL-Noto.txt` | _awaiting license_ | Google | #4102 | 2026-09-02 |
 | `fallbacks/SourceHanSans-Regular.ttc` | _awaiting license_ | Adobe | #4102 | 2026-09-02 |
 | `monospaced/SourceCodePro-Medium.otf` | _awaiting license_ | Adobe | manual-audit | 2026-09-02 |
 | `monospaced/SourceCodePro-Semibold.otf` | _awaiting license_ | Adobe | manual-audit | 2026-09-02 |

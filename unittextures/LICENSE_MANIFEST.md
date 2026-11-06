@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unittextures/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1066**
+Total assets recorded: **1063**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -14,7 +14,6 @@ Total assets recorded: **1066**
 | `Arm_wreck_color.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
 | `Arm_wreck_color_normal.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
 | `Arm_wreck_other.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
-| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-10-07 |
 | `anttex.dds` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
 | `apexchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `aquachicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
@@ -676,7 +675,7 @@ Total assets recorded: **1066**
 | `decals_features/corfblackhyt4_dead_15_15_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
 | `decals_features/corfdoom_dead_9_9_aoplane.dds` | _awaiting license_ | Zecrus | manual-audit | 2026-09-01 |
 | `decals_features/corfdrag_dead_3_3_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
-| `decals_features/corfgate_dead_6_6_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | MrBob | #5030 | 2026-10-12 |
+| `decals_features/corfgate_dead_6_6_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | #5030 | 2026-10-12 |
 | `decals_features/corfhlt_dead_7_7_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
 | `decals_features/corfhp_dead_8_8_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
 | `decals_features/corfink_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
@@ -700,7 +699,7 @@ Total assets recorded: **1066**
 | `decals_features/corgeo_dead_6_6_aoplane.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `decals_features/corgol_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
 | `decals_features/corgolt4_dead_7_7_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-07 |
-| `decals_features/corgplat_dead_5_5_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | MrBob | manual-audit | 2026-10-12 |
+| `decals_features/corgplat_dead_5_5_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | manual-audit | 2026-10-12 |
 | `decals_features/corhal_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
 | `decals_features/corhllllt_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
 | `decals_features/corhllt_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -710,17 +709,17 @@ Total assets recorded: **1066**
 | `decals_features/corhunt_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `decals_features/corhurc_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
 | `decals_features/corint_dead_11_11_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
-| `decals_features/corintr_dead_7_7_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | MrBob | #5030 | 2026-10-12 |
+| `decals_features/corintr_dead_7_7_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | #5030 | 2026-10-12 |
 | `decals_features/corjamt_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `decals_features/corjugg_dead_8_8_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/corjuno_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
 | `decals_features/corkarg_dead_7_7_aoplane.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `decals_features/corkarganetht4_dead_10_10_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
-| `decals_features/corkark_dead_5_5_aoplane.dds` | _awaiting license_ | Firestorm | #5030 | 2026-09-01 |
+| `decals_features/corkark_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/corkorg_dead_17_17_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/corlab_dead_8_8_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `decals_features/corlevlr_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `decals_features/corlevlrt4_dead_8_8_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | MrBob | #5030 | 2026-10-12 |
+| `decals_features/corlevlrt4_dead_8_8_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | #5030 | 2026-10-12 |
 | `decals_features/corllt_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `decals_features/cormabm_dead_6_6_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
 | `decals_features/cormadsam_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
@@ -736,7 +735,7 @@ Total assets recorded: **1066**
 | `decals_features/cormls_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
 | `decals_features/cormlv_dead_4_4_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
 | `decals_features/cormmkr_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
-| `decals_features/cormmkr_old_dead_6_6_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | MrBob | #5030 | 2026-10-12 |
+| `decals_features/cormmkr_old_dead_6_6_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Mr Bob | #5030 | 2026-10-12 |
 | `decals_features/cormmkrt3_dead_9_9_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
 | `decals_features/cormoho_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
 | `decals_features/cormort_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
@@ -844,7 +843,7 @@ Total assets recorded: **1066**
 | `decals_features/legajam_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
 | `decals_features/legalab_dead_13_13_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
 | `decals_features/legamcluster_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
-| `decals_features/legamph_dead_7_7_aoplane.dds` | _awaiting license_ | Johanthan Crimson | #5030 | 2026-09-07 |
+| `decals_features/legamph_dead_7_7_aoplane.dds` | _awaiting license_ | Johnathan Crimson | #5030 | 2026-09-07 |
 | `decals_features/legamphtank_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
 | `decals_features/legamstor_dead_6_6_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals_features/legap_dead_8_8_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-07 |
@@ -859,7 +858,7 @@ Total assets recorded: **1066**
 | `decals_features/legbart_dead_6_6_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-07 |
 | `decals_features/legbastion_dead_9_9_aoplane.dds` | _awaiting license_ | Gabs | #5030 | 2026-09-01 |
 | `decals_features/legbombard_dead_4_4_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-01 |
-| `decals_features/legbunk_dead_8_8_aoplane.dds` | _awaiting license_ | Johanthan Crimson | #5030 | 2026-09-07 |
+| `decals_features/legbunk_dead_8_8_aoplane.dds` | _awaiting license_ | Johnathan Crimson | #5030 | 2026-09-07 |
 | `decals_features/legcar_dead_5_5_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
 | `decals_features/legcen_dead_5_5_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/legch_dead_4_4_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
@@ -1023,14 +1022,12 @@ Total assets recorded: **1066**
 | `greyrock2.tga` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `leegmech_normal.dds` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-07 |
 | `leg_normal.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-07 |
-| `license.txt` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `multichicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `palette_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `palette_normal.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `palette_other.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `pilha_crystal_blue_tex1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `pilha_crystal_green_tex1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
-| `pilha_crystal_license.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_lime_tex1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `pilha_crystal_normal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `pilha_crystal_obsidian_tex1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |

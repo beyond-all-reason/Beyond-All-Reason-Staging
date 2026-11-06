@@ -4,11 +4,10 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `sounds/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1441**
+Total assets recorded: **1439**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
-| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-10-07 |
 | `atmos-geovents/geovent.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `atmos-geovents/geoventshort.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `atmos-local/fireburn.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
@@ -724,7 +723,6 @@ Total assets recorded: **1441**
 | `replies/windgen1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/windgen2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `replies/windgen_stereo.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
-| `sound_file_lengths.ipynb` | _awaiting license_ | Beherith | manual-audit | 2026-08-31 |
 | `ui/beep4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `ui/beep6.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `ui/blank.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |

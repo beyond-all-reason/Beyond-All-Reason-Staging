@@ -100,20 +100,6 @@
       ]
     },
     {
-      "file": "anims/icexuick_100/license.txt",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "anims/license.txt",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
       "file": "anims/uiresized1_0.bmp",
       "flags": [],
       "comments": [
@@ -801,13 +787,6 @@
       "comments": []
     },
     {
-      "file": "fonts/OFL-Poppins.txt",
-      "flags": [
-        "sil-open-font-license-1-1"
-      ],
-      "comments": []
-    },
-    {
       "file": "fonts/Poppins-Medium.otf",
       "flags": [
         "sil-open-font-license-1-1"
@@ -850,21 +829,7 @@
       "comments": []
     },
     {
-      "file": "fonts/exo2/OFL.txt",
-      "flags": [
-        "sil-open-font-license-1-1"
-      ],
-      "comments": []
-    },
-    {
       "file": "fonts/fallbacks/NotoEmoji-VariableFont_wght.ttf",
-      "flags": [
-        "sil-open-font-license-1-1"
-      ],
-      "comments": []
-    },
-    {
-      "file": "fonts/fallbacks/OFL-Noto.txt",
       "flags": [
         "sil-open-font-license-1-1"
       ],
@@ -10625,13 +10590,6 @@
     },
     {
       "file": "unittextures/pilha_crystal_green_tex1.tga",
-      "flags": [
-        "sketchfab"
-      ],
-      "comments": []
-    },
-    {
-      "file": "unittextures/pilha_crystal_license.txt",
       "flags": [
         "sketchfab"
       ],

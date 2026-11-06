@@ -4,11 +4,10 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `anims/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **5719**
+Total assets recorded: **5712**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
-| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-08-28 |
 | `cursorattack_0.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `cursorcapture_0.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `cursordefend_0.bmp` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
@@ -1183,7 +1182,6 @@ Total assets recorded: **5719**
 | `icexuick_100/cursorwait_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorwait_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
 | `icexuick_100/cursorwait_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-26 |
-| `icexuick_100/license.txt` | _awaiting license_ | icexuick | manual-audit | 2026-06-01 |
 | `icexuick_100/uimove.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_100/uimove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_100/uiresized1.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-08-28 |
@@ -2351,7 +2349,6 @@ Total assets recorded: **5719**
 | `icexuick_133/cursorwait_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorwait_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
 | `icexuick_133/cursorwait_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-26 |
-| `icexuick_133/license.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-09-02 |
 | `icexuick_133/uimove.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-09-02 |
 | `icexuick_133/uimove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_133/uiresized1.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-09-02 |
@@ -3519,7 +3516,6 @@ Total assets recorded: **5719**
 | `icexuick_166/cursorwait_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorwait_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/cursorwait_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `icexuick_166/license.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_166/uimove.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-09-02 |
 | `icexuick_166/uimove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_166/uiresized1.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-09-02 |
@@ -4687,7 +4683,6 @@ Total assets recorded: **5719**
 | `icexuick_200/cursorwait_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorwait_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
 | `icexuick_200/cursorwait_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7 | 2026-05-27 |
-| `icexuick_200/license.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_200/uimove.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-09-02 |
 | `icexuick_200/uimove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_200/uiresized1.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-09-02 |
@@ -5710,7 +5705,6 @@ Total assets recorded: **5719**
 | `icexuick_75/cursorwait_7.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorwait_8.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/cursorwait_9.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `icexuick_75/license.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `icexuick_75/uimove.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-09-02 |
 | `icexuick_75/uimove_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/uiresized1.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-09-02 |
@@ -5721,7 +5715,6 @@ Total assets recorded: **5719**
 | `icexuick_75/uiresizeh_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `icexuick_75/uiresizev.txt` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-09-02 |
 | `icexuick_75/uiresizev_0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `license.txt` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-08-28 |
 | `uimove_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |
 | `uiresized1_0.bmp` | `GPL-2.0-or-later` | PtaQ | manual-audit | 2026-06-01 |
 | `uiresized2_0.bmp` | `GPL-2.0-or-later` | Floris | manual-audit | 2026-06-01 |

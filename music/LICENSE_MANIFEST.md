@@ -4,18 +4,17 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `music/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **102**
+Total assets recorded: **101**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
-| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-10-07 |
 | `custom/readme.txt` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
 | `original/credits.txt` | _awaiting license_ | Damgam | manual-audit | 2026-08-31 |
 | `original/defeat/placeholder.txt` | _awaiting license_ | Damgam | #5922 | 2026-08-31 |
 | `original/events/aprilfools/loading/Leon Devereux - Surveillance Protocol ( SNIKI MANUVA Remix).mp3` | _awaiting license_ | Leon Devereux | #7270 | 2026-08-28 |
 | `original/events/aprilfools/loading/Leon Devereux - Surveillance Protocol (Techno Remix).ogg` | _awaiting license_ | Leon Devereux | #4515 | 2026-08-28 |
-| `original/events/aprilfools/loading/Russel Lucas-Nutt - Fading Hope of Victory ( Ricardio223 Polka Cover) (Short).ogg` | _awaiting license_ | Russel Lucas-Nutt | #7270 | 2026-08-31 |
-| `original/events/aprilfools/loading/Russel Lucas-Nutt - Fading Hope of Victory ( Ricardio223 Polka Cover).ogg` | _awaiting license_ | Russel Lucas-Nutt | #7270 | 2026-08-31 |
+| `original/events/aprilfools/loading/Russel Lucas-Nutt - Fading Hope of Victory ( Ricardio223 Polka Cover) (Short).ogg` | _awaiting license_ | Russell Lucas-Nutt | #7270 | 2026-08-31 |
+| `original/events/aprilfools/loading/Russel Lucas-Nutt - Fading Hope of Victory ( Ricardio223 Polka Cover).ogg` | _awaiting license_ | Russell Lucas-Nutt | #7270 | 2026-08-31 |
 | `original/events/aprilfools/menu/Iza Laine - Beyond All Rhythm.mp3` | _awaiting license_ | Iza Laine | #4515 | 2026-08-31 |
 | `original/events/aprilfools/menu/Ryan Krause - Friend or Foe ( Bassfahrer Metal Cover).ogg` | _awaiting license_ | Ryan Krause | #7299 | 2026-08-31 |
 | `original/events/aprilfools/peace/Leon Devereux - Scan The Horizon ( SerendyPetit Remix).ogg` | _awaiting license_ | Leon Devereux | #4664 | 2026-08-28 |
@@ -27,7 +26,7 @@ Total assets recorded: **102**
 | `original/events/aprilfools/warlow/Ryan Krause - Path Few Have Taken ( Oegma Remix).ogg` | _awaiting license_ | Ryan Krause | #7270 | 2026-08-31 |
 | `original/events/aprilfools/warlow/Ryan Krause - Path Few Have Taken ( wILLE$T 'The Path of Will' Remix).mp3` | _awaiting license_ | Ryan Krause | #7270 | 2026-08-31 |
 | `original/events/aprilfools/warlow/Ryan Krause - Retribution ( Japlin Seven Remix).ogg` | _awaiting license_ | Ryan Krause | #7270 | 2026-08-31 |
-| `original/events/halloween/interludes/Russell Lucas-Nutt - Fading Hope of Victory ( Ricardio233 'Faded Hope of Victory' Cover).mp3` | _awaiting license_ | Russel Lucas-Nutt | #6009 | 2026-08-31 |
+| `original/events/halloween/interludes/Russell Lucas-Nutt - Fading Hope of Victory ( Ricardio233 'Faded Hope of Victory' Cover).mp3` | _awaiting license_ | Russell Lucas-Nutt | #6009 | 2026-08-31 |
 | `original/events/halloween/loading/Leon Devereux - Surfacefall ( Luciferin Remix).mp3` | _awaiting license_ | Leon Devereux | #6009 | 2026-08-28 |
 | `original/events/halloween/menu/Ryan Krause - Confined Chaos ( TastyBeats Remix).ogg` | _awaiting license_ | Ryan Krause | #6009 | 2026-08-31 |
 | `original/events/halloween/peace/Leon Devereux - Under Empty Skies ( Janus Ghost 'Under Icy Skies' Remix).mp3` | _awaiting license_ | Leon Devereux | #6009 | 2026-08-31 |
@@ -105,7 +104,7 @@ Total assets recorded: **102**
 | `original/warlow/Leon Devereux - Interception Course.ogg` | _awaiting license_ | Leon Devereux | #3397 | 2026-08-31 |
 | `original/warlow/Leon Devereux - Scan The Horizon.ogg` | _awaiting license_ | Leon Devereux | #3175 | 2026-08-31 |
 | `original/warlow/Leon Devereux - Trial By Plasma.ogg` | _awaiting license_ | Leon Devereux | manual-audit | 2026-08-31 |
-| `original/warlow/Russell Lucas-Nutt - Fading Hope of Victory.ogg` | _awaiting license_ | Russel Lucas-Nutt | manual-audit | 2026-08-31 |
+| `original/warlow/Russell Lucas-Nutt - Fading Hope of Victory.ogg` | _awaiting license_ | Russell Lucas-Nutt | manual-audit | 2026-08-31 |
 | `original/warlow/Ryan Krause - Dominance.ogg` | _awaiting license_ | Ryan Krause | manual-audit | 2026-08-31 |
 | `original/warlow/Ryan Krause - Ground Zero.ogg` | _awaiting license_ | Ryan Krause | manual-audit | 2026-08-31 |
 | `original/warlow/Ryan Krause - Path Few Have Taken.ogg` | _awaiting license_ | Ryan Krause | manual-audit | 2026-08-31 |

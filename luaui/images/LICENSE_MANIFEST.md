@@ -4,12 +4,10 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **790**
+Total assets recorded: **781**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
-| `LICENSE_MANIFEST.md` | `LicenseRef-BAR-CLA-1.0` | BAR CLA Bot | manual-audit | 2026-08-28 |
-| `Ranks/license.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `Ranks/rank1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `Ranks/rank10.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `Ranks/rank11.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -425,7 +423,6 @@ Total assets recorded: **790**
 | `decals_gl4/footprints/f_corthud_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
 | `decals_gl4/footprints/f_raptor_a.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `decals_gl4/footprints/f_raptor_n.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `decals_gl4/footprints/license.txt` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
 | `decals_gl4/groundScars/F_armbanth_a.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `decals_gl4/groundScars/F_armbanth_n.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `decals_gl4/groundScars/F_corkorg_a.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -559,7 +556,6 @@ Total assets recorded: **790**
 | `decals_gl4/groundScars/T_GroundCrack_26_n.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `decals_gl4/groundScars/T_GroundCrack_27_a.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
 | `decals_gl4/groundScars/T_GroundCrack_27_n.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `decals_gl4/groundScars/license.txt` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
 | `decals_gl4/oldScars/scar1.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
 | `decals_gl4/oldScars/scar2.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
 | `decals_gl4/oldScars/scar3.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
@@ -699,10 +695,8 @@ Total assets recorded: **790**
 | `lava/lava6_normalheight.tga` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `lava/lava7_diffuseemit.dds` | _awaiting license_ | icexuick | manual-audit | 2026-10-12 |
 | `lava/lava7_normalheight.dds` | _awaiting license_ | icexuick | manual-audit | 2026-10-12 |
-| `lava/license.txt` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-06 |
 | `lavadistortion.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #3118 | 2026-10-12 |
 | `lavadistortion.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
-| `license.txt` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `luagrass/Taldarim_V3_grassDist.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-06 |
 | `luagrass/grass_field_medit.dds.cached.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `luagrass/grass_field_medit_flowering.dds.cached.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
@@ -710,7 +704,6 @@ Total assets recorded: **790**
 | `luagrass/grassx4.obj` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-10-06 |
 | `luagrass/grassx4.s3o` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-10-06 |
 | `luagrass/grassx4_2.obj` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-10-06 |
-| `luagrass/license.txt` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-10-06 |
 | `mapmarksfx/eraser.dds` | _awaiting license_ | icexuick | manual-audit | 2026-09-11 |
 | `mapmarksfx/eraser_old.dds` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-10-06 |
 | `mapmarksfx/glow.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
@@ -728,7 +721,6 @@ Total assets recorded: **790**
 | `noisetextures/bluenoise_128_rgba_1pixoffset.tga` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `noisetextures/cloudy8_256x256x64_L.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `noisetextures/cloudy8_a_128x128x32_L.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `noisetextures/licence.txt` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `noisetextures/noise3d64rgb.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `noisetextures/noise3d64rgb.jpg` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `noisetextures/noise64_cube_1.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
@@ -777,7 +769,6 @@ Total assets recorded: **790**
 | `raptor_scum/alien_guts_normalspec.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `raptor_scum/alien_guts_normalspec.tga` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `raptor_scum/alien_guts_normalspec_u8888.dds` | `CC-BY-SA-4.0` | Beherith | #3118 | 2026-09-01 |
-| `raptor_scum/license.txt` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `raptorpanel.png` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `raptorpanel.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `repeat.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
