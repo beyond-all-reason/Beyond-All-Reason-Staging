@@ -4797,6 +4797,201 @@
       "comments": []
     },
     {
+      "file": "sounds/modbroadcast/30s-no-rush-heartbeat.mp3",
+      "flags": [
+        "unsure"
+      ],
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-11-06",
+          "text": "Provenance unknown: added in PR 8670 (mod broadcast) by steeldesade; sounds likely sourced from the web. Ask before licensing."
+        }
+      ]
+    },
+    {
+      "file": "sounds/modbroadcast/alert.mp3",
+      "flags": [
+        "unsure"
+      ],
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-11-06",
+          "text": "Provenance unknown: added in PR 8670 (mod broadcast) by steeldesade; sounds likely sourced from the web. Ask before licensing."
+        }
+      ]
+    },
+    {
+      "file": "sounds/modbroadcast/bells.mp3",
+      "flags": [
+        "unsure"
+      ],
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-11-06",
+          "text": "Provenance unknown: added in PR 8670 (mod broadcast) by steeldesade; sounds likely sourced from the web. Ask before licensing."
+        }
+      ]
+    },
+    {
+      "file": "sounds/modbroadcast/braam-1.mp3",
+      "flags": [
+        "unsure"
+      ],
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-11-06",
+          "text": "Provenance unknown: added in PR 8670 (mod broadcast) by steeldesade; sounds likely sourced from the web. Ask before licensing."
+        }
+      ]
+    },
+    {
+      "file": "sounds/modbroadcast/braam-2.mp3",
+      "flags": [
+        "unsure"
+      ],
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-11-06",
+          "text": "Provenance unknown: added in PR 8670 (mod broadcast) by steeldesade; sounds likely sourced from the web. Ask before licensing."
+        }
+      ]
+    },
+    {
+      "file": "sounds/modbroadcast/braam-3.mp3",
+      "flags": [
+        "unsure"
+      ],
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-11-06",
+          "text": "Provenance unknown: added in PR 8670 (mod broadcast) by steeldesade; sounds likely sourced from the web. Ask before licensing."
+        }
+      ]
+    },
+    {
+      "file": "sounds/modbroadcast/cartoon.mp3",
+      "flags": [
+        "unsure"
+      ],
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-11-06",
+          "text": "Provenance unknown: added in PR 8670 (mod broadcast) by steeldesade; sounds likely sourced from the web. Ask before licensing."
+        }
+      ]
+    },
+    {
+      "file": "sounds/modbroadcast/claping.mp3",
+      "flags": [
+        "unsure"
+      ],
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-11-06",
+          "text": "Provenance unknown: added in PR 8670 (mod broadcast) by steeldesade; sounds likely sourced from the web. Ask before licensing."
+        }
+      ]
+    },
+    {
+      "file": "sounds/modbroadcast/dramatic.mp3",
+      "flags": [
+        "unsure"
+      ],
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-11-06",
+          "text": "Provenance unknown: added in PR 8670 (mod broadcast) by steeldesade; sounds likely sourced from the web. Ask before licensing."
+        }
+      ]
+    },
+    {
+      "file": "sounds/modbroadcast/duck-quack.mp3",
+      "flags": [
+        "unsure"
+      ],
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-11-06",
+          "text": "Provenance unknown: added in PR 8670 (mod broadcast) by steeldesade; sounds likely sourced from the web. Ask before licensing."
+        }
+      ]
+    },
+    {
+      "file": "sounds/modbroadcast/elevator-16s-cut.mp3",
+      "flags": [
+        "unsure"
+      ],
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-11-06",
+          "text": "Provenance unknown: added in PR 8670 (mod broadcast) by steeldesade; sounds likely sourced from the web. Ask before licensing."
+        }
+      ]
+    },
+    {
+      "file": "sounds/modbroadcast/elevator-30s-cut.mp3",
+      "flags": [
+        "unsure"
+      ],
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-11-06",
+          "text": "Provenance unknown: added in PR 8670 (mod broadcast) by steeldesade; sounds likely sourced from the web. Ask before licensing."
+        }
+      ]
+    },
+    {
+      "file": "sounds/modbroadcast/error.mp3",
+      "flags": [
+        "unsure"
+      ],
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-11-06",
+          "text": "Provenance unknown: added in PR 8670 (mod broadcast) by steeldesade; sounds likely sourced from the web. Ask before licensing."
+        }
+      ]
+    },
+    {
+      "file": "sounds/modbroadcast/noir-warning.mp3",
+      "flags": [
+        "unsure"
+      ],
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-11-06",
+          "text": "Provenance unknown: added in PR 8670 (mod broadcast) by steeldesade; sounds likely sourced from the web. Ask before licensing."
+        }
+      ]
+    },
+    {
+      "file": "sounds/modbroadcast/sad-trombone.mp3",
+      "flags": [
+        "unsure"
+      ],
+      "comments": [
+        {
+          "author": "BAR CLA Bot",
+          "date": "2026-11-06",
+          "text": "Provenance unknown: added in PR 8670 (mod broadcast) by steeldesade; sounds likely sourced from the web. Ask before licensing."
+        }
+      ]
+    },
+    {
       "file": "sounds/movement-air/arm-air-bomber-ok.wav",
       "flags": [
         "mixed-assets-multiple-asset-stores"

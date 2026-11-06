@@ -1,0 +1,4 @@
+{
+  "_doc": "Ledger contributor name -> GitHub login. Lets a contributor answer /confirm-license for rows recorded under a display name. Names that already equal a login need no entry.",
+  "PtaQ": { "github": "PtaQQ" }
+}

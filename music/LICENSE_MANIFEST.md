@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `music/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **101**
+Total assets recorded: **103**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -50,10 +50,12 @@ Total assets recorded: **101**
 | `original/events/raptors/warhigh/West Basinger - Extermination Order.ogg` | _awaiting license_ | West Basinger | #6540 | 2026-08-31 |
 | `original/events/raptors/warhigh/West Basinger - Ravenous.ogg` | _awaiting license_ | West Basinger | #7767 | 2026-08-31 |
 | `original/events/raptors/warhigh/West Basinger - Valor in Survival.ogg` | _awaiting license_ | West Basinger | #6540 | 2026-08-31 |
+| `original/events/raptors/warlow/West Basinger - Alien Scouts.ogg` | _awaiting license_ | West Basinger | #8993 | 2026-11-06 |
 | `original/events/raptors/warlow/West Basinger - Evolutionary Bias.ogg` | _awaiting license_ | West Basinger | #6540 | 2026-08-31 |
 | `original/events/raptors/warlow/West Basinger - Forest of Flesh.ogg` | _awaiting license_ | West Basinger | #6540 | 2026-08-31 |
 | `original/events/raptors/warlow/West Basinger - Hivemind.ogg` | _awaiting license_ | West Basinger | #6540 | 2026-08-31 |
 | `original/events/raptors/warlow/West Basinger - Incoming Swarm.ogg` | _awaiting license_ | West Basinger | #6540 | 2026-08-31 |
+| `original/events/raptors/warlow/West Basinger - Invasive.ogg` | _awaiting license_ | West Basinger | #7989 | 2026-11-06 |
 | `original/events/scavengers/bossfight/Matteo Dell'Acqua - Father Of All Scavengers.ogg` | _awaiting license_ | Matteo Dell'Acqua | #4787 | 2026-08-31 |
 | `original/events/scavengers/peace/Matteo Dell'Acqua - WannaCry.ogg` | _awaiting license_ | Matteo Dell'Acqua | #4833 | 2026-08-31 |
 | `original/events/xmas/menu/Leon Devereux - Waystation Christmas.ogg` | _awaiting license_ | Leon Devereux | #4650 | 2026-08-31 |

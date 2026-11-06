@@ -38,15 +38,20 @@
     "CC0-1.0": { "name": "CC0 1.0 (public domain)", "label": "license: CC0" },
     "OFL-1.1": { "name": "SIL Open Font License 1.1", "label": "license: OFL" },
     "CC-BY-SA-3.0": { "name": "CC-BY-SA 3.0", "label": "license: CC-BY-SA-3.0" },
+    "CC-BY-4.0": { "name": "CC-BY 4.0", "label": "license: CC-BY-4.0" },
     "CC-BY-NC-ND-4.0": { "name": "CC-BY-NC-ND 4.0 (legacy)", "label": "license: CC-BY-NC-ND" }
   },
   "pr_choices": ["LicenseRef-BAR-CLA-1.0", "CC-BY-SA-4.0"],
   "ledger": {
     "signatures": ".github/cla-signatures.json",
     "assignments": ".github/file-license-assignments.json",
-    "flags": "license_comments_flags.json"
+    "flags": "license_comments_flags.json",
+    "contributors": ".github/contributors.json"
   },
   "bot": { "name": "BAR CLA Bot", "email": "cla-bot@beyondallreason.info" },
   "status_context": "BAR CLA / License Check",
-  "legal_dir": "legal"
+  "legal_dir": "legal",
+  "overrides": {
+    "_doc": "Per-repository overrides keyed by owner/name, merged over the top-level keys when GITHUB_REPOSITORY matches. Lets a private mirror offer extra PR choices without diverging this file."
+  }
 }

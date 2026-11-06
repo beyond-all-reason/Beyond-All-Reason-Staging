@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **770**
+Total assets recorded: **926**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -340,6 +340,9 @@ Total assets recorded: **770**
 | `advplayerslist_mascot/floriscat_body.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist_mascot/floriscat_head.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist_mascot/floriscat_headblink.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `advplayerslist_mascot/grumpycat_body.png` | _awaiting license_ | Floris | manual-audit | 2026-11-06 |
+| `advplayerslist_mascot/grumpycat_head.png` | _awaiting license_ | Floris | manual-audit | 2026-11-06 |
+| `advplayerslist_mascot/grumpycat_headblink.png` | _awaiting license_ | Floris | manual-audit | 2026-11-06 |
 | `advplayerslist_mascot/mrbeans_body.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/mrbeans_head.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/mrbeans_headblink.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
@@ -581,6 +584,45 @@ Total assets recorded: **770**
 | `ecostats/default.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `ecostats/ecommander.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `ecostats/tll_default.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `emojis/twemoji/100.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/angry.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/broken_heart.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/checkmark.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/clap.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/confused.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/cool.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/cry.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/facepalm.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/fire.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/gg.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/goat.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/grin.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/heart.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/joy.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/joy_cat.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/laughing.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/mouse.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/ok_hand.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/party.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/pensive.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/pleading.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/praying.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/raised_eyebrow.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/rofl.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/salute.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/shrug.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/skull.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/slight_smile.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/smile.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/smiley.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/sob.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/tada.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/thinking.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/thumbsdown.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/thumbsup.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/wave.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/wink.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
+| `emojis/twemoji/x.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
 | `enemyspotter.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `energy-red.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `energy.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -740,6 +782,7 @@ Total assets recorded: **770**
 | `pip/PipExpand.png` | `GPL-2.0-or-later` | Niobium | #6748 | 2026-10-12 |
 | `pip/PipGround.png` | `GPL-2.0-or-later` | Niobium | #6051 | 2026-10-12 |
 | `pip/PipHelp.png` | `CC0-1.0` | public domain | #7054 | 2026-10-12 |
+| `pip/PipHistory.png` | _awaiting license_ | Floris | #9332 | 2026-11-06 |
 | `pip/PipMaximize.png` | `GPL-2.0-or-later` | Niobium | #6051 | 2026-10-12 |
 | `pip/PipMinimize.png` | `GPL-2.0-or-later` | Niobium | #6051 | 2026-10-12 |
 | `pip/PipMinus.png` | `GPL-2.0-or-later` | Niobium | #6051 | 2026-10-12 |
@@ -750,6 +793,8 @@ Total assets recorded: **770**
 | `pip/PipT.png` | `GPL-2.0-or-later` | Niobium | #6051 | 2026-10-12 |
 | `pip/PipTV.png` | `CC0-1.0` | public domain | #6956 | 2026-10-12 |
 | `pip/PipView.png` | `CC0-1.0` | public domain | #6711 | 2026-10-12 |
+| `pip/pip_projectile_atlas.png` | _awaiting license_ | Floris | #8513 | 2026-11-06 |
+| `pip/pip_projectile_atlas.svg` | _awaiting license_ | Floris | #8513 | 2026-11-06 |
 | `rapt-tileable_v001_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
 | `rapt-tileable_v001_small_alpha.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
 | `rapt-tileable_v002_small.tga` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3603 | 2026-08-31 |
@@ -773,6 +818,117 @@ Total assets recorded: **770**
 | `solid.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `stripes-small.png` | _awaiting license_ | SethDGamre | #5915 | 2026-09-07 |
 | `stripes.png` | _awaiting license_ | Floris | manual-audit | 2026-10-06 |
+| `terraform_brush/biome_bismuth.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/biome_cetheta.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/biome_cetheta02.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/biome_enborelde.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/biome_osemo.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/biome_palehang.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/biome_perseusgate.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/biome_teizer.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/camera.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/cap_max.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/cap_min.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/cat_armada_wrecks.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/cat_building_wrecks.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/cat_bushes.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/cat_christmas.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/cat_cortex_wrecks.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/cat_crystals.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/cat_legion_wrecks.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/cat_osemo.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/cat_other.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/cat_raptor.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/cat_rocks.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/cat_trees.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/cat_unit_wrecks.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/check_off.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/check_on.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/close.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/curve_flat.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/curve_sharp.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/dist_clustered.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/dist_regular.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/edit_pencil.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/env_dimensions.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/env_fog.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/env_ground.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/env_map.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/env_save.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/env_skybox.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/env_sun.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/env_unit.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/env_water.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/eye.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/eye_slash.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/folder.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/fp_crystal.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/fp_foliage.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/fp_point.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/fp_remove.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/fp_rock.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/fp_scatter.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/fp_xmas.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/freedraw.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/gb_pipette.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/lt_beam.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/lt_cone.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/lt_point.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/map_labels.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mb_paint.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/metal_crystal.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/minus.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mode_clone.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mode_decals.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mode_environment.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mode_features.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mode_grass.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mode_level.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mode_lights.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mode_lower.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mode_metal.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mode_noise.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mode_raise.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mode_ramp.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mode_restore.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mode_splat.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mode_startpos.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/mode_weather.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/noise_billow.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/noise_fbm.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/noise_perlin.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/noise_ridged.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/noise_voronoi.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/passthrough_pause.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/passthrough_play.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/plus.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/redo.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/rot_ccw.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/rot_cw.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/settings.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/shape_circle.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/shape_diamond.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/shape_fill.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/shape_hexagon.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/shape_octagon.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/shape_ramp_spline.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/shape_ramp_straight.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/shape_rectangle.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/shape_ring.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/shape_square.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/shape_triangle.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/sm_level.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/sm_smooth.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/sm_smudge.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/sort_down.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/sort_up.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/transport_back.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/transport_fwd.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/transport_oscillate.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/trash.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/undo.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/volume.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
+| `terraform_brush/warning.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
 | `tidal-waves.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `vignette.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `vr_grid.png` | _awaiting license_ | Decay | manual-audit | 2026-09-01 |

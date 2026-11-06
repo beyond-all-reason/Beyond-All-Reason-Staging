@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luarules/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **6**
+Total assets recorded: **14**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -13,4 +13,12 @@ Total assets recorded: **6**
 | `comwreath.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `cow.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `fuscup.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
+| `seismic_ping/center_dot.png` | _awaiting license_ | Floris | #8254 | 2026-11-06 |
+| `seismic_ping/inner_outline.png` | _awaiting license_ | Floris | #8254 | 2026-11-06 |
+| `seismic_ping/inner_ring.png` | _awaiting license_ | Floris | #8254 | 2026-11-06 |
+| `seismic_ping/middle_outline.png` | _awaiting license_ | Floris | #8254 | 2026-11-06 |
+| `seismic_ping/middle_ring.png` | _awaiting license_ | Floris | #8254 | 2026-11-06 |
+| `seismic_ping/outer_outline.png` | _awaiting license_ | Floris | #8254 | 2026-11-06 |
+| `seismic_ping/outer_ring.png` | _awaiting license_ | Floris | #8254 | 2026-11-06 |
+| `seismic_ping/seismic_atlas.png` | _awaiting license_ | Floris | #8254 | 2026-11-06 |
 | `traitor.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |

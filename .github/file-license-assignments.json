@@ -54486,6 +54486,78 @@
     "source": "manual-audit"
   },
   {
+    "file": "luarules/images/seismic_ping/center_dot.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "8254",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luarules/images/seismic_ping/inner_outline.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "8254",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luarules/images/seismic_ping/inner_ring.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "8254",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luarules/images/seismic_ping/middle_outline.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "8254",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luarules/images/seismic_ping/middle_ring.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "8254",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luarules/images/seismic_ping/outer_outline.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "8254",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luarules/images/seismic_ping/outer_ring.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "8254",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luarules/images/seismic_ping/seismic_atlas.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "8254",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "icexuick",
     "date": "2026-08-28T12:38:00Z",
     "file": "luarules/images/traitor.png",
@@ -57157,6 +57229,33 @@
     "source": "manual-audit"
   },
   {
+    "file": "luaui/images/advplayerslist_mascot/grumpycat_body.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/grumpycat_head.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/advplayerslist_mascot/grumpycat_headblink.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "manual-audit",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "teifion",
     "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/advplayerslist_mascot/mrbeans_body.png",
@@ -59097,6 +59196,318 @@
     "status": "awaiting_license"
   },
   {
+    "file": "luaui/images/emojis/twemoji/100.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/angry.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/broken_heart.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/checkmark.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/clap.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/confused.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/cool.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/cry.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/facepalm.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/fire.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/gg.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/goat.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/grin.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/heart.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/joy.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/joy_cat.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/laughing.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/mouse.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/ok_hand.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/party.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/pensive.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/pleading.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/praying.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/raised_eyebrow.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/rofl.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/salute.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/shrug.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/skull.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/slight_smile.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/smile.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/smiley.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/sob.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/tada.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/thinking.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/thumbsdown.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/thumbsup.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/wave.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/wink.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/emojis/twemoji/x.png",
+    "license": "CC-BY-4.0",
+    "contributor": "Twitter (Twemoji)",
+    "pr": "8265",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "public domain",
     "date": "2026-10-12T10:57:40Z",
     "file": "luaui/images/enemyspotter.dds",
@@ -60374,6 +60785,15 @@
     "source": "manual-audit"
   },
   {
+    "file": "luaui/images/pip/PipHistory.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "9332",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "Niobium",
     "date": "2026-10-12T16:20:42Z",
     "file": "luaui/images/pip/PipMaximize.png",
@@ -60451,6 +60871,24 @@
     "file": "luaui/images/pip/PipView.png",
     "license": "CC0-1.0",
     "pr": "6711",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/pip/pip_projectile_atlas.png",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "8513",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/pip/pip_projectile_atlas.svg",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "Floris",
+    "pr": "8513",
+    "date": "2026-11-06",
     "source": "manual-audit"
   },
   {
@@ -60640,6 +61078,894 @@
     "pr": "manual-audit",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "luaui/images/terraform_brush/biome_bismuth.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/biome_cetheta.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/biome_cetheta02.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/biome_enborelde.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/biome_osemo.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/biome_palehang.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/biome_perseusgate.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/biome_teizer.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/camera.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/cap_max.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/cap_min.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/cat_armada_wrecks.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/cat_building_wrecks.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/cat_bushes.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/cat_christmas.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/cat_cortex_wrecks.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/cat_crystals.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/cat_legion_wrecks.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/cat_osemo.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/cat_other.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/cat_raptor.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/cat_rocks.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/cat_trees.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/cat_unit_wrecks.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/check_off.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/check_on.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/close.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/curve_flat.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/curve_sharp.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/dist_clustered.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/dist_regular.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/edit_pencil.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/env_dimensions.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/env_fog.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/env_ground.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/env_map.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/env_save.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/env_skybox.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/env_sun.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/env_unit.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/env_water.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/eye.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/eye_slash.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/folder.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/fp_crystal.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/fp_foliage.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/fp_point.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/fp_remove.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/fp_rock.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/fp_scatter.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/fp_xmas.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/freedraw.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/gb_pipette.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/lt_beam.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/lt_cone.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/lt_point.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/map_labels.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mb_paint.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/metal_crystal.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/minus.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mode_clone.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mode_decals.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mode_environment.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mode_features.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mode_grass.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mode_level.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mode_lights.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mode_lower.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mode_metal.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mode_noise.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mode_raise.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mode_ramp.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mode_restore.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mode_splat.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mode_startpos.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/mode_weather.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/noise_billow.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/noise_fbm.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/noise_perlin.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/noise_ridged.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/noise_voronoi.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/passthrough_pause.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/passthrough_play.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/plus.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/redo.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/rot_ccw.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/rot_cw.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/settings.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/shape_circle.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/shape_diamond.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/shape_fill.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/shape_hexagon.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/shape_octagon.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/shape_ramp_spline.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/shape_ramp_straight.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/shape_rectangle.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/shape_ring.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/shape_square.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/shape_triangle.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/sm_level.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/sm_smooth.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/sm_smudge.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/sort_down.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/sort_up.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/transport_back.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/transport_fwd.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/transport_oscillate.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/trash.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/undo.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/volume.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
+    "file": "luaui/images/terraform_brush/warning.png",
+    "license": "CC-BY-SA-4.0",
+    "contributor": "PtaQ",
+    "pr": "7219",
+    "date": "2026-11-06",
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -61222,6 +62548,15 @@
     "status": "awaiting_license"
   },
   {
+    "file": "music/original/events/raptors/warlow/West Basinger - Alien Scouts.ogg",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "West Basinger",
+    "pr": "8993",
+    "date": "2026-11-06",
+    "source": "manual-audit"
+  },
+  {
     "contributor": "West Basinger",
     "date": "2026-08-31T12:02:58Z",
     "file": "music/original/events/raptors/warlow/West Basinger - Evolutionary Bias.ogg",
@@ -61256,6 +62591,15 @@
     "pr": "6540",
     "source": "manual-audit",
     "status": "awaiting_license"
+  },
+  {
+    "file": "music/original/events/raptors/warlow/West Basinger - Invasive.ogg",
+    "status": "awaiting_license",
+    "license": "",
+    "contributor": "West Basinger",
+    "pr": "7989",
+    "date": "2026-11-06",
+    "source": "manual-audit"
   },
   {
     "contributor": "Matteo Dell'Acqua",
