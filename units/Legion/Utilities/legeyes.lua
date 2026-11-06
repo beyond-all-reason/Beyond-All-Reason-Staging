@@ -13,7 +13,7 @@ return {
 		collisionvolumescales = "20 24 20",
 		collisionvolumetype = "CylY",
 		cloakcost = 10,
-		corpse = "CDRAGONSEYES_DEAD",
+		corpse = "HEAP",
 		energyupkeep = 5,
 		footprintx = 1,
 		footprintz = 1,
@@ -31,15 +31,17 @@ return {
 		waterline = 5,
 		yardmap = "o",
 		customparams = {
-			unitgroup = 'util',
+			cannot_capture_territory = true,
+			unitgroup = "util",
+			juno_kill = true,
 			model_author = "NebuchadnezzarII",
 			normaltex = "unittextures/leg_normal.dds",
 			removestop = true,
 			removewait = true,
-			subfolder = "Legion/utilities",
+			subfolder = "Legion/Utilities",
 		},
 		featuredefs = {
-			cdragonseyes_dead = {
+			heap = {
 				blocking = false,
 				category = "heaps",
 				collisionvolumeoffsets = "-0.0323944091797 0.0 0.00588226318359",

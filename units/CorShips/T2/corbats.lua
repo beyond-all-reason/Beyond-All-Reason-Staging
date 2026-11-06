@@ -34,6 +34,7 @@ return {
 		customparams = {
 			model_author = "Beherith",
 			normaltex = "unittextures/cor_normal.dds",
+			reaimtime = 5,
 			subfolder = "CorShips/T2",
 			techlevel = 2,
 			unitgroup = "weapon",
@@ -118,6 +119,7 @@ return {
 				weaponvelocity = 422,
 				damage = {
 					default = 450,
+					subs = 90,
 					vtol = 65,
 				},
 			},

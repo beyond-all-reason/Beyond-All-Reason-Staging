@@ -9,6 +9,7 @@ return {
 		buildpic = "LEGAVP.DDS",
 		buildtime = 27750,
 		canmove = true,
+		canReclaim = false,
 		collisionvolumeoffsets = "0 0 5",
 		collisionvolumescales = "144 70 144",
 		collisionvolumetype = "Box",
@@ -23,7 +24,6 @@ return {
 		maxwaterdepth = 0,
 		metalstorage = 200,
 		objectname = "Units/LEGAVP.s3o",
-		radardistance = 50,
 		script = "Units/LEGAVP.cob",
 		seismicsignature = 0,
 		selfdestructas = "largeBuildingExplosionGenericSelfd",
@@ -65,7 +65,7 @@ return {
 			"legavantinuke",
 			"legavjam",
 			"legavrad",
-			"legafcv"
+			"legafcv",
 		},
 		customparams = {
 			usebuildinggrounddecal = false,
@@ -73,7 +73,7 @@ return {
 			buildinggrounddecalsizey = 12,
 			buildinggrounddecalsizex = 12,
 			buildinggrounddecaldecayspeed = 0.01,
-			unitgroup = 'buildert2',
+			unitgroup = "buildert2",
 			model_author = "ZephyrSkies",
 			normaltex = "unittextures/leg_normal.dds",
 			subfolder = "Legion/Labs",

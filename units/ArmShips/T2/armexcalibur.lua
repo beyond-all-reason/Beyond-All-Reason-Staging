@@ -1,8 +1,8 @@
 return {
 	armexcalibur = {
 		activatewhenbuilt = false,
-		buildcostenergy = 16000,
-		buildcostmetal = 900,
+		energycost = 16000,
+		metalcost = 900,
 		buildpic = "armexcalibur.DDS",
 		buildtime = 18000,
 		canmove = true,
@@ -34,7 +34,7 @@ return {
 		waterline = 25,
 		customparams = {
 			model_author = "Hornet",
-			normaltex = "unittextures/arm_normal.dds",
+			normaltex = "unittextures/Arm_normal.dds",
 			subfolder = "ArmShips/T2",
 			techlevel = 2,
 			unitgroup = "sub",

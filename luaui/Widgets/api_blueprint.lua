@@ -1,18 +1,12 @@
 local widget = widget ---@type Widget
 
-local BpDefs = VFS.Include("luaui/Include/blueprint_substitution/definitions.lua")
+local SubLogic = require("luaui/Include/blueprint_substitution/logic")
 
-
-local SubLogic = VFS.Include("luaui/Include/blueprint_substitution/logic.lua")
-
-local ENABLE_REPORTS = Spring.Utilities.IsDevMode()
+local ENABLE_REPORTS = BAR.Utilities.IsDevMode()
 
 local reportFunctions = nil
 
 local activeBlueprint = nil
-
--- makes the intent of our usage of Spring.Echo clear
-local FeedbackForUser = Spring.Echo
 
 local activeBuildPositions = {}
 local activeBuilderBuildOptions = {}
@@ -24,10 +18,9 @@ function widget:GetInfo()
 		desc = "Utilities for interacting with and drawing blueprints",
 		license = "GNU GPL, v2 or later",
 		layer = -1,
-		enabled = true
+		enabled = true,
 	}
 end
-
 
 -- Localized functions for performance
 local mathAbs = math.abs
@@ -45,8 +38,8 @@ local tableInsert = table.insert
 ---@alias Point number[]
 
 ---@class BlueprintUnit
----@field blueprintUnitID number a globally unique ID for this unit
----@field unitDefID number
+---@field blueprintUnitID integer a globally unique ID for this unit
+---@field unitDefID UnitDefID
 ---@field position Point
 ---@field facing number
 
@@ -68,8 +61,8 @@ local SpringGetUnitPosition = Spring.GetUnitPosition
 local SpringGetGroundHeight = Spring.GetGroundHeight
 local SpringPos2BuildPos = Spring.Pos2BuildPos
 local SpringTestBuildOrder = Spring.TestBuildOrder
-local SpringGetMyTeamID = Spring.GetMyTeamID
-local isHeadless = not Platform.gl
+local SpringGetMyTeamID = Spring.GetLocalTeamID
+local isHeadless = Platform.isHeadless
 
 -- util
 -- ====
@@ -127,24 +120,17 @@ end
 ---@param facing number
 ---@return Blueprint
 local function rotateBlueprint(bp, facing)
-	return table.merge(
-		bp,
-		{
-			units = table.map(bp.units, function(bpu)
-				return {
-					blueprintUnitID = bpu.blueprintUnitID,
-					unitDefID = bpu.unitDefID,
-					position = rotatePointXZ(
-						bpu.position,
-						{ 0, 0, 0 },
-						-facing * (mathPi / 2)
-					),
-					facing = (bpu.facing + facing) % 4
-				}
-			end),
-			facing = 0
-		}
-	)
+	return table.merge(bp, {
+		units = table.map(bp.units, function(bpu)
+			return {
+				blueprintUnitID = bpu.blueprintUnitID,
+				unitDefID = bpu.unitDefID,
+				position = rotatePointXZ(bpu.position, { 0, 0, 0 }, -facing * (mathPi / 2)),
+				facing = (bpu.facing + facing) % 4,
+			}
+		end),
+		facing = 0,
+	})
 end
 
 -- GL4
@@ -154,8 +140,7 @@ local LuaShader = gl.LuaShader
 local InstanceVBOTable = gl.InstanceVBOTable
 
 local pushElementInstance = InstanceVBOTable.pushElementInstance
-local popElementInstance  = InstanceVBOTable.popElementInstance
-
+local popElementInstance = InstanceVBOTable.popElementInstance
 
 ---@language Glsl
 local vsSrc = [[
@@ -215,11 +200,12 @@ local outlineVertexVBOLayout = {
 	{ id = 0, name = "position", size = 2 },
 }
 
+---@type InstanceVBOTable?
 local outlineInstanceVBO = nil
 local outlineInstanceVBOLayout = {
-	{ id = 1, name = 'position', size = 3 },
-	{ id = 2, name = 'dimensions', size = 2 },
-	{ id = 3, name = 'color', size = 4 },
+	{ id = 1, name = "position", size = 3 },
+	{ id = 2, name = "dimensions", size = 2 },
+	{ id = 3, name = "color", size = 4 },
 }
 
 local function makeOutlineVBO()
@@ -244,15 +230,14 @@ local function makeOutlineVBO()
 
 	local numVertices = #vboData / 2
 
-	vbo:Define(
-		numVertices,
-		outlineVertexVBOLayout
-	)
+	vbo:Define(numVertices, outlineVertexVBOLayout)
 	vbo:Upload(vboData)
 
 	return vbo, numVertices
 end
 
+---Wraps a vertex buffer in an instance buffer for this widget's outlines.
+---@return InstanceVBOTable? instanceTable `nil` when the buffer could not be created.
 local function makeInstanceVBO(layout, vertexVBO, numVertices)
 	local vbo = InstanceVBOTable.makeInstanceVBOTable(layout, nil, widget:GetInfo().name)
 	vbo.vertexVBO = vertexVBO
@@ -268,16 +253,13 @@ local function initGL4()
 	local engineUniformBufferDefs = LuaShader.GetEngineUniformBufferDefs()
 	vsSrc = vsSrc:gsub("//__ENGINEUNIFORMBUFFERDEFS__", engineUniformBufferDefs)
 	fsSrc = fsSrc:gsub("//__ENGINEUNIFORMBUFFERDEFS__", engineUniformBufferDefs)
-	outlineShader = LuaShader(
-		{
-			vertex = vsSrc,
-			fragment = fsSrc,
-			uniformInt = {
-				heightmapTex = 0
-			},
+	outlineShader = LuaShader({
+		vertex = vsSrc,
+		fragment = fsSrc,
+		uniformInt = {
+			heightmapTex = 0,
 		},
-		widget:GetInfo().name
-	)
+	}, widget:GetInfo().name)
 	local shaderCompiled = outlineShader:Initialize()
 	return shaderCompiled
 end
@@ -285,24 +267,20 @@ end
 -- draw
 -- ====
 
-local SQUARE_SIZE = 8
-local BUILD_SQUARE_SIZE = SQUARE_SIZE * 2;
+local SQUARE_SIZE = Game.squareSize
+local FOOTPRINT_SCALE = Game.footprintScale
+local BUILD_SQUARE_SIZE = SQUARE_SIZE * FOOTPRINT_SCALE
 
 local UNIT_ALPHA = 0.6
 
-local BUILD_MODES = enum(
-	"SINGLE",
-	"LINE",
-	"SNAPLINE",
-	"GRID",
-	"BOX",
-	"AROUND"
-)
+local BUILD_MODES = enum("SINGLE", "LINE", "SNAPLINE", "GRID", "BOX", "AROUND")
 
 local function getBuildingDimensions(unitDefID, facing)
-	if not unitDefID then return 0, 0 end
+	if not unitDefID then
+		return 0, 0
+	end
 	local unitDef = UnitDefs[unitDefID]
-	if (facing % 2 == 1) then
+	if facing % 2 == 1 then
 		return SQUARE_SIZE * unitDef.zsize, SQUARE_SIZE * unitDef.xsize
 	else
 		return SQUARE_SIZE * unitDef.xsize, SQUARE_SIZE * unitDef.zsize
@@ -314,25 +292,23 @@ local function getUnitsBounds(units)
 		return nil, nil, nil, nil
 	end
 
-	local r = table.reduce(
-		units,
-		function(acc, unit)
-			if not unit.unitDefID then return acc end
-			local bw, bh = getBuildingDimensions(unit.unitDefID, unit.facing)
-			local bxMin = unit.position[1] - bw / 2
-			local bxMax = unit.position[1] + bw / 2
-			local bzMin = unit.position[3] - bh / 2
-			local bzMax = unit.position[3] + bh / 2
-
-			acc.xMin = acc.xMin and mathMin(acc.xMin, bxMin) or bxMin
-			acc.xMax = acc.xMax and mathMax(acc.xMax, bxMax) or bxMax
-			acc.zMin = acc.zMin and mathMin(acc.zMin, bzMin) or bzMin
-			acc.zMax = acc.zMax and mathMax(acc.zMax, bzMax) or bzMax
-
+	local r = table.reduce(units, function(acc, unit)
+		if not unit.unitDefID then
 			return acc
-		end,
-		{}
-	)
+		end
+		local bw, bh = getBuildingDimensions(unit.unitDefID, unit.facing)
+		local bxMin = unit.position[1] - bw / 2
+		local bxMax = unit.position[1] + bw / 2
+		local bzMin = unit.position[3] - bh / 2
+		local bzMax = unit.position[3] + bh / 2
+
+		acc.xMin = acc.xMin and mathMin(acc.xMin, bxMin) or bxMin
+		acc.xMax = acc.xMax and mathMax(acc.xMax, bxMax) or bxMax
+		acc.zMin = acc.zMin and mathMin(acc.zMin, bzMin) or bzMin
+		acc.zMax = acc.zMax and mathMax(acc.zMax, bzMax) or bzMax
+
+		return acc
+	end, {})
 
 	return r.xMin, r.xMax, r.zMin, r.zMax
 end
@@ -351,6 +327,17 @@ local function getBlueprintDimensions(blueprint, facing)
 	end
 end
 
+---Snap a single axis coordinate to the build-square grid for a footprint of the
+---given world size. A footprint spanning an odd number of build-squares centers
+---on a cell center (half-square offset); an even span centers on a grid line.
+---@param coord number
+---@param sizeElmos number
+---@return number
+local function snapAxisToBuildGrid(coord, sizeElmos)
+	local halfSquare = (mathFloor(sizeElmos / BUILD_SQUARE_SIZE) % 2) * SQUARE_SIZE
+	return mathFloor((coord + SQUARE_SIZE - halfSquare) / BUILD_SQUARE_SIZE) * BUILD_SQUARE_SIZE + halfSquare
+end
+
 ---Find the closest position for a blueprint that is aligned with the map grid.
 ---
 ---Analogous to Pos2BuildPos (which positions individual units), but for whole blueprints.
@@ -358,24 +345,9 @@ end
 ---@param pos Point
 ---@param facing number
 local function snapBlueprint(blueprint, pos, facing)
-	local result = { 0, pos[2], 0 }
-
 	local xSize, zSize = getBlueprintDimensions(blueprint, facing or 0)
 
-	-- snap build-positions to 16-elmo grid
-	if mathFloor(xSize / 16) % 2 > 0 then
-		result[1] = mathFloor((pos[1]) / BUILD_SQUARE_SIZE) * BUILD_SQUARE_SIZE + SQUARE_SIZE;
-	else
-		result[1] = mathFloor((pos[1] + SQUARE_SIZE) / BUILD_SQUARE_SIZE) * BUILD_SQUARE_SIZE;
-	end
-
-	if mathFloor(zSize / 16) % 2 > 0 then
-		result[3] = mathFloor((pos[3]) / BUILD_SQUARE_SIZE) * BUILD_SQUARE_SIZE + SQUARE_SIZE;
-	else
-		result[3] = mathFloor((pos[3] + SQUARE_SIZE) / BUILD_SQUARE_SIZE) * BUILD_SQUARE_SIZE;
-	end
-
-	return result;
+	return { snapAxisToBuildGrid(pos[1], xSize), pos[2], snapAxisToBuildGrid(pos[3], zSize) }
 end
 
 ---See FillRowOfBuildPos
@@ -472,7 +444,7 @@ local function getBuildPositionsGrid(blueprint, startPos, endPos, spacing)
 	startPos = snapBlueprint(blueprint, startPos, blueprint.facing)
 	endPos = snapBlueprint(blueprint, endPos, blueprint.facing)
 
-	local xStep, zStep, xNum, zNum, delta = calculateSteps(blueprint, startPos, endPos, spacing)
+	local xStep, zStep, xNum, zNum, _ = calculateSteps(blueprint, startPos, endPos, spacing)
 
 	local result = {}
 	local z = startPos[3]
@@ -499,7 +471,7 @@ local function getBuildPositionsBox(blueprint, startPos, endPos, spacing)
 	startPos = snapBlueprint(blueprint, startPos, blueprint.facing)
 	endPos = snapBlueprint(blueprint, endPos, blueprint.facing)
 
-	local xStep, zStep, xNum, zNum, delta = calculateSteps(blueprint, startPos, endPos, spacing)
+	local xStep, zStep, xNum, zNum, _ = calculateSteps(blueprint, startPos, endPos, spacing)
 
 	local result = {}
 
@@ -509,7 +481,10 @@ local function getBuildPositionsBox(blueprint, startPos, endPos, spacing)
 		-- go right bottom side
 		table.append(result, fillRow(startPos[1] + xStep, startPos[3] + (zNum - 1) * zStep, xStep, 0, xNum - 1))
 		-- go up right side
-		table.append(result, fillRow(startPos[1] + (xNum - 1) * xStep, startPos[3] + (zNum - 2) * zStep, 0, -zStep, zNum - 1))
+		table.append(
+			result,
+			fillRow(startPos[1] + (xNum - 1) * xStep, startPos[3] + (zNum - 2) * zStep, 0, -zStep, zNum - 1)
+		)
 		-- go left top side
 		table.append(result, fillRow(startPos[1] + (xNum - 2) * xStep, startPos[3], -xStep, 0, xNum - 1))
 	elseif xNum == 1 then
@@ -560,11 +535,70 @@ local BUILD_MODES_HANDLERS = {
 	AROUND = getBuildPositionsAround,
 }
 
--- instanceIDs[buildPositionKey] = { outline = { instanceID1, ...}, unit = { instanceID1, ...}, }
+---@param blueprint Blueprint
+---@param buildPositions table
+---@return table
+local function createBuildings(blueprint, buildPositions)
+	local allBuildings = {}
+	for _, pos in ipairs(buildPositions) do
+		local facing = pos[4] or 0
+		local rotatedBlueprint = rotateBlueprint(blueprint, blueprint.facing + facing)
+
+		for _, bpu in ipairs(rotatedBlueprint.units) do
+			local x = pos[1] + bpu.position[1]
+			local z = pos[3] + bpu.position[3]
+			local y = Spring.GetGroundHeight(x, z)
+			local sx, sy, sz = Spring.Pos2BuildPos(bpu.unitDefID, x, y, z, bpu.facing)
+
+			table.insert(allBuildings, {
+				blueprintUnitID = bpu.blueprintUnitID,
+				unitDefID = bpu.unitDefID,
+				position = { sx, sy, sz },
+				facing = bpu.facing,
+				originalName = bpu.originalName,
+			})
+		end
+	end
+	return allBuildings
+end
+
+--- Gives build orders for a blueprint to a set of builders.
+---@param blueprint Blueprint The blueprint to build.
+---@param buildPositions table The locations to build the blueprint at.
+---@param builders UnitID[]
+---@param isBuildSplit boolean If true, split the work among builders. If false, builders of the same faction work together.
+---@param cmdOpts table Command options.
+local function placeBlueprint(blueprint, buildPositions, builders, isBuildSplit, cmdOpts)
+	local BuildOrders = WG.api_build_orders
+	local allBuildings = createBuildings(blueprint, buildPositions)
+
+	if isBuildSplit then
+		local allBuilders = {}
+		for _, builderID in ipairs(builders) do
+			local builderInfo = BuildOrders.getBuilderInfo(builderID)
+			if builderInfo then
+				table.insert(allBuilders, builderInfo)
+			end
+		end
+
+		BuildOrders.splitBuildOrders(allBuilders, allBuildings, cmdOpts)
+	else
+		BuildOrders.distributeBuildOrders(BuildOrders.groupBuilders(builders), allBuildings, cmdOpts)
+	end
+end
+
+-- instanceIDs[buildPositionKey] = { outline = { instanceID1, ...}, unit = { instanceID1, ...}, buildings = { ... } }
 local instanceIDs = {}
 
+-- The placed buildings for the build squares widget (gui_buildsquare_gl4 draws them as a single building's
+-- preview, these outlines are left out then): { unitDefID, x, y, z, facing, buildable, valid } per
+-- building, in the build positions' order, rebuilt after the instances change
+local previewBuildings = { list = {}, dirty = true }
+
 local function clearInstances()
-	if isHeadless then return end
+	if isHeadless then
+		return
+	end
 	if outlineInstanceVBO then
 		InstanceVBOTable.clearInstanceTable(outlineInstanceVBO)
 	end
@@ -574,6 +608,7 @@ local function clearInstances()
 	end
 
 	instanceIDs = {}
+	previewBuildings.dirty = true
 end
 
 local blockingColor = { 1.0, 0.0, 0.0, 1.0 }
@@ -586,7 +621,7 @@ local unbuildableColor = { 1.0, 1.0, 0.0, 1.0 }
 ---@param copyPosition Blueprint
 ---@param positionKey Blueprint
 local function createInstancesForPosition(blueprint, teamID, copyPosition, positionKey)
-	instanceIDs[positionKey] = { outline = {}, unit = {} }
+	instanceIDs[positionKey] = { outline = {}, unit = {}, buildings = {} }
 
 	local effectiveBlueprint = blueprint
 	if copyPosition[4] ~= nil then
@@ -604,11 +639,7 @@ local function createInstancesForPosition(blueprint, teamID, copyPosition, posit
 
 			local bw, bh = getBuildingDimensions(unit.unitDefID, unit.facing)
 
-			local blocking = SpringTestBuildOrder(
-				unit.unitDefID,
-				sx, sy, sz,
-				unit.facing
-			)
+			local blocking = SpringTestBuildOrder(unit.unitDefID, sx, sy, sz, unit.facing)
 
 			local color
 			if blocking == 0 then
@@ -618,33 +649,44 @@ local function createInstancesForPosition(blueprint, teamID, copyPosition, posit
 			else
 				color = unbuildableColor
 			end
+			tableInsert(instanceIDs[positionKey].buildings, {
+				unitDefID = unit.unitDefID,
+				x = sx,
+				y = sy,
+				z = sz,
+				facing = unit.facing,
+				buildable = activeBuilderBuildOptions[unit.unitDefID] ~= nil, -- (one they can't: as blocked)
+				valid = color == buildableColor, -- buildable, and its build test passed when placed
+			})
 
 			-- outline
-			local outlineInstanceID = pushElementInstance(
-				outlineInstanceVBO,
-				{
-					sx, sy, sz,
-					bw, bh,
-					unpack(color),
-				},
-				nil,
-				true,
-				true
-			)
+			local outlineInstanceID = pushElementInstance(outlineInstanceVBO, {
+				sx,
+				sy,
+				sz,
+				bw,
+				bh,
+				unpack(color),
+			}, nil, true, true)
 			tableInsert(instanceIDs[positionKey].outline, outlineInstanceID)
 
 			-- building
-			tableInsert(instanceIDs[positionKey].unit, WG.DrawUnitShapeGL4(
-				unit.unitDefID,
-				sx, sy, sz,
-				unit.facing * (mathPi / 2),
-				UNIT_ALPHA,
-				teamID,
-				nil,
-				nil,
-				nil,
-				widget:GetInfo().name
-			))
+			tableInsert(
+				instanceIDs[positionKey].unit,
+				WG.DrawUnitShapeGL4(
+					unit.unitDefID,
+					sx,
+					sy,
+					sz,
+					unit.facing * (mathPi / 2),
+					UNIT_ALPHA,
+					teamID,
+					nil,
+					nil,
+					nil,
+					widget:GetInfo().name
+				)
+			)
 		end
 	end
 end
@@ -652,9 +694,11 @@ end
 ---Synchronize the building and outline instances with the given list of build positions.
 ---@param blueprint Blueprint
 ---@param buildPositions StartPoints
----@param teamID number
+---@param teamID TeamID
 local function updateInstances(blueprint, buildPositions, teamID)
-	if isHeadless then return end
+	if isHeadless then
+		return
+	end
 
 	if not blueprint or not buildPositions then
 		clearInstances()
@@ -671,6 +715,7 @@ local function updateInstances(blueprint, buildPositions, teamID)
 
 		if not instanceIDs[positionKey] then
 			createInstancesForPosition(blueprint, teamID, copyPosition, positionKey)
+			previewBuildings.dirty = true
 		end
 	end
 
@@ -684,6 +729,7 @@ local function updateInstances(blueprint, buildPositions, teamID)
 				popElementInstance(outlineInstanceVBO, instanceID, true)
 			end
 			instanceIDs[positionKey] = nil
+			previewBuildings.dirty = true
 		end
 	end
 
@@ -691,12 +737,12 @@ local function updateInstances(blueprint, buildPositions, teamID)
 end
 
 local function drawOutlines()
-	if outlineInstanceVBO.usedElements == 0 or isHeadless then
+	if outlineInstanceVBO.usedElements == 0 or isHeadless or WG["buildsquare-gl4"] then
 		return
 	end
 
 	gl.LineWidth(2)
-	gl.DepthTest(GL.ALWAYS) -- so that it wont be drawn behind terrain
+	gl.DepthTest(GL.ALWAYS) -- so that it won't be drawn behind terrain
 	gl.DepthMask(false) -- so that we dont write the depth of the drawn pixels
 	gl.Texture(0, "$heightmap")
 	outlineShader:Activate()
@@ -776,25 +822,49 @@ local function setBlueprintPositions(buildPositions)
 	updateInstances(activeBlueprint, activeBuildPositions, SpringGetMyTeamID())
 end
 
+---The placed blueprint's buildings, for the build squares widget (nil while none is placed).
+---@return { unitDefID: integer, x: number, y: number, z: number, facing: integer, buildable: boolean, valid: boolean }[]?
+local function getPreviewBuildings()
+	if not activeBlueprint or not activeBuildPositions then
+		return nil
+	end
+	local list = previewBuildings.list
+	if previewBuildings.dirty then
+		previewBuildings.dirty = false
+		local n = 0
+		for _, copyPosition in ipairs(activeBuildPositions) do
+			local position = instanceIDs[table.toString(copyPosition)]
+			for _, building in ipairs(position and position.buildings or {}) do
+				n = n + 1
+				list[n] = building
+			end
+		end
+		for i = n + 1, #list do
+			list[i] = nil
+		end
+	end
+	return list
+end
+
 local function calculateBuildPositions(blueprint, mode, ...)
 	return BUILD_MODES_HANDLERS[mode](blueprint, ...)
 end
 
 local function setActiveBuilders(unitIDs)
-	activeBuilderBuildOptions = table.reduce(
-		unitIDs,
-		function(acc, cur)
-			local unitDefID = SpringGetUnitDefID(cur)
-			if unitDefID == nil then return acc end
-			local unitDef = UnitDefs[unitDefID]
-			if unitDef == nil then return acc end
-			for _, buildOption in ipairs(unitDef.buildOptions) do
-				acc[buildOption] = true
-			end
+	activeBuilderBuildOptions = table.reduce(unitIDs, function(acc, cur)
+		local unitDefID = SpringGetUnitDefID(cur)
+		if unitDefID == nil then
 			return acc
-		end,
-		{}
-	)
+		end
+		local unitDef = UnitDefs[unitDefID]
+		if unitDef == nil then
+			return acc
+		end
+		for _, buildOption in ipairs(unitDef.buildOptions) do
+			acc[buildOption] = true
+		end
+		return acc
+	end, {})
 
 	currentAPITargetSide = nil
 	if unitIDs and #unitIDs > 0 then
@@ -805,9 +875,21 @@ local function setActiveBuilders(unitIDs)
 			if firstBuilderDef and firstBuilderDef.name then
 				if SubLogic and SubLogic.getSideFromUnitName then
 					currentAPITargetSide = SubLogic.getSideFromUnitName(firstBuilderDef.name)
-					Spring.Log("BlueprintAPI", LOG.DEBUG, string.format("setActiveBuilders determined currentAPITargetSide: %s from %s", tostring(currentAPITargetSide), firstBuilderDef.name))
+					Spring.Log(
+						"BlueprintAPI",
+						LOG.DEBUG,
+						string.format(
+							"setActiveBuilders determined currentAPITargetSide: %s from %s",
+							tostring(currentAPITargetSide),
+							firstBuilderDef.name
+						)
+					)
 				else
-					Spring.Log("BlueprintAPI", LOG.WARNING, "setActiveBuilders: SubLogic or getSideFromUnitName not available for side detection.")
+					Spring.Log(
+						"BlueprintAPI",
+						LOG.WARNING,
+						"setActiveBuilders: SubLogic or getSideFromUnitName not available for side detection."
+					)
 				end
 			end
 		end
@@ -816,7 +898,7 @@ end
 
 local function createBlueprintFromSerialized(serializedBlueprint)
 	-- This function contains logic to handle blueprints with units that are not
-	-- in the base game (e.g., Legion, expiremental unit pack). It attempts to substitute
+	-- in the base game (e.g., Legion, experimental unit pack). It attempts to substitute
 	-- those units to a default faction (ARM) so that the blueprints can still be used.
 	if not serializedBlueprint or not serializedBlueprint.units then
 		return nil
@@ -828,11 +910,11 @@ local function createBlueprintFromSerialized(serializedBlueprint)
 	for _, serializedUnit in ipairs(serializedBlueprint.units) do
 		local unitDefID = UnitDefNames[serializedUnit.unitName] and UnitDefNames[serializedUnit.unitName].id
 		tableInsert(result.units, {
-			blueprintUnitID = WG['cmd_blueprint'].nextBlueprintUnitID(),
+			blueprintUnitID = WG.cmd_blueprint.nextBlueprintUnitID(),
 			position = serializedUnit.position,
 			facing = serializedUnit.facing,
 			unitDefID = unitDefID,
-			originalName = serializedUnit.unitName
+			originalName = serializedUnit.unitName,
 		})
 	end
 
@@ -844,7 +926,11 @@ local function createBlueprintFromSerialized(serializedBlueprint)
 end
 
 function widget:Initialize()
-	Spring.Log(widget:GetInfo().name, LOG.INFO, "Blueprint API Initializing. Local SubLogic is assumed loaded and valid.")
+	Spring.Log(
+		widget:GetInfo().name,
+		LOG.INFO,
+		"Blueprint API Initializing. Local SubLogic is assumed loaded and valid."
+	)
 
 	if not isHeadless then
 		if not initGL4() then
@@ -858,12 +944,20 @@ function widget:Initialize()
 		local reportPath = "luaui/Include/blueprint_substitution/reports.lua"
 		if VFS.FileExists(reportPath) then
 			local includedReports = VFS.Include(reportPath)
-			if includedReports and type(includedReports.SetDependencies) == 'function' then
+			if includedReports and type(includedReports.SetDependencies) == "function" then
 				includedReports.SetDependencies(SubLogic)
 				reportFunctions = includedReports
-				Spring.Log("BlueprintAPI", LOG.INFO, "Report functions loaded and dependencies set using local SubLogic.")
+				Spring.Log(
+					"BlueprintAPI",
+					LOG.INFO,
+					"Report functions loaded and dependencies set using local SubLogic."
+				)
 			else
-				Spring.Log("BlueprintAPI", LOG.ERROR, "Failed to load reports or SetDependencies is missing: " .. reportPath)
+				Spring.Log(
+					"BlueprintAPI",
+					LOG.ERROR,
+					"Failed to load reports or SetDependencies is missing: " .. reportPath
+				)
 			end
 		else
 			Spring.Log("BlueprintAPI", LOG.WARNING, "Report file not found: " .. reportPath)
@@ -872,8 +966,10 @@ function widget:Initialize()
 		Spring.Log("BlueprintAPI", LOG.INFO, "Reports are DISABLED.")
 	end
 
-	WG["api_blueprint"] = {
-		getActiveBlueprint = function() return activeBlueprint end,
+	WG.api_blueprint = {
+		getActiveBlueprint = function()
+			return activeBlueprint
+		end,
 		setActiveBlueprint = setActiveBlueprint,
 		setActiveBuilders = setActiveBuilders,
 		setBlueprintPositions = setBlueprintPositions,
@@ -884,6 +980,8 @@ function widget:Initialize()
 		getBlueprintDimensions = getBlueprintDimensions,
 		getUnitsBounds = getUnitsBounds,
 		snapBlueprint = snapBlueprint,
+		placeBlueprint = placeBlueprint,
+		getPreviewBuildings = getPreviewBuildings,
 		BUILD_MODES = BUILD_MODES,
 		SQUARE_SIZE = SQUARE_SIZE,
 		BUILD_SQUARE_SIZE = BUILD_SQUARE_SIZE,
@@ -899,10 +997,12 @@ function widget:Initialize()
 end
 
 function widget:Shutdown()
-	WG["api_blueprint"] = nil
+	WG.api_blueprint = nil
 	Spring.Log(widget:GetInfo().name, LOG.INFO, "Blueprint API shutdown.")
 
-	if isHeadless then return end
+	if isHeadless then
+		return
+	end
 
 	clearInstances()
 
@@ -919,6 +1019,3 @@ function widget:Shutdown()
 	end
 	reportFunctions = nil
 end
-
-
-

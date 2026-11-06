@@ -1,19 +1,19 @@
 local facingMap = {
 	south = 0,
-	east  = 1,
+	east = 1,
 	north = 2,
-	west  = 3,
+	west = 3,
 	s = 0,
-	e  = 1,
+	e = 1,
 	n = 2,
-	w  = 3,
+	w = 3,
 	[0] = 0,
 	[1] = 1,
 	[2] = 2,
 	[3] = 3,
 }
 
-local facingNames = { [0] = 's', [1] = 'e', [2] = 'n', [3] = 'w' }
+local facingNames = { [0] = "s", [1] = "e", [2] = "n", [3] = "w" }
 
 -- TODO: remove this if/when Spring.CreateFeature and/or Spring.GetHeadingFromFacing supports named facings
 ---Convert a named facing to a heading integer (engine uses 0-65535 headings).
@@ -30,6 +30,13 @@ local function headingToFacing(heading)
 	return facingNames[Spring.GetFacingFromHeading(heading)]
 end
 
+---Convert a named facing to the engine's facing number.
+---@param facing string|integer
+---@return integer facing 0 south, 1 east, 2 north, 3 west
+local function facingToNumber(facing)
+	return facingMap[facing or 0]
+end
+
 --- Whether the given facing is east or west
 --- @param facing string|integer
 --- @return boolean
@@ -40,6 +47,7 @@ end
 
 return {
 	FacingToHeading = facingToHeading,
+	FacingToNumber = facingToNumber,
 	HeadingToFacing = headingToFacing,
 	IsFacingEW = isFacingEW,
 }

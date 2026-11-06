@@ -33,13 +33,13 @@ return {
 		turnrate = 600,
 		upright = true,
 		customparams = {
+			hasdeathanimation = true,
 			model_author = "PtaQ",
 			normaltex = "unittextures/Arm_normal.dds",
+			reaimtime = 6,
 			subfolder = "ArmGantry",
 			techlevel = 3,
 			unitgroup = "weapon",
-			weapon1turretx = 200,
-			weapon1turrety = 200,
 		},
 		featuredefs = {
 			dead = {
@@ -120,7 +120,7 @@ return {
 				proximitypriority = 1,
 				pulsespeed = 8,
 				range = 475,
-				reloadtime = 0.63333,
+				reloadtime = 0.6,
 				rgbcolor = "0.75 0 0",
 				rgbcolor2 = "0.9 0.9 0.6",
 				soundhitdry = "",
@@ -132,9 +132,13 @@ return {
 				turret = true,
 				weapontype = "BeamLaser",
 				weaponvelocity = 920,
+				customparams = {
+					turretspeedx = 200,
+					turretspeedy = 200,
+				},
 				damage = {
-					default = 116,
-					vtol = 22,
+					default = 105,
+					vtol = 20,
 				},
 			},
 		},

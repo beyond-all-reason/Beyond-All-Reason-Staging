@@ -1,0 +1,1533 @@
+local widget = widget ---@type Widget
+
+function widget:GetInfo()
+	return {
+		name = "Grass Brush",
+		desc = "Paint, fill and erase grass density with smart filters and texture-color matching.",
+		author = "PtaQ",
+		date = "2026",
+		license = "GNU GPL, v2 or later",
+		layer = 1000001,
+		enabled = false,
+	}
+end
+
+-- ============================================================
+-- Engine API Locals
+-- ============================================================
+local GetGroundHeight = Spring.GetGroundHeight
+local WorldToScreenCoords = Spring.WorldToScreenCoords
+local GetModKeyState = Spring.GetModKeyState
+local GetKeyState = Spring.GetKeyState
+local IsCheatingEnabled = Spring.IsCheatingEnabled
+local GetActiveCommand = Spring.GetActiveCommand
+local GetDrawFrame = Spring.GetDrawFrame
+local Echo = Spring.Echo
+
+local glColor = gl.Color
+local glLineWidth = gl.LineWidth
+local glBeginEnd = gl.BeginEnd
+local glVertex = gl.Vertex
+local glText = gl.Text
+local glBlending = gl.Blending
+local GL_LINES = GL.LINES
+local GL_SRC_ALPHA = GL.SRC_ALPHA
+local GL_ONE_MINUS_SRC_ALPHA = GL.ONE_MINUS_SRC_ALPHA
+
+local floor = math.floor
+local ceil = math.ceil
+local max = math.max
+local min = math.min
+local abs = math.abs
+local sqrt = math.sqrt
+local format = string.format
+
+local BrushShapes = require("common/brush_shapes")
+local WorldTool = require("luaui/Include/tf_world_tool")
+
+local KEYSYMS_SPACE = 0x20
+local KEYSYMS_ESCAPE = 0x1B
+
+-- The engine's active command, to notice a switch to another tool.
+---@type integer?
+local lastActiveCmd = nil
+
+-- ============================================================
+-- Constants
+-- ============================================================
+local CIRCLE_SEGMENTS = 48
+local UPDATE_INTERVAL = 0.033
+local FILTER_GRID_STEP = 32
+
+-- Parameter ranges, matching the terraform brush
+local MIN_RADIUS = 8
+local MAX_RADIUS = 2000
+local RADIUS_STEP = 8
+local MIN_DENSITY = 0.0
+local MAX_DENSITY = 1.0
+local DENSITY_STEP = 0.05
+local DEFAULT_DENSITY = 0.8
+local DEFAULT_RADIUS = 100
+local MIN_CURVE = 0.1
+local MAX_CURVE = 5.0
+local CURVE_STEP = 0.1
+local DEFAULT_CURVE = 0.5
+local ROTATION_STEP = 3
+local DEFAULT_LENGTH_SCALE = 1.0
+local MIN_LENGTH_SCALE = 0.2
+local MAX_LENGTH_SCALE = 5.0
+local LENGTH_SCALE_STEP = 0.1
+
+-- ============================================================
+-- Brush State
+-- ============================================================
+local active = false
+local subMode = "paint" -- "paint", "fill", "erase"
+local targetDensity = DEFAULT_DENSITY
+local brushRadius = DEFAULT_RADIUS
+local brushCurve = DEFAULT_CURVE
+---@type number
+local brushRotation = 0
+local brushLengthScale = DEFAULT_LENGTH_SCALE
+---@type BrushShape|"ring"|"fill"
+local brushShape = "circle"
+local painting = false
+---@type number
+local paintButton = 0 -- 1 = LMB (add), 3 = RMB (remove)
+---@type number
+local lastPaintTime = 0
+local grassAvailable = false
+---@type number
+local edgeFade = 1 -- cursor alpha multiplier: 1 inside the map, fades to 0 past the edge
+
+-- ============================================================
+-- Undo / Redo History
+-- ============================================================
+local MAX_HISTORY = 50
+
+---One grass patch a stroke touched; after is filled when the stroke ends.
+---@class GrassPatchEdit
+---@field x number
+---@field z number
+---@field before number
+---@field after number?
+
+---@type GrassPatchEdit[][]
+local undoStack = {} -- array of patch arrays; each patch = {x, z, before, after}
+---@type GrassPatchEdit[][]
+local redoStack = {}
+---@type table<number, GrassPatchEdit>?
+local strokeSnap = nil -- dict[x*100000+z] = {x, z, before}, in-progress stroke
+
+local function strokeBegin()
+	strokeSnap = {}
+end
+
+local function strokeSamplePatch(x, z)
+	if not strokeSnap then
+		return
+	end
+	local key = x * 100000 + z
+	if strokeSnap[key] then
+		return
+	end
+	local api = WG.grassgl4
+	if not api or not api.getDensityAt then
+		return
+	end
+	strokeSnap[key] = { x = x, z = z, before = api.getDensityAt(x, z) }
+end
+
+local function strokeEnd()
+	if not strokeSnap then
+		return
+	end
+	local api = WG.grassgl4
+	if not api or not api.getDensityAt then
+		strokeSnap = nil
+		return
+	end
+	local patches = {}
+	local changed = false
+	for _, p in pairs(strokeSnap) do
+		local after = api.getDensityAt(p.x, p.z)
+		if after ~= p.before then
+			changed = true
+		end
+		patches[#patches + 1] = { x = p.x, z = p.z, before = p.before, after = after }
+	end
+	strokeSnap = nil
+	if changed then
+		undoStack[#undoStack + 1] = patches
+		if #undoStack > MAX_HISTORY then
+			table.remove(undoStack, 1)
+		end
+		redoStack = {}
+	end
+end
+
+-- Echo every outcome: a silent no-op reads as "undo is broken", and an empty
+-- stack must be told apart from a missing grass API in bug reports.
+local function grassUndo()
+	if #undoStack == 0 then
+		Echo("[Grass Brush] Nothing to undo")
+		return
+	end
+	local api = WG.grassgl4
+	if not api or not api.setDensityAt then
+		Echo("[Grass Brush] Undo unavailable: grass renderer API not loaded")
+		return
+	end
+	local patches = undoStack[#undoStack]
+	undoStack[#undoStack] = nil
+	for i = 1, #patches do
+		api.setDensityAt(patches[i].x, patches[i].z, patches[i].before)
+	end
+	redoStack[#redoStack + 1] = patches
+	if #redoStack > MAX_HISTORY then
+		table.remove(redoStack, 1)
+	end
+	Echo("[Grass Brush] Undo (" .. #patches .. " patches)")
+end
+
+local function grassRedo()
+	if #redoStack == 0 then
+		Echo("[Grass Brush] Nothing to redo")
+		return
+	end
+	local api = WG.grassgl4
+	if not api or not api.setDensityAt then
+		Echo("[Grass Brush] Redo unavailable: grass renderer API not loaded")
+		return
+	end
+	local patches = redoStack[#redoStack]
+	redoStack[#redoStack] = nil
+	for i = 1, #patches do
+		api.setDensityAt(patches[i].x, patches[i].z, patches[i].after)
+	end
+	undoStack[#undoStack + 1] = patches
+	Echo("[Grass Brush] Redo (" .. #patches .. " patches)")
+end
+
+local function grassUndoToIndex(targetIdx)
+	local cur = #undoStack
+	if targetIdx < cur then
+		for _ = 1, cur - targetIdx do
+			grassUndo()
+		end
+	elseif targetIdx > cur then
+		for _ = 1, targetIdx - cur do
+			grassRedo()
+		end
+	end
+end
+
+-- Smart filter state
+local smartEnabled = false
+local smartFilters = {
+	avoidWater = false,
+	avoidCliffs = false,
+	slopeMax = 45,
+	preferSlopes = false,
+	slopeMin = 10,
+	altMinEnable = false,
+	altMin = 0,
+	altMaxEnable = false,
+	altMax = 200,
+}
+
+-- Texture color filter state
+local texFilterEnabled = false
+-- texFilterColor: [1..3] include RGB, [4] exclude enabled (1 or nil), [5..7] exclude RGB
+---@type table<integer, number|true|nil>
+local texFilterColor = { 0.25, 0.45, 0.15, nil, 0.65, 0.35, 0.10 } -- include=green, exclude=brown
+local texFilterThreshold = 0.35 -- color distance threshold (0..1)
+local texFilterPadding = 0 -- padding in elmos from excluded areas
+local pipetteMode = false -- true while waiting for user to click terrain (include)
+---@type {wx: number, wz: number}?
+local pipettePending = nil -- { wx, wz } queued in MousePress, sampled in DrawScreen
+local pipetteExcludeMode = false -- true while waiting to click terrain (exclude)
+---@type {wx: number, wz: number}?
+local pipetteExcludePending = nil -- { wx, wz } queued for exclude sample
+
+-- ============================================================
+-- Shape Testing
+-- ============================================================
+
+-- Shared point-in-shape test (common/brush_shapes.lua):
+-- isInsideShape(dx, dz, radius, shape, angleDeg, lengthScale) -> inside, normDist
+local isInsideShape = BrushShapes.isInside
+local computeFalloff = BrushShapes.computeFalloff
+
+-- ============================================================
+-- Texture color filter: diffuse sampling from $map_gbuffer_difftex
+-- ============================================================
+-- The terrain G-buffer diffuse (screen space) matches what the renderer shows;
+-- $minimap uses a different shading pipeline and gives wrong colors.
+-- Batch (buildDiffuseCache): project a grid of cells to screen, copy their
+-- screen bounding box into a small FBO, read it back next frame. Pipette
+-- (sampleDiffuseAtPoint): one pixel through a 1x1 FBO. Both run in DrawScreen;
+-- every consumer reads through getDiffuseColorAt().
+-- ============================================================
+
+-- Cache constants
+local DIFFUSE_GRID_MAX = 48 -- max grid dimension per axis
+local CACHE_MIN_STEP = 16 -- minimum world elmos per grid cell
+local CACHE_MARGIN = 48 -- extra padding in world elmos
+
+-- Flat arrays (indexed by gz * gridW + gx + 1)
+local dcR, dcG, dcB = {}, {}, {}
+local dcValid = false
+
+-- Cache metadata
+---@class GrassDiffuseCacheInfo
+---@field cx number
+---@field cz number
+---@field halfExtent number
+---@field gridW number
+---@field gridH number
+---@field stepX number
+---@field stepZ number
+---@field fbo string?
+---@field gridTex string?
+---@field fboW number
+---@field fboH number
+---@field wx1 number
+---@field wz1 number
+---@field wx2 number
+---@field wz2 number
+---@field pendingRead boolean
+---@field pendingGridSX table?
+---@field pendingGridSY table?
+---@field pendingMinSX number
+---@field pendingMinSY number
+---@field pendingBboxW integer
+---@field pendingBboxH integer
+---@field pendingScaleX number
+---@field pendingScaleY number
+---@field pendingGridW number
+---@field pendingGridH number
+local dcInfo = {
+	cx = 0,
+	cz = 0, -- world center when cache was built
+	halfExtent = 0, -- requested half-extent
+	gridW = 0,
+	gridH = 0, -- grid dimensions
+	stepX = 0,
+	stepZ = 0, -- world elmos per grid cell
+	fbo = nil, -- 1x1 FBO texture handle (pipette only)
+	gridTex = nil, -- batch cache FBO, the screen bbox capped to capW x capH
+	fboW = 0,
+	fboH = 0, -- current gridTex dimensions
+	wx1 = 0,
+	wz1 = 0, -- NW corner (west, north = small x, small z)
+	wx2 = 0,
+	wz2 = 0, -- SE corner (east, south = large x, large z)
+	-- deferred readback state (render frame N, read frame N+1 to avoid GPU stall)
+	pendingRead = false,
+	pendingGridSX = nil,
+	pendingGridSY = nil,
+	pendingMinSX = 0,
+	pendingMinSY = 0,
+	pendingBboxW = 0, -- actual FBO size (capped)
+	pendingBboxH = 0, -- actual FBO size (capped)
+	pendingScaleX = 1, -- capW / fullBboxW, for the scaled pixel lookup
+	pendingScaleY = 1, -- capH / fullBboxH
+	pendingGridW = 0,
+	pendingGridH = 0,
+}
+
+-- ------------------------------------------------
+-- buildDiffuseCache(cx, cz, halfExtent): render pass of the batch sample
+-- (the readback is flushDiffuseRead, next frame). DrawScreen only.
+-- ------------------------------------------------
+local function buildDiffuseCache(cx, cz, halfExtent)
+	local GetGH = Spring.GetGroundHeight
+	local WToS = Spring.WorldToScreenCoords
+	local vsx, vsy, vpx, vpy = Spring.GetViewGeometry()
+	local msX, msZ = Game.mapSizeX, Game.mapSizeZ
+
+	local x1 = max(0, cx - halfExtent)
+	local z1 = max(0, cz - halfExtent)
+	local x2 = min(msX, cx + halfExtent)
+	local z2 = min(msZ, cz + halfExtent)
+	local rangeX = x2 - x1
+	local rangeZ = z2 - z1
+	if rangeX <= 0 or rangeZ <= 0 then
+		return
+	end
+
+	local stepX = max(CACHE_MIN_STEP, rangeX / DIFFUSE_GRID_MAX)
+	local stepZ = max(CACHE_MIN_STEP, rangeZ / DIFFUSE_GRID_MAX)
+	local gridW = max(1, floor(rangeX / stepX))
+	local gridH = max(1, floor(rangeZ / stepZ))
+
+	-- Project each cell to screen and grow the bounding box.
+	local gridSX = {} -- viewport-relative pixel X per cell
+	local gridSY = {} -- viewport-relative pixel Y per cell
+	local minSX = vsx
+	local maxSX = 0
+	local minSY = vsy
+	local maxSY = 0
+	local anyOn = false
+	for gz = 0, gridH - 1 do
+		for gx = 0, gridW - 1 do
+			local wx = x1 + (gx + 0.5) * stepX
+			local wz = z1 + (gz + 0.5) * stepZ
+			local sx, sy = WToS(wx, GetGH(wx, wz), wz)
+			local idx = gz * gridW + gx + 1
+			if sx then
+				local isx = max(0, min(vsx - 1, floor(sx - vpx)))
+				local isy = max(0, min(vsy - 1, floor(sy - vpy)))
+				gridSX[idx] = isx
+				gridSY[idx] = isy
+				if isx < minSX then
+					minSX = isx
+				end
+				if isx > maxSX then
+					maxSX = isx
+				end
+				if isy < minSY then
+					minSY = isy
+				end
+				if isy > maxSY then
+					maxSY = isy
+				end
+				anyOn = true
+			else
+				gridSX[idx] = -1
+				gridSY[idx] = -1
+			end
+		end
+	end
+	if not anyOn then
+		dcValid = false
+		return
+	end
+
+	local bboxW = maxSX - minSX + 1
+	local bboxH = maxSY - minSY + 1
+
+	-- Cap the FBO: ReadPixels returns one Lua table per pixel, and an 800x800
+	-- box (640k tables) overwhelms the LuaUI heap. 96x96 is at most 9216.
+	local capW = min(bboxW, DIFFUSE_GRID_MAX * 2)
+	local capH = min(bboxH, DIFFUSE_GRID_MAX * 2)
+	local scaleX = capW / bboxW
+	local scaleY = capH / bboxH
+
+	if dcInfo.gridTex and (dcInfo.fboW ~= capW or dcInfo.fboH ~= capH) then
+		gl.DeleteTexture(dcInfo.gridTex)
+		dcInfo.gridTex = nil
+	end
+	if not dcInfo.gridTex then
+		dcInfo.gridTex = gl.CreateTexture(capW, capH, {
+			min_filter = GL.NEAREST,
+			mag_filter = GL.NEAREST,
+			fbo = true,
+		})
+		dcInfo.fboW = capW
+		dcInfo.fboH = capH
+	end
+	if not dcInfo.gridTex then
+		return
+	end
+
+	-- Copy the screen bbox into the FBO (scaled to capW x capH). ReadPixels waits
+	-- for the next DrawScreen: reading now would stall the GPU (SwapBuffers lag).
+	local u0 = minSX / vsx
+	local v0 = minSY / vsy
+	local u1b = (maxSX + 1) / vsx
+	local v1b = (maxSY + 1) / vsy
+	gl.RenderToTexture(dcInfo.gridTex, function()
+		gl.Texture("$map_gbuffer_difftex")
+		gl.TexRect(-1, -1, 1, 1, u0, v0, u1b, v1b)
+		gl.Texture(false)
+	end)
+
+	dcInfo.pendingGridSX = gridSX
+	dcInfo.pendingGridSY = gridSY
+	dcInfo.pendingMinSX = minSX
+	dcInfo.pendingMinSY = minSY
+	dcInfo.pendingBboxW = capW -- actual FBO size (capped)
+	dcInfo.pendingBboxH = capH -- actual FBO size (capped)
+	dcInfo.pendingScaleX = scaleX -- screen offset -> FBO pixel
+	dcInfo.pendingScaleY = scaleY
+	dcInfo.pendingGridW = gridW
+	dcInfo.pendingGridH = gridH
+	dcInfo.pendingRead = true
+
+	-- Record the position now so needsCacheRebuild does not fire again next frame.
+	dcValid = false -- stays false until flushDiffuseRead() completes
+	dcInfo.cx = cx
+	dcInfo.cz = cz
+	dcInfo.halfExtent = halfExtent
+	dcInfo.gridW = gridW
+	dcInfo.gridH = gridH
+	dcInfo.stepX = stepX
+	dcInfo.stepZ = stepZ
+	dcInfo.wx1 = x1
+	dcInfo.wz1 = z1
+	dcInfo.wx2 = x2
+	dcInfo.wz2 = z2
+end
+
+-- ------------------------------------------------
+-- flushDiffuseRead(): at the start of DrawScreen, read back last frame's
+-- render pass; the GPU has had a full frame, so there is no stall.
+-- ------------------------------------------------
+local function flushDiffuseRead()
+	if not dcInfo.pendingRead then
+		return
+	end
+	dcInfo.pendingRead = false
+	local bboxW = dcInfo.pendingBboxW
+	local bboxH = dcInfo.pendingBboxH
+	local gridW = dcInfo.pendingGridW
+	local gridH = dcInfo.pendingGridH
+	local gridSX = dcInfo.pendingGridSX
+	local gridSY = dcInfo.pendingGridSY
+	local minSX = dcInfo.pendingMinSX
+	local minSY = dcInfo.pendingMinSY
+	if not (bboxW and bboxH and dcInfo.gridTex) then
+		return
+	end
+	local scaleX = dcInfo.pendingScaleX
+	local scaleY = dcInfo.pendingScaleY
+	---@type any
+	local pixels
+	gl.RenderToTexture(dcInfo.gridTex, function()
+		pixels = gl.ReadPixels(0, 0, bboxW, bboxH)
+	end)
+	if pixels then
+		local total = gridW * gridH
+		for i = total + 1, #dcR do
+			dcR[i] = nil
+			dcG[i] = nil
+			dcB[i] = nil
+		end
+		for gz = 0, gridH - 1 do
+			for gx = 0, gridW - 1 do
+				local idx = gz * gridW + gx + 1
+				local isx = gridSX[idx]
+				local isy = gridSY[idx]
+				local r, g, b = 0, 0, 0
+				if isx and isx >= 0 then
+					-- screen-space offset -> capped FBO pixel
+					local fx = max(0, min(bboxW - 1, floor((isx - minSX) * scaleX)))
+					local fy = max(0, min(bboxH - 1, floor((isy - minSY) * scaleY)))
+					local row = pixels[fy + 1]
+					local px = row and row[fx + 1]
+					if px then
+						r, g, b = px[1], px[2], px[3]
+					end
+				end
+				dcR[idx] = r
+				dcG[idx] = g
+				dcB[idx] = b
+			end
+		end
+		dcValid = true
+		dcInfo.pendingGridSX = nil
+		dcInfo.pendingGridSY = nil
+	end
+end
+
+-- ------------------------------------------------
+-- getDiffuseColorAt(wx, wz): the one cache lookup every consumer uses.
+-- Returns r, g, b (0..1), or nil on a cache miss.
+-- ------------------------------------------------
+local function getDiffuseColorAt(wx, wz)
+	if not dcValid then
+		return nil
+	end
+	local gW, gH = dcInfo.gridW, dcInfo.gridH
+	if gW == 0 or gH == 0 then
+		return nil
+	end
+
+	local gx = floor((wx - dcInfo.wx1) / dcInfo.stepX)
+	gx = max(0, min(gW - 1, gx))
+	local gz = floor((wz - dcInfo.wz1) / dcInfo.stepZ)
+	gz = max(0, min(gH - 1, gz))
+
+	local idx = gz * gW + gx + 1
+	local r = dcR[idx]
+	if not r then
+		return nil
+	end
+	return r, dcG[idx], dcB[idx]
+end
+
+local function invalidateDiffuseCache()
+	dcValid = false
+	dcInfo.pendingRead = false
+	dcInfo.pendingGridSX = nil
+	dcInfo.pendingGridSY = nil
+end
+
+-- ------------------------------------------------
+-- sampleDiffuseAtPoint(wx, wz): pipette sample through a 1x1 FBO. DrawScreen only.
+-- ------------------------------------------------
+local function sampleDiffuseAtPoint(wx, wz)
+	local vsx, vsy, vpx, vpy = Spring.GetViewGeometry()
+	local sx, sy = Spring.WorldToScreenCoords(wx, Spring.GetGroundHeight(wx, wz), wz)
+	if not sx then
+		return nil
+	end
+	local u = max(0, min(1, (sx - vpx) / vsx))
+	local v = max(0, min(1, (sy - vpy) / vsy))
+	if not dcInfo.fbo then
+		dcInfo.fbo = gl.CreateTexture(1, 1, {
+			min_filter = GL.NEAREST,
+			mag_filter = GL.NEAREST,
+			fbo = true,
+		})
+	end
+	if not dcInfo.fbo then
+		return nil
+	end
+	-- Pass 1: render
+	gl.RenderToTexture(dcInfo.fbo, function()
+		gl.Texture("$map_gbuffer_difftex")
+		gl.TexRect(-1, -1, 1, 1, u, v, u, v)
+		gl.Texture(false)
+	end)
+	-- Pass 2: read
+	---@type (number|table)?, number?, number?
+	local r, g, b
+	gl.RenderToTexture(dcInfo.fbo, function()
+		r, g, b = gl.ReadPixels(0, 0, 1, 1)
+	end)
+	return r, g, b
+end
+
+local function needsCacheRebuild(cx, cz, requiredHalf)
+	if dcInfo.pendingRead then
+		return false
+	end -- render submitted, wait for read
+	if not dcInfo.gridTex or not dcValid then
+		return true
+	end
+	if abs(cx - dcInfo.cx) > CACHE_MIN_STEP then
+		return true
+	end
+	if abs(cz - dcInfo.cz) > CACHE_MIN_STEP then
+		return true
+	end
+	if dcInfo.halfExtent ~= requiredHalf then
+		return true
+	end
+	return false
+end
+
+-- ------------------------------------------------
+-- Color matching helpers
+-- ------------------------------------------------
+local function colorDistance(r1, g1, b1, r2, g2, b2)
+	local dr = r1 - r2
+	local dg = g1 - g2
+	local db = b1 - b2
+	return sqrt(dr * dr + dg * dg + db * db)
+end
+
+local function passesTexFilter(wx, wz)
+	if not texFilterEnabled then
+		return true
+	end
+	local r, g, b = getDiffuseColorAt(wx, wz)
+	if not r then
+		return false
+	end
+	local distInclude = colorDistance(r, g, b, texFilterColor[1], texFilterColor[2], texFilterColor[3])
+	-- With an exclude color, score = distInclude - distExclude (negative means
+	-- nearer the include color) and passes at score <= threshold - 0.5.
+	if texFilterColor[4] then
+		local distExclude = colorDistance(r, g, b, texFilterColor[5], texFilterColor[6], texFilterColor[7])
+		return (distInclude - distExclude) <= (texFilterThreshold - 0.5)
+	end
+	return distInclude <= texFilterThreshold
+end
+
+-- Padding filter: reject points within padding distance of an excluded area.
+local function passesPaddingFilter(wx, wz, patchRes, grassApi, config)
+	if texFilterPadding <= 0 then
+		return true
+	end
+	local padSteps = ceil(texFilterPadding / patchRes)
+	for pdx = -padSteps, padSteps do
+		for pdz = -padSteps, padSteps do
+			local dist = sqrt((pdx * patchRes) ^ 2 + (pdz * patchRes) ^ 2)
+			if dist < texFilterPadding then
+				local nx = wx + pdx * patchRes
+				local nz = wz + pdz * patchRes
+				if nx >= 0 and nx <= config.mapSizeX and nz >= 0 and nz <= config.mapSizeZ then
+					if not passesTexFilter(nx, nz) then
+						return false
+					end
+				end
+			end
+		end
+	end
+	return true
+end
+
+-- ============================================================
+-- Brush Operations
+-- ============================================================
+
+local function ensureEditMode()
+	local grassApi = WG.grassgl4
+	if not grassApi then
+		return false
+	end
+	if not grassApi.isEditMode() then
+		grassApi.enableEditMode()
+	end
+	return true
+end
+
+local function shouldApplyAt(wx, wz, patchRes, grassApi, config)
+	if smartEnabled then
+		if not WorldTool.smart.passes(wx, wz, smartFilters) then
+			return false
+		end
+	end
+	if texFilterEnabled then
+		if not passesTexFilter(wx, wz) then
+			return false
+		end
+		if not passesPaddingFilter(wx, wz, patchRes, grassApi, config) then
+			return false
+		end
+	end
+	return true
+end
+
+-- Half-extents of the brush footprint as turned: the (radius, radius * length) box rotated by
+-- brushRotation, so a turned square or polygon is painted out to its corners. Exactly
+-- (radius, radius * length) at rotation 0.
+local function brushExtent()
+	local rad = brushRotation * math.pi / 180
+	local c, s = math.abs(math.cos(rad)), math.abs(math.sin(rad))
+	local rz = brushRadius * brushLengthScale
+	return brushRadius * c + rz * s, brushRadius * s + rz * c
+end
+
+local function applyPaintBrush(worldX, worldZ, direction)
+	local grassApi = WG.grassgl4
+	if not grassApi or not grassApi.setDensityAt or not grassApi.getDensityAt then
+		return
+	end
+	if not grassApi.getConfig then
+		return
+	end
+
+	local config = grassApi.getConfig()
+	local patchRes = config.patchResolution
+
+	local ex, ez = brushExtent()
+	local xMin = max(0, worldX - ex)
+	local xMax = min(config.mapSizeX, worldX + ex)
+	local zMin = max(0, worldZ - ez)
+	local zMax = min(config.mapSizeZ, worldZ + ez)
+
+	-- Lowest density the GL4 grass renderer actually draws.
+	local minVisible = (config.grassMinSize or 1) / max(1, config.grassMaxSize or 20)
+
+	for x = xMin, xMax, patchRes do
+		for z = zMin, zMax, patchRes do
+			local dx, dz = x - worldX, z - worldZ
+			local inside, normDist = isInsideShape(dx, dz, brushRadius, brushShape, brushRotation, brushLengthScale)
+			if inside then
+				if shouldApplyAt(x, z, patchRes, grassApi, config) then
+					local falloff = computeFalloff(normDist, brushCurve)
+					local current = grassApi.getDensityAt(x, z)
+
+					local newDensity
+					if direction > 0 then
+						-- Paint: raise toward target density * falloff, never lower
+						local desired = targetDensity * falloff
+						if desired > 0 and desired < minVisible then
+							desired = minVisible
+						end
+						newDensity = max(current, desired)
+					else
+						-- Remove: reduce by target density * falloff
+						local reduction = targetDensity * falloff
+						newDensity = current - reduction
+						if newDensity < minVisible then
+							newDensity = 0
+						end
+					end
+					strokeSamplePatch(x, z)
+					grassApi.setDensityAt(x, z, newDensity)
+				end
+			end
+		end
+	end
+end
+
+local function applyFillBrush(worldX, worldZ, direction)
+	local grassApi = WG.grassgl4
+	if not grassApi or not grassApi.setDensityAt then
+		return
+	end
+	if not grassApi.getConfig then
+		return
+	end
+
+	local config = grassApi.getConfig()
+	local patchRes = config.patchResolution
+
+	local ex, ez = brushExtent()
+	local xMin = max(0, worldX - ex)
+	local xMax = min(config.mapSizeX, worldX + ex)
+	local zMin = max(0, worldZ - ez)
+	local zMax = min(config.mapSizeZ, worldZ + ez)
+
+	local fillDensity = (direction > 0) and targetDensity or 0
+
+	for x = xMin, xMax, patchRes do
+		for z = zMin, zMax, patchRes do
+			local dx, dz = x - worldX, z - worldZ
+			local inside = isInsideShape(dx, dz, brushRadius, brushShape, brushRotation, brushLengthScale)
+			if inside then
+				if shouldApplyAt(x, z, patchRes, grassApi, config) then
+					strokeSamplePatch(x, z)
+					grassApi.setDensityAt(x, z, fillDensity)
+				end
+			end
+		end
+	end
+end
+
+local function applyEraseBrush(worldX, worldZ)
+	local grassApi = WG.grassgl4
+	if not grassApi or not grassApi.setDensityAt or not grassApi.getDensityAt then
+		return
+	end
+	if not grassApi.getConfig then
+		return
+	end
+
+	local config = grassApi.getConfig()
+	local patchRes = config.patchResolution
+	local minVisible = (config.grassMinSize or 1) / max(1, config.grassMaxSize or 20)
+
+	local ex, ez = brushExtent()
+	local xMin = max(0, worldX - ex)
+	local xMax = min(config.mapSizeX, worldX + ex)
+	local zMin = max(0, worldZ - ez)
+	local zMax = min(config.mapSizeZ, worldZ + ez)
+
+	for x = xMin, xMax, patchRes do
+		for z = zMin, zMax, patchRes do
+			local dx, dz = x - worldX, z - worldZ
+			local inside, normDist = isInsideShape(dx, dz, brushRadius, brushShape, brushRotation, brushLengthScale)
+			if inside then
+				local falloff = computeFalloff(normDist, brushCurve)
+				local current = grassApi.getDensityAt(x, z)
+				local reduction = targetDensity * falloff
+				local newDensity = current - reduction
+				if newDensity < minVisible then
+					newDensity = 0
+				end
+				strokeSamplePatch(x, z)
+				grassApi.setDensityAt(x, z, newDensity)
+			end
+		end
+	end
+end
+
+local function applyBrush(worldX, worldZ)
+	local tb = WG.TerraformBrush
+	---@type number
+	local rotDeg = 0
+	if tb and tb.getState then
+		local st = tb.getState()
+		rotDeg = st.rotationDeg or 0
+		-- Shape comes from the shared Shape row; unknown shapes fall back to circle.
+		if st.shape then
+			local s = st.shape
+			if s == "circle" or s == "square" or s == "hexagon" or s == "octagon" or s == "triangle" then
+				brushShape = s
+			else
+				brushShape = "circle"
+			end
+		end
+		brushRotation = rotDeg
+	end
+	if tb and tb.snapWorld then
+		worldX, worldZ = tb.snapWorld(worldX, worldZ, rotDeg)
+	end
+	local positions
+	if tb and tb.getSymmetricPositions then
+		positions = tb.getSymmetricPositions(worldX, worldZ, rotDeg)
+	end
+	if not positions or #positions == 0 then
+		positions = { { x = worldX, z = worldZ, rot = rotDeg } }
+	end
+	local baseRotation = brushRotation
+	for i = 1, #positions do
+		local p = positions[i]
+		local px, pz = p.x, p.z
+		-- each symmetry copy (radial or mirrored) stamps at its own turn
+		brushRotation = baseRotation + ((p.rot or rotDeg) - rotDeg)
+		if subMode == "erase" then
+			applyEraseBrush(px, pz)
+		elseif subMode == "fill" then
+			local direction = (paintButton == 1) and 1 or -1
+			applyFillBrush(px, pz, direction)
+		else
+			-- paint mode: LMB = add, RMB = remove
+			local direction = (paintButton == 1) and 1 or -1
+			applyPaintBrush(px, pz, direction)
+		end
+	end
+	brushRotation = baseRotation
+end
+
+-- ============================================================
+-- Drawing
+-- ============================================================
+
+local function getWorldPos()
+	-- Shared edge-extended resolver: keeps following the mouse past the map
+	-- edge, returning fade < 1 once the brush footprint leaves the map.
+	local wx, wz, fade = WorldTool.cursor(brushRadius, WorldTool.groundCursor)
+	edgeFade = fade
+	return wx, wz
+end
+
+-- Per-draw-frame mouse trace shared between DrawWorld and DrawScreen (both
+-- run inside the same draw pass, so the raw trace result is identical).
+local frameTraceDF = -1
+---@type number?, number?
+local frameTraceX, frameTraceZ = nil, nil
+
+local function drawSmartFilterOverlay(cx, cz)
+	if not smartEnabled and not texFilterEnabled then
+		return
+	end
+	local grassApi = WG.grassgl4
+	if not grassApi or not grassApi.getConfig then
+		return
+	end
+	local config = grassApi.getConfig()
+	-- getDiffuseColorAt is a plain table lookup (no GL calls), so shouldApplyAt
+	-- can run inside glBeginEnd without a precomputed cell table.
+	glBlending(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA)
+	WorldTool.drawFilterOverlay(
+		cx,
+		cz,
+		brushRadius,
+		brushShape,
+		brushRotation,
+		brushLengthScale,
+		edgeFade,
+		FILTER_GRID_STEP,
+		1,
+		shouldApplyAt,
+		config.patchResolution,
+		grassApi,
+		config
+	)
+end
+
+local function drawCursorInfo(worldX, worldZ)
+	local grassApi = WG.grassgl4
+	local currentDensity = 0
+	if grassApi and grassApi.getDensityAt then
+		currentDensity = grassApi.getDensityAt(worldX, worldZ)
+	end
+
+	local sx, sy = WorldToScreenCoords(worldX, GetGroundHeight(worldX, worldZ), worldZ)
+	if not sx then
+		return
+	end
+
+	local modeName = subMode:upper()
+	local text =
+		format("%s: D%.0f%% R%d [cur: %.0f%%]", modeName, targetDensity * 100, brushRadius, currentDensity * 100)
+
+	glColor(0, 0, 0, 0.92 * edgeFade)
+	glText(text, sx + 2, sy + 18, 24, "co")
+	glColor(1, 1, 1, edgeFade)
+	glText(text, sx, sy + 20, 24, "co")
+end
+
+-- ============================================================
+-- State Management & WG Interface
+-- ============================================================
+
+local function activate(mode)
+	active = true
+	subMode = mode or "paint"
+	painting = false
+	grassAvailable = ensureEditMode()
+	-- Snapshot the current engine command so Update() does not read it as a tool switch.
+	local _, cmdID = GetActiveCommand()
+	lastActiveCmd = cmdID
+	local grassApi = WG.grassgl4
+	if grassApi and grassApi.setExternalBrush then
+		grassApi.setExternalBrush(true)
+	end
+end
+
+local function deactivate()
+	active = false
+	painting = false
+	paintButton = 0
+	local grassApi = WG.grassgl4
+	if grassApi then
+		if grassApi.setExternalBrush then
+			grassApi.setExternalBrush(false)
+		end
+		if grassApi.disableEditMode then
+			grassApi.disableEditMode()
+		end
+	end
+end
+
+-- Step aside when another tool turns on (a hotkey or a direct API call), so
+-- this widget's mouse and draw handlers do not bleed into it.
+local function checkConflictAndDeactivate()
+	if not active then
+		return false
+	end
+	local tfState = WG.TerraformBrush and WG.TerraformBrush.getState()
+	if tfState and tfState.active then
+		deactivate()
+		return true
+	end
+	local fpState = WG.FeaturePlacer and WG.FeaturePlacer.getState()
+	if fpState and fpState.active then
+		deactivate()
+		return true
+	end
+	local wbState = WG.WeatherBrush and WG.WeatherBrush.getState()
+	if wbState and wbState.active then
+		deactivate()
+		return true
+	end
+	local spState = WG.SplatPainter and WG.SplatPainter.getState()
+	if spState and spState.active then
+		deactivate()
+		return true
+	end
+	local mbState = WG.MetalBrush and WG.MetalBrush.getState()
+	if mbState and mbState.active then
+		deactivate()
+		return true
+	end
+	return false
+end
+
+local function setSubMode(mode)
+	if mode == "paint" or mode == "fill" or mode == "erase" then
+		subMode = mode
+	end
+end
+
+local function setDensity(v)
+	targetDensity = max(MIN_DENSITY, min(MAX_DENSITY, v))
+end
+
+local function setRadius(v)
+	brushRadius = max(MIN_RADIUS, min(MAX_RADIUS, v))
+end
+
+local function setCurve(v)
+	brushCurve = max(MIN_CURVE, min(MAX_CURVE, v))
+end
+
+local function setRotation(v)
+	brushRotation = v % 360
+end
+
+local function setLengthScale(v)
+	brushLengthScale = max(MIN_LENGTH_SCALE, min(MAX_LENGTH_SCALE, v))
+end
+
+local function setSmartEnabled(val)
+	smartEnabled = val and true or false
+end
+
+local function setSmartFilter(key, val)
+	if smartFilters[key] ~= nil then
+		smartFilters[key] = val
+	end
+end
+
+local function setTexFilterEnabled(val)
+	texFilterEnabled = val and true or false
+end
+
+local function setTexFilterThreshold(val)
+	texFilterThreshold = max(0, min(1.5, val))
+end
+
+local function setTexFilterPadding(val)
+	texFilterPadding = max(0, min(500, val))
+end
+
+local function setTexFilterColor(r, g, b)
+	texFilterColor[1] = max(0, min(1, r))
+	texFilterColor[2] = max(0, min(1, g))
+	texFilterColor[3] = max(0, min(1, b))
+end
+
+local function setTexExcludeEnabled(val)
+	texFilterColor[4] = val and true or nil
+end
+
+local function setTexExcludeColor(r, g, b)
+	texFilterColor[5] = max(0, min(1, r))
+	texFilterColor[6] = max(0, min(1, g))
+	texFilterColor[7] = max(0, min(1, b))
+end
+
+local function setPipetteMode(val)
+	pipetteMode = val and true or false
+	if not val then
+		pipettePending = nil
+	end
+end
+
+local function setPipetteExcludeMode(val)
+	pipetteExcludeMode = val and true or false
+	if not val then
+		pipetteExcludePending = nil
+	end
+end
+
+local function getState()
+	return {
+		active = active,
+		subMode = subMode,
+		density = targetDensity,
+		radius = brushRadius,
+		curve = brushCurve,
+		rotationDeg = brushRotation,
+		lengthScale = brushLengthScale,
+		shape = brushShape,
+		smartEnabled = smartEnabled,
+		smartFilters = smartFilters,
+		texFilterEnabled = texFilterEnabled,
+		texFilterColor = texFilterColor,
+		texFilterThreshold = texFilterThreshold,
+		texFilterPadding = texFilterPadding,
+		texExcludeEnabled = texFilterColor[4] and true or false,
+		pipetteMode = pipetteMode,
+		pipetteExcludeMode = pipetteExcludeMode,
+		historyIndex = #undoStack,
+		historyMax = #undoStack + #redoStack,
+	}
+end
+
+function widget:Initialize()
+	WG.GrassBrush = {
+		activate = activate,
+		deactivate = deactivate,
+		getState = getState,
+		setSubMode = setSubMode,
+		setDensity = setDensity,
+		setRadius = setRadius,
+		setCurve = setCurve,
+		setLengthScale = setLengthScale,
+		setSmartEnabled = setSmartEnabled,
+		setSmartFilter = setSmartFilter,
+		setTexFilterEnabled = setTexFilterEnabled,
+		setTexFilterThreshold = setTexFilterThreshold,
+		setTexFilterPadding = setTexFilterPadding,
+		setTexExcludeEnabled = setTexExcludeEnabled,
+		setPipetteMode = setPipetteMode,
+		setPipetteExcludeMode = setPipetteExcludeMode,
+		undo = grassUndo,
+		redo = grassRedo,
+		undoToIndex = grassUndoToIndex,
+	}
+end
+
+function widget:Shutdown()
+	local grassApi = WG.grassgl4
+	if grassApi then
+		if grassApi.setExternalBrush then
+			grassApi.setExternalBrush(false)
+		end
+		if grassApi.disableEditMode then
+			grassApi.disableEditMode()
+		end
+	end
+	if dcInfo.fbo then
+		gl.DeleteTexture(dcInfo.fbo)
+		dcInfo.fbo = nil
+	end
+	if dcInfo.gridTex then
+		gl.DeleteTexture(dcInfo.gridTex)
+		dcInfo.gridTex = nil
+	end
+	dcValid = false
+	WG.GrassBrush = nil
+end
+
+function widget:MousePress(mx, my, button)
+	if not active then
+		return false
+	end
+	if checkConflictAndDeactivate() then
+		return false
+	end
+	if not IsCheatingEnabled() then
+		return false
+	end
+
+	-- Middle mouse always passes through to the camera.
+	if button == 2 then
+		return false
+	end
+
+	-- Leave the click to the measure tool while it is active.
+	local tb = WG.TerraformBrush
+	if tb and tb.getState then
+		local st = tb.getState()
+		if st and st.measureActive then
+			return false
+		end
+		-- ... and to symmetry origin placement or dragging, which the terraform brush handles.
+		if st and st.symmetryActive then
+			if st.symmetryPlacingOrigin or st.symmetryHoveringOrigin or st.symmetryDraggingOrigin then
+				return false
+			end
+		end
+	end
+
+	local worldX, worldZ = getWorldPos()
+	if not worldX then
+		return false
+	end
+
+	-- Pipette mode: LMB clicks terrain to sample diffuse color
+	if pipetteMode and button == 1 then
+		pipettePending = { wx = worldX, wz = worldZ }
+		pipetteMode = false
+		return true
+	end
+
+	-- Exclude pipette mode: LMB clicks terrain to sample exclusion color
+	if pipetteExcludeMode and button == 1 then
+		pipetteExcludePending = { wx = worldX, wz = worldZ }
+		pipetteExcludeMode = false
+		return true
+	end
+
+	if button == 1 or button == 3 then
+		paintButton = button
+		if not grassAvailable then
+			grassAvailable = ensureEditMode()
+		end
+		if subMode == "fill" then
+			strokeBegin()
+			applyBrush(worldX, worldZ)
+			strokeEnd()
+			return true
+		else
+			strokeBegin()
+			painting = true
+			lastPaintTime = 0
+			applyBrush(worldX, worldZ)
+			return true
+		end
+	end
+
+	return false
+end
+
+function widget:MouseRelease(mx, my, button)
+	if painting and button == paintButton then
+		strokeEnd()
+		painting = false
+		paintButton = 0
+	end
+end
+
+---@return boolean
+function widget:MouseWheel(up, value)
+	if not active then
+		return false
+	end
+	if checkConflictAndDeactivate() then
+		return false
+	end
+
+	local alt, ctrl, _, shift = GetModKeyState()
+	local spaceHeld = GetKeyState(KEYSYMS_SPACE)
+
+	-- Alt+Ctrl: length scale
+	if alt and ctrl then
+		if up then
+			setLengthScale(brushLengthScale + LENGTH_SCALE_STEP)
+		else
+			setLengthScale(brushLengthScale - LENGTH_SCALE_STEP)
+		end
+		return true
+	end
+
+	-- Alt: rotation, shared with the terraform brush (its angle snap step when snap is on)
+	if alt then
+		---@type number
+		local step = ROTATION_STEP
+		local tb = WG.TerraformBrush
+		local tbs = tb and tb.getState and tb.getState() or nil
+		if tbs and tbs.angleSnap and (tbs.angleSnapStep or 0) > 0 then
+			step = tbs.angleSnapStep
+		end
+		if tb and tb.rotate then
+			tb.rotate(up and step or -step)
+		else
+			setRotation(brushRotation + (up and step or -step))
+		end
+		return true
+	end
+
+	-- Shift: curve
+	if shift then
+		if up then
+			setCurve(brushCurve + CURVE_STEP)
+		else
+			setCurve(brushCurve - CURVE_STEP)
+		end
+		return true
+	end
+
+	-- Space: density
+	if spaceHeld then
+		if up then
+			setDensity(targetDensity + DENSITY_STEP)
+		else
+			setDensity(targetDensity - DENSITY_STEP)
+		end
+		return true
+	end
+
+	-- Ctrl: size
+	if ctrl then
+		if up then
+			setRadius(brushRadius + RADIUS_STEP)
+		else
+			setRadius(brushRadius - RADIUS_STEP)
+		end
+		return true
+	end
+
+	return false
+end
+
+function widget:Update(dt)
+	if not active then
+		return
+	end
+	if checkConflictAndDeactivate() then
+		return
+	end
+
+	-- Picking an engine command (attack, move, build...) leaves the grass brush.
+	local _, cmdID = GetActiveCommand()
+	if cmdID and cmdID ~= lastActiveCmd then
+		deactivate()
+		lastActiveCmd = cmdID
+		return
+	end
+	lastActiveCmd = cmdID
+
+	if not painting then
+		return
+	end
+
+	lastPaintTime = lastPaintTime + dt
+	if lastPaintTime < UPDATE_INTERVAL then
+		return
+	end
+	lastPaintTime = 0
+
+	local worldX, worldZ = getWorldPos()
+	if not worldX then
+		return
+	end
+
+	applyBrush(worldX, worldZ)
+end
+
+function widget:KeyPress(key, mods, isRepeat)
+	if not active then
+		return false
+	end
+	if key == KEYSYMS_ESCAPE then
+		if pipetteMode then
+			setPipetteMode(false)
+			return true
+		end
+		if pipetteExcludeMode then
+			setPipetteExcludeMode(false)
+			return true
+		end
+		deactivate()
+		return true
+	end
+	if key == 122 and mods.ctrl then -- Ctrl+Z
+		if mods.shift then
+			grassRedo()
+		else
+			grassUndo()
+		end
+		return true
+	end
+	return false
+end
+
+function widget:CommandNotify(cmdID, cmdParams, cmdOptions)
+	if active then
+		deactivate()
+	end
+	return false
+end
+
+function widget:DrawWorld()
+	if not active then
+		return
+	end
+	if checkConflictAndDeactivate() then
+		return
+	end
+
+	local worldX, worldZ = getWorldPos()
+	frameTraceX, frameTraceZ, frameTraceDF = worldX, worldZ, GetDrawFrame()
+	do
+		local tb = WG.TerraformBrush
+		if tb and tb.animateUnmouse then
+			worldX, worldZ = tb.animateUnmouse("grassBrush", worldX, worldZ, brushRadius, brushLengthScale or 1.0)
+		elseif tb and tb.getUnmouseTarget and not worldX then
+			worldX, worldZ = tb.getUnmouseTarget(brushRadius, brushLengthScale or 1.0)
+		end
+	end
+	-- Snap the cursor like the stroke does, so it shows where paint will land.
+	if worldX then
+		local tb = WG.TerraformBrush
+		if tb and tb.snapWorld and tb.getState then
+			local tbs = tb.getState()
+			if tbs and tbs.gridSnap then
+				worldX, worldZ = tb.snapWorld(worldX, worldZ, brushRotation)
+			end
+		end
+	end
+	if not worldX then
+		return
+	end
+
+	-- Smart filter / texture filter overlay
+	drawSmartFilterOverlay(worldX, worldZ)
+
+	-- Brush outline color: green = add, red = remove/erase
+	local colorR, colorG, colorB = 0.06, 0.72, 0.51
+	if subMode == "erase" then
+		colorR, colorG, colorB = 1.0, 0.3, 0.3
+	elseif subMode == "fill" then
+		if paintButton == 3 then
+			colorR, colorG, colorB = 1.0, 0.3, 0.0
+		else
+			colorR, colorG, colorB = 0.2, 0.9, 0.4
+		end
+	elseif paintButton == 3 then
+		colorR, colorG, colorB = 1.0, 0.3, 0.3
+	end
+
+	glColor(colorR, colorG, colorB, 0.85 * edgeFade)
+	glLineWidth(2)
+	-- Sync shape/rotation from shared state for outline preview
+	do
+		local tb = WG.TerraformBrush
+		if tb and tb.getState then
+			local st = tb.getState()
+			if
+				st.shape == "circle"
+				or st.shape == "square"
+				or st.shape == "hexagon"
+				or st.shape == "octagon"
+				or st.shape == "triangle"
+			then
+				brushShape = st.shape
+			end
+			brushRotation = st.rotationDeg or brushRotation
+		end
+	end
+	WorldTool.drawShape(brushShape, worldX, worldZ, brushRadius, brushRotation, brushLengthScale, 2, 1, CIRCLE_SEGMENTS)
+
+	-- Center cross
+	local groundY = GetGroundHeight(worldX, worldZ)
+	glColor(1, 1, 1, 0.5 * edgeFade)
+	glBeginEnd(GL_LINES, function()
+		glVertex(worldX - 8, groundY + 2, worldZ)
+		glVertex(worldX + 8, groundY + 2, worldZ)
+		glVertex(worldX, groundY + 2, worldZ - 8)
+		glVertex(worldX, groundY + 2, worldZ + 8)
+	end)
+
+	glColor(1, 1, 1, 1)
+	glLineWidth(1)
+end
+
+function widget:DrawScreen()
+	if not active then
+		return
+	end
+	if checkConflictAndDeactivate() then
+		return
+	end
+
+	-- Finish last frame's deferred ReadPixels (the GPU is done, so no stall).
+	flushDiffuseRead()
+
+	-- Reuse DrawWorld's mouse trace from this draw pass when available
+	local worldX, worldZ
+	if frameTraceDF == GetDrawFrame() then
+		worldX, worldZ = frameTraceX, frameTraceZ
+	else
+		worldX, worldZ = getWorldPos()
+	end
+	if not worldX then
+		return
+	end
+
+	-- Pipette samples are queued by MousePress and taken here, where GL reads are allowed.
+	if pipettePending then
+		local pw, pz = pipettePending.wx, pipettePending.wz
+		pipettePending = nil
+		local sr, sg, sb = sampleDiffuseAtPoint(pw, pz)
+		if sr then
+			setTexFilterColor(sr, sg, sb)
+			texFilterEnabled = true
+			invalidateDiffuseCache()
+		end
+	end
+
+	if pipetteExcludePending then
+		local pw, pz = pipetteExcludePending.wx, pipetteExcludePending.wz
+		pipetteExcludePending = nil
+		local sr, sg, sb = sampleDiffuseAtPoint(pw, pz)
+		if sr then
+			setTexExcludeColor(sr, sg, sb)
+			setTexExcludeEnabled(true)
+			invalidateDiffuseCache()
+		end
+	end
+
+	-- Rebuild the diffuse cache around the brush when it moved.
+	if texFilterEnabled then
+		local brushHalf = max(brushRadius, brushRadius * brushLengthScale) + CACHE_MARGIN
+		if needsCacheRebuild(worldX, worldZ, brushHalf) then
+			buildDiffuseCache(worldX, worldZ, brushHalf)
+		end
+	end
+
+	drawCursorInfo(worldX, worldZ)
+end

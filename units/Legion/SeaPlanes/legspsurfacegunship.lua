@@ -37,7 +37,8 @@ return {
 		sfxtypes = {
 			explosiongenerators = {
 				[0] = "custom:barrelshot-small",
-			},		},
+			},
+		},
 		sounds = {
 			build = "nanlath1",
 			canceldestruct = "cancel2",
@@ -72,6 +73,7 @@ return {
 				cratermult = 0,
 				edgeeffectiveness = 0.9,
 				explosiongenerator = "custom:genericshellexplosion-large",
+				gravityaffected = "true",
 				impulsefactor = 2.0,
 				name = "Area Control Riot Cannon",
 				noselfdamage = true,
@@ -80,8 +82,6 @@ return {
 				soundhit = "corlevlrhit",
 				soundhitwet = "splsmed",
 				soundstart = "largegun",
-				soundhitvolume = 12.0,
-				soundstartvolume = 14.0,
 				separation = 2.0,
 				nogap = false,
 				size = 3,

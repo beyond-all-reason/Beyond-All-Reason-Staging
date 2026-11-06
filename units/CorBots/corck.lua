@@ -15,7 +15,7 @@ return {
 		explodeas = "smallexplosiongeneric-builder",
 		footprintx = 2,
 		footprintz = 2,
-		health = 750,
+		health = 820,
 		maxacc = 0.5244,
 		maxdec = 3.2775,
 		maxslope = 20,
@@ -68,6 +68,7 @@ return {
 			[30] = "corsy",
 		},
 		customparams = {
+			hasdeathanimation = true,
 			model_author = "Mr Bob",
 			normaltex = "unittextures/cor_normal.dds",
 			subfolder = "CorBots",

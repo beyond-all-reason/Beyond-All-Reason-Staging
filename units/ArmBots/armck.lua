@@ -15,7 +15,7 @@ return {
 		explodeas = "smallexplosiongeneric-builder",
 		footprintx = 2,
 		footprintz = 2,
-		health = 690,
+		health = 760,
 		maxacc = 0.552,
 		maxdec = 3.45,
 		maxslope = 20,
@@ -68,6 +68,7 @@ return {
 			[30] = "armsy",
 		},
 		customparams = {
+			hasdeathanimation = true,
 			model_author = "Kaiser",
 			normaltex = "unittextures/Arm_normal.dds",
 			subfolder = "ArmBots",

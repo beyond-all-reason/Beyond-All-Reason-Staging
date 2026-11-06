@@ -1,7 +1,7 @@
 return {
 	cormando = {
 		activatewhenbuilt = true,
-		autoheal = 9,
+		autoheal = 10,
 		builddistance = 275,
 		builder = true,
 		buildpic = "CORMANDO.DDS",
@@ -20,7 +20,7 @@ return {
 		explodeas = "mediumexplosiongeneric",
 		footprintx = 2,
 		footprintz = 2,
-		health = 1560,
+		health = 1800,
 		mass = 750,
 		maxacc = 0.4025,
 		maxdec = 1.725,
@@ -53,9 +53,13 @@ return {
 		},
 		customparams = {
 			fall_damage_multiplier = 0,
+			mine_resistant = true,
 			model_author = "FireStorm",
 			normaltex = "unittextures/cor_normal.dds",
+			paralyzemultiplier = 0.2,
 			paratrooper = true,
+			reaimtime = 2,
+			stealths_transport = true,
 			subfolder = "CorBots/T2",
 			techlevel = 2,
 			unitgroup = "buildert2",
@@ -94,7 +98,6 @@ return {
 		},
 		weapondefs = {
 			commando_blaster = {
-				accuracy = 120,
 				areaofeffect = 70,
 				avoidfeature = false,
 				craterareaofeffect = 70,
@@ -111,7 +114,7 @@ return {
 				proximitypriority = -1,
 				range = 300,
 				reloadtime = 0.5,
-				rgbcolor = "0.85,0.3,0.2",
+				rgbcolor = "0.85 0.3 0.2",
 				soundhit = "xplosml5",
 				soundhitwet = "sizzle",
 				soundstart = "lasrfir5",
@@ -120,13 +123,14 @@ return {
 				weaponvelocity = 930,
 				damage = {
 					default = 100,
+					vtol = 30,
 				},
 			},
 		},
 		weapons = {
 			[1] = {
 				def = "COMMANDO_BLASTER",
-				onlytargetcategory = "SURFACE",
+				onlytargetcategory = "NOTSUB",
 			},
 		},
 	},

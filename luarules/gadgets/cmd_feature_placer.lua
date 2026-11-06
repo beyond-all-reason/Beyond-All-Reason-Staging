@@ -1,0 +1,1054 @@
+function gadget:GetInfo()
+	return {
+		name = "Feature Placer",
+		desc = "Synced gadget for placing, removing, and managing map features via brush tool",
+		author = "PtaQ",
+		date = "2026",
+		license = "GNU GPL, v2 or later",
+		layer = 0,
+		enabled = true,
+	}
+end
+
+if not gadgetHandler:IsSyncedCode() then
+	-- Registered as sync actions (table lookup by message name) instead of a
+	-- RecvFromSynced callin, which would be invoked for every SendToUnsynced
+	-- message from every synced gadget. Returning true stops the broadcast.
+	local function forwardToLuaUI(luaUIName)
+		return function(_, a, b)
+			if Script.LuaUI(luaUIName) then
+				Script.LuaUI[luaUIName](a, b)
+			end
+			return true
+		end
+	end
+
+	-- Visual scale lives in the per-object uniform the CUS vertex shaders read
+	-- (userDefined[3].z, buffer index 14; 0 = unscaled). The synced half keeps the
+	-- value in the public "visualScale" rules param and pings this half to upload
+	-- it. Brush placement also animates a short grow-in up to the final scale.
+	local SCALE_UNIFORM_INDEX = 14
+	local GROW_SECONDS = 0.35
+	local SetFeatureBufferUniforms = gl.SetFeatureBufferUniforms
+	local GetFeatureRulesParam = Spring.GetFeatureRulesParam
+	local ValidFeatureID = Spring.ValidFeatureID
+	local scaleUniform = { 0 }
+	local growing = {} -- featureID -> { target, t }
+	local growCount = 0
+
+	local function writeScale(featureID, s)
+		if SetFeatureBufferUniforms and ValidFeatureID(featureID) then
+			scaleUniform[1] = s
+			SetFeatureBufferUniforms(featureID, scaleUniform, SCALE_UNIFORM_INDEX)
+		end
+	end
+
+	-- Overshoots a little before settling, which reads as sprouting rather than
+	-- a linear zoom.
+	local function easeOutBack(t)
+		local c1 = 1.4
+		local u = t - 1
+		return 1 + (c1 + 1) * u * u * u + c1 * u * u
+	end
+
+	local syncActions = {
+		FeaturePlacerHistory = forwardToLuaUI("terraform_feature_history"),
+		feature_save_begin = forwardToLuaUI("terraform_feature_save_begin"),
+		feature_save_data = forwardToLuaUI("terraform_feature_save_data"),
+		feature_save_end = forwardToLuaUI("terraform_feature_save_end"),
+		fpFeatureScale = function(_, featureID, s, grow)
+			-- Mouse picking (hover, click, reclaim targeting) tests the selection
+			-- volume, which only unsynced code can set; the synced half scales the
+			-- collision volume, which only weapons and projectiles hit.
+			if s ~= 1 and Spring.SetFeatureSelectionVolumeData then
+				local sx, sy, sz, ox, oy, oz, vtype, ttype, axis = Spring.GetFeatureSelectionVolumeData(featureID)
+				if sx then
+					Spring.SetFeatureSelectionVolumeData(
+						featureID,
+						sx * s,
+						sy * s,
+						sz * s,
+						ox * s,
+						oy * s,
+						oz * s,
+						vtype,
+						ttype,
+						axis
+					)
+				end
+			end
+			if grow == 1 then
+				if not growing[featureID] then
+					growCount = growCount + 1
+				end
+				growing[featureID] = { target = s, t = 0 }
+				writeScale(featureID, s * 0.05)
+			else
+				if growing[featureID] then
+					growing[featureID] = nil
+					growCount = growCount - 1
+				end
+				writeScale(featureID, s)
+			end
+			return true
+		end,
+	}
+
+	function gadget:Update()
+		if growCount == 0 then
+			return
+		end
+		local dt = Spring.GetLastUpdateSeconds() or 0.033
+		local step = math.min(dt, 0.1) / GROW_SECONDS
+		for featureID, g in pairs(growing) do
+			g.t = g.t + step
+			if g.t >= 1 or not ValidFeatureID(featureID) then
+				writeScale(featureID, g.target)
+				growing[featureID] = nil
+				growCount = growCount - 1
+			else
+				writeScale(featureID, g.target * math.max(0.05, easeOutBack(g.t)))
+			end
+		end
+	end
+
+	function gadget:FeatureDestroyed(featureID)
+		if growing[featureID] then
+			growing[featureID] = nil
+			growCount = growCount - 1
+		end
+	end
+
+	function gadget:Initialize()
+		for name, func in pairs(syncActions) do
+			gadgetHandler:AddSyncAction(name, func)
+		end
+		-- Re-upload every scaled feature, so a /luarules reload (or a feature
+		-- that predates this gadget instance) keeps its size. Rules params are
+		-- plain sim data: unlike the piece callouts, reading them at load is
+		-- safe on map features.
+		local features = Spring.GetAllFeatures()
+		for i = 1, #features do
+			local s = GetFeatureRulesParam(features[i], "visualScale")
+			if s then
+				writeScale(features[i], s)
+			end
+		end
+	end
+
+	function gadget:Shutdown()
+		for name in pairs(syncActions) do
+			gadgetHandler:RemoveSyncAction(name)
+		end
+	end
+	return
+end
+
+----------------------------------------------------------------
+-- Constants & Headers
+----------------------------------------------------------------
+-- The widget generates brush layouts (common/feature_scatter.lua) and sends
+-- concrete placements, so what it previewed is exactly what gets created.
+local PLACELIST_HEADER = "$feature_place_list$"
+local TRANSFORM_HEADER = "$feature_transform$"
+local REMOVEIDS_HEADER = "$feature_remove_ids$"
+local REMOVE_HEADER = "$feature_remove$"
+local UNDO_HEADER = "$feature_undo$"
+local REDO_HEADER = "$feature_redo$"
+local SAVE_HEADER = "$feature_save$"
+local LOAD_HEADER = "$feature_load$"
+local CLEARALL_HEADER = "$feature_clearall$"
+
+local MAX_UNDO = 100
+
+-- A feature within this of the ground counts as sitting on it, so its y is left
+-- out of save files and untouched maps keep byte-identical output. Tilt is not
+-- an angle threshold; see isRestingOrientation.
+local LIFT_EPSILON = 0.5
+
+----------------------------------------------------------------
+-- Localize
+----------------------------------------------------------------
+local max = math.max
+local min = math.min
+local floor = math.floor
+local cos = math.cos
+local sin = math.sin
+local abs = math.abs
+local random = math.random
+local pi = math.pi
+
+local SendToUnsynced = SendToUnsynced
+local CreateFeature = Spring.CreateFeature
+local DestroyFeature = Spring.DestroyFeature
+local GetGroundHeight = Spring.GetGroundHeight
+local GetGroundNormal = Spring.GetGroundNormal
+local GetAllFeatures = Spring.GetAllFeatures
+local GetFeaturesInRectangle = Spring.GetFeaturesInRectangle
+local GetFeaturePosition = Spring.GetFeaturePosition
+local GetFeatureDefID = Spring.GetFeatureDefID
+local GetFeatureHeading = Spring.GetFeatureHeading
+local ValidFeatureID = Spring.ValidFeatureID
+local GetGaiaTeamID = Spring.GetGaiaTeamID
+local SetFeatureRotation = Spring.SetFeatureRotation
+local GetFeatureRotation = Spring.GetFeatureRotation
+local SetFeaturePosition = Spring.SetFeaturePosition
+local SetFeatureMoveCtrl = Spring.SetFeatureMoveCtrl
+local GetGameFrame = Spring.GetGameFrame
+local SetFeatureRulesParam = Spring.SetFeatureRulesParam
+local PUBLIC_PARAM = { public = true }
+local GetFeatureCollisionVolumeData = Spring.GetFeatureCollisionVolumeData
+local SetFeatureCollisionVolumeData = Spring.SetFeatureCollisionVolumeData
+local GetFeatureRadius = Spring.GetFeatureRadius
+local GetFeatureHeight = Spring.GetFeatureHeight
+local SetFeatureRadiusAndHeight = Spring.SetFeatureRadiusAndHeight
+local SetFeatureMidAndAimPos = Spring.SetFeatureMidAndAimPos
+
+-- Same containment module the widget draws its brush outline from, so removal
+-- matches the shape the user sees.
+local BrushShapes = require("common/brush_shapes")
+local isInsideShape = BrushShapes.isInside
+
+----------------------------------------------------------------
+-- State
+----------------------------------------------------------------
+---Entries: action "place" | "remove" | "transform", features the snapshots it covers.
+---@type table<integer, {action: string, features: table<integer, table>}>
+local undoStack = {}
+---@type table<integer, {action: string, features: table<integer, table>}>
+local redoStack = {}
+local gaiaTeamID
+
+-- Visual scale per live featureID, only for scaled features. Mirrored into the
+-- public "visualScale" rules param (widgets read it, the unsynced half
+-- re-uploads it after a reload); this table is what capture and save use.
+---@type table<integer, any> featureID -> visual scale
+local featureScales = {}
+
+----------------------------------------------------------------
+-- Per-feature scaling
+----------------------------------------------------------------
+-- Engine trap: Spring.SetFeaturePieceMatrix does not scale the model (the engine
+-- validates the matrix and discards it), and piece scale exists only in unit
+-- scripts. So the size is drawn by the CUS shaders (unsynced half above), and
+-- here the collision volume, radius/height (also draw culling) and mid/aim
+-- positions are scaled to match. Footprint blocking stays def-side, fine for the
+-- 1x1 defs this tool mostly places.
+local SCALE_EPSILON = 0.001
+local SCALE_MIN = 0.05
+local SCALE_MAX = 10
+
+-- `grow` asks the unsynced half to animate the size in from nothing; a brush
+-- stroke sets it, loads and undo do not. Unscaled features only send the
+-- message when they grow, and then settle on 1.
+local function applyFeatureScale(featureID, s, grow)
+	local scaled = s and abs(s - 1) >= SCALE_EPSILON
+	if not scaled then
+		if grow then
+			SendToUnsynced("fpFeatureScale", featureID, 1, 1)
+		end
+		return
+	end
+	-- Model-less defs (editor_geocrack and friends) have nothing to draw scaled.
+	local def = FeatureDefs[GetFeatureDefID(featureID) or -1]
+	if not def or (def.modelname or "") == "" then
+		return
+	end
+	s = max(SCALE_MIN, min(SCALE_MAX, s))
+
+	local vsx, vsy, vsz, vox, voy, voz, vtype, ttype, axis = GetFeatureCollisionVolumeData(featureID)
+	if vsx and SetFeatureCollisionVolumeData then
+		SetFeatureCollisionVolumeData(
+			featureID,
+			vsx * s,
+			vsy * s,
+			vsz * s,
+			vox * s,
+			voy * s,
+			voz * s,
+			vtype,
+			ttype,
+			axis
+		)
+	end
+
+	local r = GetFeatureRadius and GetFeatureRadius(featureID)
+	local h = GetFeatureHeight and GetFeatureHeight(featureID)
+	if r and h and SetFeatureRadiusAndHeight then
+		SetFeatureRadiusAndHeight(featureID, r * s, h * s)
+	end
+
+	local bx, by, bz, mx, my, mz, ax, ay, az = GetFeaturePosition(featureID, true, true)
+	if mx and SetFeatureMidAndAimPos then
+		SetFeatureMidAndAimPos(
+			featureID,
+			(mx - bx) * s,
+			(my - by) * s,
+			(mz - bz) * s,
+			(ax - bx) * s,
+			(ay - by) * s,
+			(az - bz) * s,
+			true
+		)
+	end
+
+	SetFeatureRulesParam(featureID, "visualScale", s, PUBLIC_PARAM)
+	SendToUnsynced("fpFeatureScale", featureID, s, grow and 1 or 0)
+	featureScales[featureID] = s
+end
+
+----------------------------------------------------------------
+-- Wobble animation
+----------------------------------------------------------------
+local wobbleQueue = {}
+local WOBBLE_DURATION = 22 -- frames (~0.73s at 30fps)
+local WOBBLE_AMPLITUDE = 8 -- degrees peak tilt
+local WOBBLE_FREQ = 0.6 -- radians per frame
+local WOBBLE_RAMP = 3 -- frames to ramp in
+
+-- GameFrame is registered only while wobbles run, so a normal match does not pay
+-- an empty pairs() walk every sim frame.
+local wobbleActive = false
+
+-- Captures the full resting orientation, not just yaw, so a tilted feature gets
+-- its tilt back when the wobble ends.
+local function addWobble(featureID)
+	if featureID then
+		local pitch, yaw, roll = GetFeatureRotation(featureID)
+		wobbleQueue[featureID] = {
+			start = GetGameFrame(),
+			axis = random() * 2 * pi,
+			pitch = pitch or 0,
+			yaw = yaw or 0,
+			roll = roll or 0,
+		}
+		if not wobbleActive then
+			wobbleActive = true
+			gadgetHandler:UpdateCallIn("GameFrame")
+		end
+	end
+end
+
+----------------------------------------------------------------
+-- Helpers
+----------------------------------------------------------------
+local function sendHistoryUpdate()
+	SendToUnsynced("FeaturePlacerHistory", #undoStack, #redoStack)
+end
+
+local function pushUndo(entry)
+	redoStack = {}
+	undoStack[#undoStack + 1] = entry
+	while #undoStack > MAX_UNDO do
+		table.remove(undoStack, 1)
+	end
+	sendHistoryUpdate()
+end
+
+----------------------------------------------------------------
+-- Feature placement
+----------------------------------------------------------------
+-- This gadget only realises placement lists; layouts come from the widget.
+
+-- A lifted feature would fall: it is in the physics queue right after creation.
+-- Zero movement masks (moveCtrl off) make every Move a no-op, so it stays at its
+-- height. Never unlocked: authored scenery should stay put.
+-- A sunk feature (HEIGHT OFFSET below ground) needs moveCtrl ON with zero
+-- velocity: without moveCtrl the engine lifts buried features back to the ground
+-- (CFeature::UpdatePosition) whatever the masks say.
+local function lockFeatureInPlace(featureID, sunk)
+	if SetFeatureMoveCtrl then
+		if sunk then
+			SetFeatureMoveCtrl(featureID, true, 0, 0, 0, 0, 0, 0)
+		else
+			SetFeatureMoveCtrl(featureID, false, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+		end
+	end
+end
+
+local function readTransform(featureID)
+	local x, y, z = GetFeaturePosition(featureID)
+	if not x then
+		return nil
+	end
+	local pitch, yaw, roll = GetFeatureRotation(featureID)
+	return { x = x, y = y, z = z, pitch = pitch or 0, yaw = yaw or 0, roll = roll or 0 }
+end
+
+local function applyTransform(featureID, t)
+	if not ValidFeatureID(featureID) then
+		return false
+	end
+
+	-- Cancel any running wobble: it would restore the pre-transform orientation
+	-- when it finished.
+	wobbleQueue[featureID] = nil
+
+	local groundY = GetGroundHeight(t.x, t.z)
+	if abs(t.y - groundY) > LIFT_EPSILON then
+		lockFeatureInPlace(featureID, t.y < groundY)
+	end
+
+	SetFeaturePosition(featureID, t.x, t.y, t.z)
+	SetFeatureRotation(featureID, t.pitch, t.yaw, t.roll)
+	return true
+end
+
+-- Wire format, entries separated by "|":
+--   defName x z heading                     (4 tokens, the common case)
+--   defName x z heading scale               (5)
+--   defName x z heading pitch roll y        (7)
+--   defName x z heading pitch roll y scale  (8)
+-- Told apart by token count. Each optional tail is omitted when it holds the
+-- default, so an untouched map's wire traffic and saves stay byte-identical.
+local function parsePlacement(entry)
+	local parts = {}
+	for word in entry:gmatch("%S+") do
+		parts[#parts + 1] = word
+	end
+
+	local defName = parts[1]
+	local x = tonumber(parts[2])
+	local z = tonumber(parts[3])
+	if not (defName and x and z) or not FeatureDefNames[defName] then
+		return nil
+	end
+
+	x = max(0, min(Game.mapSizeX, x))
+	z = max(0, min(Game.mapSizeZ, z))
+
+	local n = #parts
+	local scale
+	if n == 5 then
+		scale = tonumber(parts[5])
+	elseif n >= 8 then
+		scale = tonumber(parts[8])
+	end
+
+	local pitch, roll, y
+	if n >= 6 then
+		pitch = tonumber(parts[5]) or 0
+		roll = tonumber(parts[6]) or 0
+		y = tonumber(parts[7])
+	end
+
+	return {
+		defName = defName,
+		x = x,
+		z = z,
+		heading = (tonumber(parts[4]) or 0) % 65536,
+		pitch = pitch or 0,
+		roll = roll or 0,
+		y = y or GetGroundHeight(x, z),
+		scale = scale,
+	}
+end
+
+local function createFromPlacement(p, grow)
+	local id = CreateFeature(p.defName, p.x, p.y, p.z, p.heading, gaiaTeamID)
+	if not id then
+		return nil
+	end
+
+	-- Lifted or sunk (HEIGHT OFFSET can push it into the ground): hold it there.
+	local groundY = GetGroundHeight(p.x, p.z)
+	if abs(p.y - groundY) > LIFT_EPSILON then
+		lockFeatureInPlace(id, p.y < groundY)
+		SetFeaturePosition(id, p.x, p.y, p.z)
+	end
+
+	-- CreateFeature only takes a heading, so tilt is applied here, before
+	-- addWobble snapshots the resting orientation it returns to.
+	if p.pitch ~= 0 or p.roll ~= 0 then
+		local _, yaw = GetFeatureRotation(id)
+		SetFeatureRotation(id, p.pitch, yaw or 0, p.roll)
+	end
+
+	-- After creation on purpose: FeatureCreated callins (the dynamic collision
+	-- volume gadget among them) fire inside CreateFeature, so scaling here
+	-- multiplies on top of whatever they set rather than being stomped by it.
+	applyFeatureScale(id, p.scale, grow)
+
+	return id
+end
+
+----------------------------------------------------------------
+-- Undo strokes
+----------------------------------------------------------------
+-- One user action is one undo step, even when it arrives as several messages
+-- (a 500-feature stamp is 13 batches). Consecutive messages with the same stroke
+-- id append to one entry. Only one stroke is open at a time. The entry is pushed
+-- on the first real change, so a no-op message neither leaves an empty step nor
+-- clears the redo stack.
+---@class FeaturePlacerStroke
+---@field id string?
+---@field kind string?
+---@field entry {action: string, features: table<integer, table>}?
+---@field index table<number, integer>? featureID -> slot in entry.features
+---@field pushed boolean
+local stroke = { id = nil, kind = nil, entry = nil, index = nil, pushed = false }
+
+local function closeStroke()
+	stroke.id = nil
+	stroke.kind = nil
+	stroke.entry = nil
+	stroke.index = nil
+	stroke.pushed = false
+end
+
+local function openStroke(strokeID, kind, action)
+	if stroke.id == strokeID and stroke.kind == kind then
+		return stroke.entry
+	end
+	closeStroke()
+	stroke.id = strokeID
+	stroke.kind = kind
+	stroke.entry = { action = action, features = {} }
+	stroke.index = {}
+	stroke.pushed = false
+	return stroke.entry
+end
+
+local function commitStroke()
+	if not stroke.pushed and stroke.entry then
+		pushUndo(stroke.entry)
+		stroke.pushed = true
+	end
+end
+
+-- Payload is "strokeId|entry|entry|...". An empty stroke id means "do not
+-- coalesce", giving one entry per message.
+local function splitStroke(payload)
+	local strokeID = payload:match("^([^|]*)")
+	return strokeID, #strokeID + 2
+end
+
+local function placeFromList(payload, wobble)
+	local strokeID, bodyStart = splitStroke(payload)
+	local entry = (strokeID ~= "") and openStroke(strokeID, "place", "place") or nil
+	local placed = entry and entry.features or {}
+
+	local count = 0
+	for chunk in payload:sub(bodyStart):gmatch("[^|]+") do
+		local p = parsePlacement(chunk)
+		if p then
+			local id = createFromPlacement(p, wobble)
+			if id then
+				p.id = id
+				placed[#placed + 1] = p
+				count = count + 1
+				if wobble then
+					addWobble(id)
+				end
+			end
+		end
+	end
+
+	if count > 0 then
+		if entry then
+			commitStroke()
+		else
+			pushUndo({ action = "place", features = placed })
+		end
+	end
+	return count
+end
+
+----------------------------------------------------------------
+-- Feature removal
+----------------------------------------------------------------
+-- True when the orientation is just the engine's resting alignment. Non-upright
+-- defs are ground-aligned by UpdateDirVectors, so features on slopes report pitch
+-- and roll nobody gave them; testing `pitch ~= 0` would write the tilt tail for
+-- most features of an unedited map. Compared as up-vectors (what UpdateDirVectors
+-- sets), which also avoids gimbal lock.
+local UP_MATCH_EPSILON = 0.02
+
+local function isRestingOrientation(featureID, def, x, z)
+	local _, _, _, _, _, _, ux, uy, uz = Spring.GetFeatureDirection(featureID)
+	if not ux then
+		return true
+	end
+
+	---@type number, number, number
+	local ex, ey, ez = 0, 1, 0
+	if not def.upright then
+		local nx, ny, nz = GetGroundNormal(x, z)
+		if nx then
+			ex, ey, ez = nx, ny, nz
+		end
+	end
+
+	return abs(ux - ex) < UP_MATCH_EPSILON and abs(uy - ey) < UP_MATCH_EPSILON and abs(uz - ez) < UP_MATCH_EPSILON
+end
+
+-- Snapshot everything needed to recreate a feature exactly, tilt and lift
+-- included, so undoing a removal restores what was there rather than a flat
+-- copy of it.
+local function captureFeature(featureID)
+	local defID = GetFeatureDefID(featureID)
+	local def = defID and FeatureDefs[defID]
+	if not def then
+		return nil
+	end
+
+	local x, y, z = GetFeaturePosition(featureID)
+	if not x then
+		return nil
+	end
+
+	local pitch, _, roll = GetFeatureRotation(featureID)
+	return {
+		defName = def.name,
+		x = x,
+		y = y,
+		z = z,
+		heading = GetFeatureHeading(featureID) or 0,
+		pitch = pitch or 0,
+		roll = roll or 0,
+		scale = featureScales[featureID],
+		resting = isRestingOrientation(featureID, def, x, z),
+	}
+end
+
+local function removeFeatures(centerX, centerZ, radius, shape, angleDeg)
+	local extent = radius * 1.42
+	local x1 = max(0, centerX - extent)
+	local z1 = max(0, centerZ - extent)
+	local x2 = min(Game.mapSizeX, centerX + extent)
+	local z2 = min(Game.mapSizeZ, centerZ + extent)
+
+	local features = GetFeaturesInRectangle(x1, z1, x2, z2)
+	if not features or #features == 0 then
+		return
+	end
+
+	local removed = {}
+	for i = 1, #features do
+		local fid = features[i]
+		local fx, _, fz = GetFeaturePosition(fid)
+		if fx and isInsideShape(fx - centerX, fz - centerZ, radius, shape, angleDeg) then
+			local snapshot = captureFeature(fid)
+			if snapshot then
+				removed[#removed + 1] = snapshot
+				DestroyFeature(fid)
+			end
+		end
+	end
+	if #removed > 0 then
+		pushUndo({ action = "remove", features = removed })
+	end
+end
+
+local function removeFeatureIDs(payload)
+	local removed = {}
+	for token in payload:gmatch("[^|]+") do
+		local fid = tonumber(token)
+		if fid and ValidFeatureID(fid) then
+			local snapshot = captureFeature(fid)
+			if snapshot then
+				removed[#removed + 1] = snapshot
+				DestroyFeature(fid)
+			end
+		end
+	end
+	if #removed > 0 then
+		pushUndo({ action = "remove", features = removed })
+	end
+	return #removed
+end
+
+----------------------------------------------------------------
+-- Gizmo transforms
+----------------------------------------------------------------
+local function transformFeatures(payload)
+	local strokeID, bodyStart = splitStroke(payload)
+	if strokeID == "" then
+		return 0
+	end
+
+	local entry = openStroke(strokeID, "transform", "transform")
+	local index = stroke.index
+	---@cast entry -nil
+	---@cast index -nil
+	local applied = 0
+
+	for chunk in payload:sub(bodyStart):gmatch("[^|]+") do
+		local parts = {}
+		for word in chunk:gmatch("%S+") do
+			parts[#parts + 1] = word
+		end
+
+		local fid = tonumber(parts[1])
+		local after = {
+			x = tonumber(parts[2]),
+			y = tonumber(parts[3]),
+			z = tonumber(parts[4]),
+			pitch = tonumber(parts[5]) or 0,
+			yaw = tonumber(parts[6]) or 0,
+			roll = tonumber(parts[7]) or 0,
+		}
+
+		if fid and after.x and after.y and after.z and ValidFeatureID(fid) then
+			local slot = index[fid]
+			if not slot then
+				-- First time this feature moves in this stroke: its current state
+				-- is what undo has to restore to.
+				local before = readTransform(fid)
+				if before then
+					entry.features[#entry.features + 1] = { id = fid, before = before, after = after }
+					index[fid] = #entry.features
+					commitStroke()
+				end
+			else
+				entry.features[slot].after = after
+			end
+
+			if applyTransform(fid, after) then
+				applied = applied + 1
+			end
+		end
+	end
+
+	return applied
+end
+
+----------------------------------------------------------------
+-- Undo / Redo
+----------------------------------------------------------------
+-- Recreating a feature gives it a new id, and other entries (transforms above
+-- all) are keyed by live ids. Stale ids make undo do nothing, or move an
+-- unrelated feature once the id is recycled, so every recreate remaps old -> new
+-- across both stacks.
+local function remapFeatureIDs(mapping)
+	local function patch(stack)
+		for i = 1, #stack do
+			local features = stack[i].features
+			for j = 1, #features do
+				local newID = mapping[features[j].id]
+				if newID then
+					features[j].id = newID
+				end
+			end
+		end
+	end
+	patch(undoStack)
+	patch(redoStack)
+end
+
+local function recreateInto(features)
+	---@type table<integer, integer>?
+	local mapping = nil
+	for i = 1, #features do
+		local f = features[i]
+		local oldID = f.id
+		f.id = createFromPlacement(f)
+		if oldID and f.id and oldID ~= f.id then
+			mapping = mapping or {}
+			mapping[oldID] = f.id
+		end
+	end
+	if mapping then
+		remapFeatureIDs(mapping)
+	end
+end
+
+local function destroyAll(features)
+	for i = 1, #features do
+		local f = features[i]
+		if ValidFeatureID(f.id) then
+			DestroyFeature(f.id)
+		end
+	end
+end
+
+local function featureUndo()
+	if #undoStack == 0 then
+		return
+	end
+	closeStroke()
+
+	local entry = undoStack[#undoStack]
+	undoStack[#undoStack] = nil
+
+	if entry.action == "place" then
+		destroyAll(entry.features)
+	elseif entry.action == "remove" then
+		recreateInto(entry.features)
+	elseif entry.action == "transform" then
+		for i = 1, #entry.features do
+			local f = entry.features[i]
+			applyTransform(f.id, f.before)
+		end
+	end
+
+	redoStack[#redoStack + 1] = entry
+	sendHistoryUpdate()
+end
+
+local function featureRedo()
+	if #redoStack == 0 then
+		return
+	end
+	closeStroke()
+
+	local entry = redoStack[#redoStack]
+	redoStack[#redoStack] = nil
+
+	if entry.action == "place" then
+		recreateInto(entry.features)
+	elseif entry.action == "remove" then
+		destroyAll(entry.features)
+	elseif entry.action == "transform" then
+		for i = 1, #entry.features do
+			local f = entry.features[i]
+			applyTransform(f.id, f.after)
+		end
+	end
+
+	undoStack[#undoStack + 1] = entry
+	sendHistoryUpdate()
+end
+
+----------------------------------------------------------------
+-- Save: collect all features and send to unsynced
+----------------------------------------------------------------
+local function exportAllFeatures()
+	local allFeatures = GetAllFeatures()
+	local data = {}
+	for i = 1, #allFeatures do
+		local fid = allFeatures[i]
+		local snapshot = captureFeature(fid)
+		if snapshot then
+			local entry = snapshot.defName
+				.. " "
+				.. floor(snapshot.x)
+				.. " "
+				.. floor(snapshot.z)
+				.. " "
+				.. snapshot.heading
+			-- Tilt/lift tail only when tilted away from the resting alignment (see
+			-- isRestingOrientation) or lifted, so untouched maps serialise
+			-- byte-identically.
+			local tilted = not snapshot.resting
+				or abs(snapshot.y - GetGroundHeight(snapshot.x, snapshot.z)) > LIFT_EPSILON
+			if tilted then
+				entry = entry .. string.format(" %.4f %.4f %.1f", snapshot.pitch, snapshot.roll, snapshot.y)
+			end
+			-- Scale rides as the 5th token (no tilt) or 8th (tilt): the token
+			-- count is what tells the two tails apart on the other side.
+			if snapshot.scale then
+				entry = entry .. string.format(" %.3f", snapshot.scale)
+			end
+			data[#data + 1] = entry
+		end
+	end
+	-- Send count first, then batches of features
+	local count = #data
+	SendToUnsynced("feature_save_begin", count)
+	local BATCH = 50
+	for i = 1, count, BATCH do
+		local batch = {}
+		for j = i, min(i + BATCH - 1, count) do
+			batch[#batch + 1] = data[j]
+		end
+		SendToUnsynced("feature_save_data", table.concat(batch, "|"))
+	end
+	SendToUnsynced("feature_save_end", count)
+end
+
+----------------------------------------------------------------
+-- Load: create features from batch messages
+----------------------------------------------------------------
+-- Same wire format as $feature_place_list$; the only difference is that loading
+-- a saved map should not play the placement wobble on every feature at once.
+local function loadFeatureBatch(payload)
+	return placeFromList(payload, false)
+end
+
+----------------------------------------------------------------
+-- Clear all: destroy every feature on map
+----------------------------------------------------------------
+local function clearAllFeatures()
+	local allFeatures = GetAllFeatures()
+	local removed = {}
+	for i = 1, #allFeatures do
+		local fid = allFeatures[i]
+		local snapshot = captureFeature(fid)
+		if snapshot then
+			removed[#removed + 1] = snapshot
+			DestroyFeature(fid)
+		end
+	end
+	if #removed > 0 then
+		pushUndo({ action = "remove", features = removed })
+	end
+	Spring.Echo("[Feature Placer] Cleared " .. #removed .. " features")
+end
+
+----------------------------------------------------------------
+-- Message parsing
+----------------------------------------------------------------
+---@return boolean?
+function gadget:RecvLuaMsg(msg, playerID)
+	-- Undo
+	if msg == UNDO_HEADER then
+		if not Spring.IsCheatingEnabled() then
+			return true
+		end
+		featureUndo()
+		return true
+	end
+
+	-- Redo
+	if msg == REDO_HEADER then
+		if not Spring.IsCheatingEnabled() then
+			return true
+		end
+		featureRedo()
+		return true
+	end
+
+	-- Placement: an explicit list the widget already previewed
+	if msg:sub(1, #PLACELIST_HEADER) == PLACELIST_HEADER then
+		if not Spring.IsCheatingEnabled() then
+			Spring.Echo("[Feature Placer] Requires /cheat to be enabled")
+			return true
+		end
+		-- No closeStroke() here: the batches of one stamp must coalesce, and
+		-- openStroke already closes a stroke of a different id or kind, so a new
+		-- placement still cannot share an entry with a gizmo drag.
+		placeFromList(msg:sub(#PLACELIST_HEADER + 1), true)
+		return true
+	end
+
+	-- Gizmo transform
+	if msg:sub(1, #TRANSFORM_HEADER) == TRANSFORM_HEADER then
+		if not Spring.IsCheatingEnabled() then
+			Spring.Echo("[Feature Placer] Requires /cheat to be enabled")
+			return true
+		end
+		transformFeatures(msg:sub(#TRANSFORM_HEADER + 1))
+		return true
+	end
+
+	-- Remove an explicit selection
+	if msg:sub(1, #REMOVEIDS_HEADER) == REMOVEIDS_HEADER then
+		if not Spring.IsCheatingEnabled() then
+			Spring.Echo("[Feature Placer] Requires /cheat to be enabled")
+			return true
+		end
+		closeStroke()
+		removeFeatureIDs(msg:sub(#REMOVEIDS_HEADER + 1))
+		return true
+	end
+
+	-- Save
+	if msg == SAVE_HEADER then
+		if not Spring.IsCheatingEnabled() then
+			Spring.Echo("[Feature Placer] Save requires /cheat to be enabled")
+			return true
+		end
+		exportAllFeatures()
+		return true
+	end
+
+	-- Load batch
+	if msg:sub(1, #LOAD_HEADER) == LOAD_HEADER then
+		if not Spring.IsCheatingEnabled() then
+			Spring.Echo("[Feature Placer] Requires /cheat to be enabled")
+			return true
+		end
+		-- No closeStroke() here, as in PLACELIST: every batch of one load carries
+		-- the same stroke id and must land in one undo entry.
+		loadFeatureBatch(msg:sub(#LOAD_HEADER + 1))
+		return true
+	end
+
+	-- Clear all
+	if msg == CLEARALL_HEADER then
+		if not Spring.IsCheatingEnabled() then
+			return true
+		end
+		closeStroke()
+		clearAllFeatures()
+		return true
+	end
+
+	-- Remove
+	if msg:sub(1, #REMOVE_HEADER) == REMOVE_HEADER then
+		if not Spring.IsCheatingEnabled() then
+			Spring.Echo("[Feature Placer] Requires /cheat to be enabled")
+			return true
+		end
+		local payload = msg:sub(#REMOVE_HEADER + 1)
+		local parts = {}
+		for word in payload:gmatch("%S+") do
+			parts[#parts + 1] = word
+		end
+		local centerX = tonumber(parts[1])
+		local centerZ = tonumber(parts[2])
+		local radius = tonumber(parts[3])
+		local shape = parts[4] or "circle"
+		local angleDeg = tonumber(parts[5]) or 0
+
+		if not centerX or not centerZ or not radius then
+			return true
+		end
+		radius = max(8, min(2000, radius))
+		closeStroke()
+		removeFeatures(centerX, centerZ, radius, shape, angleDeg)
+		return true
+	end
+end
+
+function gadget:Initialize()
+	gaiaTeamID = GetGaiaTeamID()
+
+	-- Rebuild the scale table from the rules params, which survive a /luarules
+	-- reload. Never touch piece callouts here: GetFeatureRootPiece /
+	-- GetFeaturePieceMatrix during LuaRules load CRASH the engine (map features'
+	-- local piece models are instantiated lazily by the drawer).
+	local features = GetAllFeatures()
+	for i = 1, #features do
+		local s = Spring.GetFeatureRulesParam(features[i], "visualScale")
+		if s then
+			featureScales[features[i]] = s
+		end
+	end
+
+	-- Idle until the first wobble is queued (see addWobble).
+	gadgetHandler:RemoveCallIn("GameFrame")
+end
+
+-- Feature ids are recycled by the engine; without this a reclaimed or burned
+-- scaled feature would leave its stale scale behind for whatever feature
+-- inherits the id.
+function gadget:FeatureDestroyed(featureID, allyTeamID)
+	featureScales[featureID] = nil
+end
+
+function gadget:GameFrame(frame)
+	for fid, info in pairs(wobbleQueue) do
+		local elapsed = frame - info.start
+		if elapsed > WOBBLE_DURATION or not ValidFeatureID(fid) then
+			if ValidFeatureID(fid) then
+				SetFeatureRotation(fid, info.pitch, info.yaw, info.roll)
+			end
+			wobbleQueue[fid] = nil
+		else
+			local t = elapsed / WOBBLE_DURATION
+			local ramp = min(1, elapsed / WOBBLE_RAMP)
+			local decay = (1 - t) * (1 - t)
+			local angleDeg = WOBBLE_AMPLITUDE * sin(elapsed * WOBBLE_FREQ) * decay * ramp
+			local angle = angleDeg * pi / 180
+			local pitch = info.pitch + angle * cos(info.axis)
+			local roll = info.roll + angle * sin(info.axis)
+			SetFeatureRotation(fid, pitch, info.yaw, roll)
+		end
+	end
+	if not next(wobbleQueue) then
+		wobbleActive = false
+		gadgetHandler:RemoveCallIn("GameFrame")
+	end
+end
