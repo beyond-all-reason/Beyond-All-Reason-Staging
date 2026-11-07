@@ -55,9 +55,9 @@ Total assets recorded: **926**
 | `advplayerslist/flags/az.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/ba.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/barb.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
-| `advplayerslist/flags/barb2.png` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-08-28 |
-| `advplayerslist/flags/barw.png` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-09-07 |
-| `advplayerslist/flags/barw2.png` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-09-07 |
+| `advplayerslist/flags/barb2.png` | _awaiting license_ | Hornet | manual-audit | 2026-08-28 |
+| `advplayerslist/flags/barw.png` | _awaiting license_ | Hornet | manual-audit | 2026-09-07 |
+| `advplayerslist/flags/barw2.png` | _awaiting license_ | Hornet | manual-audit | 2026-09-07 |
 | `advplayerslist/flags/bb.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/bd.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/be.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
@@ -108,7 +108,7 @@ Total assets recorded: **926**
 | `advplayerslist/flags/ee.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/eg.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/eh.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
-| `advplayerslist/flags/en-pir.png` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-09-07 |
+| `advplayerslist/flags/en-pir.png` | _awaiting license_ | Hornet | manual-audit | 2026-09-07 |
 | `advplayerslist/flags/er.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/es.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/et.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
@@ -197,7 +197,7 @@ Total assets recorded: **926**
 | `advplayerslist/flags/mm.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/mn.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/mo.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
-| `advplayerslist/flags/moon.png` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-09-07 |
+| `advplayerslist/flags/moon.png` | _awaiting license_ | Hornet | manual-audit | 2026-09-07 |
 | `advplayerslist/flags/mp.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/mq.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/flags/mr.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |

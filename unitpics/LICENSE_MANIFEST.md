@@ -516,7 +516,7 @@ Total assets recorded: **1490**
 | `legamphlab.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5072 | 2026-11-07 |
 | `legamphtank.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3144 | 2026-11-07 |
 | `legamstor.dds` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
-| `legamsub.dds` | _awaiting license_ | TheSilverHornet | #3085 | 2026-09-07 |
+| `legamsub.dds` | _awaiting license_ | Hornet | #3085 | 2026-09-07 |
 | `leganavalaaturret.dds` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
 | `leganavaladvgeo.dds` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
 | `leganavaldefturret.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5987 | 2026-11-07 |
@@ -609,8 +609,8 @@ Total assets recorded: **1490**
 | `leggob.dds` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
 | `leghades.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `leghalab.dds` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
-| `leghastatus.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
-| `leghastatusalt.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
+| `leghastatus.dds` | _awaiting license_ | Hornet | #3185 | 2026-09-07 |
+| `leghastatusalt.dds` | _awaiting license_ | Hornet | #3185 | 2026-09-07 |
 | `leghavp.dds` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
 | `legheavydrone.dds` | _awaiting license_ | Tharsis | #3569 | 2026-09-01 |
 | `leghelios.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
@@ -663,12 +663,12 @@ Total assets recorded: **1490**
 | `legnavyscout.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6123 | 2026-11-07 |
 | `legnavysub.dds` | _awaiting license_ | Tharsis | #6123 | 2026-09-01 |
 | `legner.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
-| `legoptio.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
+| `legoptio.dds` | _awaiting license_ | Hornet | #3185 | 2026-09-07 |
 | `legotter.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #2853 | 2026-11-07 |
 | `legpede.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `legperdition.dds` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
 | `legphoenix.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
-| `legportent.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
+| `legportent.dds` | _awaiting license_ | Hornet | #3185 | 2026-09-07 |
 | `legrad.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #2997 | 2026-11-07 |
 | `legrail.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `legrampart.dds` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
@@ -680,7 +680,7 @@ Total assets recorded: **1490**
 | `legsd.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4393 | 2026-11-07 |
 | `legsh.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
 | `legshot.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
-| `legsilo.dds` | _awaiting license_ | Tharsy | #3056 | 2026-09-01 |
+| `legsilo.dds` | _awaiting license_ | Tharsis | #3056 | 2026-09-01 |
 | `legsnapper.dds` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `legsolar.dds` | _awaiting license_ | Hornet | #2723 | 2026-09-01 |
 | `legspbomber.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
@@ -699,9 +699,9 @@ Total assets recorded: **1490**
 | `legtarg.dds` | _awaiting license_ | Protar | #4393 | 2026-09-01 |
 | `legtide.dds` | _awaiting license_ | Mr Bob | #4951 | 2026-09-01 |
 | `legtl.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4909 | 2026-11-07 |
-| `legtriarius.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
-| `legtriariusdrone.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
-| `legtriariusheatray.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
+| `legtriarius.dds` | _awaiting license_ | Hornet | #3185 | 2026-09-07 |
+| `legtriariusdrone.dds` | _awaiting license_ | Hornet | #3185 | 2026-09-07 |
+| `legtriariusheatray.dds` | _awaiting license_ | Hornet | #3185 | 2026-09-07 |
 | `leguwestore.dds` | _awaiting license_ | Protar | #5047 | 2026-09-01 |
 | `leguwgeo.dds` | _awaiting license_ | Tharsis | #5047 | 2026-09-01 |
 | `leguwmstore.dds` | _awaiting license_ | Protar | #5047 | 2026-09-01 |
@@ -1455,7 +1455,7 @@ Total assets recorded: **1490**
 | `scavengers/legsd.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legsh.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
 | `scavengers/legshot.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
-| `scavengers/legsilo.dds` | _awaiting license_ | Tharsy | #7224 | 2026-09-01 |
+| `scavengers/legsilo.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legsnapper.dds` | _awaiting license_ | Hornet | #7224 | 2026-09-01 |
 | `scavengers/legsolar.dds` | _awaiting license_ | Hornet | #7224 | 2026-09-01 |
 | `scavengers/legspbomber.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |

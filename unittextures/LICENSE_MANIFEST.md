@@ -70,10 +70,10 @@ Total assets recorded: **1063**
 | `chicken_green_m_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `chicken_l_normals.png` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `chicken_l_other.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
-| `chicken_l_other_acid.png` | `LicenseRef-BAR-CLA-1.0` | TheSilverHornet | manual-audit | 2026-10-12 |
+| `chicken_l_other_acid.png` | `LicenseRef-BAR-CLA-1.0` | Hornet | manual-audit | 2026-10-12 |
 | `chicken_m_normals.png` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
 | `chicken_m_other.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
-| `chicken_m_other_acid.png` | `LicenseRef-BAR-CLA-1.0` | TheSilverHornet | manual-audit | 2026-10-12 |
+| `chicken_m_other_acid.png` | `LicenseRef-BAR-CLA-1.0` | Hornet | manual-audit | 2026-10-12 |
 | `chicken_multi_l_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `chicken_normal.tga` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `chicken_normals_2020.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
@@ -269,7 +269,7 @@ Total assets recorded: **1063**
 | `decals/corvp_aoplane_scav.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `decals/corwin_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-06-16 |
 | `decals/corwint2_aoplane.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `decals/generic_aoplane.dds` | _awaiting license_ | Tharsy | #4001 | 2026-09-01 |
+| `decals/generic_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
 | `decals/legaap_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals/legabm_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
 | `decals/legacluster_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4001 | 2026-11-07 |
@@ -321,7 +321,7 @@ Total assets recorded: **1063**
 | `decals/legrhapsis_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3021 | 2026-11-07 |
 | `decals/legrl_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3021 | 2026-11-07 |
 | `decals/legsd_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
-| `decals/legsilo_aoplane.dds` | _awaiting license_ | Tharsy | #4001 | 2026-09-01 |
+| `decals/legsilo_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
 | `decals/legsolar_aoplane.dds` | _awaiting license_ | Hornet | #2723 | 2026-09-01 |
 | `decals/legstarfall_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #2266 | 2026-11-07 |
 | `decals/legtarg_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
@@ -931,7 +931,7 @@ Total assets recorded: **1063**
 | `decals_features/legsd_dead_7_7_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legsh_dead_3_3_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
 | `decals_features/legshot_dead_4_4_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
-| `decals_features/legsilo_dead_8_8_aoplane.dds` | _awaiting license_ | Tharsy | #5030 | 2026-09-01 |
+| `decals_features/legsilo_dead_8_8_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/legsnapper_dead_3_3_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-01 |
 | `decals_features/legsolar_dead_6_6_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-01 |
 | `decals_features/legsrail_dead_6_6_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |

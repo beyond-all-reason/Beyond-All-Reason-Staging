@@ -120,7 +120,7 @@ Total assets recorded: **829**
 | `bot_plasma_t1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `bot_radar.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `bot_rocket.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `bot_t15_heat_shot.png` | _awaiting license_ | Tharsy | #4317 | 2026-08-31 |
+| `bot_t15_heat_shot.png` | _awaiting license_ | Tharsis | #4317 | 2026-08-31 |
 | `bot_t15_raid.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3636 | 2026-08-31 |
 | `bot_t15_rocket.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3636 | 2026-08-31 |
 | `bot_t1_big.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

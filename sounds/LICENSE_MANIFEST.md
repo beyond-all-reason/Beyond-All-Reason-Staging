@@ -1230,10 +1230,10 @@ Total assets recorded: **1439**
 | `weapons-mult/kroggie2xs.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons-mult/lasrhvy3short.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons-mult/lrpcexplo.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
-| `weapons-mult/mgun12.wav` | _awaiting license_ | Tharsy | #5204 | 2026-08-31 |
+| `weapons-mult/mgun12.wav` | _awaiting license_ | Tharsis | #5204 | 2026-08-31 |
 | `weapons-mult/mgun3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
-| `weapons-mult/mgun6.wav` | _awaiting license_ | Tharsy | #5204 | 2026-08-31 |
-| `weapons-mult/mgun6heavy.wav` | _awaiting license_ | Tharsy | #5204 | 2026-08-31 |
+| `weapons-mult/mgun6.wav` | _awaiting license_ | Tharsis | #5204 | 2026-08-31 |
+| `weapons-mult/mgun6heavy.wav` | _awaiting license_ | Tharsis | #5204 | 2026-08-31 |
 | `weapons-mult/minigun.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons-mult/minigun2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons-mult/minigun3.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
@@ -1349,8 +1349,8 @@ Total assets recorded: **1439**
 | `weapons/mavgun4.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/mavgun5.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/metalhit.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
-| `weapons/mgun1.wav` | _awaiting license_ | Tharsy | #5204 | 2026-08-31 |
-| `weapons/mgun2.wav` | _awaiting license_ | Tharsy | #5204 | 2026-08-31 |
+| `weapons/mgun1.wav` | _awaiting license_ | Tharsis | #5204 | 2026-08-31 |
+| `weapons/mgun2.wav` | _awaiting license_ | Tharsis | #5204 | 2026-08-31 |
 | `weapons/mine1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/ministarfallchargup.wav` | `CC-BY-SA-4.0` | ZephyrSkies | #6525 | 2026-11-07 |
 | `weapons/misicbm1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |

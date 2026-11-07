@@ -48675,7 +48675,7 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Tharsy",
+    "contributor": "Tharsis",
     "date": "2026-08-31T11:58:20Z",
     "file": "icons/bot_t15_heat_shot.png",
     "license": "",
@@ -54917,7 +54917,7 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-08-28T12:38:00Z",
     "file": "luaui/images/advplayerslist/flags/barb2.png",
     "license": "",
@@ -54926,7 +54926,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-09-07T13:49:28Z",
     "file": "luaui/images/advplayerslist/flags/barw.png",
     "license": "",
@@ -54935,7 +54935,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-09-07T13:49:28Z",
     "file": "luaui/images/advplayerslist/flags/barw2.png",
     "license": "",
@@ -55344,7 +55344,7 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-09-07T13:49:28Z",
     "file": "luaui/images/advplayerslist/flags/en-pir.png",
     "license": "",
@@ -56057,7 +56057,7 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-09-07T13:49:28Z",
     "file": "luaui/images/advplayerslist/flags/moon.png",
     "license": "",
@@ -74967,7 +74967,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-09-07T14:00:04Z",
     "file": "objects3d/Units/leghastatus.s3o",
     "license": "",
@@ -74976,7 +74976,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-09-07T14:00:04Z",
     "file": "objects3d/Units/leghastatusalt.s3o",
     "license": "",
@@ -76098,7 +76098,7 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Tharsy",
+    "contributor": "Tharsis",
     "date": "2026-09-01T20:11:59Z",
     "file": "objects3d/Units/legsilo.s3o",
     "license": "",
@@ -76107,7 +76107,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Tharsy",
+    "contributor": "Tharsis",
     "date": "2026-09-01T20:11:59Z",
     "file": "objects3d/Units/legsilo_dead.s3o",
     "license": "",
@@ -76417,7 +76417,7 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-09-03T09:52:24Z",
     "file": "objects3d/Units/legvelite.s3o",
     "license": "",
@@ -78041,7 +78041,7 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-09-07T14:09:54Z",
     "file": "objects3d/empty.s3o",
     "license": "",
@@ -78212,7 +78212,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Tharsy",
+    "contributor": "Tharsis",
     "date": "2026-09-07T13:49:28Z",
     "file": "objects3d/legicbm.s3o",
     "license": "",
@@ -78281,7 +78281,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Tharsy",
+    "contributor": "Tharsis",
     "date": "2026-09-01T20:03:42Z",
     "file": "objects3d/legstone.s3o",
     "license": "",
@@ -91289,7 +91289,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Tharsy",
+    "contributor": "Tharsis",
     "date": "2026-08-31T12:34:25Z",
     "file": "sounds/weapons-mult/mgun12.wav",
     "license": "",
@@ -91307,7 +91307,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Tharsy",
+    "contributor": "Tharsis",
     "date": "2026-08-31T12:34:25Z",
     "file": "sounds/weapons-mult/mgun6.wav",
     "license": "",
@@ -91316,7 +91316,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Tharsy",
+    "contributor": "Tharsis",
     "date": "2026-08-31T12:34:25Z",
     "file": "sounds/weapons-mult/mgun6heavy.wav",
     "license": "",
@@ -92355,7 +92355,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Tharsy",
+    "contributor": "Tharsis",
     "date": "2026-08-31T12:41:04Z",
     "file": "sounds/weapons/mgun1.wav",
     "license": "",
@@ -92364,7 +92364,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Tharsy",
+    "contributor": "Tharsis",
     "date": "2026-08-31T12:41:04Z",
     "file": "sounds/weapons/mgun2.wav",
     "license": "",
@@ -97633,7 +97633,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-09-07T14:00:04Z",
     "file": "unitpics/legamsub.dds",
     "license": "",
@@ -98429,7 +98429,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-09-07T14:00:04Z",
     "file": "unitpics/leghastatus.dds",
     "license": "",
@@ -98438,7 +98438,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-09-07T14:00:04Z",
     "file": "unitpics/leghastatusalt.dds",
     "license": "",
@@ -98899,7 +98899,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-09-07T14:00:04Z",
     "file": "unitpics/legoptio.dds",
     "license": "",
@@ -98943,7 +98943,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-09-07T14:00:04Z",
     "file": "unitpics/legportent.dds",
     "license": "",
@@ -99045,7 +99045,7 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Tharsy",
+    "contributor": "Tharsis",
     "date": "2026-09-01T19:51:52Z",
     "file": "unitpics/legsilo.dds",
     "license": "",
@@ -99206,7 +99206,7 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-09-07T14:00:04Z",
     "file": "unitpics/legtriarius.dds",
     "license": "",
@@ -99215,7 +99215,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-09-07T14:00:04Z",
     "file": "unitpics/legtriariusdrone.dds",
     "license": "",
@@ -99224,7 +99224,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-09-07T14:00:04Z",
     "file": "unitpics/legtriariusheatray.dds",
     "license": "",
@@ -105771,7 +105771,7 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Tharsy",
+    "contributor": "Tharsis",
     "date": "2026-09-01T19:51:52Z",
     "file": "unitpics/scavengers/legsilo.dds",
     "license": "",
@@ -106661,7 +106661,7 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-10-12T19:18:03Z",
     "file": "unittextures/chicken_l_other_acid.png",
     "license": "LicenseRef-BAR-CLA-1.0",
@@ -106686,7 +106686,7 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "TheSilverHornet",
+    "contributor": "Hornet",
     "date": "2026-10-12T19:18:03Z",
     "file": "unittextures/chicken_m_other_acid.png",
     "license": "LicenseRef-BAR-CLA-1.0",
@@ -108285,7 +108285,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "Tharsy",
+    "contributor": "Tharsis",
     "date": "2026-09-01T20:25:05Z",
     "file": "unittextures/decals/generic_aoplane.dds",
     "license": "",
@@ -108735,7 +108735,7 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Tharsy",
+    "contributor": "Tharsis",
     "date": "2026-09-01T20:21:28Z",
     "file": "unittextures/decals/legsilo_aoplane.dds",
     "license": "",
@@ -114102,7 +114102,7 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "Tharsy",
+    "contributor": "Tharsis",
     "date": "2026-09-01T20:25:05Z",
     "file": "unittextures/decals_features/legsilo_dead_8_8_aoplane.dds",
     "license": "",

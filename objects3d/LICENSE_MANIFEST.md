@@ -1405,8 +1405,8 @@ Total assets recorded: **2007**
 | `Units/leghades_dead.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `Units/leghalab.s3o` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
 | `Units/leghalab_dead.s3o` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
-| `Units/leghastatus.s3o` | _awaiting license_ | TheSilverHornet | #3178 | 2026-09-07 |
-| `Units/leghastatusalt.s3o` | _awaiting license_ | TheSilverHornet | #3178 | 2026-09-07 |
+| `Units/leghastatus.s3o` | _awaiting license_ | Hornet | #3178 | 2026-09-07 |
+| `Units/leghastatusalt.s3o` | _awaiting license_ | Hornet | #3178 | 2026-09-07 |
 | `Units/leghavp.s3o` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
 | `Units/leghavp_dead.s3o` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
 | `Units/legheavydrone.s3o` | _awaiting license_ | Tharsis | #3569 | 2026-09-01 |
@@ -1536,8 +1536,8 @@ Total assets recorded: **2007**
 | `Units/legsh_dead.s3o` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
 | `Units/legshot.s3o` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `Units/legshot_dead.s3o` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
-| `Units/legsilo.s3o` | _awaiting license_ | Tharsy | #3056 | 2026-09-01 |
-| `Units/legsilo_dead.s3o` | _awaiting license_ | Tharsy | #3056 | 2026-09-01 |
+| `Units/legsilo.s3o` | _awaiting license_ | Tharsis | #3056 | 2026-09-01 |
+| `Units/legsilo_dead.s3o` | _awaiting license_ | Tharsis | #3056 | 2026-09-01 |
 | `Units/legsnapper.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `Units/legsnapper_dead.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `Units/legsolar.s3o` | _awaiting license_ | Hornet | #2723 | 2026-09-01 |
@@ -1573,7 +1573,7 @@ Total assets recorded: **2007**
 | `Units/leguwmstore_dead.s3o` | _awaiting license_ | Protar | #5047 | 2026-09-07 |
 | `Units/legvcarry.s3o` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `Units/legvcarry_dead.s3o` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
-| `Units/legvelite.s3o` | _awaiting license_ | TheSilverHornet | #3178 | 2026-09-03 |
+| `Units/legvelite.s3o` | _awaiting license_ | Hornet | #3178 | 2026-09-03 |
 | `Units/legvenator.s3o` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `Units/legvflak.s3o` | _awaiting license_ | Tharsis | #4178 | 2026-09-01 |
 | `Units/legvflak_dead.s3o` | _awaiting license_ | Tharsis | #4178 | 2026-09-01 |
@@ -1765,7 +1765,7 @@ Total assets recorded: **2007**
 | `dbg_sphere.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `dbg_sphere_fullmetal.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-11 |
 | `dice.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
-| `empty.s3o` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-09-07 |
+| `empty.s3o` | _awaiting license_ | Hornet | manual-audit | 2026-09-07 |
 | `epulse.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `epulse_mini.s3o` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `fir_tree_large.s3o` | `CC-BY-SA-3.0` | 0 AD | manual-audit | 2026-11-07 |
@@ -1785,7 +1785,7 @@ Total assets recorded: **2007**
 | `legbomb.s3o` | _awaiting license_ | Mr Bob | #3049 | 2026-09-07 |
 | `legfattorpedo.s3o` | _awaiting license_ | Tharsis | #6423 | 2026-09-07 |
 | `leghomingmissile.s3o` | _awaiting license_ | Tharsis | #3049 | 2026-09-07 |
-| `legicbm.s3o` | _awaiting license_ | Tharsy | #3049 | 2026-09-07 |
+| `legicbm.s3o` | _awaiting license_ | Tharsis | #3049 | 2026-09-07 |
 | `legkambomb.s3o` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
 | `leglargerocket.s3o` | _awaiting license_ | Tharsis | #3049 | 2026-09-07 |
 | `leglmineproj.s3o` | _awaiting license_ | Tharsis | #4262 | 2026-09-07 |
@@ -1793,7 +1793,7 @@ Total assets recorded: **2007**
 | `legmediumtorpedo.s3o` | `CC-BY-SA-4.0` | ZephyrSkies | #4117 | 2026-11-07 |
 | `legnade.s3o` | _awaiting license_ | Protar | #2836 | 2026-09-07 |
 | `legsmallrocket.s3o` | _awaiting license_ | Tharsis | #3049 | 2026-09-07 |
-| `legstone.s3o` | _awaiting license_ | Tharsy | #3843 | 2026-09-01 |
+| `legstone.s3o` | _awaiting license_ | Tharsis | #3843 | 2026-09-01 |
 | `legtorpedo.s3o` | _awaiting license_ | Tharsis | #3281 | 2026-09-07 |
 | `legtorpedomini.s3o` | `CC-BY-SA-4.0` | ZephyrSkies | #6123 | 2026-11-07 |
 | `meteor.s3o` | _awaiting license_ | Bluestone | manual-audit | 2026-09-07 |
