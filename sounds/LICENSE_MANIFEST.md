@@ -186,7 +186,7 @@ Total assets recorded: **670**
 | `ui/teleport-short-mono.wav` | _awaiting license_ | SethDGamre | #5235 | 2026-08-31 |
 | `ui/teleport-winddown.wav` | _awaiting license_ | SethDGamre | #5235 | 2026-08-31 |
 | `ui/teleport-windup.wav` | _awaiting license_ | SethDGamre | #5235 | 2026-08-31 |
-| `voice-soundeffects/AllyRequest.wav` | _awaiting license_ | msem-me | #6236 | 2026-08-31 |
+| `voice-soundeffects/AllyRequest.wav` | `CC0-1.0` | public domain | #6236 | 2026-11-07 |
 | `voice/en/cephis/AdvancedRadarLost.wav` | _awaiting license_ | Cephis | #6101 | 2026-09-01 |
 | `voice/en/cephis/AdvancedRadarLost2.wav` | _awaiting license_ | Cephis | #6101 | 2026-08-31 |
 | `voice/en/cephis/BaseUnderAttack.wav` | _awaiting license_ | Cephis | #6101 | 2026-08-31 |

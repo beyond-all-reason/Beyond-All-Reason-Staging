@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `music/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **103**
+Total assets recorded: **105**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -39,6 +39,7 @@ Total assets recorded: **103**
 | `original/events/raptors/bossfight/Matteo Dell'Acqua - Mother Of All Raptors.ogg` | _awaiting license_ | Matteo Dell'Acqua | #4787 | 2026-08-31 |
 | `original/events/raptors/interludes/West Basinger - Adaptation.ogg` | _awaiting license_ | West Basinger | #7587 | 2026-08-31 |
 | `original/events/raptors/interludes/West Basinger - Scorched Earth.ogg` | _awaiting license_ | West Basinger | #6540 | 2026-08-31 |
+| `original/events/raptors/interludes/West Basinger - The Ashes of War.ogg` | _awaiting license_ | West Basinger | manual-audit | 2026-11-07 |
 | `original/events/raptors/loading/West Basinger - Awakened Hive.ogg` | _awaiting license_ | West Basinger | #6540 | 2026-08-31 |
 | `original/events/raptors/peace/West Basinger - Biomass Reclamation.ogg` | _awaiting license_ | West Basinger | #7587 | 2026-08-31 |
 | `original/events/raptors/peace/West Basinger - Infestation.ogg` | _awaiting license_ | West Basinger | #6540 | 2026-08-31 |
@@ -72,6 +73,7 @@ Total assets recorded: **103**
 | `original/loading/Leon Devereux - Surfacefall.ogg` | _awaiting license_ | Leon Devereux | #3974 | 2026-08-31 |
 | `original/loading/Leon Devereux - Surveillance Protocol.ogg` | _awaiting license_ | Leon Devereux | manual-audit | 2026-08-31 |
 | `original/loading/Ryan Krause - Brainstorm.ogg` | _awaiting license_ | Ryan Krause | manual-audit | 2026-08-31 |
+| `original/menu/Leon Devereux - Line Worlds Overture.ogg` | _awaiting license_ | Leon Devereux | manual-audit | 2026-11-07 |
 | `original/menu/Leon Devereux - Objective Unfurled.ogg` | _awaiting license_ | Leon Devereux | #7484 | 2026-08-31 |
 | `original/menu/Leon Devereux - Waystation Theta.ogg` | _awaiting license_ | Leon Devereux | manual-audit | 2026-08-31 |
 | `original/menu/Matteo Dell'Acqua - fooBAR (Menu Ver.).ogg` | _awaiting license_ | Matteo Dell'Acqua | manual-audit | 2026-08-31 |
