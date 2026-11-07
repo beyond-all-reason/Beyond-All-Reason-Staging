@@ -10,17 +10,17 @@ Total assets recorded: **1490**
 |---|---|---|---|---|
 | `LEGESTOR.dds` | _awaiting license_ | Protar | #3689 | 2026-09-01 |
 | `armaak.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
-| `armaap.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armaap.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armaas.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armaca.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armack.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `armacsub.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armacv.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `armadvsol.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `armafus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `armageo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armadvsol.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `armafus.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `armageo.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armah.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `armalab.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armalab.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armamb.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armamd.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armamex.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
@@ -28,11 +28,11 @@ Total assets recorded: **1490**
 | `armamsub.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armanac.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armanavaldefturret.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5987 | 2026-11-07 |
-| `armanni.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `armannit3.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armanni.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `armannit3.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armantiship.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `armap.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `armarad.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armap.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `armarad.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armart.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armaser.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armason.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -41,7 +41,7 @@ Total assets recorded: **1490**
 | `armasy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armatl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armatlas.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
-| `armavp.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armavp.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armawac.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armbanth.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armbats.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -50,14 +50,14 @@ Total assets recorded: **1490**
 | `armblade.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armbotrail.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armbrawl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `armbrtha.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armbrtha.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armbull.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armca.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armcarry.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armch.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armcir.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armck.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
-| `armckfus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armckfus.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armclaw.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armcom.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armconsul.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -69,25 +69,25 @@ Total assets recorded: **1490**
 | `armdecade.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armdecadet3.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armdecom.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `armdf (1).dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
-| `armdf.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armdf (1).dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `armdf.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armdfly.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armdl.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `armdrag.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armdrag.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armdronecarry.dds` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
 | `armemp.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armepoch.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `armestor.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armestor.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armexcalibur.dds` | _awaiting license_ | Hornet | #3390 | 2026-09-01 |
 | `armeyes.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armfark.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armfast.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `armfatf.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armfatf.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armfav.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `armfboy.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `armfdrag.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armfepocht4.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `armferret.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armferret.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armfflak.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armfgate.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `armfhlt.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -95,39 +95,39 @@ Total assets recorded: **1490**
 | `armfido.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `armfify.dds` | _awaiting license_ | Darknagura | #3872 | 2026-09-01 |
 | `armfig.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `armflak.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armflak.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armflash.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armflea.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `armfmine3.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armfmkr.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armfort.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armfrad.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `armfrock.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-02 |
+| `armfrock.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armfrt.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `armfus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armfus.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armgate.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armgatet3.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #4104 | 2026-09-01 |
-| `armgeo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `armgmm.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armgeo.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `armgmm.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armgplat.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-09 |
 | `armgremlin.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armguard.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `armhaap.dds` | _awaiting license_ | Cremuss | #5546 | 2026-09-01 |
-| `armhalab.dds` | _awaiting license_ | Cremuss | #5546 | 2026-09-01 |
+| `armhaap.dds` | `CC-BY-SA-4.0` | Cremuss | #5546 | 2026-11-07 |
+| `armhalab.dds` | `CC-BY-SA-4.0` | Cremuss | #5546 | 2026-11-07 |
 | `armham.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
-| `armhavp.dds` | _awaiting license_ | Cremuss | #5546 | 2026-09-01 |
+| `armhavp.dds` | `CC-BY-SA-4.0` | Cremuss | #5546 | 2026-11-07 |
 | `armhawk.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armhlt.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armhp.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armhvytrans.dds` | _awaiting license_ | Protar | #3743 | 2026-09-01 |
 | `armjam.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `armjamt.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armjamt.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armjanus.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armjeth.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `armjuno.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armkam.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armkraken.dds` | _awaiting license_ | Zecrus | manual-audit | 2026-09-01 |
-| `armlab.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armlab.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armlance.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `armlatnk.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armliche.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
@@ -136,7 +136,7 @@ Total assets recorded: **1490**
 | `armlun.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `armlunchbox.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `armlwall.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #2064 | 2026-09-01 |
-| `armmakr.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
+| `armmakr.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armmanni.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `armmark.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -145,7 +145,7 @@ Total assets recorded: **1490**
 | `armmeatball.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `armmercury.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armmerl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `armmex.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armmex.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armmh.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armmine1.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armmine2.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
@@ -153,10 +153,10 @@ Total assets recorded: **1490**
 | `armminivulc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armmls.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armmlv.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `armmmkr.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `armmoho.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armmmkr.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `armmoho.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armmship.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `armmstor.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armmstor.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armnanotc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armnanotc2plat.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armnanotcplat.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
@@ -171,7 +171,7 @@ Total assets recorded: **1490**
 | `armpt.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armptt2.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armpw.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
-| `armrad.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armrad.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `armrecl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armrectr.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
@@ -192,14 +192,14 @@ Total assets recorded: **1490**
 | `armsfig.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armsfig2.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armsh.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `armshltx.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `armshltx2.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
-| `armshltxuw.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armshltx.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `armshltx2.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `armshltxuw.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armshockwave.dds` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
-| `armsilo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armsilo.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armsjam.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armsnipe.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
-| `armsolar.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armsolar.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armsonar.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armspid.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `armsptk.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -210,7 +210,7 @@ Total assets recorded: **1490**
 | `armsub.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armsubk.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armsy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `armtarg.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armtarg.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armthor.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `armthovr.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-09 |
 | `armthund.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -219,26 +219,26 @@ Total assets recorded: **1490**
 | `armtl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armtrident.dds` | _awaiting license_ | Odin | #2872 | 2026-09-01 |
 | `armtship.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-09 |
-| `armuwadves.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `armuwadves_old.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
-| `armuwadvms.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `armuwadvms_old.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
-| `armuwageo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armuwadves.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `armuwadves_old.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `armuwadvms.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `armuwadvms_old.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `armuwageo.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armuwes.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armuwfus.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `armuwgeo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armuwgeo.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armuwmme.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armuwmmm.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armuwms.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armvader.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armvang.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
-| `armveil.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `armvp.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armveil.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `armvp.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armvulc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armwar.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `armwar_old.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-07 |
-| `armwin.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `armwint2.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `armwin.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `armwint2.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `armyork.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armzapper.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `armzeus.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -250,8 +250,8 @@ Total assets recorded: **1490**
 | `coracsub.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `coracv.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `coradvsol.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `corafus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `corageo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `corafus.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `corageo.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `corah.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `corak.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corakt4.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -332,13 +332,13 @@ Total assets recorded: **1490**
 | `corftiger.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corfus.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corgant.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `corgantuw.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `corgantuw.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `corgarp.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `corgate.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corgatet3.dds` | _awaiting license_ | Mr Bob | #4104 | 2026-09-01 |
 | `corgator.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corgatreap.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `corgeo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `corgeo.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `corgol.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corgolt4.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corgplat.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-09 |
@@ -464,10 +464,10 @@ Total assets recorded: **1490**
 | `cortship.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `coruwadves.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `coruwadvms.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `coruwageo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `coruwageo.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `coruwes.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `coruwfus.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `coruwgeo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `coruwgeo.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `coruwmme.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `coruwmmm.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `coruwms.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -716,13 +716,13 @@ Total assets recorded: **1490**
 | `lootboxes/lootboxplatinum.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `lootboxes/lootboxsilver.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `lootboxes/lootdrop.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `mission_command_tower.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
+| `mission_command_tower.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `other/boombox.dds` | _awaiting license_ | Damgam | manual-audit | 2026-09-07 |
 | `other/chip.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
 | `other/dice.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
 | `other/meteor.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `other/nuketest.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `other/resourcecheat.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `other/resourcecheat.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `other/xmasball.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
 | `other/xmasball2.dds` | _awaiting license_ | Floris | manual-audit | 2026-09-01 |
 | `raptors/e_raptorq.dds` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-01 |
@@ -827,23 +827,23 @@ Total assets recorded: **1490**
 | `scavengers/armack.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `scavengers/armacsub.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armacv.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/armadvsol.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `scavengers/armafus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `scavengers/armafust3.dds` | _awaiting license_ | Cremuss | #7224 | 2026-09-01 |
-| `scavengers/armageo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armadvsol.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `scavengers/armafus.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `scavengers/armafust3.dds` | `CC-BY-SA-4.0` | Cremuss | #7224 | 2026-11-07 |
+| `scavengers/armageo.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armah.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `scavengers/armalab.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armalab.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armamb.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armamd.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armamex.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armamph.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armamsub.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armanac.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `scavengers/armanni.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `scavengers/armannit3.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `scavengers/armap.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `scavengers/armapt3.dds` | _awaiting license_ | Cremuss | #7224 | 2026-09-01 |
-| `scavengers/armarad.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armanni.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `scavengers/armannit3.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `scavengers/armap.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `scavengers/armapt3.dds` | `CC-BY-SA-4.0` | Cremuss | #7224 | 2026-11-07 |
+| `scavengers/armarad.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armart.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armaser.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armason.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -853,7 +853,7 @@ Total assets recorded: **1490**
 | `scavengers/armasy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armatl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armatlas.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
-| `scavengers/armavp.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armavp.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armawac.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armbanth.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armbats.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -862,14 +862,14 @@ Total assets recorded: **1490**
 | `scavengers/armblade.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armbotrail.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armbrawl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/armbrtha.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armbrtha.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armbull.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armca.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armcarry.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armch.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armcir.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armck.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
-| `scavengers/armckfus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armckfus.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armclaw.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armcom.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armcomboss.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -882,23 +882,23 @@ Total assets recorded: **1490**
 | `scavengers/armdecade.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armdecadet3.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armdecom.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/armdf.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armdf.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armdfly.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armdl.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `scavengers/armdrag.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armdrag.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armdronecarryland.dds` | _awaiting license_ | Odin | #7224 | 2026-09-01 |
 | `scavengers/armemp.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armepoch.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/armestor.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armestor.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armeyes.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armfark.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armfast.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/armfatf.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armfatf.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armfav.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `scavengers/armfboy.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `scavengers/armfdrag.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armfepocht4.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/armferret.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armferret.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armfflak.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armfgate.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `scavengers/armfhlt.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -906,20 +906,20 @@ Total assets recorded: **1490**
 | `scavengers/armfido.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `scavengers/armfify.dds` | _awaiting license_ | Darknagura | #3872 | 2026-09-01 |
 | `scavengers/armfig.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/armflak.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armflak.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armflash.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armflea.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `scavengers/armfmine3.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armfmkr.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armfort.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armfrad.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/armfrock.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-02 |
+| `scavengers/armfrock.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armfrt.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/armfus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armfus.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armgate.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armgatet3.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7224 | 2026-09-01 |
-| `scavengers/armgeo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `scavengers/armgmm.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armgeo.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `scavengers/armgmm.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armgplat.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-09 |
 | `scavengers/armgremlin.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armguard.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
@@ -928,13 +928,13 @@ Total assets recorded: **1490**
 | `scavengers/armhlt.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armhp.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armjam.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/armjamt.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armjamt.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armjanus.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armjeth.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `scavengers/armjuno.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armkam.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armkraken.dds` | _awaiting license_ | Zecrus | manual-audit | 2026-09-01 |
-| `scavengers/armlab.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armlab.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armlance.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `scavengers/armlatnk.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armliche.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
@@ -943,7 +943,7 @@ Total assets recorded: **1490**
 | `scavengers/armlun.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `scavengers/armlunchbox.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `scavengers/armlwall.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7224 | 2026-09-01 |
-| `scavengers/armmakr.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
+| `scavengers/armmakr.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armmanni.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armmar.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `scavengers/armmark.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -952,7 +952,7 @@ Total assets recorded: **1490**
 | `scavengers/armmeatball.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `scavengers/armmercury.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armmerl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/armmex.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armmex.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armmg.dds` | _awaiting license_ | Beherith, PtaQ | manual-audit | 2026-09-11 |
 | `scavengers/armmh.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armmine1.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
@@ -961,11 +961,11 @@ Total assets recorded: **1490**
 | `scavengers/armminivulc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armmls.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armmlv.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `scavengers/armmmkr.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `scavengers/armmmkrt3.dds` | _awaiting license_ | Cremuss | #7224 | 2026-09-01 |
-| `scavengers/armmoho.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armmmkr.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `scavengers/armmmkrt3.dds` | `CC-BY-SA-4.0` | Cremuss | #7224 | 2026-11-07 |
+| `scavengers/armmoho.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armmship.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/armmstor.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armmstor.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armnanotc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armnanotcplat.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armpb.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
@@ -979,7 +979,7 @@ Total assets recorded: **1490**
 | `scavengers/armptt2.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armpw.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `scavengers/armpwt4.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
-| `scavengers/armrad.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armrad.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armrattet4.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `scavengers/armraz.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-09-01 |
 | `scavengers/armrecl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -999,13 +999,13 @@ Total assets recorded: **1490**
 | `scavengers/armserpt3.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armsfig.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armsh.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `scavengers/armshltx.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `scavengers/armshltx2.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
-| `scavengers/armshltxuw.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `scavengers/armsilo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armshltx.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `scavengers/armshltx2.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `scavengers/armshltxuw.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `scavengers/armsilo.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armsjam.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armsnipe.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
-| `scavengers/armsolar.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armsolar.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armsonar.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armspid.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `scavengers/armsptk.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -1017,7 +1017,7 @@ Total assets recorded: **1490**
 | `scavengers/armsub.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armsubk.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armsy.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/armtarg.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armtarg.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armthor.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `scavengers/armthovr.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-09 |
 | `scavengers/armthund.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -1025,10 +1025,10 @@ Total assets recorded: **1490**
 | `scavengers/armtide.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armtl.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armtship.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-09 |
-| `scavengers/armuwadves.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `scavengers/armuwadves_old.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
-| `scavengers/armuwadvms.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `scavengers/armuwadvms_old.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-07 |
+| `scavengers/armuwadves.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `scavengers/armuwadves_old.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `scavengers/armuwadvms.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `scavengers/armuwadvms_old.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armuwes.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armuwfus.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armuwmme.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -1036,12 +1036,12 @@ Total assets recorded: **1490**
 | `scavengers/armuwms.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armvader.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armvadert4.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `scavengers/armveil.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `scavengers/armvp.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armveil.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `scavengers/armvp.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armvulc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/armwar.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
-| `scavengers/armwin.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `scavengers/armwint2.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/armwin.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `scavengers/armwint2.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armyork.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armzapper.dds` | _awaiting license_ | Flaka | #7224 | 2026-09-01 |
 | `scavengers/armzeus.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -1051,9 +1051,9 @@ Total assets recorded: **1490**
 | `scavengers/coracsub.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/coracv.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/coradvsol.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `scavengers/corafus.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `scavengers/corafust3.dds` | _awaiting license_ | Cremuss | #7224 | 2026-09-01 |
-| `scavengers/corageo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/corafus.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
+| `scavengers/corafust3.dds` | `CC-BY-SA-4.0` | Cremuss | #7224 | 2026-11-07 |
+| `scavengers/corageo.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/corah.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/corak.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corakt4.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -1132,13 +1132,13 @@ Total assets recorded: **1490**
 | `scavengers/corftiger.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
 | `scavengers/corfus.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corgant.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `scavengers/corgantuw.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/corgantuw.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/corgarp.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
 | `scavengers/corgate.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corgatet3.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
 | `scavengers/corgator.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corgatreap.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `scavengers/corgeo.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/corgeo.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/corgol.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corgolt4.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corgplat.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-09 |
@@ -1267,7 +1267,7 @@ Total assets recorded: **1490**
 | `scavengers/corwin.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corwint2.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corwolv.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `scavengers/freefusion.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/freefusion.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/legaabot.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legaap.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legabm.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
@@ -1485,7 +1485,7 @@ Total assets recorded: **1490**
 | `scavengers/legwhisper.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legwin.dds` | _awaiting license_ | Yzch | #7224 | 2026-09-01 |
 | `scavengers/legwint2.dds` | _awaiting license_ | Yzch | #7224 | 2026-09-01 |
-| `scavengers/mission_command_tower.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
+| `scavengers/mission_command_tower.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/scavbeacon.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/scavbeacon_t1.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
 | `scavengers/scavbeacon_t2.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
