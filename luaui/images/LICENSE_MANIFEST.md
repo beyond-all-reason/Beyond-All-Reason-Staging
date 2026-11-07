@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **926**
+Total assets recorded: **922**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -722,8 +722,6 @@ Total assets recorded: **926**
 | `lava/lava2_normalheight.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `lava/lava6_diffuseemit.tga` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `lava/lava6_normalheight.tga` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
-| `lava/lava7_diffuseemit.dds` | _awaiting license_ | icexuick | manual-audit | 2026-10-12 |
-| `lava/lava7_normalheight.dds` | _awaiting license_ | icexuick | manual-audit | 2026-10-12 |
 | `lavadistortion.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #3118 | 2026-10-12 |
 | `lavadistortion.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `leaderboard.png` | _awaiting license_ | SethDGamre | #5767 | 2026-09-01 |
@@ -803,8 +801,6 @@ Total assets recorded: **926**
 | `raptor_scum/alien_guts_normalspec.dds` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `raptor_scum/alien_guts_normalspec.tga` | `CC-BY-SA-4.0` | Beherith | manual-audit | 2026-09-01 |
 | `raptor_scum/alien_guts_normalspec_u8888.dds` | `CC-BY-SA-4.0` | Beherith | #3118 | 2026-09-01 |
-| `raptorpanel.png` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
-| `raptorpanel.tga` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `repeat.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `repeat_old.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `returnfire.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #7585 | 2026-08-31 |
