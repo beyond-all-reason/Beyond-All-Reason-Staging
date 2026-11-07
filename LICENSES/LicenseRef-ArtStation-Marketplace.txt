@@ -1,0 +1,19 @@
+ArtStation Marketplace Standard License
+=======================================
+
+SPDX-License-Identifier: LicenseRef-ArtStation-Marketplace
+Store: ArtStation Marketplace
+Licence text: https://www.artstation.com/marketplace-product-eula
+Terms as stated in the repository notice that accompanied the files.
+
+What this identifier means in a BAR repository
+
+The file was obtained under the licence above, not contributed under the BAR CLA or CC-BY-SA. The purchase record (store, item, licence code, licensee, date) is kept in the ledger row's `sources` field in the private asset repository. Files under this identifier are release-only: they ship inside the game archive and never as standalone files, and they may not be recorded in a public repository's ledger.
+
+Terms relied on
+
+- Products may be used in commercial projects such as games as part of the finished work.
+- The product may not be resold, shared or redistributed on its own; the licence is personal to the buyer.
+- The repository notice for the ground-crack decals read: licensed to IceXuick, reproduction or redistribution outside of BAR not permitted.
+
+The store's licence text governs; this note only records how the file is used in BAR.

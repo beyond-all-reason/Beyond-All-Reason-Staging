@@ -20,39 +20,179 @@
     "singleplayer/scenarios"
   ],
   "art_extensions": [
-    "s3o", "obj", "fbx", "dae", "3ds",
-    "png", "jpg", "jpeg", "tga", "dds", "bmp", "gif", "svg", "psd", "xcf",
-    "ogg", "wav", "mp3", "flac", "opus",
+    "s3o",
+    "obj",
+    "fbx",
+    "dae",
+    "3ds",
+    "png",
+    "jpg",
+    "jpeg",
+    "tga",
+    "dds",
+    "bmp",
+    "gif",
+    "svg",
+    "psd",
+    "xcf",
+    "ogg",
+    "wav",
+    "mp3",
+    "flac",
+    "opus",
     "bvh",
-    "blend", "kra", "spr",
-    "ttf", "otf", "ttc"
+    "blend",
+    "kra",
+    "spr",
+    "ttf",
+    "otf",
+    "ttc"
   ],
-  "code_extensions": ["glsl", "frag", "vert", "glslf", "glslv", "bos", "cob", "lua", "py"],
-  "doc_extensions": ["md", "ipynb"],
+  "code_extensions": [
+    "glsl",
+    "frag",
+    "vert",
+    "glslf",
+    "glslv",
+    "bos",
+    "cob",
+    "lua",
+    "py"
+  ],
+  "doc_extensions": [
+    "md",
+    "ipynb"
+  ],
   "notice_stem_pattern": "licen[cs]e|^ofl(?:$|[-_])",
   "licenses": {
-    "LicenseRef-BAR-CLA-1.0": { "name": "BAR Project License (CLA)", "label": "license: BAR-CLA", "blurb": "restricted to BAR; you keep copyright.", "doc": "legal/CLA_SUMMARY.md" },
-    "CC-BY-SA-4.0": { "name": "CC-BY-SA 4.0", "label": "license: CC-BY-SA-4.0", "blurb": "openly reusable by anyone with attribution. Cannot be revoked once recorded.", "doc": "legal/CC-BY-SA-OPT-IN.md" },
-    "GPL-2.0-or-later": { "name": "GPL-2.0-or-later", "label": "license: GPL" },
-    "MIT": { "name": "MIT", "label": "license: MIT" },
-    "CC0-1.0": { "name": "CC0 1.0 (public domain)", "label": "license: CC0" },
-    "OFL-1.1": { "name": "SIL Open Font License 1.1", "label": "license: OFL" },
-    "CC-BY-SA-3.0": { "name": "CC-BY-SA 3.0", "label": "license: CC-BY-SA-3.0" },
-    "CC-BY-4.0": { "name": "CC-BY 4.0", "label": "license: CC-BY-4.0" },
-    "CC-BY-NC-ND-4.0": { "name": "CC-BY-NC-ND 4.0 (legacy)", "label": "license: CC-BY-NC-ND" },
-    "LicenseRef-Envato-Elements": { "name": "Envato Elements License", "label": "license: store", "release_only": true, "store": "envato-elements", "flag": "envato" },
-    "LicenseRef-Envato-Market-Regular": { "name": "Envato Market Regular License", "label": "license: store", "release_only": true, "store": "envato-market" },
-    "LicenseRef-Envato-Market-Extended": { "name": "Envato Market Extended License", "label": "license: store", "release_only": true, "store": "envato-market" },
-    "LicenseRef-Envato-Market-SFX-Single": { "name": "Envato Market SFX Single Use License", "label": "license: store", "release_only": true, "store": "envato-market" },
-    "LicenseRef-Sketchfab-Standard": { "name": "Sketchfab Standard License", "label": "license: store", "release_only": true, "store": "sketchfab", "flag": "sketchfab" },
-    "LicenseRef-BlenderMarket-RoyaltyFree": { "name": "Blender Market Royalty Free License", "label": "license: store", "release_only": true, "store": "blender-market", "flag": "blendermarketplace" },
-    "LicenseRef-GameTextures": { "name": "GameTextures.com License", "label": "license: store", "release_only": true, "store": "gametextures", "flag": "gametextures-com" },
-    "LicenseRef-Unity-AssetStore": { "name": "Unity Asset Store EULA", "label": "license: store", "release_only": true, "store": "unity-asset-store", "flag": "unity" },
-    "LicenseRef-ZapSplat-Standard": { "name": "ZapSplat Standard License", "label": "license: store", "release_only": true, "store": "zapsplat", "flag": "zapsplat" },
-    "LicenseRef-Pixabay": { "name": "Pixabay Content License", "label": "license: store", "release_only": true, "store": "pixabay" },
-    "LicenseRef-ThirdParty-Mixed": { "name": "Mixed third-party sources (strictest governs)", "label": "license: store", "release_only": true, "store": "mixed", "flag": "mixed-assets-multiple-asset-stores" }
+    "LicenseRef-BAR-CLA-1.0": {
+      "name": "BAR Project License (CLA)",
+      "label": "license: BAR-CLA",
+      "blurb": "restricted to BAR; you keep copyright.",
+      "doc": "legal/CLA_SUMMARY.md"
+    },
+    "CC-BY-SA-4.0": {
+      "name": "CC-BY-SA 4.0",
+      "label": "license: CC-BY-SA-4.0",
+      "blurb": "openly reusable by anyone with attribution. Cannot be revoked once recorded.",
+      "doc": "legal/CC-BY-SA-OPT-IN.md"
+    },
+    "GPL-2.0-or-later": {
+      "name": "GPL-2.0-or-later",
+      "label": "license: GPL"
+    },
+    "MIT": {
+      "name": "MIT",
+      "label": "license: MIT"
+    },
+    "CC0-1.0": {
+      "name": "CC0 1.0 (public domain)",
+      "label": "license: CC0"
+    },
+    "OFL-1.1": {
+      "name": "SIL Open Font License 1.1",
+      "label": "license: OFL"
+    },
+    "CC-BY-SA-3.0": {
+      "name": "CC-BY-SA 3.0",
+      "label": "license: CC-BY-SA-3.0"
+    },
+    "CC-BY-4.0": {
+      "name": "CC-BY 4.0",
+      "label": "license: CC-BY-4.0"
+    },
+    "CC-BY-NC-ND-4.0": {
+      "name": "CC-BY-NC-ND 4.0 (legacy)",
+      "label": "license: CC-BY-NC-ND"
+    },
+    "LicenseRef-Envato-Elements": {
+      "name": "Envato Elements License",
+      "label": "license: store",
+      "release_only": true,
+      "store": "envato-elements",
+      "flag": "envato"
+    },
+    "LicenseRef-Envato-Market-Regular": {
+      "name": "Envato Market Regular License",
+      "label": "license: store",
+      "release_only": true,
+      "store": "envato-market"
+    },
+    "LicenseRef-Envato-Market-Extended": {
+      "name": "Envato Market Extended License",
+      "label": "license: store",
+      "release_only": true,
+      "store": "envato-market"
+    },
+    "LicenseRef-Envato-Market-SFX-Single": {
+      "name": "Envato Market SFX Single Use License",
+      "label": "license: store",
+      "release_only": true,
+      "store": "envato-market"
+    },
+    "LicenseRef-Sketchfab-Standard": {
+      "name": "Sketchfab Standard License",
+      "label": "license: store",
+      "release_only": true,
+      "store": "sketchfab",
+      "flag": "sketchfab"
+    },
+    "LicenseRef-BlenderMarket-RoyaltyFree": {
+      "name": "Blender Market Royalty Free License",
+      "label": "license: store",
+      "release_only": true,
+      "store": "blender-market",
+      "flag": "blendermarketplace"
+    },
+    "LicenseRef-GameTextures": {
+      "name": "GameTextures.com License",
+      "label": "license: store",
+      "release_only": true,
+      "store": "gametextures",
+      "flag": "gametextures-com"
+    },
+    "LicenseRef-Unity-AssetStore": {
+      "name": "Unity Asset Store EULA",
+      "label": "license: store",
+      "release_only": true,
+      "store": "unity-asset-store",
+      "flag": "unity"
+    },
+    "LicenseRef-ZapSplat-Standard": {
+      "name": "ZapSplat Standard License",
+      "label": "license: store",
+      "release_only": true,
+      "store": "zapsplat",
+      "flag": "zapsplat"
+    },
+    "LicenseRef-Pixabay": {
+      "name": "Pixabay Content License",
+      "label": "license: store",
+      "release_only": true,
+      "store": "pixabay"
+    },
+    "WTFPL": {
+      "name": "Do What The F*ck You Want To Public License",
+      "label": "license: WTFPL"
+    },
+    "LicenseRef-ArtStation-Marketplace": {
+      "name": "ArtStation Marketplace Standard License",
+      "label": "license: store",
+      "release_only": true,
+      "store": "artstation"
+    },
+    "LicenseRef-ThirdParty-Mixed": {
+      "name": "Mixed third-party sources (strictest governs)",
+      "label": "license: store",
+      "release_only": true,
+      "store": "mixed",
+      "flag": "mixed-assets-multiple-asset-stores"
+    }
   },
-  "pr_choices": ["LicenseRef-BAR-CLA-1.0", "CC-BY-SA-4.0"],
+  "pr_choices": [
+    "LicenseRef-BAR-CLA-1.0",
+    "CC-BY-SA-4.0"
+  ],
   "distribution": "public",
   "ledger": {
     "signatures": ".github/cla-signatures.json",
@@ -60,7 +200,10 @@
     "flags": "license_comments_flags.json",
     "contributors": ".github/contributors.json"
   },
-  "bot": { "name": "BAR CLA Bot", "email": "cla-bot@beyondallreason.info" },
+  "bot": {
+    "name": "BAR CLA Bot",
+    "email": "cla-bot@beyondallreason.info"
+  },
   "status_context": "BAR CLA / License Check",
   "legal_dir": "legal",
   "overrides": {

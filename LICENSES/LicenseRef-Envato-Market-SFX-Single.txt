@@ -1,0 +1,18 @@
+Envato Market SFX Single Use License
+====================================
+
+SPDX-License-Identifier: LicenseRef-Envato-Market-SFX-Single
+Store: AudioJungle
+Licence text: https://audiojungle.net/licenses/terms/audio_sfx_media_single_use
+Terms as reviewed on 2026-11-06.
+
+What this identifier means in a BAR repository
+
+The file was obtained under the licence above, not contributed under the BAR CLA or CC-BY-SA. The purchase record (store, item, licence code, licensee, date) is kept in the ledger row's `sources` field in the private asset repository. Files under this identifier are release-only: they ship inside the game archive and never as standalone files, and they may not be recorded in a public repository's ledger.
+
+Terms relied on
+
+- One sound effect in one End Product; a second product needs a second licence.
+- No redistribution of the sound on its own; not usable as a standalone file or in a sound library.
+
+The store's licence text governs; this note only records how the file is used in BAR.

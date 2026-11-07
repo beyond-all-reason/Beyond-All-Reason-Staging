@@ -1,0 +1,19 @@
+Mixed third-party sources
+=========================
+
+SPDX-License-Identifier: LicenseRef-ThirdParty-Mixed
+Store: two or more stores or stock libraries
+Licence text: (see the row's sources list)
+Terms as reviewed on 2026-11-06.
+
+What this identifier means in a BAR repository
+
+The file was obtained under the licence above, not contributed under the BAR CLA or CC-BY-SA. The purchase record (store, item, licence code, licensee, date) is kept in the ledger row's `sources` field in the private asset repository. Files under this identifier are release-only: they ship inside the game archive and never as standalone files, and they may not be recorded in a public repository's ledger.
+
+Terms relied on
+
+- The file was built from material licensed under two or more third-party licences, or the exact source could not be separated.
+- The strictest of the underlying licences governs the file. Every known source is listed in the ledger row's `sources`.
+- The file may ship only inside the game archive and may not be published as a standalone file.
+
+The store's licence text governs; this note only records how the file is used in BAR.
