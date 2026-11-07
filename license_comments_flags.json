@@ -450,128 +450,9 @@
       ]
     },
     {
-      "file": "luaui/images/advplayerslist_mascot/grumpycat_body.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist_mascot/grumpycat_head.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/advplayerslist_mascot/grumpycat_headblink.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
       "file": "luaui/images/advplayerslist_mascot/santahat.png",
       "flags": [
         "unsure"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/chiliskin_gl4/tech_button_action_bk.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/chiliskin_gl4/tech_button_action_fg.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/chiliskin_gl4/tech_button_bright_fg.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/chiliskin_gl4/tech_button_bright_small_alt_fg.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/chiliskin_gl4/tech_button_bright_small_bk.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/chiliskin_gl4/tech_button_bright_small_bk_grey.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/chiliskin_gl4/tech_button_bright_small_fg.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/chiliskin_gl4/tech_button_dark_small_bk.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/chiliskin_gl4/tech_button_dark_small_fg.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/ecostats/arm_default.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/ecostats/bordersOff.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/ecostats/chkBoxOff.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/ecostats/chkBoxOn.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/ecostats/cor_default.png",
-      "flags": [
-        "unused"
       ],
       "comments": []
     },
@@ -583,28 +464,7 @@
       "comments": []
     },
     {
-      "file": "luaui/images/ecostats/cross_inv.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
       "file": "luaui/images/ecostats/default.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/ecostats/ecommander.png",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "luaui/images/ecostats/tll_default.png",
       "flags": [
         "unused"
       ],
@@ -871,13 +731,6 @@
       "comments": []
     },
     {
-      "file": "objects3d/Raptors/tubexl.s3o",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
       "file": "objects3d/SimpleFlare.s3o",
       "flags": [
         "unsure"
@@ -900,20 +753,6 @@
           "text": "Used by raptors for missiles/AA weapons.\nI guess this came from SimpleFlare.s3o from fx-Doo?"
         }
       ]
-    },
-    {
-      "file": "objects3d/Units/armflash_old.s3o",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/Units/armgant.s3o",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
     },
     {
       "file": "objects3d/Units/armpship.s3o",
@@ -944,21 +783,7 @@
       "comments": []
     },
     {
-      "file": "objects3d/Units/armthovr_dead.s3o",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
       "file": "objects3d/Units/armtship.s3o",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
-      "file": "objects3d/Units/armtship_dead.s3o",
       "flags": [
         "unused"
       ],
@@ -1093,13 +918,6 @@
       "comments": []
     },
     {
-      "file": "objects3d/Units/unused/old_bladew.s3o",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
       "file": "objects3d/akbomb2.s3o",
       "flags": [
         "unsure"
@@ -1130,19 +948,6 @@
           "author": "BAR CLA Bot",
           "date": "2026-09-11",
           "text": "Why is the .exe in here?"
-        }
-      ]
-    },
-    {
-      "file": "objects3d/scavs/corscavtcg.s3o",
-      "flags": [
-        "unused"
-      ],
-      "comments": [
-        {
-          "author": "BAR CLA Bot",
-          "date": "2026-09-11",
-          "text": "custom scav cloud generator thing - seems to not be in any file/or in use."
         }
       ]
     },

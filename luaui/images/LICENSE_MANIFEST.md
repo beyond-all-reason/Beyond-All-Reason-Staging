@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **812**
+Total assets recorded: **792**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -340,9 +340,6 @@ Total assets recorded: **812**
 | `advplayerslist_mascot/floriscat_body.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist_mascot/floriscat_head.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist_mascot/floriscat_headblink.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
-| `advplayerslist_mascot/grumpycat_body.png` | _awaiting license_ | Floris | manual-audit | 2026-11-06 |
-| `advplayerslist_mascot/grumpycat_head.png` | _awaiting license_ | Floris | manual-audit | 2026-11-06 |
-| `advplayerslist_mascot/grumpycat_headblink.png` | _awaiting license_ | Floris | manual-audit | 2026-11-06 |
 | `advplayerslist_mascot/mrbeans_body.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/mrbeans_head.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
 | `advplayerslist_mascot/mrbeans_headblink.png` | _awaiting license_ | teifion | manual-audit | 2026-06-16 |
@@ -354,15 +351,6 @@ Total assets recorded: **812**
 | `barglow-center.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `barglow-edge.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `black.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | #3266 | 2026-09-07 |
-| `chiliskin_gl4/tech_button_action_bk.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
-| `chiliskin_gl4/tech_button_action_fg.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
-| `chiliskin_gl4/tech_button_bright_fg.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
-| `chiliskin_gl4/tech_button_bright_small_alt_fg.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
-| `chiliskin_gl4/tech_button_bright_small_bk.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
-| `chiliskin_gl4/tech_button_bright_small_bk_grey.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
-| `chiliskin_gl4/tech_button_bright_small_fg.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
-| `chiliskin_gl4/tech_button_dark_small_bk.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
-| `chiliskin_gl4/tech_button_dark_small_fg.png` | `CC-BY-SA-4.0` | jK | manual-audit | 2026-09-07 |
 | `commandsfx/glow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `commandsfx/line.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `decals_gl4/decalsgl4_atlas_diffuse.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
@@ -456,20 +444,12 @@ Total assets recorded: **812**
 | `decals_gl4/testing/T_GroundCrack_00_h.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
 | `decals_gl4/testing/T_GroundCrack_00_n.png` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
 | `easytax/share.dds` | `GPL-2.0-or-later` | RebelNode | #7300 | 2026-09-01 |
-| `ecostats/arm_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `ecostats/bar.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `ecostats/barbg.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `ecostats/barglow-center.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `ecostats/barglow-edge.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
-| `ecostats/bordersOff.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `ecostats/chkBoxOff.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `ecostats/chkBoxOn.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `ecostats/cor_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `ecostats/cross.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `ecostats/cross_inv.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `ecostats/default.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `ecostats/ecommander.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
-| `ecostats/tll_default.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `emojis/twemoji/100.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
 | `emojis/twemoji/angry.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
 | `emojis/twemoji/broken_heart.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |

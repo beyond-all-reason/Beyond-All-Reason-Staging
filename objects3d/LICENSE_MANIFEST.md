@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `objects3d/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1824**
+Total assets recorded: **1817**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -208,7 +208,6 @@ Total assets recorded: **1824**
 | `Raptors/spike.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `Raptors/spiker_gunship.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `Raptors/tube.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
-| `Raptors/tubexl.s3o` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-02 |
 | `Raptors/ve_raptorq.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `Raptors/vh_raptorq.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `SimpleFlareXL.s3o` | `LicenseRef-BAR-CLA-1.0` | KDR_11k, Beherith | manual-audit | 2026-05-27 |
@@ -413,7 +412,6 @@ Total assets recorded: **1824**
 | `Units/armflak_dead.s3o` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `Units/armflash.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armflash_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
-| `Units/armflash_old.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
 | `Units/armflea.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `Units/armflea_dead.s3o` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `Units/armfmine3.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
@@ -430,7 +428,6 @@ Total assets recorded: **1824**
 | `Units/armfrt_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armfus.s3o` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `Units/armfus_dead.s3o` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
-| `Units/armgant.s3o` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-07 |
 | `Units/armgate.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armgate_dead.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `Units/armgatet3.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | #4104 | 2026-09-01 |
@@ -633,7 +630,6 @@ Total assets recorded: **1824**
 | `Units/armthor.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-11 |
 | `Units/armthor_dead.s3o` | _awaiting license_ | Flaka | manual-audit | 2026-09-11 |
 | `Units/armthovr.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
-| `Units/armthovr_dead.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `Units/armthund.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armthund_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `Units/armtide.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -643,7 +639,6 @@ Total assets recorded: **1824**
 | `Units/armtrident.s3o` | _awaiting license_ | Odin | #2872 | 2026-09-01 |
 | `Units/armtrident_dead.s3o` | _awaiting license_ | Odin | #2872 | 2026-09-01 |
 | `Units/armtship.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
-| `Units/armtship_dead.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
 | `Units/armuwadves.s3o` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `Units/armuwadves_dead.s3o` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `Units/armuwadvms.s3o` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
@@ -1713,7 +1708,6 @@ Total assets recorded: **1824**
 | `Units/unused/cor_cagelight_red.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `Units/unused/cor_cagelight_team.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `Units/unused/cor_cagelight_yellow.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
-| `Units/unused/old_bladew.s3o` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `airbomb.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
 | `airbombsea.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
 | `airbombt2.s3o` | _awaiting license_ | Beherith | manual-audit | 2026-06-16 |
@@ -1801,7 +1795,6 @@ Total assets recorded: **1824**
 | `scavs/armbotrail.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavs/cords.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavs/cormandot4.s3o` | _awaiting license_ | FireStorm | #3494 | 2026-09-01 |
-| `scavs/corscavtcg.s3o` | _awaiting license_ | Fjoersteller | manual-audit | 2026-09-11 |
 | `scavs/cube_ptaq_backup.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
 | `scavs/scavbeacon.s3o` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-09-07 |
 | `scavs/scavbeacon_t1.s3o` | _awaiting license_ | Protar | #3096 | 2026-09-11 |
