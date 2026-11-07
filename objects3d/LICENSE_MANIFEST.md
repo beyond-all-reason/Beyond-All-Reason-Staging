@@ -1768,10 +1768,10 @@ Total assets recorded: **2007**
 | `empty.s3o` | _awaiting license_ | TheSilverHornet | manual-audit | 2026-09-07 |
 | `epulse.s3o` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-05-28 |
 | `epulse_mini.s3o` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-07 |
-| `fir_tree_large.s3o` | `CC-BY-SA-4.0` | 0 AD | manual-audit | 2026-09-11 |
-| `fir_tree_medium.s3o` | `CC-BY-SA-4.0` | 0 AD | manual-audit | 2026-09-11 |
-| `fir_tree_small.s3o` | `CC-BY-SA-4.0` | 0 AD | manual-audit | 2026-09-11 |
-| `fir_tree_smallest.s3o` | `CC-BY-SA-4.0` | 0 AD | manual-audit | 2026-09-11 |
+| `fir_tree_large.s3o` | `CC-BY-SA-3.0` | 0 AD | manual-audit | 2026-11-07 |
+| `fir_tree_medium.s3o` | `CC-BY-SA-3.0` | 0 AD | manual-audit | 2026-11-07 |
+| `fir_tree_small.s3o` | `CC-BY-SA-3.0` | 0 AD | manual-audit | 2026-11-07 |
+| `fir_tree_smallest.s3o` | `CC-BY-SA-3.0` | 0 AD | manual-audit | 2026-11-07 |
 | `fmdmissile.s3o` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
 | `gingerbread.s3o` | _awaiting license_ | Christiaan van Hoegee | manual-audit | 2026-08-31 |
 | `gingerbread.txt` | `LicenseRef-BAR-CLA-1.0` | Christiaan van Hoegee | manual-audit | 2026-09-02 |

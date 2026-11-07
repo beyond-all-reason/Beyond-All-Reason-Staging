@@ -8,18 +8,18 @@ Total assets recorded: **15**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
-| `Exo2-Regular.otf` | _awaiting license_ | Natanael Gama | manual-audit | 2026-09-02 |
-| `Exo2-SemiBold.otf` | _awaiting license_ | Natanael Gama | manual-audit | 2026-09-02 |
+| `Exo2-Regular.otf` | `OFL-1.1` | Natanael Gama | manual-audit | 2026-11-07 |
+| `Exo2-SemiBold.otf` | `OFL-1.1` | Natanael Gama | manual-audit | 2026-11-07 |
 | `Mesmerize-Bold.ttf` | `CC0-1.0` | public domain | manual-audit | 2026-09-02 |
 | `Mesmerize-Regular.ttf` | `CC0-1.0` | public domain | manual-audit | 2026-09-02 |
-| `Poppins-Medium.otf` | _awaiting license_ | Indian Type Foundry / Jonny Pinhorn | manual-audit | 2026-09-02 |
-| `Poppins-Regular.otf` | _awaiting license_ | Indian Type Foundry / Jonny Pinhorn | manual-audit | 2026-09-02 |
-| `exo2/Exo2-Bold.ttf` | _awaiting license_ | Natanael Gama | #3977 | 2026-09-02 |
-| `exo2/Exo2-BoldItalic.ttf` | _awaiting license_ | Natanael Gama | #3977 | 2026-09-02 |
-| `exo2/Exo2-Italic.ttf` | _awaiting license_ | Natanael Gama | #3977 | 2026-09-02 |
-| `exo2/Exo2-Regular.ttf` | _awaiting license_ | Natanael Gama | #3977 | 2026-09-02 |
-| `fallbacks/NotoEmoji-VariableFont_wght.ttf` | _awaiting license_ | Google | #4102 | 2026-09-02 |
-| `fallbacks/SourceHanSans-Regular.ttc` | _awaiting license_ | Adobe | #4102 | 2026-09-02 |
-| `monospaced/SourceCodePro-Medium.otf` | _awaiting license_ | Adobe | manual-audit | 2026-09-02 |
-| `monospaced/SourceCodePro-Semibold.otf` | _awaiting license_ | Adobe | manual-audit | 2026-09-02 |
-| `unlisted/Xolonium.otf` | _awaiting license_ | Severin Meyer | manual-audit | 2026-09-02 |
+| `Poppins-Medium.otf` | `OFL-1.1` | Indian Type Foundry / Jonny Pinhorn | manual-audit | 2026-11-07 |
+| `Poppins-Regular.otf` | `OFL-1.1` | Indian Type Foundry / Jonny Pinhorn | manual-audit | 2026-11-07 |
+| `exo2/Exo2-Bold.ttf` | `OFL-1.1` | Natanael Gama | #3977 | 2026-11-07 |
+| `exo2/Exo2-BoldItalic.ttf` | `OFL-1.1` | Natanael Gama | #3977 | 2026-11-07 |
+| `exo2/Exo2-Italic.ttf` | `OFL-1.1` | Natanael Gama | #3977 | 2026-11-07 |
+| `exo2/Exo2-Regular.ttf` | `OFL-1.1` | Natanael Gama | #3977 | 2026-11-07 |
+| `fallbacks/NotoEmoji-VariableFont_wght.ttf` | `OFL-1.1` | Google | #4102 | 2026-11-07 |
+| `fallbacks/SourceHanSans-Regular.ttc` | `OFL-1.1` | Adobe | #4102 | 2026-11-07 |
+| `monospaced/SourceCodePro-Medium.otf` | `OFL-1.1` | Adobe | manual-audit | 2026-11-07 |
+| `monospaced/SourceCodePro-Semibold.otf` | `OFL-1.1` | Adobe | manual-audit | 2026-11-07 |
+| `unlisted/Xolonium.otf` | `OFL-1.1` | Severin Meyer | manual-audit | 2026-11-07 |

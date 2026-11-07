@@ -1060,9 +1060,9 @@ Total assets recorded: **1063**
 | `rocks30_snow_normal.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `rocks30_snow_other.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-07 |
 | `sgreyrock1.tga` | _awaiting license_ | KDR_11k | manual-audit | 2026-09-07 |
-| `tree_fir_tall_5_1.dds` | `CC-BY-SA-4.0` | 0 AD | manual-audit | 2026-09-07 |
-| `tree_fir_tall_5_2.dds` | `CC-BY-SA-4.0` | 0 AD | manual-audit | 2026-09-07 |
-| `tree_fir_tall_5_normal.dds` | `CC-BY-SA-4.0` | 0 AD | manual-audit | 2026-09-07 |
+| `tree_fir_tall_5_1.dds` | `CC-BY-SA-3.0` | 0 AD | manual-audit | 2026-11-07 |
+| `tree_fir_tall_5_2.dds` | `CC-BY-SA-3.0` | 0 AD | manual-audit | 2026-11-07 |
+| `tree_fir_tall_5_normal.dds` | `CC-BY-SA-3.0` | 0 AD | manual-audit | 2026-11-07 |
 | `vcrimsonchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `whitechicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `whitechickenhc.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |

@@ -47660,21 +47660,19 @@
   },
   {
     "contributor": "Natanael Gama",
-    "date": "2026-09-02T07:35:55Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "fonts/Exo2-Regular.otf",
-    "license": "",
+    "license": "OFL-1.1",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Natanael Gama",
-    "date": "2026-09-02T07:35:55Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "fonts/Exo2-SemiBold.otf",
-    "license": "",
+    "license": "OFL-1.1",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "public domain",
@@ -47694,102 +47692,91 @@
   },
   {
     "contributor": "Indian Type Foundry / Jonny Pinhorn",
-    "date": "2026-09-02T07:35:55Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "fonts/Poppins-Medium.otf",
-    "license": "",
+    "license": "OFL-1.1",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Indian Type Foundry / Jonny Pinhorn",
-    "date": "2026-09-02T07:35:55Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "fonts/Poppins-Regular.otf",
-    "license": "",
+    "license": "OFL-1.1",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Natanael Gama",
-    "date": "2026-09-02T07:35:55Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "fonts/exo2/Exo2-Bold.ttf",
-    "license": "",
+    "license": "OFL-1.1",
     "pr": "3977",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Natanael Gama",
-    "date": "2026-09-02T07:35:55Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "fonts/exo2/Exo2-BoldItalic.ttf",
-    "license": "",
+    "license": "OFL-1.1",
     "pr": "3977",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Natanael Gama",
-    "date": "2026-09-02T07:35:55Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "fonts/exo2/Exo2-Italic.ttf",
-    "license": "",
+    "license": "OFL-1.1",
     "pr": "3977",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Natanael Gama",
-    "date": "2026-09-02T07:35:55Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "fonts/exo2/Exo2-Regular.ttf",
-    "license": "",
+    "license": "OFL-1.1",
     "pr": "3977",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Google",
-    "date": "2026-09-02T07:35:55Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "fonts/fallbacks/NotoEmoji-VariableFont_wght.ttf",
-    "license": "",
+    "license": "OFL-1.1",
     "pr": "4102",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Adobe",
-    "date": "2026-09-02T07:35:55Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "fonts/fallbacks/SourceHanSans-Regular.ttc",
-    "license": "",
+    "license": "OFL-1.1",
     "pr": "4102",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Adobe",
-    "date": "2026-09-02T07:35:55Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "fonts/monospaced/SourceCodePro-Medium.otf",
-    "license": "",
+    "license": "OFL-1.1",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Adobe",
-    "date": "2026-09-02T07:35:55Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "fonts/monospaced/SourceCodePro-Semibold.otf",
-    "license": "",
+    "license": "OFL-1.1",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Severin Meyer",
-    "date": "2026-09-02T07:35:55Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "fonts/unlisted/Xolonium.otf",
-    "license": "",
+    "license": "OFL-1.1",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -78386,33 +78373,33 @@
   },
   {
     "contributor": "0 AD",
-    "date": "2026-09-11T11:13:18Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "objects3d/fir_tree_large.s3o",
-    "license": "CC-BY-SA-4.0",
+    "license": "CC-BY-SA-3.0",
     "pr": "manual-audit",
     "source": "manual-audit"
   },
   {
     "contributor": "0 AD",
-    "date": "2026-09-11T11:13:18Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "objects3d/fir_tree_medium.s3o",
-    "license": "CC-BY-SA-4.0",
+    "license": "CC-BY-SA-3.0",
     "pr": "manual-audit",
     "source": "manual-audit"
   },
   {
     "contributor": "0 AD",
-    "date": "2026-09-11T11:13:18Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "objects3d/fir_tree_small.s3o",
-    "license": "CC-BY-SA-4.0",
+    "license": "CC-BY-SA-3.0",
     "pr": "manual-audit",
     "source": "manual-audit"
   },
   {
     "contributor": "0 AD",
-    "date": "2026-09-11T11:13:18Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "objects3d/fir_tree_smallest.s3o",
-    "license": "CC-BY-SA-4.0",
+    "license": "CC-BY-SA-3.0",
     "pr": "manual-audit",
     "source": "manual-audit"
   },
@@ -115910,25 +115897,25 @@
   },
   {
     "contributor": "0 AD",
-    "date": "2026-09-07T20:34:55Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "unittextures/tree_fir_tall_5_1.dds",
-    "license": "CC-BY-SA-4.0",
+    "license": "CC-BY-SA-3.0",
     "pr": "manual-audit",
     "source": "manual-audit"
   },
   {
     "contributor": "0 AD",
-    "date": "2026-09-07T20:34:55Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "unittextures/tree_fir_tall_5_2.dds",
-    "license": "CC-BY-SA-4.0",
+    "license": "CC-BY-SA-3.0",
     "pr": "manual-audit",
     "source": "manual-audit"
   },
   {
     "contributor": "0 AD",
-    "date": "2026-09-07T20:34:55Z",
+    "date": "2026-11-07T12:43:55Z",
     "file": "unittextures/tree_fir_tall_5_normal.dds",
-    "license": "CC-BY-SA-4.0",
+    "license": "CC-BY-SA-3.0",
     "pr": "manual-audit",
     "source": "manual-audit"
   },
