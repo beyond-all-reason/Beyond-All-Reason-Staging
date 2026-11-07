@@ -171,6 +171,13 @@
       "release_only": true,
       "store": "pixabay"
     },
+    "LicenseRef-BAR-Proprietary-1.0": {
+      "name": "BAR Team B.V. Proprietary Asset Terms (draft, pending counsel)",
+      "label": "license: BAR-owned",
+      "requires_rights_holder": true,
+      "rights_holder_default": "BAR Team B.V.",
+      "draft": true
+    },
     "WTFPL": {
       "name": "Do What The F*ck You Want To Public License",
       "label": "license: WTFPL"

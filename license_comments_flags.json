@@ -853,13 +853,6 @@
       "comments": []
     },
     {
-      "file": "objects3d/Units/license.txt",
-      "flags": [
-        "unused"
-      ],
-      "comments": []
-    },
-    {
       "file": "objects3d/Units/scavboss/armassimilator.s3o",
       "flags": [],
       "comments": [
@@ -937,19 +930,6 @@
         "unused"
       ],
       "comments": []
-    },
-    {
-      "file": "objects3d/fgrep.exe",
-      "flags": [
-        "unused"
-      ],
-      "comments": [
-        {
-          "author": "BAR CLA Bot",
-          "date": "2026-09-11",
-          "text": "Why is the .exe in here?"
-        }
-      ]
     },
     {
       "file": "sidepics/random.png",
@@ -2174,14 +2154,6 @@
     {
       "file": "unitpics/legoptio.dds",
       "flags": [
-        "unsure"
-      ],
-      "comments": []
-    },
-    {
-      "file": "unitpics/other/banana.dds",
-      "flags": [
-        "unused",
         "unsure"
       ],
       "comments": []
