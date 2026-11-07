@@ -1,0 +1,923 @@
+# SPDX-License-Identifier: GPL-2.0-or-later
+name: CLA Check
+
+# Rules (art dirs, licenses, ledger paths) live in .github/licensing.json and
+# .github/scripts/licensing.js, shared with the desktop auditor.
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, closed]
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: read
+  pull-requests: write
+  statuses: write
+
+jobs:
+  # Job 1: classify the PR's files
+  detect-assets:
+    if: >-
+      github.event_name == 'pull_request_target' &&
+      github.event.action != 'closed'
+    runs-on: ubuntu-latest
+    outputs:
+      has_art_assets: ${{ steps.check-files.outputs.has_art_assets }}
+      art_files_count: ${{ steps.check-files.outputs.art_files_count }}
+      has_replaced_art_assets: ${{ steps.check-files.outputs.has_replaced_art_assets }}
+      replaced_art_files_list: ${{ steps.check-files.outputs.replaced_art_files_list }}
+    steps:
+      - name: Checkout licensing rules (base branch)
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            .github/licensing.json
+            .github/scripts
+          sparse-checkout-cone-mode: false
+
+      - name: Check for art/audio assets
+        id: check-files
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const lib = require(`${process.env.GITHUB_WORKSPACE}/.github/scripts/licensing.js`);
+            const cfg = lib.loadConfig();
+            const files = await github.paginate(github.rest.pulls.listFiles, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.payload.pull_request.number,
+              per_page: 100,
+            });
+            const art = files.filter(f => f.status !== 'removed' && lib.isArt(f.filename, cfg));
+            const modified = art.filter(f => f.status === 'modified');
+            const list = arr => arr.length > 10
+              ? arr.slice(0, 10).map(f => f.filename).join('\n') + `\n... and ${arr.length - 10} more files`
+              : arr.map(f => f.filename).join('\n');
+            core.setOutput('has_art_assets', art.length > 0 ? 'true' : 'false');
+            core.setOutput('art_files_count', String(art.length));
+            core.setOutput('has_replaced_art_assets', modified.length > 0 ? 'true' : 'false');
+            core.setOutput('replaced_art_files_list', list(modified));
+            console.log(`${art.length} art file(s), ${modified.length} modified existing asset(s)`);
+
+  # Job 2: compare the PR's art files with the ledgers, inject the selection section
+  cla-check:
+    needs: detect-assets
+    if: needs.detect-assets.outputs.has_art_assets == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository (base branch)
+        uses: actions/checkout@v4
+
+      - name: Determine license status per file
+        id: cla-status
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const lib = require(`${process.env.GITHUB_WORKSPACE}/.github/scripts/licensing.js`);
+            const cfg = lib.loadConfig();
+            const ledgers = lib.loadLedgers(cfg);
+            const prNumber = context.payload.pull_request.number;
+            const prAuthor = context.payload.pull_request.user.login;
+            const prBody = context.payload.pull_request.body || '';
+
+            const files = await github.paginate(github.rest.pulls.listFiles, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: prNumber,
+              per_page: 100,
+            });
+            const c = lib.classifyPrFiles(files, ledgers, cfg);
+
+            core.setOutput('licensed_files', JSON.stringify(c.licensed));
+            core.setOutput('unlicensed_files', JSON.stringify(c.needsLicense));
+            core.setOutput('legacy_files', JSON.stringify(c.legacy));
+            core.setOutput('licensed_count', String(c.licensed.length));
+            core.setOutput('unlicensed_count', String(c.needsLicense.length));
+
+            if (c.needsLicense.length === 0) {
+              core.setOutput('status', 'all_licensed');
+              console.log(`${c.artFiles.length} art file(s): nothing to license in this PR.`);
+              return;
+            }
+            if (/<!-- BAR-LICENSE-SELECTION -->/.test(prBody)) {
+              core.setOutput('status', 'awaiting_choice');
+              console.log(`${prAuthor}: section present, awaiting /confirm-license`);
+              return;
+            }
+            core.setOutput('status', 'needs_injection');
+
+      - name: Inject license selection into PR body
+        if: steps.cla-status.outputs.status == 'needs_injection'
+        uses: actions/github-script@v7
+        env:
+          UNLICENSED: ${{ steps.cla-status.outputs.unlicensed_files }}
+        with:
+          script: |
+            const lib = require(`${process.env.GITHUB_WORKSPACE}/.github/scripts/licensing.js`);
+            const cfg = lib.loadConfig();
+            const prNumber = context.payload.pull_request.number;
+            const prBody = context.payload.pull_request.body || '';
+            const unlicensed = JSON.parse(process.env.UNLICENSED || '[]');
+            const branch = context.payload.repository.default_branch;
+            const repoUrl = `https://github.com/${context.repo.owner}/${context.repo.repo}`;
+
+            // One checkbox line per configured choice; the id in backticks is what gets parsed back.
+            let choiceLines = '';
+            for (const id of cfg.pr_choices) {
+              const l = cfg.licenses[id] || {};
+              const doc = l.doc ? ` ([details](${repoUrl}/blob/${branch}/${l.doc}))` : '';
+              choiceLines += `- [ ] **${l.name || id}** \`${id}\` — ${l.blurb || ''}${doc}\n`;
+            }
+
+            let fileBlocks = '';
+            for (const f of unlicensed) {
+              fileBlocks +=
+                '<!-- BAR-FILE-BLOCK file="' + f + '" -->\n'
+                + '<details open>\n'
+                + '<summary><strong>' + f.replace(/`/g, '\\`') + '</strong></summary>\n\n'
+                + '**License** (tick exactly one):\n'
+                + choiceLines + '\n'
+                + '**Authorship** (tick only if submitting on behalf of another person):\n'
+                + '- [ ] I am submitting this file on behalf of another person\n'
+                + '  Original author: `@username` ← replace with their GitHub handle\n\n'
+                + '</details>\n\n'
+                + '<!-- END-BAR-FILE-BLOCK file="' + f + '" -->\n\n';
+            }
+
+            const section = '\n\n<!-- BAR-LICENSE-SELECTION -->\n---\n\n'
+              + '## \u{1F4CB} License Selection\n\n'
+              + '> Each file below has its own license and authorship section. Expand each one, tick your choices, then post `/confirm-license`.\n\n'
+              + '> You retain copyright in every case.\n\n'
+              + fileBlocks
+              + '<!-- END-BAR-LICENSE-SELECTION -->';
+
+            await github.rest.pulls.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: prNumber,
+              body: prBody + section,
+            });
+
+      - name: Post / update pointer comment
+        if: >-
+          steps.cla-status.outputs.status == 'needs_injection' ||
+          steps.cla-status.outputs.status == 'awaiting_choice'
+        uses: actions/github-script@v7
+        env:
+          UNLICENSED: ${{ steps.cla-status.outputs.unlicensed_files }}
+          LICENSED: ${{ steps.cla-status.outputs.licensed_files }}
+          LEGACY: ${{ steps.cla-status.outputs.legacy_files }}
+        with:
+          script: |
+            const prNumber = context.payload.pull_request.number;
+            const prAuthor = context.payload.pull_request.user.login;
+            const unlicensed = JSON.parse(process.env.UNLICENSED || '[]');
+            const licensed = JSON.parse(process.env.LICENSED || '[]');
+            const legacy = JSON.parse(process.env.LEGACY || '[]');
+
+            let body = `<!-- BAR-CLA-BOT -->\n@${prAuthor} — a **License Selection** section has been added to the PR description above ☝️\n\n`;
+            body += `Each new file has its own collapsible block. Expand each one, tick a license, then post \`/confirm-license\`.\n\n`;
+            body += `### ❌ New files requiring a license declaration (${unlicensed.length})\n`;
+            for (const f of unlicensed) body += `- \`${f}\`\n`;
+            if (licensed.length > 0) {
+              body += `\n### ✅ Files already licensed (${licensed.length})\n`;
+              for (const lf of licensed) {
+                const moved = lf.renamed_from ? ` (moved from \`${lf.renamed_from}\`)` : '';
+                body += `- \`${lf.file}\` — \`${lf.license}\` (recorded for ${lf.author})${moved}\n`;
+              }
+            }
+            if (legacy.length > 0) {
+              body += `\n### ℹ️ Existing assets edited, license unchanged (${legacy.length})\n`;
+              for (const lf of legacy) {
+                const note = lf.status === 'awaiting'
+                  ? `awaiting consent from ${lf.author}`
+                  : 'no record yet; covered by the retroactive audit';
+                body += `- \`${lf.file}\` — ${note}\n`;
+              }
+              body += `\nIf you rebuilt any of these from scratch, say so with \`I replaced these files from scratch\`.\n`;
+            }
+            body += `\nPost a comment with:\n\`\`\`\n/confirm-license\n\`\`\`\nEach file can have a different license and a different original author.`;
+
+            const comments = await github.rest.issues.listComments({
+              owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber,
+            });
+            const existing = comments.data.find(c => c.user.type === 'Bot' && c.body.includes('<!-- BAR-CLA-BOT -->'));
+            if (existing) {
+              await github.rest.issues.updateComment({ owner: context.repo.owner, repo: context.repo.repo, comment_id: existing.id, body });
+            } else {
+              await github.rest.issues.createComment({ owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, body });
+            }
+
+      - name: Set commit status
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const lib = require(`${process.env.GITHUB_WORKSPACE}/.github/scripts/licensing.js`);
+            const cfg = lib.loadConfig();
+            const status = '${{ steps.cla-status.outputs.status }}';
+            const allLicensed = status === 'all_licensed';
+            const unlicensedCount = parseInt('${{ steps.cla-status.outputs.unlicensed_count }}', 10) || 0;
+            const totalCount = parseInt('${{ needs.detect-assets.outputs.art_files_count }}', 10) || 0;
+            const branch = context.payload.repository.default_branch;
+            await github.rest.repos.createCommitStatus({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              sha: context.payload.pull_request.head.sha,
+              state: allLicensed ? 'success' : 'failure',
+              target_url: `https://github.com/${context.repo.owner}/${context.repo.repo}/blob/${branch}/${cfg.legal_dir}/CLA.md`,
+              description: allLicensed
+                ? `All ${totalCount} art file(s) covered`
+                : `${unlicensedCount} of ${totalCount} art file(s) need a license — tick a box then post /confirm-license`,
+              context: cfg.status_context,
+            });
+
+  # Job 3: code-only PRs pass
+  cla-not-required:
+    needs: detect-assets
+    if: needs.detect-assets.outputs.has_art_assets != 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout licensing rules (base branch)
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            .github/licensing.json
+            .github/scripts
+          sparse-checkout-cone-mode: false
+
+      - name: Set passing status for code-only PR
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const lib = require(`${process.env.GITHUB_WORKSPACE}/.github/scripts/licensing.js`);
+            const cfg = lib.loadConfig();
+            await github.rest.repos.createCommitStatus({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              sha: context.payload.pull_request.head.sha,
+              state: 'success',
+              description: 'No art/audio assets detected — code license applies',
+              context: cfg.status_context,
+            });
+
+  # Job 4: flag PRs that modify existing art assets
+  flag-asset-replacement:
+    needs: detect-assets
+    if: >-
+      github.event_name == 'pull_request_target' &&
+      needs.detect-assets.outputs.has_replaced_art_assets == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Apply label and post replacement warning
+        uses: actions/github-script@v7
+        env:
+          REPLACED: ${{ needs.detect-assets.outputs.replaced_art_files_list }}
+        with:
+          script: |
+            const prNumber = context.payload.pull_request.number;
+            const prAuthor = context.payload.pull_request.user.login;
+            const prBody = context.payload.pull_request.body || '';
+            const declaredFullReplacement = /- \[x\] I created all modified files entirely from scratch/i.test(prBody);
+
+            const comments = await github.rest.issues.listComments({
+              owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber,
+            });
+            if (comments.data.find(c => c.user.type === 'Bot' && c.body.includes('<!-- BAR-ASSET-REPLACE-BOT -->'))) return;
+
+            const fileList = (process.env.REPLACED || '').split('\n')
+              .filter(f => f.trim())
+              .map(f => '- `' + f.trim() + '`')
+              .join('\n');
+
+            const label = declaredFullReplacement ? 'asset: replaced' : 'needs-licensing-review';
+            try {
+              await github.rest.issues.addLabels({ owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, labels: [label] });
+            } catch (e) {
+              console.log(`Could not add label: ${e.message}`);
+            }
+            const body = declaredFullReplacement
+              ? `<!-- BAR-ASSET-REPLACE-BOT -->\n### Full Replacement Declared\n\n@${prAuthor} has declared that all modified files were created entirely from scratch. License ownership will be assigned to @${prAuthor} for these files:\n\n${fileList}\n\nA maintainer will do a final confirmation before merge.`
+              : `<!-- BAR-ASSET-REPLACE-BOT -->\n### Modified Existing Art Assets Detected\n\n@${prAuthor}, this PR modifies **existing** art/audio files:\n\n${fileList}\n\n**Please clarify the nature of your changes** by replying with one of:\n\n- If you **built these files entirely from scratch** (no prior author's work remains), reply with:\n  \`\`\`\n  I replaced these files from scratch\n  \`\`\`\n  License ownership will be reassigned to you.\n\n- If you **fixed, tweaked, or iterated** on someone else's work, no action is needed.\n  The original author's license will be preserved and a maintainer will review.\n\nThis PR has been labelled **needs-licensing-review**.`;
+            await github.rest.issues.createComment({ owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, body });
+
+  # Job 5: comment commands
+  process-comment:
+    if: >-
+      github.event_name == 'issue_comment' &&
+      github.event.issue.pull_request
+    runs-on: ubuntu-latest
+    steps:
+      - name: Parse command
+        id: parse-comment
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = context.payload.comment.body.trim().toLowerCase();
+            core.setOutput('commenter', context.payload.comment.user.login);
+            core.setOutput('full_replacement', body === 'i replaced these files from scratch' ? 'true' : 'false');
+            core.setOutput('confirm_license', body === '/confirm-license' ? 'true' : 'false');
+            core.setOutput('confirm_authorship', body === '/confirm-authorship' ? 'true' : 'false');
+
+      - name: Handle full-replacement declaration comment
+        if: steps.parse-comment.outputs.full_replacement == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prNumber = context.payload.issue.number;
+            const commenter = '${{ steps.parse-comment.outputs.commenter }}';
+            const pr = await github.rest.pulls.get({ owner: context.repo.owner, repo: context.repo.repo, pull_number: prNumber });
+            if (commenter.toLowerCase() !== pr.data.user.login.toLowerCase()) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber,
+                body: `<!-- BAR-ASSET-REPLACE-BOT -->\nOnly the PR author (**${pr.data.user.login}**) can declare asset replacement. @${commenter}, this declaration was not recorded.`,
+              });
+              return;
+            }
+            try {
+              await github.rest.issues.removeLabel({ owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, name: 'needs-licensing-review' });
+            } catch (e) { /* label may not exist */ }
+            try {
+              await github.rest.issues.addLabels({ owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, labels: ['asset: replaced'] });
+            } catch (e) {
+              console.log(`Could not add label: ${e.message}`);
+            }
+            await github.rest.issues.createComment({
+              owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber,
+              body: `<!-- BAR-ASSET-REPLACE-BOT -->\n### Full Replacement Declared\n\n@${commenter} has confirmed these files were created entirely from scratch. License ownership will be reassigned to @${commenter}.\n\nA maintainer will do a final confirmation before merge.`,
+            });
+
+      - name: Checkout for CLA commands
+        if: >-
+          steps.parse-comment.outputs.confirm_license == 'true' ||
+          steps.parse-comment.outputs.confirm_authorship == 'true'
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          token: ${{ secrets.CLA_BOT_TOKEN }}
+
+      - name: Process confirm-license command
+        if: steps.parse-comment.outputs.confirm_license == 'true'
+        id: confirm-license
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.CLA_BOT_TOKEN }}
+          script: |
+            const lib = require(`${process.env.GITHUB_WORKSPACE}/.github/scripts/licensing.js`);
+            const cfg = lib.loadConfig();
+            const ledgers = lib.loadLedgers(cfg);
+            const prNumber = context.payload.issue.number;
+            const commenter = context.payload.comment.user.login;
+            const say = body => github.rest.issues.createComment({
+              owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, body: `<!-- BAR-CLA-BOT -->\n${body}`,
+            });
+            core.setOutput('cl_recorded', 'false');
+
+            const pr = await github.rest.pulls.get({ owner: context.repo.owner, repo: context.repo.repo, pull_number: prNumber });
+            const prAuthor = pr.data.user.login;
+            if (commenter.toLowerCase() !== prAuthor.toLowerCase()) {
+              await say(`Only the PR author (**${prAuthor}**) can confirm a license. @${commenter}, this was not recorded.`);
+              return;
+            }
+
+            // Rate limit: one confirmation per author per 10 minutes.
+            const signatures = ledgers.signatures;
+            const mine = signatures
+              .filter(s => (s.github_username || '').toLowerCase() === prAuthor.toLowerCase())
+              .sort((a, b) => new Date(b.signed_at) - new Date(a.signed_at));
+            if (mine.length > 0) {
+              const msSince = Date.now() - new Date(mine[0].signed_at);
+              const msLimit = 10 * 60 * 1000;
+              if (msSince < msLimit) {
+                await say(`⏳ @${prAuthor} — rate limited. Please wait **${Math.ceil((msLimit - msSince) / 60000)} more minute(s)** before confirming again.`);
+                return;
+              }
+            }
+
+            const prBody = pr.data.body || '';
+            const sectionMatch = prBody.match(/<!-- BAR-LICENSE-SELECTION -->([\s\S]*?)<!-- END-BAR-LICENSE-SELECTION -->/);
+            if (!sectionMatch) {
+              await say(`@${prAuthor} — no license selection section found in the PR description. Push a new commit or re-open the PR so the bot re-injects it.`);
+              return;
+            }
+
+            // Per-file blocks: exactly one ticked license id, optional proxy author.
+            const fileBlockRe = /<!-- BAR-FILE-BLOCK file="([^"]+)" -->([\s\S]*?)<!-- END-BAR-FILE-BLOCK file="[^"]+" -->/g;
+            const tickedRe = /- \[x\] \*\*[^*\n]+\*\* `([^`\n]+)`/gi;
+            const selections = new Map();
+            const errors = [];
+            let block;
+            while ((block = fileBlockRe.exec(sectionMatch[1])) !== null) {
+              const filePath = block[1];
+              const content = block[2];
+              const ticked = [...content.matchAll(tickedRe)].map(m => m[1]).filter(id => cfg.pr_choices.includes(id));
+              if (ticked.length !== 1) {
+                errors.push({ file: filePath, problem: ticked.length ? 'more than one license box ticked' : 'no license box ticked' });
+                continue;
+              }
+              let creditedAuthor = null;
+              if (/- \[x\] I am submitting this file on behalf of another person/i.test(content)) {
+                const after = content.split(/Original author:/i)[1] || '';
+                const m = [...after.matchAll(/@`?([A-Za-z0-9][A-Za-z0-9-]*)`?/g)].map(x => x[1]).find(h => h.toLowerCase() !== 'username');
+                if (!m) { errors.push({ file: filePath, problem: 'proxy ticked but no original author handle filled in' }); continue; }
+                if (m.toLowerCase() === prAuthor.toLowerCase()) { errors.push({ file: filePath, problem: 'original author cannot be yourself' }); continue; }
+                creditedAuthor = m;
+              }
+              selections.set(filePath, { license: ticked[0], creditedAuthor });
+            }
+            if (errors.length > 0) {
+              await say(`@${prAuthor} — fix the following file(s) in the license selection, then post \`/confirm-license\` again:\n\n` + errors.map(e => `- \`${e.file}\`: ${e.problem}`).join('\n'));
+              return;
+            }
+            if (selections.size === 0) {
+              await say(`@${prAuthor} — no file selection blocks found. Expand each file section, tick a license box, then post \`/confirm-license\` again.`);
+              return;
+            }
+
+            const files = await github.paginate(github.rest.pulls.listFiles, {
+              owner: context.repo.owner, repo: context.repo.repo, pull_number: prNumber, per_page: 100,
+            });
+            const c = lib.classifyPrFiles(files, ledgers, cfg);
+            // Recordable: new files, plus intent records this PR already owns.
+            const updatable = c.licensed.filter(x => x.status === 'intent' && x.pr === prNumber).map(x => x.file);
+            const locked = c.licensed.filter(x => !(x.status === 'intent' && x.pr === prNumber));
+            const recordable = [...c.needsLicense, ...updatable];
+            if (recordable.length === 0) {
+              await say(`@${prAuthor} — nothing in this PR needs a license declaration from you.`);
+              return;
+            }
+
+            const resolve = f => selections.get(f) || (selections.size === 1 ? [...selections.values()][0] : null);
+            const now = new Date().toISOString();
+            const missing = [];
+            const recorded = [];
+            for (const file of recordable) {
+              const sel = resolve(file);
+              if (!sel) { missing.push(file); continue; }
+              const isProxy = sel.creditedAuthor !== null;
+              let rec = signatures.find(s => s.file === file && s.status === 'intent' && s.pr === prNumber);
+              if (!rec) {
+                rec = { file, status: 'intent', pr: prNumber };
+                signatures.push(rec);
+              }
+              rec.github_username = isProxy ? sel.creditedAuthor : prAuthor;
+              rec.license = sel.license;
+              rec.signed_at = now;
+              rec.source = 'confirm-license-command';
+              delete rec.authorship_confirmed_at;
+              if (isProxy) {
+                rec.proxy_submitter = prAuthor;
+                rec.proxy_status = 'pending-author-confirmation';
+              } else {
+                delete rec.proxy_submitter;
+                delete rec.proxy_status;
+              }
+              recorded.push({ file, license: sel.license, creditedAuthor: sel.creditedAuthor });
+            }
+            lib.saveLedgers(cfg, ledgers, ['signatures']);
+
+            if (missing.length > 0) {
+              await say(`⚠️ @${prAuthor} — these file(s) have no selection block in the PR description yet. Push a commit so the bot re-injects the section, then confirm again:\n\n` + missing.map(f => `- \`${f}\``).join('\n'));
+            }
+
+            const pending = [...new Set(recorded.filter(m => m.creditedAuthor).map(m => m.creditedAuthor))];
+            core.setOutput('cl_recorded', 'true');
+            core.setOutput('cl_pr_sha', pr.data.head.sha);
+            core.setOutput('cl_pr_number', String(prNumber));
+            core.setOutput('cl_author', prAuthor);
+            core.setOutput('cl_summary', [...new Set(recorded.map(m => m.license))].join('+'));
+            core.setOutput('cl_recorded_meta', JSON.stringify(recorded));
+            core.setOutput('cl_already_licensed', JSON.stringify(locked));
+            core.setOutput('cl_legacy', JSON.stringify(c.legacy));
+            core.setOutput('cl_pending_authors', JSON.stringify(pending));
+
+      - name: Commit license intent signatures
+        if: steps.confirm-license.outputs.cl_recorded == 'true'
+        env:
+          CL_SUMMARY: ${{ steps.confirm-license.outputs.cl_summary }}
+          CL_AUTHOR: ${{ steps.confirm-license.outputs.cl_author }}
+          CL_PR: ${{ steps.confirm-license.outputs.cl_pr_number }}
+        run: |
+          read -r BOT_NAME BOT_EMAIL < <(node -e "const c=require('./.github/scripts/licensing.js').loadConfig(); console.log(c.bot.name, c.bot.email)")
+          git config user.name "$BOT_NAME"
+          git config user.email "$BOT_EMAIL"
+          git add .github/cla-signatures.json
+          git commit -m "CLA: Record intent ($CL_SUMMARY) for $CL_AUTHOR - PR #$CL_PR (pending merge)"
+          git push
+
+      - name: Post confirm-license result
+        if: steps.confirm-license.outputs.cl_recorded == 'true'
+        uses: actions/github-script@v7
+        env:
+          RECORDED: ${{ steps.confirm-license.outputs.cl_recorded_meta }}
+          LOCKED: ${{ steps.confirm-license.outputs.cl_already_licensed }}
+          LEGACY: ${{ steps.confirm-license.outputs.cl_legacy }}
+          PENDING: ${{ steps.confirm-license.outputs.cl_pending_authors }}
+        with:
+          script: |
+            const lib = require(`${process.env.GITHUB_WORKSPACE}/.github/scripts/licensing.js`);
+            const cfg = lib.loadConfig();
+            const prNumber = parseInt('${{ steps.confirm-license.outputs.cl_pr_number }}', 10);
+            const sha = '${{ steps.confirm-license.outputs.cl_pr_sha }}';
+            const author = '${{ steps.confirm-license.outputs.cl_author }}';
+            const recorded = JSON.parse(process.env.RECORDED || '[]');
+            const locked = JSON.parse(process.env.LOCKED || '[]');
+            const legacy = JSON.parse(process.env.LEGACY || '[]');
+            const pending = JSON.parse(process.env.PENDING || '[]');
+            const branch = context.payload.repository.default_branch;
+            const LIMIT = 20;
+
+            let body = `<!-- BAR-CLA-BOT -->\n`;
+            body += pending.length
+              ? `⏳ @${author} — license selections recorded, waiting for authorship confirmation from: ${pending.map(a => `@${a}`).join(', ')}\n\n`
+              : `✅ @${author} — license selections recorded.\n\n`;
+            body += `### Files covered (${recorded.length})\n`;
+            body += recorded.length > LIMIT
+              ? `Files covered: ${recorded.length} — see the **Files changed** tab for the full list.\n`
+              : recorded.map(m => `- \`${m.file}\` — \`${m.license}\`${m.creditedAuthor ? ` — credited to @${m.creditedAuthor} ⏳` : ''}\n`).join('');
+            if (locked.length > 0) {
+              body += `\n### Already licensed (${locked.length})\n`;
+              for (const lf of locked) body += `- \`${lf.file}\` — \`${lf.license}\` (recorded for ${lf.author})\n`;
+            }
+            if (legacy.length > 0) {
+              body += `\n### Existing assets edited, license unchanged (${legacy.length})\n`;
+              for (const lf of legacy) body += `- \`${lf.file}\` — ${lf.status === 'awaiting' ? `awaiting consent from ${lf.author}` : 'no record yet'}\n`;
+            }
+            for (const p of pending) {
+              const mine = recorded.filter(m => m.creditedAuthor === p);
+              const list = mine.length <= LIMIT ? mine.map(m => `- \`${m.file}\` — \`${m.license}\``).join('\n') : `${mine.length} files`;
+              body += `\n---\n@${p} — @${author} has submitted artwork on your behalf.\n\n${list}\n\nPlease confirm this is your work and you approve the license choice(s) by replying:\n\`\`\`\n/confirm-authorship\n\`\`\``;
+            }
+            if (!pending.length) body += `\nThank you! The license assignment will be finalized when this PR is merged.`;
+
+            const comments = await github.rest.issues.listComments({ owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber });
+            const existing = comments.data.find(c => c.user.type === 'Bot' && c.body.includes('<!-- BAR-CLA-BOT -->'));
+            if (existing) {
+              await github.rest.issues.updateComment({ owner: context.repo.owner, repo: context.repo.repo, comment_id: existing.id, body });
+            } else {
+              await github.rest.issues.createComment({ owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, body });
+            }
+
+            const target_url = `https://github.com/${context.repo.owner}/${context.repo.repo}/blob/${branch}/${cfg.legal_dir}/CLA.md`;
+            if (pending.length) {
+              await github.rest.repos.createCommitStatus({
+                owner: context.repo.owner, repo: context.repo.repo, sha, state: 'failure', target_url,
+                description: `Awaiting authorship confirmation from: ${pending.map(a => '@' + a).join(', ')}`,
+                context: cfg.status_context,
+              });
+              return;
+            }
+            const unique = [...new Set(recorded.map(m => m.license))];
+            await github.rest.repos.createCommitStatus({
+              owner: context.repo.owner, repo: context.repo.repo, sha, state: 'success', target_url,
+              description: `License intent: ${unique.length === 1 ? unique[0] : 'per-file (mixed)'} — finalizes on merge`,
+              context: cfg.status_context,
+            });
+            // Labels mirror the set of licenses chosen in this PR.
+            const wanted = new Set(unique.map(id => lib.licenseLabel(id, cfg)));
+            for (const label of lib.allLicenseLabels(cfg)) {
+              try {
+                if (wanted.has(label)) {
+                  await github.rest.issues.addLabels({ owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, labels: [label] });
+                } else {
+                  await github.rest.issues.removeLabel({ owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, name: label });
+                }
+              } catch (e) { /* label absent */ }
+            }
+
+      - name: Process confirm-authorship command
+        if: steps.parse-comment.outputs.confirm_authorship == 'true'
+        id: confirm-authorship
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const lib = require(`${process.env.GITHUB_WORKSPACE}/.github/scripts/licensing.js`);
+            const cfg = lib.loadConfig();
+            const ledgers = lib.loadLedgers(cfg);
+            const prNumber = context.payload.issue.number;
+            const commenter = context.payload.comment.user.login;
+            core.setOutput('ca_recorded', 'false');
+
+            const isMine = s => s.pr === prNumber && s.proxy_status === 'pending-author-confirmation'
+              && (s.github_username || '').toLowerCase() === commenter.toLowerCase();
+            const pending = ledgers.signatures.filter(isMine);
+            if (pending.length === 0) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber,
+                body: `<!-- BAR-CLA-BOT -->\n@${commenter} — no pending authorship confirmation found for you in this PR. Either the submitter hasn't run \`/confirm-license\` yet, or you are not the credited author.`,
+              });
+              return;
+            }
+            const now = new Date().toISOString();
+            for (const s of pending) {
+              s.proxy_status = 'confirmed';
+              s.authorship_confirmed_at = now;
+            }
+            lib.saveLedgers(cfg, ledgers, ['signatures']);
+
+            const pr = await github.rest.pulls.get({ owner: context.repo.owner, repo: context.repo.repo, pull_number: prNumber });
+            core.setOutput('ca_recorded', 'true');
+            core.setOutput('ca_licenses', JSON.stringify([...new Set(pending.map(s => s.license))]));
+            core.setOutput('ca_sha', pr.data.head.sha);
+            core.setOutput('ca_commenter', commenter);
+            core.setOutput('ca_submitter', pending[0].proxy_submitter || '');
+            core.setOutput('ca_pr_number', String(prNumber));
+            core.setOutput('ca_file_count', String(pending.length));
+            // Other proxy artists on the same PR may still be pending.
+            core.setOutput('ca_still_pending', JSON.stringify([...new Set(ledgers.signatures
+              .filter(s => s.pr === prNumber && s.proxy_status === 'pending-author-confirmation')
+              .map(s => s.github_username))]));
+
+      - name: Commit authorship confirmation
+        if: steps.confirm-authorship.outputs.ca_recorded == 'true'
+        env:
+          CA_COMMENTER: ${{ steps.confirm-authorship.outputs.ca_commenter }}
+          CA_PR: ${{ steps.confirm-authorship.outputs.ca_pr_number }}
+        run: |
+          read -r BOT_NAME BOT_EMAIL < <(node -e "const c=require('./.github/scripts/licensing.js').loadConfig(); console.log(c.bot.name, c.bot.email)")
+          git config user.name "$BOT_NAME"
+          git config user.email "$BOT_EMAIL"
+          git add .github/cla-signatures.json
+          git commit -m "CLA: Authorship confirmed by $CA_COMMENTER - PR #$CA_PR"
+          git push
+
+      - name: Post authorship confirmation result
+        if: steps.confirm-authorship.outputs.ca_recorded == 'true'
+        uses: actions/github-script@v7
+        env:
+          LICENSES: ${{ steps.confirm-authorship.outputs.ca_licenses }}
+          STILL_PENDING: ${{ steps.confirm-authorship.outputs.ca_still_pending }}
+        with:
+          script: |
+            const lib = require(`${process.env.GITHUB_WORKSPACE}/.github/scripts/licensing.js`);
+            const cfg = lib.loadConfig();
+            const prNumber = parseInt('${{ steps.confirm-authorship.outputs.ca_pr_number }}', 10);
+            const sha = '${{ steps.confirm-authorship.outputs.ca_sha }}';
+            const artist = '${{ steps.confirm-authorship.outputs.ca_commenter }}';
+            const submitter = '${{ steps.confirm-authorship.outputs.ca_submitter }}';
+            const fileCount = '${{ steps.confirm-authorship.outputs.ca_file_count }}';
+            const licenses = JSON.parse(process.env.LICENSES || '[]');
+            const stillPending = JSON.parse(process.env.STILL_PENDING || '[]');
+            const branch = context.payload.repository.default_branch;
+            const names = licenses.map(id => lib.licenseName(id, cfg)).join(', ');
+
+            let body = `<!-- BAR-CLA-BOT -->\n✅ @${artist} has confirmed authorship — license selection recorded: **${names}**\n\n`
+              + `- Artwork credited to: @${artist}\n`
+              + (submitter ? `- Submitted by: @${submitter}\n` : '')
+              + `- Files covered: ${fileCount}\n\n`;
+            body += stillPending.length
+              ? `Still waiting for: ${stillPending.map(a => '@' + a).join(', ')}.`
+              : `The license assignment will be finalized when this PR is merged.`;
+
+            const comments = await github.rest.issues.listComments({ owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber });
+            const existing = comments.data.find(c => c.user.type === 'Bot' && c.body.includes('<!-- BAR-CLA-BOT -->'));
+            if (existing) {
+              await github.rest.issues.updateComment({ owner: context.repo.owner, repo: context.repo.repo, comment_id: existing.id, body });
+            } else {
+              await github.rest.issues.createComment({ owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, body });
+            }
+
+            await github.rest.repos.createCommitStatus({
+              owner: context.repo.owner, repo: context.repo.repo, sha,
+              state: stillPending.length ? 'failure' : 'success',
+              target_url: `https://github.com/${context.repo.owner}/${context.repo.repo}/blob/${branch}/${cfg.legal_dir}/CLA.md`,
+              description: stillPending.length
+                ? `Awaiting authorship confirmation from: ${stillPending.map(a => '@' + a).join(', ')}`
+                : `License intent: ${licenses.join(', ')} — authorship confirmed, finalizes on merge`,
+              context: cfg.status_context,
+            });
+            for (const id of licenses) {
+              try {
+                await github.rest.issues.addLabels({ owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, labels: [lib.licenseLabel(id, cfg)] });
+              } catch (e) { /* label absent */ }
+            }
+
+  # Job 6: drop intent records when a PR closes without merging
+  cleanup-on-close:
+    if: >-
+      github.event_name == 'pull_request_target' &&
+      github.event.action == 'closed' &&
+      github.event.pull_request.merged == false
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          token: ${{ secrets.CLA_BOT_TOKEN }}
+
+      - name: Remove intent records tied to this PR
+        id: cleanup
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const lib = require(`${process.env.GITHUB_WORKSPACE}/.github/scripts/licensing.js`);
+            const cfg = lib.loadConfig();
+            const ledgers = lib.loadLedgers(cfg);
+            const prNumber = context.payload.pull_request.number;
+            const before = ledgers.signatures.length;
+            ledgers.signatures = ledgers.signatures.filter(s => !(s.pr === prNumber && s.status === 'intent'));
+            const removed = before - ledgers.signatures.length;
+            core.setOutput('removed', removed > 0 ? 'true' : 'false');
+            if (removed === 0) {
+              console.log('No intent records for this PR.');
+              return;
+            }
+            lib.saveLedgers(cfg, ledgers, ['signatures']);
+            console.log(`Removed ${removed} intent record(s) for PR #${prNumber}.`);
+            for (const label of lib.allLicenseLabels(cfg)) {
+              try {
+                await github.rest.issues.removeLabel({ owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, name: label });
+              } catch (e) { /* not present */ }
+            }
+
+      - name: Commit signature cleanup
+        if: steps.cleanup.outputs.removed == 'true'
+        env:
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          read -r BOT_NAME BOT_EMAIL < <(node -e "const c=require('./.github/scripts/licensing.js').loadConfig(); console.log(c.bot.name, c.bot.email)")
+          git config user.name "$BOT_NAME"
+          git config user.email "$BOT_EMAIL"
+          git add .github/cla-signatures.json
+          git commit -m "CLA: Remove intent signatures for $PR_AUTHOR - PR #$PR_NUMBER closed without merge"
+          git push
+
+  # Job 7: on merge, apply renames, promote intents to the file ledger, regenerate manifests
+  confirm-on-merge:
+    if: >-
+      github.event_name == 'pull_request_target' &&
+      github.event.action == 'closed' &&
+      github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          token: ${{ secrets.CLA_BOT_TOKEN }}
+
+      - name: Promote intent signatures and write file-level assignments
+        id: promote
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const lib = require(`${process.env.GITHUB_WORKSPACE}/.github/scripts/licensing.js`);
+            const cfg = lib.loadConfig();
+            const ledgers = lib.loadLedgers(cfg);
+            const prNumber = context.payload.pull_request.number;
+            core.setOutput('changed', 'false');
+
+            // Renames rewrite paths in every ledger; they never relicense.
+            const files = await github.paginate(github.rest.pulls.listFiles, {
+              owner: context.repo.owner, repo: context.repo.repo, pull_number: prNumber, per_page: 100,
+            });
+            const renameMap = new Map();
+            for (const f of files) {
+              if (f.status === 'renamed' && f.previous_filename) renameMap.set(f.previous_filename, f.filename);
+            }
+            const rn = lib.applyRenames(renameMap, ledgers, cfg);
+            const tops = new Set(rn.tops);
+
+            const assigned = new Set(ledgers.assignments.map(a => a.file));
+            const now = new Date().toISOString();
+            let promoted = 0, written = 0;
+            for (const s of ledgers.signatures) {
+              if (s.pr !== prNumber || s.status !== 'intent') continue;
+              s.status = 'confirmed';
+              s.confirmed_at = now;
+              promoted++;
+              if (assigned.has(s.file)) continue;
+              const entry = { file: s.file, license: s.license, contributor: s.github_username, pr: prNumber, date: now.slice(0, 10) };
+              if (s.proxy_submitter) entry.submitted_by = s.proxy_submitter;
+              ledgers.assignments.push(entry);
+              assigned.add(s.file);
+              written++;
+              const t = lib.artTopForPath(s.file, cfg);
+              if (t) tops.add(t);
+            }
+            if (promoted === 0 && rn.count === 0) {
+              console.log('Nothing to promote and no renames for this PR.');
+              return;
+            }
+            ledgers.assignments.sort(lib.byFile);
+            lib.saveLedgers(cfg, ledgers, ['signatures', 'assignments', ...(rn.count ? ['flags'] : [])]);
+            const manifests = lib.regenerateManifests(cfg, ledgers.assignments, [...tops]);
+            console.log(`Promoted ${promoted}, wrote ${written} assignment(s), rewrote ${rn.count} path(s), regenerated ${manifests.length} manifest(s).`);
+            core.setOutput('changed', 'true');
+            core.setOutput('manifests', manifests.join('\n'));
+
+      - name: Commit ledgers and manifests
+        if: steps.promote.outputs.changed == 'true'
+        env:
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          MANIFESTS: ${{ steps.promote.outputs.manifests }}
+        run: |
+          read -r BOT_NAME BOT_EMAIL < <(node -e "const c=require('./.github/scripts/licensing.js').loadConfig(); console.log(c.bot.name, c.bot.email)")
+          git config user.name "$BOT_NAME"
+          git config user.email "$BOT_EMAIL"
+          git add .github/cla-signatures.json .github/file-license-assignments.json
+          [ -f license_comments_flags.json ] && git add license_comments_flags.json
+          while IFS= read -r m; do
+            [ -n "$m" ] && git add "$m"
+          done <<< "$MANIFESTS"
+          git commit -m "CLA: Confirm license assignment for $PR_AUTHOR - PR #$PR_NUMBER merged"
+          git push
+
+  # Job 8: retroactive consent given with /confirm-license on an issue
+  consent-on-issue:
+    if: >-
+      github.event_name == 'issue_comment' &&
+      !github.event.issue.pull_request &&
+      startsWith(github.event.comment.body, '/confirm-license')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          token: ${{ secrets.CLA_BOT_TOKEN }}
+
+      - name: Apply consent to the commenter's awaiting rows
+        id: consent
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const lib = require(`${process.env.GITHUB_WORKSPACE}/.github/scripts/licensing.js`);
+            const cfg = lib.loadConfig();
+            const ledgers = lib.loadLedgers(cfg);
+            const issue = context.payload.issue.number;
+            const login = context.payload.comment.user.login;
+            const branch = context.payload.repository.default_branch;
+            const repoUrl = `https://github.com/${context.repo.owner}/${context.repo.repo}`;
+            const say = body => github.rest.issues.createComment({
+              owner: context.repo.owner, repo: context.repo.repo, issue_number: issue, body: `<!-- BAR-CLA-BOT -->\n${body}`,
+            });
+            core.setOutput('changed', 'false');
+
+            const choice = lib.parseConsentChoice(context.payload.comment.body, cfg);
+            if (!choice) return;
+            const names = lib.ledgerNamesFor(login, cfg);
+            const rows = lib.awaitingRowsFor(login, ledgers, cfg);
+            const usage = cfg.pr_choices.map(id => {
+              const l = cfg.licenses[id] || {};
+              const doc = l.doc ? ` ([details](${repoUrl}/blob/${branch}/${l.doc}))` : '';
+              return `- \`/confirm-license ${id}\` — **${l.name || id}**: ${l.blurb || ''}${doc}`;
+            }).join('\n');
+            if (rows.length === 0) {
+              await say(`@${login} — no files are waiting for your consent under the name(s) ${names.map(n => `\`${n}\``).join(', ')}. If your work is recorded under another name, ask a maintainer to add it to \`.github/contributors.json\`.`);
+              return;
+            }
+            if (!choice.license) {
+              await say(`@${login} — ${rows.length} file(s) credited to ${names.map(n => `\`${n}\``).join(', ')} are waiting for your choice. Reply with one of:\n\n${usage}\n\nEither choice covers all of your past contributions listed in this repository's manifests; you keep your copyright.`);
+              return;
+            }
+
+            const now = new Date().toISOString();
+            lib.applyConsent(rows, choice.license, 'consent-issue', issue, now.slice(0, 10));
+            const tops = new Set(rows.map(r => lib.artTopForPath(r.file, cfg)).filter(Boolean));
+            ledgers.assignments.sort(lib.byFile);
+            lib.saveLedgers(cfg, ledgers, ['assignments']);
+            const manifests = lib.regenerateManifests(cfg, ledgers.assignments, [...tops]);
+            core.setOutput('changed', 'true');
+            core.setOutput('manifests', manifests.join('\n'));
+            core.setOutput('license', choice.license);
+            core.setOutput('login', login);
+            core.setOutput('count', String(rows.length));
+
+            const perTop = {};
+            for (const r of rows) {
+              const t = lib.artTopForPath(r.file, cfg) || '(other)';
+              perTop[t] = (perTop[t] || 0) + 1;
+            }
+            const summary = Object.entries(perTop).sort().map(([t, n]) => `- \`${t}/\`: ${n}`).join('\n');
+            await say(`✅ @${login} — **${lib.licenseName(choice.license, cfg)}** recorded for ${rows.length} file(s) credited to ${names.map(n => `\`${n}\``).join(', ')}:\n\n${summary}\n\nThe per-folder manifests will list the license once the bot's commit lands. Thank you!`);
+
+      - name: Commit consent
+        if: steps.consent.outputs.changed == 'true'
+        env:
+          CONSENT_LOGIN: ${{ steps.consent.outputs.login }}
+          CONSENT_LICENSE: ${{ steps.consent.outputs.license }}
+          CONSENT_COUNT: ${{ steps.consent.outputs.count }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          MANIFESTS: ${{ steps.consent.outputs.manifests }}
+        run: |
+          read -r BOT_NAME BOT_EMAIL < <(node -e "const c=require('./.github/scripts/licensing.js').loadConfig(); console.log(c.bot.name, c.bot.email)")
+          git config user.name "$BOT_NAME"
+          git config user.email "$BOT_EMAIL"
+          git add .github/file-license-assignments.json
+          while IFS= read -r m; do
+            [ -n "$m" ] && git add "$m"
+          done <<< "$MANIFESTS"
+          git commit -m "CLA: Retroactive consent ($CONSENT_LICENSE) from $CONSENT_LOGIN for $CONSENT_COUNT file(s) - issue #$ISSUE_NUMBER"
+          git push

@@ -1,3 +1,4 @@
+<!-- REUSE-IgnoreStart -->
 # scripts/ — Deferred Licensing Questions
 
 This document records licensing questions in `scripts/` that are **intentionally excluded**
@@ -71,3 +72,4 @@ The deferred items above also affect SPDX adoption:
 None of these items block the current `scripts/` licensing cleanup. The directory-level
 `LICENSE_SCRIPTS.txt` (with `SPDX-License-Identifier: GPL-2.0-or-later`) and project-level
 GPL default provide adequate coverage while these decisions are pending.
+<!-- REUSE-IgnoreEnd -->

@@ -1,3 +1,4 @@
+<!-- REUSE-IgnoreStart -->
 # CC-BY-SA 4.0 Opt-In — Beyond All Reason
 
 SPDX-License-Identifier: CC-BY-SA-4.0
@@ -34,3 +35,4 @@ https://creativecommons.org/licenses/by-sa/4.0/legalcode
 ## Note
 
 If your assets are already committed with CC-BY-SA 4.0, no action is required.
+<!-- REUSE-IgnoreEnd -->

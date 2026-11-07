@@ -1,0 +1,28 @@
+# SPDX-License-Identifier: GPL-2.0-or-later
+#
+# Code owners for BAR licensing-critical files.
+#
+# Any change to the paths below requires review from the licensing maintainer team.
+# The CLA bot pushes via CLA_BOT_TOKEN; configure branch protection on `main` to:
+#   - Require pull request review from Code Owners for these paths
+#   - Allow the CLA bot account (CLA_BOT_TOKEN owner) to bypass that requirement
+#     (so automated workflow commits can land without human review)
+#
+# Replace @beyond-all-reason/licensing-maintainers with the actual team handle
+# once that team exists.
+
+# Authoritative signature and assignment ledgers, review flags
+.github/cla-signatures.json            @beyond-all-reason/licensing-maintainers
+.github/file-license-assignments.json  @beyond-all-reason/licensing-maintainers
+license_comments_flags.json            @beyond-all-reason/licensing-maintainers
+
+# Auto-generated per-folder license manifests (any depth)
+**/LICENSE_MANIFEST.md                 @beyond-all-reason/licensing-maintainers
+
+# Workflows and policy documents that govern the licensing system
+.github/workflows/cla-check.yml        @beyond-all-reason/licensing-maintainers
+.github/scripts/                       @beyond-all-reason/licensing-maintainers
+.github/licensing.json                 @beyond-all-reason/licensing-maintainers
+.github/CODEOWNERS                     @beyond-all-reason/licensing-maintainers
+legal/                                 @beyond-all-reason/licensing-maintainers
+LICENSES/                              @beyond-all-reason/licensing-maintainers

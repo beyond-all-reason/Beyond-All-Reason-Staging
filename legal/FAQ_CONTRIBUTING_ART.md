@@ -1,3 +1,4 @@
+<!-- REUSE-IgnoreStart -->
 # BAR — Art & Audio Contribution FAQ
 
 ## Who is this for?
@@ -150,3 +151,4 @@ renaming a texture to match a unit-id change — needs no extra licensing action
 Wholesale rewrites or replacements (a new asset committed under an existing path) are
 handled by the separate **modified existing art** flow, which prompts you to declare
 whether you replaced the file from scratch.
+<!-- REUSE-IgnoreEnd -->

@@ -1,3 +1,4 @@
+<!-- REUSE-IgnoreStart -->
 # BAR Project License Policy (Contributions Only)
 
 ## Who is this for?
@@ -93,3 +94,4 @@ as the standard machine-readable format for expressing license information.
 - **Custom licenses** (BAR CLA) use the `LicenseRef-` prefix per the SPDX spec.
 
 The full SPDX identifier mapping is in the table above and in `legal/README.md`.
+<!-- REUSE-IgnoreEnd -->
