@@ -292,7 +292,7 @@ Total assets recorded: **829**
 | `inverted/air_t2_hover.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/air_t2_hover_missile.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/air_t2_laser.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4126 | 2026-08-31 |
-| `inverted/air_t2_plasma_mg_fortress.png` | _awaiting license_ | ZephyrSkies7 | #5357 | 2026-08-31 |
+| `inverted/air_t2_plasma_mg_fortress.png` | `CC-BY-SA-4.0` | ZephyrSkies | #5357 | 2026-11-07 |
 | `inverted/air_t2_radar.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/air_t2_torpbomber.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/air_t2_trans.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -516,7 +516,7 @@ Total assets recorded: **829**
 | `inverted/legion_rampart.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4618 | 2026-05-27 |
 | `inverted/legjav.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4618 | 2026-05-27 |
 | `inverted/legkark.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `inverted/leglrpc.png` | _awaiting license_ | ZephyrSkies7 | #3056 | 2026-08-31 |
+| `inverted/leglrpc.png` | `CC-BY-SA-4.0` | ZephyrSkies | #3056 | 2026-11-07 |
 | `inverted/lootbox.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/lootboxt2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/lootboxt3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -614,10 +614,10 @@ Total assets recorded: **829**
 | `inverted/sub_t4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/sub_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/t2_quad_artillery_ship.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5427 | 2026-10-07 |
-| `inverted/t3_allterrain_drone_cluster_bot.png` | _awaiting license_ | ZephyrSkies7 | #5357 | 2026-08-31 |
-| `inverted/t3_bot_clusterarty.png` | _awaiting license_ | ZephyrSkies7 | #4508 | 2026-08-31 |
+| `inverted/t3_allterrain_drone_cluster_bot.png` | `CC-BY-SA-4.0` | ZephyrSkies | #5357 | 2026-11-07 |
+| `inverted/t3_bot_clusterarty.png` | `CC-BY-SA-4.0` | ZephyrSkies | #4508 | 2026-11-07 |
 | `inverted/t3_bot_shotgun.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4339 | 2026-08-31 |
-| `inverted/t3_solinvictus.png` | _awaiting license_ | ZephyrSkies7 | #4339 | 2026-08-31 |
+| `inverted/t3_solinvictus.png` | `CC-BY-SA-4.0` | ZephyrSkies | #4339 | 2026-11-07 |
 | `inverted/tacnuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/targetting.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/unknown.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -657,7 +657,7 @@ Total assets recorded: **829**
 | `inverted/vehicle_t3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/vehicle_t3_dronecarryland.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/vehicle_t3_tank_mgun.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
-| `inverted/vehicle_t3_tank_rail_mgun.png` | _awaiting license_ | ZephyrSkies7 | #4128 | 2026-08-31 |
+| `inverted/vehicle_t3_tank_rail_mgun.png` | `CC-BY-SA-4.0` | ZephyrSkies | #4128 | 2026-11-07 |
 | `inverted/vehicle_trans.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/vehicle_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/wall_0.4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -689,7 +689,7 @@ Total assets recorded: **829**
 | `legion_rampart.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #3689 | 2026-08-31 |
 | `legjav.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #4073 | 2026-08-31 |
 | `legkark.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `leglrpc.png` | _awaiting license_ | ZephyrSkies7 | #3056 | 2026-08-31 |
+| `leglrpc.png` | `CC-BY-SA-4.0` | ZephyrSkies | #3056 | 2026-11-07 |
 | `lootbox.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `lootboxt2.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `lootboxt3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -787,10 +787,10 @@ Total assets recorded: **829**
 | `sub_t4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `sub_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `t2_quad_artillery_ship.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5427 | 2026-10-07 |
-| `t3_allterrain_drone_cluster_bot.png` | _awaiting license_ | ZephyrSkies7 | #5357 | 2026-08-31 |
-| `t3_bot_clusterarty.png` | _awaiting license_ | ZephyrSkies7 | #4508 | 2026-08-31 |
-| `t3_bot_shotgun.png` | _awaiting license_ | ZephyrSkies7 | #4382 | 2026-08-31 |
-| `t3_solinvictus.png` | _awaiting license_ | ZephyrSkies7 | #4339 | 2026-08-31 |
+| `t3_allterrain_drone_cluster_bot.png` | `CC-BY-SA-4.0` | ZephyrSkies | #5357 | 2026-11-07 |
+| `t3_bot_clusterarty.png` | `CC-BY-SA-4.0` | ZephyrSkies | #4508 | 2026-11-07 |
+| `t3_bot_shotgun.png` | `CC-BY-SA-4.0` | ZephyrSkies | #4382 | 2026-11-07 |
+| `t3_solinvictus.png` | `CC-BY-SA-4.0` | ZephyrSkies | #4339 | 2026-11-07 |
 | `tacnuke.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `targetting.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `unknown.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -830,7 +830,7 @@ Total assets recorded: **829**
 | `vehicle_t3.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `vehicle_t3_dronecarryland.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `vehicle_t3_tank_mgun.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
-| `vehicle_t3_tank_rail_mgun.png` | _awaiting license_ | ZephyrSkies7 | #4089 | 2026-08-31 |
+| `vehicle_t3_tank_rail_mgun.png` | `CC-BY-SA-4.0` | ZephyrSkies | #4089 | 2026-11-07 |
 | `vehicle_trans.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `vehicle_worker.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `wall_0.4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

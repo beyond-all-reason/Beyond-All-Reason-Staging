@@ -441,9 +441,9 @@ Total assets recorded: **1439**
 | `movement/leg-flame-medium-sel.wav` | _awaiting license_ | Arbsquid | #3831 | 2026-08-31 |
 | `movement/leg-rail-small-ok.wav` | _awaiting license_ | Arbsquid | #3295 | 2026-08-31 |
 | `movement/leg-rail-small-sel.wav` | _awaiting license_ | Arbsquid | #3295 | 2026-08-31 |
-| `movement/leg-t3u-mech-ok-1.wav` | _awaiting license_ | ZephyrSkies7 | #4339 | 2026-08-31 |
-| `movement/leg-t3u-mech-ok-2.wav` | _awaiting license_ | ZephyrSkies7 | #4339 | 2026-08-31 |
-| `movement/leg-t3u-mech-sel.wav` | _awaiting license_ | ZephyrSkies7 | #4339 | 2026-08-31 |
+| `movement/leg-t3u-mech-ok-1.wav` | `CC-BY-SA-4.0` | ZephyrSkies | #4339 | 2026-11-07 |
+| `movement/leg-t3u-mech-ok-2.wav` | `CC-BY-SA-4.0` | ZephyrSkies | #4339 | 2026-11-07 |
+| `movement/leg-t3u-mech-sel.wav` | `CC-BY-SA-4.0` | ZephyrSkies | #4339 | 2026-11-07 |
 | `movement/leg-veh-small-ok.wav` | _awaiting license_ | Arbsquid | #3295 | 2026-08-31 |
 | `movement/leg-veh-small-sel.wav` | _awaiting license_ | Arbsquid | #3295 | 2026-08-31 |
 | `movement/leg-veh-tiny-ok.wav` | _awaiting license_ | Arbsquid | #3295 | 2026-08-31 |
@@ -1301,7 +1301,7 @@ Total assets recorded: **1439**
 | `weapons/heatray3burn.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/heatray3lp.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/heatray3start.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
-| `weapons/heatray4burn.wav` | _awaiting license_ | ZephyrSkies7 | #4339 | 2026-08-31 |
+| `weapons/heatray4burn.wav` | `CC-BY-SA-4.0` | ZephyrSkies | #4339 | 2026-11-07 |
 | `weapons/heavyrailgun.wav` | _awaiting license_ | Arbsquid | #3739 | 2026-08-31 |
 | `weapons/heliosfire.wav` | _awaiting license_ | Arbsquid | #3295 | 2026-08-31 |
 | `weapons/impact.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
@@ -1352,7 +1352,7 @@ Total assets recorded: **1439**
 | `weapons/mgun1.wav` | _awaiting license_ | Tharsy | #5204 | 2026-08-31 |
 | `weapons/mgun2.wav` | _awaiting license_ | Tharsy | #5204 | 2026-08-31 |
 | `weapons/mine1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
-| `weapons/ministarfallchargup.wav` | _awaiting license_ | ZephyrSkies7 | #6525 | 2026-08-31 |
+| `weapons/ministarfallchargup.wav` | `CC-BY-SA-4.0` | ZephyrSkies | #6525 | 2026-11-07 |
 | `weapons/misicbm1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `weapons/mismed1.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/mismed1emp.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
@@ -1405,7 +1405,7 @@ Total assets recorded: **1439**
 | `weapons/splsmed.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/splssml.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/spore_explo.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
-| `weapons/starfallchargup.wav` | _awaiting license_ | ZephyrSkies7 | #6510 | 2026-09-01 |
+| `weapons/starfallchargup.wav` | `CC-BY-SA-4.0` | ZephyrSkies | #6510 | 2026-11-07 |
 | `weapons/stormtl2.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/t1arthit.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |
 | `weapons/tawf113a.wav` | _awaiting license_ | icexuick | manual-audit | 2026-10-14 |

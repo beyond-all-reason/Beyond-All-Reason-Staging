@@ -27,7 +27,7 @@ Total assets recorded: **1490**
 | `armamph.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armamsub.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armanac.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `armanavaldefturret.dds` | _awaiting license_ | ZephyrSkies | #5987 | 2026-09-01 |
+| `armanavaldefturret.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5987 | 2026-11-07 |
 | `armanni.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `armannit3.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
 | `armantiship.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -160,7 +160,7 @@ Total assets recorded: **1490**
 | `armnanotc.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armnanotc2plat.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armnanotcplat.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `armnavaldefturret.dds` | _awaiting license_ | ZephyrSkies | #5927 | 2026-09-01 |
+| `armnavaldefturret.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5927 | 2026-11-07 |
 | `armpb.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `armpeep.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `armpincer.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
@@ -258,7 +258,7 @@ Total assets recorded: **1490**
 | `coralab.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `coramph.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `coramsub.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `coranavaldefturret.dds` | _awaiting license_ | ZephyrSkies | #5987 | 2026-09-01 |
+| `coranavaldefturret.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5987 | 2026-11-07 |
 | `corantiship.dds` | _awaiting license_ | Odin | manual-audit | 2026-09-01 |
 | `corap.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corape.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
@@ -305,7 +305,7 @@ Total assets recorded: **1490**
 | `corerad.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corestor.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `coresupp.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
-| `coresuppt3.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `coresuppt3.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `coreter.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `corexp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `coreyes.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -393,7 +393,7 @@ Total assets recorded: **1490**
 | `cornanotc.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `cornanotc2plat.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `cornanotcplat.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
-| `cornavaldefturret.dds` | _awaiting license_ | ZephyrSkies | #5927 | 2026-09-01 |
+| `cornavaldefturret.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5927 | 2026-11-07 |
 | `cornecro.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `coronager.dds` | _awaiting license_ | Hornet | #3390 | 2026-09-01 |
 | `corparrow.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -489,83 +489,83 @@ Total assets recorded: **1490**
 | `critters/critter_gull.dds` | _awaiting license_ | knorker | manual-audit | 2026-09-08 |
 | `critters/critter_penguin.dds` | _awaiting license_ | knorker | manual-audit | 2026-09-08 |
 | `freefusion.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-02 |
-| `legaabot.dds` | _awaiting license_ | ZephyrSkies | #5061 | 2026-09-01 |
+| `legaabot.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5061 | 2026-11-07 |
 | `legaap.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `legabm.dds` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
-| `legaca.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legaca.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `legaceb.dds` | _awaiting license_ | Tharsis | #3056 | 2026-09-01 |
 | `legack.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
-| `legacluster.dds` | _awaiting license_ | ZephyrSkies | #3056 | 2026-09-01 |
-| `legacv.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legacluster.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3056 | 2026-11-07 |
+| `legacv.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `legadvaabot.dds` | _awaiting license_ | Johnathan Crimson | #5189 | 2026-09-01 |
 | `legadveconv.dds` | _awaiting license_ | Protar | #4393 | 2026-09-01 |
-| `legadvestore.dds` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
+| `legadvestore.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4393 | 2026-11-07 |
 | `legadvshipyard.dds` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
 | `legadvsol.dds` | _awaiting license_ | EnderRobo | #2818 | 2026-09-01 |
-| `legafcv.dds` | _awaiting license_ | ZephyrSkies | #4860 | 2026-09-01 |
-| `legafigdef.dds` | _awaiting license_ | ZephyrSkies | #5124 | 2026-09-01 |
+| `legafcv.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4860 | 2026-11-07 |
+| `legafigdef.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5124 | 2026-11-07 |
 | `legafus.dds` | _awaiting license_ | Protar | #4155 | 2026-09-01 |
 | `legageo.dds` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
 | `legah.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
-| `legaheattank.dds` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
-| `legajam.dds` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
+| `legaheattank.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3237 | 2026-11-07 |
+| `legajam.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4393 | 2026-11-07 |
 | `legajamk.dds` | _awaiting license_ | Tharsis | #5382 | 2026-09-01 |
 | `legalab.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
-| `legamcluster.dds` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
+| `legamcluster.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3237 | 2026-11-07 |
 | `legamph.dds` | _awaiting license_ | Johnathan Crimson | #4829 | 2026-09-01 |
-| `legamphlab.dds` | _awaiting license_ | ZephyrSkies | #5072 | 2026-09-01 |
-| `legamphtank.dds` | _awaiting license_ | ZephyrSkies | #3144 | 2026-09-01 |
+| `legamphlab.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5072 | 2026-11-07 |
+| `legamphtank.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3144 | 2026-11-07 |
 | `legamstor.dds` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
 | `legamsub.dds` | _awaiting license_ | TheSilverHornet | #3085 | 2026-09-07 |
 | `leganavalaaturret.dds` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
 | `leganavaladvgeo.dds` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
-| `leganavaldefturret.dds` | _awaiting license_ | ZephyrSkies | #5987 | 2026-09-01 |
+| `leganavaldefturret.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5987 | 2026-11-07 |
 | `leganavaleconv.dds` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
 | `leganavalfusion.dds` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
 | `leganavalmex.dds` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
 | `leganavalpinpointer.dds` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
-| `leganavalsonarstation.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
-| `leganavaltorpturret.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
-| `leganavyaaship.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
-| `leganavyantinukecarrier.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `leganavalsonarstation.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
+| `leganavaltorpturret.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
+| `leganavyaaship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
+| `leganavyantinukecarrier.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
 | `leganavyantiswarm.dds` | _awaiting license_ | EnderRobo | #6423 | 2026-09-01 |
-| `leganavyartyship.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
-| `leganavybattleship.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `leganavyartyship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
+| `leganavybattleship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
 | `leganavybattlesub.dds` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
-| `leganavyconsub.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
-| `leganavycruiser.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
-| `leganavyengineer.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
-| `leganavyflagship.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `leganavyconsub.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
+| `leganavycruiser.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
+| `leganavyengineer.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
+| `leganavyflagship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
 | `leganavyheavysub.dds` | _awaiting license_ | Tharsis | #6423 | 2026-09-01 |
-| `leganavymissileship.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `leganavymissileship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
 | `leganavyradjamship.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #6423 | 2026-09-01 |
 | `legap.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
-| `legapopupdef.dds` | _awaiting license_ | ZephyrSkies | #5189 | 2026-09-01 |
-| `legarad.dds` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
+| `legapopupdef.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5189 | 2026-11-07 |
+| `legarad.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4393 | 2026-11-07 |
 | `legaradk.dds` | _awaiting license_ | Tharsis | #5382 | 2026-09-01 |
-| `legaskirmtank.dds` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
-| `legaspy.dds` | _awaiting license_ | ZephyrSkies | #5357 | 2026-09-01 |
-| `legassistdrone.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
-| `legatorpbomber.dds` | _awaiting license_ | ZephyrSkies | #4117 | 2026-09-01 |
-| `legatrans.dds` | _awaiting license_ | ZephyrSkies | #3046 | 2026-09-01 |
-| `legavantinuke.dds` | _awaiting license_ | ZephyrSkies | #6545 | 2026-09-01 |
-| `legavjam.dds` | _awaiting license_ | ZephyrSkies | #4164 | 2026-09-01 |
-| `legavp.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
-| `legavrad.dds` | _awaiting license_ | ZephyrSkies | #4164 | 2026-09-01 |
-| `legavroc.dds` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
+| `legaskirmtank.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3237 | 2026-11-07 |
+| `legaspy.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5357 | 2026-11-07 |
+| `legassistdrone.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
+| `legatorpbomber.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4117 | 2026-11-07 |
+| `legatrans.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3046 | 2026-11-07 |
+| `legavantinuke.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6545 | 2026-11-07 |
+| `legavjam.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4164 | 2026-11-07 |
+| `legavp.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
+| `legavrad.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4164 | 2026-11-07 |
+| `legavroc.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3237 | 2026-11-07 |
 | `legbal.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `legbar.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
-| `legbart.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legbart.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `legbastion.dds` | _awaiting license_ | Gabs | manual-audit | 2026-09-01 |
 | `legbombard.dds` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
 | `legbunk.dds` | _awaiting license_ | Johnathan Crimson | #4613 | 2026-09-01 |
-| `legca.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legca.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `legcar.dds` | _awaiting license_ | EnderRobo | #3343 | 2026-09-01 |
 | `legcen.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `legch.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
-| `legcib.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legcib.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `legck.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
-| `legcluster.dds` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `legcluster.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #2999 | 2026-11-07 |
 | `legcom.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `legcomdef.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-07 |
 | `legcomecon.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -573,33 +573,33 @@ Total assets recorded: **1490**
 | `legcomt2com.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `legcomt2def.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `legcomt2off.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `legctl.dds` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `legctl.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4909 | 2026-11-07 |
 | `legcv.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `legdeflector.dds` | _awaiting license_ | Gabs | #4393 | 2026-09-01 |
-| `legdrag.dds` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `legdrag.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #2999 | 2026-11-07 |
 | `legdrone.dds` | _awaiting license_ | Tharsis | #3569 | 2026-09-01 |
-| `legdtr.dds` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
-| `legeallterrainmech.dds` | _awaiting license_ | ZephyrSkies | #5357 | 2026-09-01 |
+| `legdtr.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #2999 | 2026-11-07 |
+| `legeallterrainmech.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5357 | 2026-11-07 |
 | `legeconv.dds` | _awaiting license_ | Protar | #3373 | 2026-09-01 |
 | `legeheatraymech.dds` | _awaiting license_ | Protar | #4339 | 2026-09-01 |
 | `legeheatraymech_old.dds` | _awaiting license_ | Protar | #5739 | 2026-09-01 |
-| `legehovertank.dds` | _awaiting license_ | ZephyrSkies | #5357 | 2026-09-01 |
-| `legelrpcmech.dds` | _awaiting license_ | ZephyrSkies | #4508 | 2026-09-01 |
-| `legerailtank.dds` | _awaiting license_ | ZephyrSkies | #4089 | 2026-09-01 |
+| `legehovertank.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5357 | 2026-11-07 |
+| `legelrpcmech.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4508 | 2026-11-07 |
+| `legerailtank.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4089 | 2026-11-07 |
 | `legeshotgunmech.dds` | _awaiting license_ | Ghoulish | #4382 | 2026-09-01 |
 | `legeyes.dds` | _awaiting license_ | NebuchadnezzarII | #4262 | 2026-09-01 |
 | `legfdrag.dds` | _awaiting license_ | Tharsis | #5058 | 2026-09-01 |
 | `legfeconv.dds` | _awaiting license_ | Protar | #5047 | 2026-09-01 |
-| `legfhive.dds` | _awaiting license_ | ZephyrSkies | #3222 | 2026-09-01 |
+| `legfhive.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3222 | 2026-11-07 |
 | `legfhp.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
-| `legfig.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legfig.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `legflak.dds` | _awaiting license_ | Tharsis | #2728 | 2026-09-01 |
 | `legfloat.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
-| `legfmg.dds` | _awaiting license_ | ZephyrSkies | #4904 | 2026-09-01 |
+| `legfmg.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4904 | 2026-11-07 |
 | `legfort.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `legforti.dds` | _awaiting license_ | Tharsis | #3906 | 2026-09-01 |
-| `legfrad.dds` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
-| `legfrl.dds` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `legfrad.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4909 | 2026-11-07 |
+| `legfrl.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4909 | 2026-11-07 |
 | `legfus.dds` | _awaiting license_ | Protar | #4158 | 2026-09-01 |
 | `leggant.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `leggantuw.dds` | _awaiting license_ | Protar | #6423 | 2026-09-01 |
@@ -613,32 +613,32 @@ Total assets recorded: **1490**
 | `leghastatusalt.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
 | `leghavp.dds` | _awaiting license_ | Protar | #5546 | 2026-09-01 |
 | `legheavydrone.dds` | _awaiting license_ | Tharsis | #3569 | 2026-09-01 |
-| `leghelios.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
-| `leghive.dds` | _awaiting license_ | ZephyrSkies | #3222 | 2026-09-01 |
+| `leghelios.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
+| `leghive.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3222 | 2026-11-07 |
 | `leghp.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `leghrk.dds` | _awaiting license_ | Tharsis | #5034 | 2026-09-01 |
 | `leginc.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
-| `leginf.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `leginf.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `leginfestor.dds` | _awaiting license_ | Zath | manual-audit | 2026-09-01 |
 | `legionnaire.dds` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
-| `legjam.dds` | _awaiting license_ | ZephyrSkies | #2997 | 2026-09-01 |
+| `legjam.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #2997 | 2026-11-07 |
 | `legjav.dds` | _awaiting license_ | Tharsis | #4073 | 2026-09-01 |
 | `legjuno.dds` | _awaiting license_ | Georodin | #5072 | 2026-09-01 |
 | `legkam.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `legkark.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `legkeres.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
 | `leglab.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
-| `leglht.dds` | _awaiting license_ | ZephyrSkies | #2876 | 2026-09-01 |
+| `leglht.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #2876 | 2026-11-07 |
 | `leglob.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `leglraa.dds` | _awaiting license_ | Mr Bob | #3056 | 2026-09-01 |
-| `leglrpc.dds` | _awaiting license_ | ZephyrSkies | #3056 | 2026-09-01 |
+| `leglrpc.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3056 | 2026-11-07 |
 | `leglts.dds` | _awaiting license_ | Tharsis | #4369 | 2026-09-01 |
-| `leglupara.dds` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `leglupara.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #2999 | 2026-11-07 |
 | `legmech.dds` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-01 |
-| `legmed.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legmed.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `legmex.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `legmext15.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
-| `legmg.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legmg.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `legmh.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
 | `legmine1.dds` | _awaiting license_ | Tharsis | #4262 | 2026-09-01 |
 | `legmine2.dds` | _awaiting license_ | Tharsis | #4262 | 2026-09-01 |
@@ -648,68 +648,68 @@ Total assets recorded: **1490**
 | `legmoho.dds` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
 | `legmohocon.dds` | _awaiting license_ | Tharsis | #4710 | 2026-09-01 |
 | `legmos.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
-| `legmrv.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legmrv.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `legmstor.dds` | _awaiting license_ | Protar | #3277 | 2026-09-01 |
 | `legnanotc.dds` | _awaiting license_ | Tharsis | #3627 | 2026-09-01 |
 | `legnanotcplat.dds` | _awaiting license_ | Tharsis | #3627 | 2026-09-01 |
 | `legnap.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
-| `legnavaldefturret.dds` | _awaiting license_ | ZephyrSkies | #5927 | 2026-09-01 |
-| `legnavyaaship.dds` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
+| `legnavaldefturret.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5927 | 2026-11-07 |
+| `legnavyaaship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6123 | 2026-11-07 |
 | `legnavyartyship.dds` | _awaiting license_ | Johnathan Crimson | #6123 | 2026-09-01 |
-| `legnavyconship.dds` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
-| `legnavydestro.dds` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
+| `legnavyconship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6123 | 2026-11-07 |
+| `legnavydestro.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6123 | 2026-11-07 |
 | `legnavyfrigate.dds` | _awaiting license_ | EnderRobo | #6123 | 2026-09-01 |
-| `legnavyrezsub.dds` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
-| `legnavyscout.dds` | _awaiting license_ | ZephyrSkies | #6123 | 2026-09-01 |
+| `legnavyrezsub.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6123 | 2026-11-07 |
+| `legnavyscout.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6123 | 2026-11-07 |
 | `legnavysub.dds` | _awaiting license_ | Tharsis | #6123 | 2026-09-01 |
 | `legner.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
 | `legoptio.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
-| `legotter.dds` | _awaiting license_ | ZephyrSkies | #2853 | 2026-09-01 |
+| `legotter.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #2853 | 2026-11-07 |
 | `legpede.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `legperdition.dds` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
 | `legphoenix.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `legportent.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
-| `legrad.dds` | _awaiting license_ | ZephyrSkies | #2997 | 2026-09-01 |
+| `legrad.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #2997 | 2026-11-07 |
 | `legrail.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `legrampart.dds` | _awaiting license_ | Tharsis | #3689 | 2026-09-01 |
-| `legrezbot.dds` | _awaiting license_ | ZephyrSkies | #5061 | 2026-09-01 |
-| `legrhapsis.dds` | _awaiting license_ | ZephyrSkies | #3021 | 2026-09-01 |
-| `legrl.dds` | _awaiting license_ | ZephyrSkies | #3021 | 2026-09-01 |
+| `legrezbot.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5061 | 2026-11-07 |
+| `legrhapsis.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3021 | 2026-11-07 |
+| `legrl.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3021 | 2026-11-07 |
 | `legrwall.dds` | _awaiting license_ | Tharsis | #3906 | 2026-09-01 |
 | `legscout.dds` | _awaiting license_ | Flaka | #3144 | 2026-09-01 |
-| `legsd.dds` | _awaiting license_ | ZephyrSkies | #4393 | 2026-09-01 |
+| `legsd.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4393 | 2026-11-07 |
 | `legsh.dds` | _awaiting license_ | EnderRobo | manual-audit | 2026-09-01 |
-| `legshot.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legshot.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `legsilo.dds` | _awaiting license_ | Tharsy | #3056 | 2026-09-01 |
 | `legsnapper.dds` | _awaiting license_ | Hornet | manual-audit | 2026-09-01 |
 | `legsolar.dds` | _awaiting license_ | Hornet | #2723 | 2026-09-01 |
-| `legspbomber.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
-| `legspcarrier.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
-| `legspcon.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
-| `legspfighter.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
-| `legsplab.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
-| `legspradarsonarplane.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
-| `legspsurfacegunship.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
-| `legsptorpgunship.dds` | _awaiting license_ | ZephyrSkies | #6423 | 2026-09-01 |
+| `legspbomber.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
+| `legspcarrier.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
+| `legspcon.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
+| `legspfighter.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
+| `legsplab.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
+| `legspradarsonarplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
+| `legspsurfacegunship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
+| `legsptorpgunship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
 | `legsrail.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
-| `legstarfall.dds` | _awaiting license_ | ZephyrSkies | #2266 | 2026-09-01 |
+| `legstarfall.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #2266 | 2026-11-07 |
 | `legstr.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `legstronghold.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `legsy.dds` | _awaiting license_ | Tharsis | #3223 | 2026-09-01 |
 | `legtarg.dds` | _awaiting license_ | Protar | #4393 | 2026-09-01 |
 | `legtide.dds` | _awaiting license_ | Mr Bob | #4951 | 2026-09-01 |
-| `legtl.dds` | _awaiting license_ | ZephyrSkies | #4909 | 2026-09-01 |
+| `legtl.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4909 | 2026-11-07 |
 | `legtriarius.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
 | `legtriariusdrone.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
 | `legtriariusheatray.dds` | _awaiting license_ | TheSilverHornet | #3185 | 2026-09-07 |
 | `leguwestore.dds` | _awaiting license_ | Protar | #5047 | 2026-09-01 |
 | `leguwgeo.dds` | _awaiting license_ | Tharsis | #5047 | 2026-09-01 |
 | `leguwmstore.dds` | _awaiting license_ | Protar | #5047 | 2026-09-01 |
-| `legvcarry.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legvcarry.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `legvenator.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `legvflak.dds` | _awaiting license_ | Tharsis | #4178 | 2026-09-01 |
 | `legvp.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
-| `legwhisper.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `legwhisper.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `legwin.dds` | _awaiting license_ | Yzch | manual-audit | 2026-09-01 |
 | `lootboxes/lootboxbronze.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `lootboxes/lootboxgold.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
@@ -1106,7 +1106,7 @@ Total assets recorded: **1490**
 | `scavengers/corerad.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corestor.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/coresupp.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
-| `scavengers/coresuppt3.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/coresuppt3.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `scavengers/coreter.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/corexp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/coreyes.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -1268,114 +1268,114 @@ Total assets recorded: **1490**
 | `scavengers/corwint2.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corwolv.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/freefusion.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |
-| `scavengers/legaabot.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legaabot.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legaap.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legabm.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
-| `scavengers/legaca.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legaca.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `scavengers/legaceb.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legack.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
-| `scavengers/legacluster.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legacv.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legacluster.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legacv.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legadvaabot.dds` | _awaiting license_ | Johnathan Crimson | #7224 | 2026-09-01 |
 | `scavengers/legadveconv.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legadveconvt3.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
-| `scavengers/legadvestore.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legadvestore.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legadvshipyard.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legadvsol.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
-| `scavengers/legafcv.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legafigdef.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legafcv.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legafigdef.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legafus.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legafust3.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legageo.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legah.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
-| `scavengers/legaheattank.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legajam.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legaheattank.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legajam.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legajamk.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legalab.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
-| `scavengers/legamcluster.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legamcluster.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legamph.dds` | _awaiting license_ | Johnathan Crimson | #7224 | 2026-09-01 |
-| `scavengers/legamphlab.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legamphtank.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legamphlab.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legamphtank.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legamstor.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/leganavalaaturret.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/leganavaladvgeo.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
-| `scavengers/leganavaldefturret.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leganavaldefturret.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/leganavaleconv.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/leganavalfusion.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/leganavalmex.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/leganavalpinpointer.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
-| `scavengers/leganavalsonarstation.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/leganavaltorpturret.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/leganavyaaship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/leganavyantinukecarrier.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leganavalsonarstation.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/leganavaltorpturret.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/leganavyaaship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/leganavyantinukecarrier.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/leganavyantiswarm.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
-| `scavengers/leganavyartyship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/leganavybattleship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leganavyartyship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/leganavybattleship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/leganavybattlesub.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
-| `scavengers/leganavyconsub.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/leganavycruiser.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/leganavyengineer.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/leganavyflagship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leganavyconsub.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/leganavycruiser.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/leganavyengineer.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/leganavyflagship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/leganavyheavysub.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
-| `scavengers/leganavymissileship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leganavymissileship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/leganavyradjamship.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7224 | 2026-09-01 |
 | `scavengers/legap.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
-| `scavengers/legapopupdef.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legapopupdef.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legapt3.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
-| `scavengers/legarad.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legarad.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legaradk.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
-| `scavengers/legaskirmtank.dds` | _awaiting license_ | ZephyrSkies | #3237 | 2026-09-01 |
-| `scavengers/legaspy.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legatorpbomber.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legatrans.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legavantinuke.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legavjam.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legavp.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
-| `scavengers/legavrad.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legavroc.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legaskirmtank.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3237 | 2026-11-07 |
+| `scavengers/legaspy.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legatorpbomber.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legatrans.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legavantinuke.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legavjam.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legavp.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
+| `scavengers/legavrad.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legavroc.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legbal.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `scavengers/legbar.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
-| `scavengers/legbart.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legbart.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `scavengers/legbastion.dds` | _awaiting license_ | Gabs | #7224 | 2026-09-01 |
-| `scavengers/legca.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legca.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `scavengers/legcar.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
 | `scavengers/legcen.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `scavengers/legch.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
-| `scavengers/legcib.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legcib.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `scavengers/legck.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
-| `scavengers/legcluster.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legcluster.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legcom.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
-| `scavengers/legctl.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legctl.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legcv.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `scavengers/legdecom.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legdeflector.dds` | _awaiting license_ | Gabs | #7224 | 2026-09-01 |
-| `scavengers/legdrag.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legdrag.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legdrone.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legdtf.dds` | _awaiting license_ | FireStorm | #7224 | 2026-09-01 |
 | `scavengers/legdtl.dds` | _awaiting license_ | FireStorm | #7224 | 2026-09-01 |
 | `scavengers/legdtm.dds` | _awaiting license_ | FireStorm | #7224 | 2026-09-01 |
-| `scavengers/legdtr.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legeallterrainmech.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legdtr.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legeallterrainmech.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legeconv.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legeheatraymech.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
-| `scavengers/legehovertank.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legelrpcmech.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legerailtank.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legeshotgunmech.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legehovertank.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legelrpcmech.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legerailtank.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legeshotgunmech.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legeyes.dds` | _awaiting license_ | NebuchadnezzarII | #7224 | 2026-09-01 |
 | `scavengers/legfdrag.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legfeconv.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
-| `scavengers/legfhive.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legfhive.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legfhp.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
-| `scavengers/legfig.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legfig.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `scavengers/legflak.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legfloat.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
-| `scavengers/legfmg.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legfmg.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legfort.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `scavengers/legforti.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legfortt4.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
-| `scavengers/legfrad.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legfrl.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legfrad.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legfrl.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legfus.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/leggant.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/leggantuw.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
@@ -1386,103 +1386,103 @@ Total assets recorded: **1490**
 | `scavengers/leghaap.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
 | `scavengers/leghaca.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #7224 | 2026-09-01 |
 | `scavengers/leghack.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
-| `scavengers/leghacv.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leghacv.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/leghades.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `scavengers/leghalab.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/leghavp.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legheavydrone.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legheavydronesmall.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
-| `scavengers/leghelios.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
-| `scavengers/leghive.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leghelios.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
+| `scavengers/leghive.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/leghp.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/leghrk.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/leginc.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
-| `scavengers/leginf.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/leginf.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `scavengers/leginfestor.dds` | _awaiting license_ | Zath | #7224 | 2026-09-01 |
-| `scavengers/legjam.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legjam.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legjav.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legjuno.dds` | _awaiting license_ | Georodin | #7224 | 2026-09-01 |
 | `scavengers/legkam.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `scavengers/legkark.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legkeres.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
 | `scavengers/leglab.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
-| `scavengers/leglht.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leglht.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/leglob.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `scavengers/leglraa.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
-| `scavengers/leglrpc.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leglrpc.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/leglts.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
-| `scavengers/leglupara.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legmed.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/leglupara.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legmed.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legmex.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
 | `scavengers/legmext15.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
-| `scavengers/legmg.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legmg.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legmh.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
 | `scavengers/legmine1.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legmine2.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legmine3.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legmineb.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
-| `scavengers/legministarfall.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legministarfall.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legmlv.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legmoho.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legmohocon.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legmos.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `scavengers/legmost3.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
-| `scavengers/legmrv.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legmrv.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `scavengers/legmstor.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legnanotc.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legnanotcplat.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
-| `scavengers/legnavyaaship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legnavyartyship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legnavyconship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legnavydestro.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legnavyaaship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legnavyartyship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legnavyconship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legnavydestro.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legnavyfrigate.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
-| `scavengers/legnavyrezsub.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legnavyscout.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legnavyrezsub.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legnavyscout.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legnavysub.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legner.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
-| `scavengers/legotter.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legotter.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legpede.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/legperdition.dds` | _awaiting license_ | Hornet | #7224 | 2026-09-01 |
 | `scavengers/legphoenix.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
-| `scavengers/legrad.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legrad.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legrail.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `scavengers/legrampart.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
-| `scavengers/legrezbot.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legrhapsis.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legrl.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legrezbot.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legrhapsis.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legrl.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legrwall.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legscout.dds` | _awaiting license_ | Flaka | #7224 | 2026-09-01 |
-| `scavengers/legsd.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legsd.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legsh.dds` | _awaiting license_ | EnderRobo | #7224 | 2026-09-01 |
-| `scavengers/legshot.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legshot.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `scavengers/legsilo.dds` | _awaiting license_ | Tharsy | #7224 | 2026-09-01 |
 | `scavengers/legsnapper.dds` | _awaiting license_ | Hornet | #7224 | 2026-09-01 |
 | `scavengers/legsolar.dds` | _awaiting license_ | Hornet | #7224 | 2026-09-01 |
-| `scavengers/legspbomber.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legspcarrier.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legspcon.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legspfighter.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legsplab.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legspradarsonarplane.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legspsurfacegunship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
-| `scavengers/legsptorpgunship.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legspbomber.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legspcarrier.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legspcon.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legspfighter.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legsplab.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legspradarsonarplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legspsurfacegunship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
+| `scavengers/legsptorpgunship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legsrail.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `scavengers/legsrailt4.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
-| `scavengers/legstarfall.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legstarfall.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legstr.dds` | _awaiting license_ | Tharsis | manual-audit | 2026-09-01 |
 | `scavengers/legstronghold.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legsy.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legtarg.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/legtide.dds` | _awaiting license_ | Mr Bob | #7224 | 2026-09-01 |
-| `scavengers/legtl.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legtl.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/leguwestore.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
 | `scavengers/leguwgeo.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/leguwmstore.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |
-| `scavengers/legvcarry.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-01 |
+| `scavengers/legvcarry.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `scavengers/legvenator.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legvflak.dds` | _awaiting license_ | Tharsis | #7224 | 2026-09-01 |
 | `scavengers/legvp.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
-| `scavengers/legwhisper.dds` | _awaiting license_ | ZephyrSkies | #7224 | 2026-09-01 |
+| `scavengers/legwhisper.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legwin.dds` | _awaiting license_ | Yzch | #7224 | 2026-09-01 |
 | `scavengers/legwint2.dds` | _awaiting license_ | Yzch | #7224 | 2026-09-01 |
 | `scavengers/mission_command_tower.dds` | _awaiting license_ | Cremuss | manual-audit | 2026-09-01 |

@@ -50054,13 +50054,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T11:58:20Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "icons/inverted/air_t2_plasma_mg_fortress.png",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5357",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -51849,13 +51848,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T11:58:20Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "icons/inverted/leglrpc.png",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3056",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -52635,22 +52633,20 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T11:58:20Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "icons/inverted/t3_allterrain_drone_cluster_bot.png",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5357",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T11:58:20Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "icons/inverted/t3_bot_clusterarty.png",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4508",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -52661,13 +52657,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T11:58:20Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "icons/inverted/t3_solinvictus.png",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4339",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -52982,13 +52977,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T11:58:20Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "icons/inverted/vehicle_t3_tank_rail_mgun.png",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4128",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -53242,13 +53236,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T11:58:20Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "icons/leglrpc.png",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3056",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -54028,40 +54021,36 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T11:58:20Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "icons/t3_allterrain_drone_cluster_bot.png",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5357",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T11:58:20Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "icons/t3_bot_clusterarty.png",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4508",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T11:58:20Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "icons/t3_bot_shotgun.png",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4382",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T11:58:20Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "icons/t3_solinvictus.png",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4339",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -54376,13 +54365,12 @@
     "source": "manual-audit"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T11:58:20Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "icons/vehicle_t3_tank_rail_mgun.png",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4089",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -65389,21 +65377,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/armanavaldefturret.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5987",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/armanavaldefturret_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5987",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Cremuss",
@@ -67564,21 +67550,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/armnavaldefturret.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5927",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/armnavaldefturret_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5927",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",
@@ -69435,21 +69419,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/coranavaldefturret.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5987",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/coranavaldefturret_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5987",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Odin",
@@ -71633,21 +71615,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/cornavaldefturret.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5927",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/cornavaldefturret_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5927",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -73155,21 +73135,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legaabot.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5061",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legaabot_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5061",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -73209,12 +73187,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legaca.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5124",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -73254,30 +73231,27 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legacluster.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3056",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legacluster_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3056",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legacv.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4790",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",
@@ -73344,21 +73318,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legadvestore.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4393",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legadvestore_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4393",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -73398,30 +73370,27 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legafcv.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4860",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legafcv_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4860",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legafigdef.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5124",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -73488,39 +73457,35 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legaheattank.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3237",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legaheattank_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3237",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legajam.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4393",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legajam_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4393",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -73560,21 +73525,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legamcluster.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3237",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legamcluster_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3237",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Johnathan Crimson",
@@ -73596,39 +73559,35 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legamphlab.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5072",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legamphlab_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5072",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legamphtank.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3144",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legamphtank_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3144",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -73686,21 +73645,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavaldefturret.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5987",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavaldefturret_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5987",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -73776,75 +73733,67 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavalsonarstation.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavalsonarstation_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavaltorpturret.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavaltorpturret_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavyaaship.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavyaaship_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavyantinukecarrier.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavyantinukecarrier_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -73866,39 +73815,35 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavyartyship.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavyartyship_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavybattleship.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavybattleship_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -73920,75 +73865,67 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavyconsub.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavyconsub_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavycruiser.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavycruiser_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavyengineer.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavyengineer_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavyflagship.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavyflagship_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -74010,21 +73947,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavymissileship.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leganavymissileship_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -74062,39 +73997,35 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legapopupdef.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5189",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legapopupdef_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5189",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legarad.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4393",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legarad_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4393",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -74116,111 +74047,99 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legaskirmtank.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3237",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legaskirmtank_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3237",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legaspy.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5357",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legaspy_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5357",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legassistdrone_land.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6128",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legatorpbomber.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4117",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legatrans.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3046",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legavantinuke.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6545",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legavantinuke_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6545",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legavjam.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4164",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legavjam_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4164",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legavp.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4141",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Cremuss",
@@ -74233,39 +74152,35 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legavrad.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4164",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legavrad_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4164",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legavroc.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3237",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legavroc_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3237",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -74305,21 +74220,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legbart.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legbart_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Gabs",
@@ -74377,12 +74290,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legca.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3046",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -74440,12 +74352,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legcib.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -74467,21 +74378,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legcluster.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legcluster_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -74548,21 +74457,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legctl.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4909",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legctl_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4909",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -74602,21 +74509,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legdrag.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legdrag_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -74629,39 +74534,35 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legdtr.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legdtr_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legeallterrainmech.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5357",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legeallterrainmech_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5357",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -74737,39 +74638,35 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legelrpcmech.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4508",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legelrpcmech_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4508",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legerailtank.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4089",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legerailtank_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4089",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Ghoulish",
@@ -74908,12 +74805,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legfig.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -74953,21 +74849,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legfmg.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4904",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legfmg_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4904",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -74989,39 +74883,35 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legfrad.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4909",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legfrad_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4909",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legfrl.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4909",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legfrl_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4909",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -75250,21 +75140,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leghelios.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leghelios_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Zephyr",
@@ -75340,21 +75228,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leginf.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leginf_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Zath",
@@ -75385,21 +75271,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legjam.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2997",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legjam_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2997",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -75501,40 +75385,36 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-09-09T13:51:56Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leglaw.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-09-09T13:51:56Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leglaw_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leglht.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2876",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leglht_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2876",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -75574,21 +75454,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leglrpc.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3056",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leglrpc_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3056",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -75601,21 +75479,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leglupara.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/leglupara_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Kremenchuk",
@@ -75637,21 +75513,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legmed.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legmed_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -75691,21 +75565,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legmg.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legmg_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -75853,21 +75725,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legmrv.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legmrv_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -75943,93 +75813,83 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legnavaldefturret.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5927",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legnavaldefturret_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5927",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legnavyaaship.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legnavyaaship_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legnavyartyship.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legnavyartyship_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legnavyconship.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legnavyconship_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legnavydestro.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legnavydestro_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -76051,39 +75911,35 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legnavyrezsub.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legnavyrezsub_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legnavyscout.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legnavyscout_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -76123,21 +75979,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legotter.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3049",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legotter_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3144",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",
@@ -76195,21 +76049,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legrad.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2997",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legrad_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2997",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -76240,57 +76092,51 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legrezbot.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5061",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legrezbot_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5061",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legrhapsis.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3021",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legrhapsis_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3021",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legrl.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3021",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legrl_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3021",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -76321,21 +76167,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legsd.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4393",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legsd_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4393",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -76357,21 +76201,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legshot.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legshot_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsy",
@@ -76429,75 +76271,67 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legspbomber.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legspcarrier.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legspcon.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legspfighter.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legsplab.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legspradarsonarplane.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legspsurfacegunship.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legsptorpgunship.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -76519,21 +76353,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legstarfall.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2266",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legstarfall_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2266",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -76618,21 +76450,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legtl.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4909",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legtl_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4909",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -76690,21 +76520,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legvcarry.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legvcarry_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "TheSilverHornet",
@@ -76771,12 +76599,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/legwhisper.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Yzch",
@@ -77405,21 +77232,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/scavboss/coresuppt3.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-02T11:11:22Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/scavboss/coresuppt3_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -77626,12 +77451,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/scavboss/legassistdrone.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6128",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -77849,21 +77673,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/scavbuildings/legministarfall.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2466",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:11:59Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/Units/scavbuildings/legministarfall_dead.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2466",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Yzch",
@@ -78364,12 +78186,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/epulse_mini.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "0 AD",
@@ -78528,12 +78349,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/legkambomb.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -78555,21 +78375,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/legmediumrocket.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3049",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/legmediumtorpedo.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4117",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -78609,12 +78427,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-07T13:49:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "objects3d/legtorpedomini.s3o",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Bluestone",
@@ -84501,31 +84318,28 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T12:34:25Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "sounds/movement/leg-t3u-mech-ok-1.wav",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4339",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T12:34:25Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "sounds/movement/leg-t3u-mech-ok-2.wav",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4339",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T12:34:25Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "sounds/movement/leg-t3u-mech-sel.wav",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4339",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Arbsquid",
@@ -92239,13 +92053,12 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T12:41:04Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "sounds/weapons/heatray4burn.wav",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4339",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Arbsquid",
@@ -92696,13 +92509,12 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-08-31T12:41:04Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "sounds/weapons/ministarfallchargup.wav",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6525",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Fx-Doo",
@@ -93171,13 +92983,12 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "ZephyrSkies7",
-    "date": "2026-09-01T07:18:31Z",
+    "contributor": "ZephyrSkies",
+    "date": "2026-11-07T13:11:18Z",
     "file": "sounds/weapons/starfallchargup.wav",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6510",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "icexuick",
@@ -93717,12 +93528,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/armanavaldefturret.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5987",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Cremuss",
@@ -94879,12 +94689,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/armnavaldefturret.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5927",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -95750,12 +95559,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/coranavaldefturret.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5987",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Odin",
@@ -96163,12 +95971,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/coresuppt3.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -96942,12 +96749,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/cornavaldefturret.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5927",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -97780,12 +97586,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legaabot.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5061",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -97807,12 +97612,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legaca.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -97834,21 +97638,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legacluster.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3056",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legacv.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Johnathan Crimson",
@@ -97870,12 +97672,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legadvestore.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4393",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -97897,21 +97698,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legafcv.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4860",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legafigdef.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5124",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -97942,21 +97741,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legaheattank.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3237",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legajam.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4393",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -97978,12 +97775,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legamcluster.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3237",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Johnathan Crimson",
@@ -97996,21 +97792,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legamphlab.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5072",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legamphtank.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3144",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -98050,12 +97844,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leganavaldefturret.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5987",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -98095,39 +97888,35 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leganavalsonarstation.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leganavaltorpturret.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leganavyaaship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leganavyantinukecarrier.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -98140,21 +97929,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leganavyartyship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leganavybattleship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -98167,39 +97954,35 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leganavyconsub.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leganavycruiser.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leganavyengineer.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leganavyflagship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -98212,12 +97995,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leganavymissileship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -98238,21 +98020,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legapopupdef.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5189",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legarad.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4393",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -98265,93 +98045,83 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legaskirmtank.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3237",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legaspy.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5357",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legassistdrone.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legatorpbomber.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4117",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legatrans.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3046",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legavantinuke.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6545",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legavjam.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4164",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legavp.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legavrad.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4164",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legavroc.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3237",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -98373,12 +98143,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legbart.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Gabs",
@@ -98409,12 +98178,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legca.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -98445,12 +98213,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legcib.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -98463,12 +98230,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legcluster.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -98535,12 +98301,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legctl.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4909",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -98562,12 +98327,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legdrag.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -98580,21 +98344,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legdtr.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legeallterrainmech.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5357",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -98625,30 +98387,27 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legehovertank.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5357",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legelrpcmech.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4508",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legerailtank.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4089",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Ghoulish",
@@ -98688,12 +98447,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legfhive.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3222",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -98706,12 +98464,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legfig.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -98733,12 +98490,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legfmg.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4904",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -98760,21 +98516,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legfrad.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4909",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legfrl.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4909",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -98895,21 +98649,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leghelios.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leghive.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3222",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -98940,12 +98692,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leginf.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Zath",
@@ -98967,12 +98718,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legjam.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2997",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -99030,12 +98780,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leglht.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2876",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -99057,12 +98806,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leglrpc.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3056",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -99075,12 +98823,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/leglupara.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Kremenchuk",
@@ -99093,12 +98840,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legmed.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -99120,12 +98866,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legmg.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -99210,12 +98955,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legmrv.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -99255,21 +98999,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legnavaldefturret.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5927",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legnavyaaship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Johnathan Crimson",
@@ -99282,21 +99024,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legnavyconship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legnavydestro.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -99309,21 +99049,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legnavyrezsub.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legnavyscout.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6123",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -99354,12 +99092,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legotter.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2853",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",
@@ -99399,12 +99136,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legrad.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2997",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -99426,30 +99162,27 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legrezbot.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5061",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legrhapsis.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3021",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legrl.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3021",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -99471,12 +99204,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legsd.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4393",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -99489,12 +99221,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legshot.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsy",
@@ -99525,75 +99256,67 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legspbomber.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legspcarrier.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legspcon.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legspfighter.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legsplab.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legspradarsonarplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legspsurfacegunship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legsptorpgunship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "6423",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -99606,12 +99329,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legstarfall.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2266",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -99660,12 +99382,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legtl.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4909",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "TheSilverHornet",
@@ -99723,12 +99444,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legvcarry.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -99759,12 +99479,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/legwhisper.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Yzch",
@@ -103264,12 +102983,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/coresuppt3.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -104687,12 +104405,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legaabot.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -104714,12 +104431,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legaca.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -104741,21 +104457,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legacluster.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legacv.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Johnathan Crimson",
@@ -104786,12 +104500,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legadvestore.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -104813,21 +104526,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legafcv.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legafigdef.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -104867,21 +104578,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legaheattank.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legajam.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -104903,12 +104612,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legamcluster.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Johnathan Crimson",
@@ -104921,21 +104629,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legamphlab.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legamphtank.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -104966,12 +104672,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leganavaldefturret.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -105011,39 +104716,35 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leganavalsonarstation.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leganavaltorpturret.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leganavyaaship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leganavyantinukecarrier.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -105056,21 +104757,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leganavyartyship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leganavybattleship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -105083,39 +104782,35 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leganavyconsub.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leganavycruiser.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leganavyengineer.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leganavyflagship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -105128,12 +104823,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leganavymissileship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Beherith",
@@ -105154,12 +104848,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legapopupdef.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -105172,12 +104865,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legarad.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -105190,84 +104882,75 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legaskirmtank.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3237",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legaspy.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legatorpbomber.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legatrans.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legavantinuke.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legavjam.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legavp.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legavrad.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legavroc.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -105289,12 +104972,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legbart.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Gabs",
@@ -105307,12 +104989,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legca.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -105343,12 +105024,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legcib.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -105361,12 +105041,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legcluster.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -105379,12 +105058,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legctl.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -105415,12 +105093,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legdrag.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -105460,21 +105137,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legdtr.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legeallterrainmech.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -105496,39 +105171,35 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legehovertank.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legelrpcmech.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legerailtank.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legeshotgunmech.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "NebuchadnezzarII",
@@ -105559,12 +105230,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legfhive.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -105577,12 +105247,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legfig.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -105604,12 +105273,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legfmg.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -105640,21 +105308,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legfrad.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legfrl.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -105747,12 +105413,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leghacv.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -105801,21 +105466,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leghelios.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leghive.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -105846,12 +105509,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leginf.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Zath",
@@ -105864,12 +105526,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legjam.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -105927,12 +105588,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leglht.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -105954,12 +105614,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leglrpc.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -105972,21 +105631,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/leglupara.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legmed.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -106008,12 +105665,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legmg.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -106062,12 +105718,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legministarfall.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -106116,12 +105771,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legmrv.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -106152,39 +105806,35 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legnavyaaship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legnavyartyship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legnavyconship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legnavydestro.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -106197,21 +105847,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legnavyrezsub.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legnavyscout.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -106233,12 +105881,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legotter.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",
@@ -106269,12 +105916,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legrad.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -106296,30 +105942,27 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legrezbot.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legrhapsis.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legrl.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -106341,12 +105984,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legsd.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -106359,12 +106001,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legshot.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsy",
@@ -106395,75 +106036,67 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legspbomber.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legspcarrier.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legspcon.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legspfighter.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legsplab.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legspradarsonarplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legspsurfacegunship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legsptorpgunship.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -106485,12 +106118,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legstarfall.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -106539,12 +106171,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legtl.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -106575,12 +106206,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legvcarry.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -106611,12 +106241,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T19:51:52Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unitpics/scavengers/legwhisper.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "7224",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Yzch",
@@ -108925,12 +108554,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/legacluster_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4001",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -108943,12 +108571,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/legadvestore_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -108979,12 +108606,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/legajam_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -109015,21 +108641,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/legarad_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/legavp_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Gabs",
@@ -109051,12 +108675,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/legcluster_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Gabs",
@@ -109069,21 +108692,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/legdrag_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/legdtr_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -109150,12 +108771,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/leghive_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4001",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -109168,12 +108788,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/legjam_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4001",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -109186,12 +108805,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/leglht_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3002",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Mr Bob",
@@ -109204,21 +108822,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/leglrpc_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/leglupara_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2999",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -109240,12 +108856,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/legmg_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4001",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -109321,12 +108936,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/legrad_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "4001",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -109339,30 +108953,27 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/legrhapsis_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3021",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/legrl_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "3021",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/legsd_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsy",
@@ -109384,12 +108995,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:21:28Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals/legstarfall_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "2266",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -113910,12 +113520,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legacluster_dead_5_5_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",
@@ -113946,12 +113555,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legadvestore_dead_6_6_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -113964,12 +113572,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legafcv_dead_4_4_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -114000,21 +113607,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legaheattank_dead_6_6_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legajam_dead_4_4_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Cremuss",
@@ -114027,12 +113632,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legamcluster_dead_5_5_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Johnathan Crimson",
@@ -114045,12 +113649,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legamphtank_dead_4_4_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -114072,30 +113675,27 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legarad_dead_6_6_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legaskirmtank_dead_4_4_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legavjam_dead_4_4_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Cremuss",
@@ -114108,21 +113708,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legavrad_dead_4_4_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legavroc_dead_5_5_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -114144,12 +113742,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-07T15:04:01Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legbart_dead_6_6_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Gabs",
@@ -114216,12 +113813,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legcluster_dead_6_6_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -114234,12 +113830,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legctl_dead_5_5_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -114261,21 +113856,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legdrag_dead_3_3_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legdtr_dead_3_3_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -114297,21 +113890,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-07T15:04:01Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legelrpcmech_dead_12_12_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legerailtank_dead_7_7_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Ghoulish",
@@ -114360,30 +113951,27 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legfmg_dead_6_6_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legfrad_dead_5_5_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legfrl_dead_5_5_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -114450,12 +114038,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/leghelios_dead_3_3_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Zephyr",
@@ -114486,12 +114073,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-07T15:05:24Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/leginf_dead_7_7_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Zath",
@@ -114504,12 +114090,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legjam_dead_4_4_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -114548,7 +114133,7 @@
     "status": "awaiting_license"
   },
   {
-    "contributor": "ZephyrSkies7",
+    "contributor": "ZephyrSkies",
     "date": "2026-10-12T19:21:44Z",
     "file": "unittextures/decals_features/leglaw_dead_3_3_aoplane.dds",
     "license": "LicenseRef-BAR-CLA-1.0",
@@ -114557,12 +114142,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/leglht_dead_4_4_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -114584,21 +114168,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/leglrpc_dead_8_8_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/leglupara_dead_4_4_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Kremenchuk",
@@ -114611,12 +114193,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-07T15:05:24Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legmed_dead_7_7_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -114638,12 +114219,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legmg_dead_6_6_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -114656,12 +114236,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legministarfall_dead_7_7_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -114692,12 +114271,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legmrv_dead_4_4_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Protar",
@@ -114719,12 +114297,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legotter_dead_5_5_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "FireStorm",
@@ -114755,12 +114332,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legrad_dead_4_4_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -114773,21 +114349,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legrhapsis_dead_5_5_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legrl_dead_4_4_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Flaka",
@@ -114800,12 +114374,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legsd_dead_7_7_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "EnderRobo",
@@ -114818,12 +114391,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-07T15:05:24Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legshot_dead_4_4_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsy",
@@ -114872,12 +114444,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legstarfall_dead_10_10_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -114899,21 +114470,19 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legtl_dead_4_4_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-07T15:05:24Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/decals_features/legvcarry_dead_7_7_aoplane.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "Tharsis",
@@ -115564,12 +115133,11 @@
   },
   {
     "contributor": "ZephyrSkies",
-    "date": "2026-09-07T15:06:39Z",
+    "date": "2026-11-07T13:11:18Z",
     "file": "unittextures/leg_normal.dds",
-    "license": "",
+    "license": "CC-BY-SA-4.0",
     "pr": "manual-audit",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "source": "manual-audit"
   },
   {
     "contributor": "ForbodingAngel",

@@ -272,24 +272,24 @@ Total assets recorded: **1063**
 | `decals/generic_aoplane.dds` | _awaiting license_ | Tharsy | #4001 | 2026-09-01 |
 | `decals/legaap_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals/legabm_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
-| `decals/legacluster_aoplane.dds` | _awaiting license_ | ZephyrSkies | #4001 | 2026-09-01 |
+| `decals/legacluster_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4001 | 2026-11-07 |
 | `decals/legadveconv_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
-| `decals/legadvestore_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals/legadvestore_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals/legadvsol_aoplane.dds` | _awaiting license_ | EnderRobo | #4001 | 2026-09-01 |
 | `decals/legafus_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals/legageo_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
-| `decals/legajam_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals/legajam_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals/legalab_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals/legamstor_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
 | `decals/legap_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
-| `decals/legarad_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
-| `decals/legavp_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals/legarad_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
+| `decals/legavp_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals/legbastion_aoplane.dds` | _awaiting license_ | Gabs | #5030 | 2026-09-01 |
 | `decals/legbombard_aoplane.dds` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
-| `decals/legcluster_aoplane.dds` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `decals/legcluster_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #2999 | 2026-11-07 |
 | `decals/legdeflector_aoplane.dds` | _awaiting license_ | Gabs | #5030 | 2026-09-01 |
-| `decals/legdrag_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
-| `decals/legdtr_aoplane.dds` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `decals/legdrag_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
+| `decals/legdtr_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #2999 | 2026-11-07 |
 | `decals/legeconv_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
 | `decals/legestor_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
 | `decals/legflak_aoplane.dds` | _awaiting license_ | Tharsis | #2728 | 2026-09-01 |
@@ -297,17 +297,17 @@ Total assets recorded: **1063**
 | `decals/legfus_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals/leggatet3_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals/leggeo_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
-| `decals/leghive_aoplane.dds` | _awaiting license_ | ZephyrSkies | #4001 | 2026-09-01 |
+| `decals/leghive_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4001 | 2026-11-07 |
 | `decals/leghp_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
-| `decals/legjam_aoplane.dds` | _awaiting license_ | ZephyrSkies | #4001 | 2026-09-01 |
+| `decals/legjam_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4001 | 2026-11-07 |
 | `decals/leglab_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
-| `decals/leglht_aoplane.dds` | _awaiting license_ | ZephyrSkies | #3002 | 2026-09-01 |
+| `decals/leglht_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3002 | 2026-11-07 |
 | `decals/leglraa_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
-| `decals/leglrpc_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
-| `decals/leglupara_aoplane.dds` | _awaiting license_ | ZephyrSkies | #2999 | 2026-09-01 |
+| `decals/leglrpc_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
+| `decals/leglupara_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #2999 | 2026-11-07 |
 | `decals/legmex_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
 | `decals/legmext15_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
-| `decals/legmg_aoplane.dds` | _awaiting license_ | ZephyrSkies | #4001 | 2026-09-01 |
+| `decals/legmg_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4001 | 2026-11-07 |
 | `decals/legmoho_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
 | `decals/legmohobp_aoplane.dds` | _awaiting license_ | Protar | #4001 | 2026-09-01 |
 | `decals/legmohocon_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
@@ -316,14 +316,14 @@ Total assets recorded: **1063**
 | `decals/legnanotcbase_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
 | `decals/legnanotct2_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
 | `decals/legperdition_aoplane.dds` | _awaiting license_ | Hornet | #2836 | 2026-09-01 |
-| `decals/legrad_aoplane.dds` | _awaiting license_ | ZephyrSkies | #4001 | 2026-09-01 |
+| `decals/legrad_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4001 | 2026-11-07 |
 | `decals/legrampart_aoplane.dds` | _awaiting license_ | Tharsis | #4001 | 2026-09-01 |
-| `decals/legrhapsis_aoplane.dds` | _awaiting license_ | ZephyrSkies | #3021 | 2026-09-01 |
-| `decals/legrl_aoplane.dds` | _awaiting license_ | ZephyrSkies | #3021 | 2026-09-01 |
-| `decals/legsd_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals/legrhapsis_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3021 | 2026-11-07 |
+| `decals/legrl_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #3021 | 2026-11-07 |
+| `decals/legsd_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals/legsilo_aoplane.dds` | _awaiting license_ | Tharsy | #4001 | 2026-09-01 |
 | `decals/legsolar_aoplane.dds` | _awaiting license_ | Hornet | #2723 | 2026-09-01 |
-| `decals/legstarfall_aoplane.dds` | _awaiting license_ | ZephyrSkies | #2266 | 2026-09-01 |
+| `decals/legstarfall_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #2266 | 2026-11-07 |
 | `decals/legtarg_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals/legvp_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals/legwin_aoplane.dds` | _awaiting license_ | Yzch | manual-audit | 2026-09-01 |
@@ -829,33 +829,33 @@ Total assets recorded: **1063**
 | `decals_features/legabm_dead_6_6_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/legaceb_dead_4_4_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/legack_dead_5_5_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
-| `decals_features/legacluster_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legacluster_dead_5_5_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legacv_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/legadveconv_dead_6_6_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals_features/legadveconvt3_dead_11_11_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
-| `decals_features/legadvestore_dead_6_6_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legadvestore_dead_6_6_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legadvsol_dead_8_8_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
-| `decals_features/legafcv_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legafcv_dead_4_4_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legafus_dead_9_9_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals_features/legafust3_dead_16_16_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals_features/legah_dead_4_4_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
-| `decals_features/legaheattank_dead_6_6_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
-| `decals_features/legajam_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legaheattank_dead_6_6_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
+| `decals_features/legajam_dead_4_4_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legalab_dead_13_13_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
-| `decals_features/legamcluster_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legamcluster_dead_5_5_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legamph_dead_7_7_aoplane.dds` | _awaiting license_ | Johnathan Crimson | #5030 | 2026-09-07 |
-| `decals_features/legamphtank_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legamphtank_dead_4_4_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legamstor_dead_6_6_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals_features/legap_dead_8_8_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-07 |
-| `decals_features/legarad_dead_6_6_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
-| `decals_features/legaskirmtank_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
-| `decals_features/legavjam_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legarad_dead_6_6_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
+| `decals_features/legaskirmtank_dead_4_4_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
+| `decals_features/legavjam_dead_4_4_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legavp_dead_13_13_aoplane.dds` | _awaiting license_ | Cremuss | #5030 | 2026-09-01 |
-| `decals_features/legavrad_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
-| `decals_features/legavroc_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legavrad_dead_4_4_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
+| `decals_features/legavroc_dead_5_5_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legbal_dead_5_5_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/legbar_dead_5_5_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
-| `decals_features/legbart_dead_6_6_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-07 |
+| `decals_features/legbart_dead_6_6_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legbastion_dead_9_9_aoplane.dds` | _awaiting license_ | Gabs | #5030 | 2026-09-01 |
 | `decals_features/legbombard_dead_4_4_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-01 |
 | `decals_features/legbunk_dead_8_8_aoplane.dds` | _awaiting license_ | Johnathan Crimson | #5030 | 2026-09-07 |
@@ -863,25 +863,25 @@ Total assets recorded: **1063**
 | `decals_features/legcen_dead_5_5_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/legch_dead_4_4_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
 | `decals_features/legck_dead_4_4_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
-| `decals_features/legcluster_dead_6_6_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legcluster_dead_6_6_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legcom_dead_5_5_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
-| `decals_features/legctl_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legctl_dead_5_5_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legcv_dead_5_5_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/legdeflector_dead_6_6_aoplane.dds` | _awaiting license_ | Gabs | #5030 | 2026-09-01 |
-| `decals_features/legdrag_dead_3_3_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
-| `decals_features/legdtr_dead_3_3_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legdrag_dead_3_3_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
+| `decals_features/legdtr_dead_3_3_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legeconv_dead_5_5_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals_features/legeheatraymech_dead_12_12_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-07 |
-| `decals_features/legelrpcmech_dead_12_12_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-07 |
-| `decals_features/legerailtank_dead_7_7_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legelrpcmech_dead_12_12_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
+| `decals_features/legerailtank_dead_7_7_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legeshotgunmech_dead_9_9_aoplane.dds` | _awaiting license_ | Ghoulish | #5030 | 2026-09-07 |
 | `decals_features/legestor_dead_5_5_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals_features/legfhive_dead_6_6_aoplane.dds` | _awaiting license_ | Zephyr | #5030 | 2026-09-01 |
 | `decals_features/legflak_dead_6_6_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/legfloat_dead_6_6_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
-| `decals_features/legfmg_dead_6_6_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
-| `decals_features/legfrad_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
-| `decals_features/legfrl_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legfmg_dead_6_6_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
+| `decals_features/legfrad_dead_5_5_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
+| `decals_features/legfrl_dead_5_5_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legfus_dead_8_8_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals_features/leggat_dead_5_5_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals_features/leggatet3_dead_7_7_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
@@ -889,58 +889,58 @@ Total assets recorded: **1063**
 | `decals_features/leggob_dead_3_3_aoplane.dds` | _awaiting license_ | Odin | #5030 | 2026-09-01 |
 | `decals_features/leggobt3_dead_7_7_aoplane.dds` | _awaiting license_ | Odin | #5030 | 2026-09-01 |
 | `decals_features/leghades_dead_3_3_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
-| `decals_features/leghelios_dead_3_3_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/leghelios_dead_3_3_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/leghive_dead_5_5_aoplane.dds` | _awaiting license_ | Zephyr | #5030 | 2026-09-01 |
 | `decals_features/leghp_dead_7_7_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals_features/leginc_dead_6_6_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-07 |
-| `decals_features/leginf_dead_7_7_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-07 |
+| `decals_features/leginf_dead_7_7_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/leginfestor_dead_5_5_aoplane.dds` | _awaiting license_ | Zath | #5030 | 2026-09-07 |
-| `decals_features/legjam_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legjam_dead_4_4_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legjav_dead_7_7_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/legkark_dead_4_4_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/legkeres_dead_7_7_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
 | `decals_features/leglab_dead_9_9_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
-| `decals_features/leglaw_dead_3_3_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | ZephyrSkies7 | #5030 | 2026-10-12 |
-| `decals_features/leglht_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/leglaw_dead_3_3_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | ZephyrSkies | #5030 | 2026-10-12 |
+| `decals_features/leglht_dead_4_4_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/leglob_dead_4_4_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/leglraa_dead_6_6_aoplane.dds` | _awaiting license_ | Mr Bob | #5030 | 2026-09-01 |
-| `decals_features/leglrpc_dead_8_8_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
-| `decals_features/leglupara_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/leglrpc_dead_8_8_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
+| `decals_features/leglupara_dead_4_4_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legmech_dead_8_8_aoplane.dds` | _awaiting license_ | Kremenchuk | #5030 | 2026-09-01 |
-| `decals_features/legmed_dead_7_7_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-07 |
+| `decals_features/legmed_dead_7_7_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legmex_dead_5_5_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals_features/legmext15_dead_5_5_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
-| `decals_features/legmg_dead_6_6_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legmg_dead_6_6_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legmh_dead_4_4_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
-| `decals_features/legministarfall_dead_7_7_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legministarfall_dead_7_7_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legmlv_dead_3_3_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/legmoho_dead_6_6_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals_features/legmohocon_dead_6_6_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-07 |
-| `decals_features/legmrv_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legmrv_dead_4_4_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legmstor_dead_6_6_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-01 |
 | `decals_features/legner_dead_4_4_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
-| `decals_features/legotter_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legotter_dead_5_5_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legpede_dead_18_18_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/legperdition_dead_7_7_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-07 |
 | `decals_features/legphoenix_dead_10_10_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-07 |
-| `decals_features/legrad_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legrad_dead_4_4_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legrail_dead_4_4_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
-| `decals_features/legrhapsis_dead_5_5_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
-| `decals_features/legrl_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legrhapsis_dead_5_5_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
+| `decals_features/legrl_dead_4_4_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legscout_dead_4_4_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
-| `decals_features/legsd_dead_7_7_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legsd_dead_7_7_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legsh_dead_3_3_aoplane.dds` | _awaiting license_ | EnderRobo | #5030 | 2026-09-01 |
-| `decals_features/legshot_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-07 |
+| `decals_features/legshot_dead_4_4_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legsilo_dead_8_8_aoplane.dds` | _awaiting license_ | Tharsy | #5030 | 2026-09-01 |
 | `decals_features/legsnapper_dead_3_3_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-01 |
 | `decals_features/legsolar_dead_6_6_aoplane.dds` | _awaiting license_ | Hornet | #5030 | 2026-09-01 |
 | `decals_features/legsrail_dead_6_6_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/legsrailt4_dead_10_10_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
-| `decals_features/legstarfall_dead_10_10_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
+| `decals_features/legstarfall_dead_10_10_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legstr_dead_6_6_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/legtarg_dead_7_7_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-07 |
-| `decals_features/legtl_dead_4_4_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-01 |
-| `decals_features/legvcarry_dead_7_7_aoplane.dds` | _awaiting license_ | ZephyrSkies | #5030 | 2026-09-07 |
+| `decals_features/legtl_dead_4_4_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
+| `decals_features/legvcarry_dead_7_7_aoplane.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5030 | 2026-11-07 |
 | `decals_features/legvflak_dead_5_5_aoplane.dds` | _awaiting license_ | Tharsis | #5030 | 2026-09-01 |
 | `decals_features/legvp_dead_8_8_aoplane.dds` | _awaiting license_ | Protar | #5030 | 2026-09-07 |
 | `decals_features/legwin_dead_4_4_aoplane.dds` | _awaiting license_ | Yzch | #5030 | 2026-09-01 |
@@ -1021,7 +1021,7 @@ Total assets recorded: **1063**
 | `greenchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `greyrock2.tga` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `leegmech_normal.dds` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-07 |
-| `leg_normal.dds` | _awaiting license_ | ZephyrSkies | manual-audit | 2026-09-07 |
+| `leg_normal.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
 | `multichicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `palette_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `palette_normal.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
