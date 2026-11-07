@@ -39,9 +39,21 @@
     "OFL-1.1": { "name": "SIL Open Font License 1.1", "label": "license: OFL" },
     "CC-BY-SA-3.0": { "name": "CC-BY-SA 3.0", "label": "license: CC-BY-SA-3.0" },
     "CC-BY-4.0": { "name": "CC-BY 4.0", "label": "license: CC-BY-4.0" },
-    "CC-BY-NC-ND-4.0": { "name": "CC-BY-NC-ND 4.0 (legacy)", "label": "license: CC-BY-NC-ND" }
+    "CC-BY-NC-ND-4.0": { "name": "CC-BY-NC-ND 4.0 (legacy)", "label": "license: CC-BY-NC-ND" },
+    "LicenseRef-Envato-Elements": { "name": "Envato Elements License", "label": "license: store", "release_only": true, "store": "envato-elements", "flag": "envato" },
+    "LicenseRef-Envato-Market-Regular": { "name": "Envato Market Regular License", "label": "license: store", "release_only": true, "store": "envato-market" },
+    "LicenseRef-Envato-Market-Extended": { "name": "Envato Market Extended License", "label": "license: store", "release_only": true, "store": "envato-market" },
+    "LicenseRef-Envato-Market-SFX-Single": { "name": "Envato Market SFX Single Use License", "label": "license: store", "release_only": true, "store": "envato-market" },
+    "LicenseRef-Sketchfab-Standard": { "name": "Sketchfab Standard License", "label": "license: store", "release_only": true, "store": "sketchfab", "flag": "sketchfab" },
+    "LicenseRef-BlenderMarket-RoyaltyFree": { "name": "Blender Market Royalty Free License", "label": "license: store", "release_only": true, "store": "blender-market", "flag": "blendermarketplace" },
+    "LicenseRef-GameTextures": { "name": "GameTextures.com License", "label": "license: store", "release_only": true, "store": "gametextures", "flag": "gametextures-com" },
+    "LicenseRef-Unity-AssetStore": { "name": "Unity Asset Store EULA", "label": "license: store", "release_only": true, "store": "unity-asset-store", "flag": "unity" },
+    "LicenseRef-ZapSplat-Standard": { "name": "ZapSplat Standard License", "label": "license: store", "release_only": true, "store": "zapsplat", "flag": "zapsplat" },
+    "LicenseRef-Pixabay": { "name": "Pixabay Content License", "label": "license: store", "release_only": true, "store": "pixabay" },
+    "LicenseRef-ThirdParty-Mixed": { "name": "Mixed third-party sources (strictest governs)", "label": "license: store", "release_only": true, "store": "mixed", "flag": "mixed-assets-multiple-asset-stores" }
   },
   "pr_choices": ["LicenseRef-BAR-CLA-1.0", "CC-BY-SA-4.0"],
+  "distribution": "public",
   "ledger": {
     "signatures": ".github/cla-signatures.json",
     "assignments": ".github/file-license-assignments.json",
@@ -52,6 +64,6 @@
   "status_context": "BAR CLA / License Check",
   "legal_dir": "legal",
   "overrides": {
-    "_doc": "Per-repository overrides keyed by owner/name, merged over the top-level keys when GITHUB_REPOSITORY matches. Lets a private mirror offer extra PR choices without diverging this file."
+    "_doc": "Per-repository overrides keyed by owner/name, merged over the top-level keys when GITHUB_REPOSITORY matches. Lets a private mirror offer extra PR choices without diverging this file. `distribution` is \"public\" here and \"release-only\" in the private asset repository; licenses marked release_only may only be recorded there."
   }
 }
