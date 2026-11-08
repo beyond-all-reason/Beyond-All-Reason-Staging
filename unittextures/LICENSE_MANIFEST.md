@@ -393,7 +393,7 @@ Total assets recorded: **986**
 | `decals_features/armart_dead_4_4_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `decals_features/armaser_dead_7_7_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/armason_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
-| `decals_features/armassimilator_dead_11_11_aoplane.dds` | _awaiting license_ | PtaQ | #5030 | 2026-09-01 |
+| `decals_features/armassimilator_dead_11_11_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #6 | 2026-11-08 |
 | `decals_features/armasy_dead_13_13_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/armatl_dead_4_4_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/armatlas_dead_5_5_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
@@ -484,11 +484,11 @@ Total assets recorded: **986**
 | `decals_features/armlunchbox_dead_6_6_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
 | `decals_features/armmakr_dead_4_4_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | Cremuss | #5030 | 2026-10-12 |
 | `decals_features/armmanni_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
-| `decals_features/armmar_dead_9_9_aoplane.dds` | _awaiting license_ | PtaQ | #5030 | 2026-09-01 |
+| `decals_features/armmar_dead_9_9_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #6 | 2026-11-08 |
 | `decals_features/armmark_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/armmart_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `decals_features/armmav_dead_7_7_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
-| `decals_features/armmeatball_dead_6_6_aoplane.dds` | _awaiting license_ | PtaQ | #5030 | 2026-09-01 |
+| `decals_features/armmeatball_dead_6_6_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #6 | 2026-11-08 |
 | `decals_features/armmercury_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | manual-audit | 2026-09-01 |
 | `decals_features/armmerl_dead_5_5_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/armmex_dead_5_5_aoplane.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
@@ -516,7 +516,7 @@ Total assets recorded: **986**
 | `decals_features/armpwt4_dead_9_9_aoplane.dds` | _awaiting license_ | Kaiser | #5030 | 2026-09-01 |
 | `decals_features/armrad_dead_4_4_aoplane.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `decals_features/armrattet4_dead_8_8_aoplane.dds` | _awaiting license_ | Flaka | #5030 | 2026-09-01 |
-| `decals_features/armraz_dead_8_8_aoplane.dds` | _awaiting license_ | PtaQ | #5030 | 2026-09-01 |
+| `decals_features/armraz_dead_8_8_aoplane.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #6 | 2026-11-08 |
 | `decals_features/armrecl_dead_6_6_aoplane.dds` | _awaiting license_ | FireStorm | #5030 | 2026-09-01 |
 | `decals_features/armrectr_dead_4_4_aoplane.dds` | _awaiting license_ | Kaiser | #5030 | 2026-09-01 |
 | `decals_features/armrl_dead_5_5_aoplane.dds` | _awaiting license_ | Beherith | #5030 | 2026-09-01 |
@@ -951,7 +951,7 @@ Total assets recorded: **986**
 | `default_tree_normal.dds` | _awaiting license_ | lhog | #5 | 2026-11-08 |
 | `dice.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
 | `dice2.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
-| `editor_geovent_crack.dds` | _awaiting license_ | PtaQ | #8719 | 2026-11-08 |
+| `editor_geovent_crack.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #6 | 2026-11-08 |
 | `emptyFullSpecular.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-11-08 |
 | `energyball_tex.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `energyball_tex2.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

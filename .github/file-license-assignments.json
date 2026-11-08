@@ -99912,12 +99912,11 @@
   },
   {
     "contributor": "PtaQ",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-08",
     "file": "unittextures/decals_features/armassimilator_dead_11_11_aoplane.dds",
-    "license": "",
-    "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "pr": 6,
+    "source": "consent-issue"
   },
   {
     "contributor": "FireStorm",
@@ -100713,12 +100712,11 @@
   },
   {
     "contributor": "PtaQ",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-08",
     "file": "unittextures/decals_features/armmar_dead_9_9_aoplane.dds",
-    "license": "",
-    "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "pr": 6,
+    "source": "consent-issue"
   },
   {
     "contributor": "FireStorm",
@@ -100749,12 +100747,11 @@
   },
   {
     "contributor": "PtaQ",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-08",
     "file": "unittextures/decals_features/armmeatball_dead_6_6_aoplane.dds",
-    "license": "",
-    "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "pr": 6,
+    "source": "consent-issue"
   },
   {
     "contributor": "Beherith",
@@ -100993,12 +100990,11 @@
   },
   {
     "contributor": "PtaQ",
-    "date": "2026-09-01T20:25:05Z",
+    "date": "2026-11-08",
     "file": "unittextures/decals_features/armraz_dead_8_8_aoplane.dds",
-    "license": "",
-    "pr": "5030",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "pr": 6,
+    "source": "consent-issue"
   },
   {
     "contributor": "FireStorm",
@@ -104830,12 +104826,11 @@
   },
   {
     "contributor": "PtaQ",
-    "date": "2026-11-08T01:17:33Z",
+    "date": "2026-11-08",
     "file": "unittextures/editor_geovent_crack.dds",
-    "license": "",
-    "pr": "8719",
-    "source": "manual-audit",
-    "status": "awaiting_license"
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "pr": 6,
+    "source": "consent-issue"
   },
   {
     "contributor": "ForbodingAngel",
