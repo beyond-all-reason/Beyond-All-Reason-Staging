@@ -502,7 +502,7 @@ jobs:
           CL_AUTHOR: ${{ steps.confirm-license.outputs.cl_author }}
           CL_PR: ${{ steps.confirm-license.outputs.cl_pr_number }}
         run: |
-          read -r BOT_NAME BOT_EMAIL < <(node -e "const c=require('./.github/scripts/licensing.js').loadConfig(); console.log(c.bot.name, c.bot.email)")
+          read -r BOT_EMAIL BOT_NAME < <(node -e "const c=require('./.github/scripts/licensing.js').loadConfig(); console.log(c.bot.email, c.bot.name)")
           git config user.name "$BOT_NAME"
           git config user.email "$BOT_EMAIL"
           git add .github/cla-signatures.json
@@ -638,7 +638,7 @@ jobs:
           CA_COMMENTER: ${{ steps.confirm-authorship.outputs.ca_commenter }}
           CA_PR: ${{ steps.confirm-authorship.outputs.ca_pr_number }}
         run: |
-          read -r BOT_NAME BOT_EMAIL < <(node -e "const c=require('./.github/scripts/licensing.js').loadConfig(); console.log(c.bot.name, c.bot.email)")
+          read -r BOT_EMAIL BOT_NAME < <(node -e "const c=require('./.github/scripts/licensing.js').loadConfig(); console.log(c.bot.email, c.bot.name)")
           git config user.name "$BOT_NAME"
           git config user.email "$BOT_EMAIL"
           git add .github/cla-signatures.json
@@ -744,7 +744,7 @@ jobs:
           PR_AUTHOR: ${{ github.event.pull_request.user.login }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
         run: |
-          read -r BOT_NAME BOT_EMAIL < <(node -e "const c=require('./.github/scripts/licensing.js').loadConfig(); console.log(c.bot.name, c.bot.email)")
+          read -r BOT_EMAIL BOT_NAME < <(node -e "const c=require('./.github/scripts/licensing.js').loadConfig(); console.log(c.bot.email, c.bot.name)")
           git config user.name "$BOT_NAME"
           git config user.email "$BOT_EMAIL"
           git add .github/cla-signatures.json
@@ -824,7 +824,7 @@ jobs:
           PR_NUMBER: ${{ github.event.pull_request.number }}
           MANIFESTS: ${{ steps.promote.outputs.manifests }}
         run: |
-          read -r BOT_NAME BOT_EMAIL < <(node -e "const c=require('./.github/scripts/licensing.js').loadConfig(); console.log(c.bot.name, c.bot.email)")
+          read -r BOT_EMAIL BOT_NAME < <(node -e "const c=require('./.github/scripts/licensing.js').loadConfig(); console.log(c.bot.email, c.bot.name)")
           git config user.name "$BOT_NAME"
           git config user.email "$BOT_EMAIL"
           git add .github/cla-signatures.json .github/file-license-assignments.json
@@ -916,7 +916,7 @@ jobs:
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           MANIFESTS: ${{ steps.consent.outputs.manifests }}
         run: |
-          read -r BOT_NAME BOT_EMAIL < <(node -e "const c=require('./.github/scripts/licensing.js').loadConfig(); console.log(c.bot.name, c.bot.email)")
+          read -r BOT_EMAIL BOT_NAME < <(node -e "const c=require('./.github/scripts/licensing.js').loadConfig(); console.log(c.bot.email, c.bot.name)")
           git config user.name "$BOT_NAME"
           git config user.email "$BOT_EMAIL"
           git add .github/file-license-assignments.json
