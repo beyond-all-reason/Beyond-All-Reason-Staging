@@ -951,7 +951,7 @@ Total assets recorded: **986**
 | `default_tree_normal.dds` | _awaiting license_ | lhog | #5 | 2026-11-08 |
 | `dice.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
 | `dice2.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
-| `editor_geovent_crack.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #8719 | 2026-11-08 |
+| `editor_geovent_crack.dds` | _awaiting license_ | PtaQ | #8719 | 2026-11-08 |
 | `emptyFullSpecular.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-11-08 |
 | `energyball_tex.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `energyball_tex2.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

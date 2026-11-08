@@ -104825,9 +104825,10 @@
     "contributor": "PtaQ",
     "date": "2026-11-08T01:17:33Z",
     "file": "unittextures/editor_geovent_crack.dds",
-    "license": "LicenseRef-BAR-CLA-1.0",
+    "license": "",
     "pr": "8719",
-    "source": "manual-audit"
+    "source": "manual-audit",
+    "status": "awaiting_license"
   },
   {
     "contributor": "ForbodingAngel",
