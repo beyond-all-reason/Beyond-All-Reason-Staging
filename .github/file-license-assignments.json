@@ -56882,7 +56882,7 @@
     "source": "manual-audit"
   },
   {
-    "file": "luaui/images/cla_e2e/dot.png",
+    "file": "luaui/images/cla_e2e/dot_renamed.png",
     "license": "LicenseRef-BAR-CLA-1.0",
     "contributor": "PtaQ",
     "pr": 1,
