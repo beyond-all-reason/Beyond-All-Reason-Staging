@@ -1,12 +1,1 @@
-[
-  {
-    "file": "luaui/images/cla_e2e/dot_renamed.png",
-    "status": "confirmed",
-    "pr": 1,
-    "github_username": "PtaQQ",
-    "license": "LicenseRef-BAR-CLA-1.0",
-    "signed_at": "2026-11-08T14:09:39.385Z",
-    "source": "confirm-license-command",
-    "confirmed_at": "2026-11-08T14:13:07.352Z"
-  }
-]
+[]
