@@ -4,10 +4,11 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `bitmaps/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **169**
+Total assets recorded: **170**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
+| `Lups/perlin_noise.jpg` | _awaiting license_ | Floris | #7869 | 2026-11-08 |
 | `Other/Burst.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `Other/Foam.tga` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-08-28 |
 | `cc/dirt.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
@@ -44,7 +45,7 @@ Total assets recorded: **169**
 | `graphPaper.bmp` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-10-14 |
 | `loadpictures/armada.jpg` | `LicenseRef-BAR-CLA-1.0` | Rubus | manual-audit | 2026-11-04 |
 | `loadpictures/cortex.jpg` | `LicenseRef-BAR-CLA-1.0` | Rubus | manual-audit | 2026-11-04 |
-| `loadpictures/manual/donations.jpg` | `LicenseRef-BAR-CLA-1.0` | PtaQQ | manual-audit | 2026-06-01 |
+| `loadpictures/manual/donations.jpg` | `LicenseRef-BAR-CLA-1.0` | PtaQ | manual-audit | 2026-06-01 |
 | `loadpictures/manual/scavengers/BAR4K_Loadingscreen_5.jpg` | `GPL-2.0-or-later` | icexuick | #4281 | 2026-10-06 |
 | `loadpictures/manual/scavengers/BAR4K_Loadingscreen_7.jpg` | `GPL-2.0-or-later` | icexuick | #4281 | 2026-10-06 |
 | `loadpictures/manual/scavengers/BAR4K_Loadingscreen_8.jpg` | `GPL-2.0-or-later` | icexuick | #4281 | 2026-10-06 |

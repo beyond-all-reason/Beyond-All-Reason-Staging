@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `sounds/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **670**
+Total assets recorded: **671**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -659,6 +659,7 @@ Total assets recorded: **670**
 | `weapons/cannhvy1.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `weapons/cannhvy3.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
 | `weapons/comgate.wav` | _awaiting license_ | Fx-Doo | manual-audit | 2026-08-31 |
+| `weapons/electric2.wav` | _awaiting license_ | LitLuigi73 | #9394 | 2026-11-08 |
 | `weapons/heatray1_OLD.wav` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-10-14 |
 | `weapons/heatray2_OLD.wav` | `GPL-2.0-or-later` | icexuick | manual-audit | 2026-10-14 |
 | `weapons/heatray4burn.wav` | `CC-BY-SA-4.0` | ZephyrSkies | #4339 | 2026-11-07 |

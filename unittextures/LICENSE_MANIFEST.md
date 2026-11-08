@@ -4,16 +4,18 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unittextures/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **973**
+Total assets recorded: **986**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
+| `AlienTreeTexture.dds` | _awaiting license_ | Floris | manual-audit | 2026-11-08 |
 | `Arm_color.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
 | `Arm_normal.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-16 |
 | `Arm_other.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
 | `Arm_wreck_color.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
 | `Arm_wreck_color_normal.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
 | `Arm_wreck_other.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-06-15 |
+| `EvergreenTexture.dds` | _awaiting license_ | Floris | manual-audit | 2026-11-08 |
 | `anttex.dds` | _awaiting license_ | knorker | manual-audit | 2026-06-15 |
 | `apexchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `aquachicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
@@ -946,16 +948,27 @@ Total assets recorded: **973**
 | `decals_features/legwin_dead_4_4_aoplane.dds` | _awaiting license_ | Yzch | #5030 | 2026-09-01 |
 | `decals_features/legwint2_dead_6_6_aoplane.dds` | _awaiting license_ | Yzch | #5030 | 2026-09-01 |
 | `decals_features/mission_command_tower_dead_11_11_aoplane.dds` | `CC-BY-SA-4.0` | Cremuss | #5030 | 2026-10-12 |
+| `default_tree_normal.dds` | _awaiting license_ | lhog | #5 | 2026-11-08 |
 | `dice.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
 | `dice2.dds` | `LicenseRef-BAR-CLA-1.0` | Floris | manual-audit | 2026-09-03 |
+| `editor_geovent_crack.dds` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #8719 | 2026-11-08 |
+| `emptyFullSpecular.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-11-08 |
 | `energyball_tex.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `energyball_tex2.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `gingerbread1.dds` | `LicenseRef-BAR-CLA-1.0` | Christiaan van Hoegee | manual-audit | 2026-09-11 |
 | `gingerbread2.dds` | `LicenseRef-BAR-CLA-1.0` | Christiaan van Hoegee | manual-audit | 2026-09-11 |
 | `greenchicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `greyrock2.tga` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
+| `leegmech_color.dds` | _awaiting license_ | Kremenchuk | manual-audit | 2026-11-08 |
 | `leegmech_normal.dds` | _awaiting license_ | Kremenchuk | manual-audit | 2026-09-07 |
+| `leegmech_other.dds` | _awaiting license_ | Kremenchuk | manual-audit | 2026-11-08 |
+| `leg_color.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-08 |
 | `leg_normal.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-07 |
+| `leg_shader.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-08 |
+| `leg_wreck_color.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-08 |
+| `leg_wreck_normal.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-08 |
+| `leg_wreck_shader.dds` | `CC-BY-SA-4.0` | ZephyrSkies | manual-audit | 2026-11-08 |
+| `meat.dds` | _awaiting license_ | Bluestone | manual-audit | 2026-11-08 |
 | `multichicken.dds` | _awaiting license_ | ForbodingAngel | manual-audit | 2026-09-09 |
 | `palette_color.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |
 | `palette_normal.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-10-12 |

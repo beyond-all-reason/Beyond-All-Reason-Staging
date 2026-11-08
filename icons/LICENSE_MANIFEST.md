@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `icons/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **829**
+Total assets recorded: **831**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -169,6 +169,7 @@ Total assets recorded: **829**
 | `corkarganetht4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `cormando.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `cormlv_1.0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `corobligator.png` | _awaiting license_ | Egzothicki | #9205 | 2026-11-08 |
 | `corparrow.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `corprinter.png` | _awaiting license_ | Kyle Shepherd | manual-audit | 2026-10-06 |
 | `corpyro_1.15.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
@@ -411,6 +412,7 @@ Total assets recorded: **829**
 | `inverted/corkarganetht4.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/cormando.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/cormlv_1.0.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
+| `inverted/corobligator.png` | _awaiting license_ | Egzothicki | #9205 | 2026-11-08 |
 | `inverted/corparrow.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/corprinter.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |
 | `inverted/corpyro_1.15.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-05-27 |

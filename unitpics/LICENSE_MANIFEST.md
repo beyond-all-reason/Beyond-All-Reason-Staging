@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `unitpics/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **1490**
+Total assets recorded: **1497**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -349,6 +349,7 @@ Total assets recorded: **1490**
 | `corhllllt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corhllt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corhlt.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corhltfus.dds` | _awaiting license_ | LitLuigi73 | #9500 | 2026-11-08 |
 | `corhp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corhrk.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `corhunt.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
@@ -395,6 +396,7 @@ Total assets recorded: **1490**
 | `cornanotcplat.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `cornavaldefturret.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5927 | 2026-11-07 |
 | `cornecro.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `corobligator.dds` | _awaiting license_ | Egzothicki | #9205 | 2026-11-08 |
 | `coronager.dds` | _awaiting license_ | Hornet | #3390 | 2026-09-01 |
 | `corparrow.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corphantom.dds` | _awaiting license_ | Hornet | #3541 | 2026-09-01 |
@@ -474,6 +476,7 @@ Total assets recorded: **1490**
 | `corvalk.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corvamp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corveng.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `corves.dds` | _awaiting license_ | Lord_Tragedy | #8077 | 2026-11-08 |
 | `corvipe.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `corvoyr.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `corvp.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
@@ -540,6 +543,7 @@ Total assets recorded: **1490**
 | `leganavymissileship.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #6423 | 2026-11-07 |
 | `leganavyradjamship.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | #6423 | 2026-09-01 |
 | `legap.dds` | _awaiting license_ | Protar | manual-audit | 2026-09-01 |
+| `legapollyon.dds` | _awaiting license_ | Gabs | #8369 | 2026-11-08 |
 | `legapopupdef.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #5189 | 2026-11-07 |
 | `legarad.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #4393 | 2026-11-07 |
 | `legaradk.dds` | _awaiting license_ | Tharsis | #5382 | 2026-09-01 |
@@ -895,6 +899,7 @@ Total assets recorded: **1490**
 | `scavengers/armfast.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armfatf.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/armfav.dds` | _awaiting license_ | Flaka | manual-audit | 2026-09-01 |
+| `scavengers/armfavold.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-11-08 |
 | `scavengers/armfboy.dds` | _awaiting license_ | Kaiser | manual-audit | 2026-09-01 |
 | `scavengers/armfdrag.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
 | `scavengers/armfepocht4.dds` | _awaiting license_ | FireStorm | manual-audit | 2026-09-01 |
@@ -1192,6 +1197,7 @@ Total assets recorded: **1490**
 | `scavengers/cornanotc.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/cornanotcplat.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
 | `scavengers/cornecro.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-01 |
+| `scavengers/corobligator.dds` | _awaiting license_ | Egzothicki | #9205 | 2026-11-08 |
 | `scavengers/corparrow.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corplat.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corpship.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-09-07 |
@@ -1267,6 +1273,7 @@ Total assets recorded: **1490**
 | `scavengers/corwin.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corwint2.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
 | `scavengers/corwolv.dds` | _awaiting license_ | Mr Bob | manual-audit | 2026-09-01 |
+| `scavengers/evocrusher.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-11-08 |
 | `scavengers/freefusion.dds` | `CC-BY-SA-4.0` | Cremuss | manual-audit | 2026-11-07 |
 | `scavengers/legaabot.dds` | `CC-BY-SA-4.0` | ZephyrSkies | #7224 | 2026-11-07 |
 | `scavengers/legaap.dds` | _awaiting license_ | Protar | #7224 | 2026-09-01 |

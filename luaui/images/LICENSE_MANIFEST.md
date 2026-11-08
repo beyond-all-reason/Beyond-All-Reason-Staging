@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **792**
+Total assets recorded: **804**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -27,13 +27,18 @@ Total assets recorded: **792**
 | `advplayerslist/ally.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/armada_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/arrow.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
+| `advplayerslist/arrowd.png` | _awaiting license_ | Beherith | manual-audit | 2026-11-08 |
+| `advplayerslist/bar.png` | _awaiting license_ | Beherith | manual-audit | 2026-11-08 |
 | `advplayerslist/barglow-center.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist/barglow-edge.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `advplayerslist/blob_small.png` | _awaiting license_ | Bluestone | #596 | 2026-11-08 |
 | `advplayerslist/camera.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist/chat.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
 | `advplayerslist/cortex_default.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `advplayerslist/country.dds` | _awaiting license_ | Floris | manual-audit | 2026-11-08 |
 | `advplayerslist/cpu.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
 | `advplayerslist/cross.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
+| `advplayerslist/draw.dds` | _awaiting license_ | Floris | manual-audit | 2026-11-08 |
 | `advplayerslist/energy.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/eraser.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-09-11 |
 | `advplayerslist/flags/ad.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
@@ -306,6 +311,7 @@ Total assets recorded: **792**
 | `advplayerslist/flags/zw.png` | `CC0-1.0` | public domain | manual-audit | 2026-09-01 |
 | `advplayerslist/gbr.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
 | `advplayerslist/ger.png` | _awaiting license_ | Beherith | manual-audit | 2026-10-07 |
+| `advplayerslist/hourglass.png` | _awaiting license_ | Tom Fyuri | #2924 | 2026-11-08 |
 | `advplayerslist/id.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
 | `advplayerslist/indent.png` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `advplayerslist/indicator.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
@@ -313,6 +319,8 @@ Total assets recorded: **792**
 | `advplayerslist/low.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
 | `advplayerslist/metal.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `advplayerslist/notfirst.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
+| `advplayerslist/notfirst.png` | _awaiting license_ | Beherith | manual-audit | 2026-11-08 |
+| `advplayerslist/pencil.dds` | _awaiting license_ | Floris | manual-audit | 2026-11-08 |
 | `advplayerslist/ping.dds` | `GPL-2.0-or-later` | Marmoth | manual-audit | 2026-10-12 |
 | `advplayerslist/point.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-09-01 |
 | `advplayerslist/ranks/1.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
@@ -450,6 +458,7 @@ Total assets recorded: **792**
 | `ecostats/barglow-edge.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `ecostats/cross.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
 | `ecostats/default.png` | _awaiting license_ | Floris | manual-audit | 2026-08-31 |
+| `emojis/custom/cookie.png` | _awaiting license_ | Zain Mustafa | #8287 | 2026-11-08 |
 | `emojis/twemoji/100.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
 | `emojis/twemoji/angry.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
 | `emojis/twemoji/broken_heart.png` | `CC-BY-4.0` | Twitter (Twemoji) | #8265 | 2026-11-06 |
@@ -583,6 +592,7 @@ Total assets recorded: **792**
 | `idleicon/idlecon_058.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `idleicon/idlecon_059.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-28 |
 | `info_health.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
+| `jet_atlas.tga` | _awaiting license_ | Beherith | #9207 | 2026-11-08 |
 | `keybinds/duplicate.png` | `WTFPL` | Robert Burnham | #8153 | 2026-11-07 |
 | `keybinds/edit.png` | `WTFPL` | Robert Burnham | #8153 | 2026-11-07 |
 | `keybinds/export.png` | `WTFPL` | Robert Burnham | #8153 | 2026-11-07 |
@@ -605,6 +615,7 @@ Total assets recorded: **792**
 | `mapmarksfx/eraser.dds` | _awaiting license_ | icexuick | manual-audit | 2026-09-11 |
 | `mapmarksfx/eraser_old.dds` | `CC-BY-SA-4.0` | icexuick | manual-audit | 2026-10-06 |
 | `mapmarksfx/glow.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
+| `mapmarksfx/pencil.dds` | _awaiting license_ | Floris | manual-audit | 2026-11-08 |
 | `mapmarksfx/ring.dds` | `CC0-1.0` | public domain | manual-audit | 2026-10-12 |
 | `metal.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `metalenergy.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | #5915 | 2026-08-31 |
@@ -682,6 +693,7 @@ Total assets recorded: **792**
 | `skull.dds` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `snow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `solid.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
+| `stripes-fine.png` | _awaiting license_ | SethDGamre | #9227 | 2026-11-08 |
 | `stripes-small.png` | _awaiting license_ | SethDGamre | #5915 | 2026-09-07 |
 | `stripes.png` | _awaiting license_ | Floris | manual-audit | 2026-10-06 |
 | `terraform_brush/biome_bismuth.png` | `CC-BY-SA-4.0` | PtaQ | #7219 | 2026-11-06 |
