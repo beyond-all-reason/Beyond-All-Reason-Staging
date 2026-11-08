@@ -56882,6 +56882,13 @@
     "source": "manual-audit"
   },
   {
+    "file": "luaui/images/cla_e2e/dot.png",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "contributor": "PtaQ",
+    "pr": 1,
+    "date": "2026-11-08"
+  },
+  {
     "contributor": "Floris",
     "date": "2026-06-16T18:24:40Z",
     "file": "luaui/images/commandsfx/glow.dds",
