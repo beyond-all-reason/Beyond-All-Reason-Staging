@@ -110,6 +110,8 @@ assert.deepStrictEqual(mine.map(r => r.file), ['unitpics/a.png', 'unitpics/b.png
 assert.strictEqual(lib.applyConsent(mine, 'CC-BY-SA-4.0', 'consent-issue', 77, '2026-11-06'), 2);
 assert.deepStrictEqual(consentLedgers.assignments[0], { file: 'unitpics/a.png', license: 'CC-BY-SA-4.0', contributor: 'PtaQ', pr: 77, date: '2026-11-06', source: 'consent-issue' });
 assert.strictEqual(lib.awaitingRowsFor('PtaQQ', consentLedgers, cfg).length, 0);
+assert.strictEqual(lib.ledgerNameFor('ptaqq', cfg), 'PtaQ', 'mapped login resolves to the ledger name');
+assert.strictEqual(lib.ledgerNameFor('nobody', cfg), 'nobody', 'unmapped login is its own ledger name');
 
 // Per-repository overrides
 {

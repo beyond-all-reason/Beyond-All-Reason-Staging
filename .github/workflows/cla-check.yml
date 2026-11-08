@@ -794,8 +794,8 @@ jobs:
               s.confirmed_at = now;
               promoted++;
               if (assigned.has(s.file)) continue;
-              const entry = { file: s.file, license: s.license, contributor: s.github_username, pr: prNumber, date: now.slice(0, 10) };
-              if (s.proxy_submitter) entry.submitted_by = s.proxy_submitter;
+              const entry = { file: s.file, license: s.license, contributor: lib.ledgerNameFor(s.github_username, cfg), pr: prNumber, date: now.slice(0, 10) };
+              if (s.proxy_submitter) entry.submitted_by = lib.ledgerNameFor(s.proxy_submitter, cfg);
               ledgers.assignments.push(entry);
               assigned.add(s.file);
               written++;

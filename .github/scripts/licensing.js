@@ -208,17 +208,30 @@ function byFile(a, b) {
   return x < y ? -1 : x > y ? 1 : 0;
 }
 
-// Ledger names a GitHub login may answer for: its own login plus any
-// display names mapped to it in contributors.json.
-function ledgerNamesFor(login, cfg) {
+// [display name, lowercased login] pairs from contributors.json.
+function contributorMap(cfg) {
   const map = readJson(path.join(cfg.root, cfg.ledger.contributors), {});
-  const names = new Set([login]);
+  const out = [];
   for (const [name, info] of Object.entries(map)) {
     if (name.startsWith('_')) continue;
     const gh = typeof info === 'string' ? info : (info && info.github) || '';
-    if (gh.toLowerCase() === login.toLowerCase()) names.add(name);
+    if (gh) out.push([name, gh.toLowerCase()]);
   }
+  return out;
+}
+
+// Ledger names a GitHub login may answer for: its own login plus any
+// display names mapped to it in contributors.json.
+function ledgerNamesFor(login, cfg) {
+  const names = new Set([login]);
+  for (const [name, gh] of contributorMap(cfg)) if (gh === login.toLowerCase()) names.add(name);
   return [...names];
+}
+
+// Name the ledger records for a login: its mapped display name, else the login.
+function ledgerNameFor(login, cfg) {
+  const hit = contributorMap(cfg).find(([, gh]) => gh === (login || '').toLowerCase());
+  return hit ? hit[0] : login;
 }
 
 function awaitingRowsFor(login, ledgers, cfg) {
@@ -316,5 +329,5 @@ module.exports = {
   DEFAULT_CONFIG, loadConfig, extOf, isCode, isNonAsset, isArt, artTopForPath,
   readJson, writeJson, loadLedgers, saveLedgers, recordFor, classifyPrFiles,
   licenseName, licenseLabel, allLicenseLabels, applyRenames, byFile, renderManifest, regenerateManifests,
-  ledgerNamesFor, awaitingRowsFor, parseConsentChoice, applyConsent,
+  ledgerNamesFor, ledgerNameFor, awaitingRowsFor, parseConsentChoice, applyConsent,
 };
