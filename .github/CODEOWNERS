@@ -20,7 +20,6 @@
 
 # Workflows and policy documents that govern the licensing system
 .github/workflows/cla-check.yml        @beyond-all-reason/licensing-maintainers
-.github/scripts/                       @beyond-all-reason/licensing-maintainers
 .github/licensing.json                 @beyond-all-reason/licensing-maintainers
 .github/CODEOWNERS                     @beyond-all-reason/licensing-maintainers
 legal/                                 @beyond-all-reason/licensing-maintainers
