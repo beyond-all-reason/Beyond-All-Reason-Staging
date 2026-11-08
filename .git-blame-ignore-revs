@@ -13,3 +13,6 @@ fd46cb8511567bbb23f96daac2cdb6705c3d44a7
 # gen(bar_codemod): detach-bar-modules
 addf4addf97734cf04e0ea1254a57b0da90ebea4
 
+
+# gen(spdx_sweep): SPDX tags on code files
+ecc0634c66bbc2e9d1fade7a4ec05e6600df512f
