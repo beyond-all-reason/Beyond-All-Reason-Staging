@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The team stats panel's custom categories: the player's own lists of graphs, each graph with
 -- the settings it is drawn with, shown above the built-in categories in the sidebar. One
 -- ships with the game - the overview - editable like any other and put back as it came by a

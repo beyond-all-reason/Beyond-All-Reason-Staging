@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The team stats panel's tables: the summary that ships - how the game has gone so far - and
 -- the player's own, each with the columns the player keeps in it, in their order, and the
 -- column it is sorted by. Columns are added and taken out on the card the Columns... button

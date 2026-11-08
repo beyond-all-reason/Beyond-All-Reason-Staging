@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Legacy unitdef name -> new internal name: <faction>_<display name>, from language/en/units.json.
 -- Units sharing a display name got a distinguishing word; TODO marks units with no display name.
 return {

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --[[
 This gadget is responsible for setting up start points and start boxes in FFA
 and TeamFFA games. Please see `luarules/configs/ffa_startpoints/README.txt` for

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local function assertTablesEqual(table1, table2, margin, visited, path)
 	visited = visited or {}
 	path = path or {}

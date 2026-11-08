@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Keys the engine has no scancode name for print as a number ("sc_0x039"), which tells a player
 -- nothing about which key it is. These are the keys that matter on common keyboards.
 

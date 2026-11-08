@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- When tabbing out of the overview, the camera DOES NOT "zoom-to-cursor"
 -- When scrolling out of the overiew, the camera DOES "zoom-to-cursor"
 

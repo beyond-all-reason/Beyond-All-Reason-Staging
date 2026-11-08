@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local SaveUI = require("luaui/RmlWidgets/gui_terraform_brush/tf_map_library")
 
 -- The Save As controller: one tree, the folder in the name is the destination,

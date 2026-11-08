@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: Beyond All Reason contributors
+// SPDX-License-Identifier: GPL-2.0-or-later
 #version 430
 
 layout (location = 0) in vec4 position; // [-1,1], [0,1] , xyuv

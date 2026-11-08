@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- need this because SYNCED.tables are merely proxies, not real tables
 local function makeRealTable(proxy, debugTag)
 	if proxy == nil then

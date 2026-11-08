@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local function setup()
 	Test.clearMap()
 	assert(select(1, Spring.GetTeamInfo(1, false)) ~= nil, "test requires enemy team 1")

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Per-widget CPU and memory measurement, shared by everything that wants to read it.
 --
 -- There is no engine call for what one widget costs, so the only way to find out is to wrap

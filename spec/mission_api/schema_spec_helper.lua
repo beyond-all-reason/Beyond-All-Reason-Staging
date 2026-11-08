@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---
 --- Flattens an action/trigger definition into one comparable table, so specs can
 --- assert a whole schema in a single `assert.are.same`. A trailing '!' marks a

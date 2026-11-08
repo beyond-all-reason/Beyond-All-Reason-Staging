@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --  Custom Options Definition Table format
 --  NOTES:
 --  using an enumerated table lets you specify the options order

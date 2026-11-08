@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The squad selection settings: their playstyle presets, and the selects that merge several of the
 -- widget's settings into one.
 return function(model)

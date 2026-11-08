@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The keybind editor's form for building an engine select command without writing its syntax: what it holds, where
 -- its parts go and what a press or a key does to it. A window draws it, scrolls it by its own bar (setScroll), and
 -- gives it, with setLook, what it lays out by:

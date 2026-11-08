@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 return {
 	raptor_allterrain_arty_acid_t4_v1 = {
 		maxacc = 0.115,

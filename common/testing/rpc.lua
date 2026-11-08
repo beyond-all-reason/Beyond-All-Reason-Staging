@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local Util = require("common/testing/util")
 local serpent = require("common/luaUtilities/serpent")
 

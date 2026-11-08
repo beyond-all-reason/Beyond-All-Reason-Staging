@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 GG["MissionAPI"] = GG["MissionAPI"] or {}
 GG["MissionAPI"].Modules = GG["MissionAPI"].Modules or {}
 GG["MissionAPI"].Modules.ParameterTypes = VFS.Include("luarules/mission_api/parameter_types.lua")

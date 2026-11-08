@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local ParameterTypes = GG['MissionAPI'].Modules.ParameterTypes.Types
 
 -- Drawing is stubbed on the engine's map marks, which pin themselves to the terrain and cannot be

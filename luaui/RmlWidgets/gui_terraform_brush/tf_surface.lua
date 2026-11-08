@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- tf_surface.lua: panel for the SURFACE (soft variant paint) and LAYERS (hard
 -- splat-override paint) tools. Both run as activeTool 'surf'; dm.surfMode
 -- ('soft' / 'hard') picks which sections show.

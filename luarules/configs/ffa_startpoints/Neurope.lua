@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local startPoints = {
 	[1] = { x = 5806, z = 7654 }, -- Lombards
 	[2] = { x = 13084, z = 4324 }, -- Balts

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- What the team stats windows show, apart from how they show it: every column, what a team's numbers are
 -- and how they print, the rows of the table, the tables and categories in the column, the switches, the
 -- gadget's hand-over and what is kept between games. It draws nothing and knows no place on the screen.

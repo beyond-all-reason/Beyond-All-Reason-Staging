@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- got tired of it, needs types:
 ---@diagnostic disable: undefined-field, redundant-parameter
 

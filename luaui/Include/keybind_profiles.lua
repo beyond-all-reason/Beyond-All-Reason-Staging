@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Store for user keybind profiles, persisted to LuaUI/Config/keybind_profiles.json.
 --
 -- Profiles are whole snapshots, never deltas: keyreload clears the keymap before it loads.

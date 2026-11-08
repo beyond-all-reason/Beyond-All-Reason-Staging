@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- cmd_terraform_brush_mapgen.lua
 -- Procedural starting-map generator for the Terraform Brush "New Map" feature.
 --

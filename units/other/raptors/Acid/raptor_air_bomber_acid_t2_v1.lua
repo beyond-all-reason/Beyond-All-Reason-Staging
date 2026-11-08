@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 return {
 	raptor_air_bomber_acid_t2_v1 = {
 		airhoverfactor = 0,

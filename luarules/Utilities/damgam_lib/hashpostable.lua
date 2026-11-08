@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Author: Beherith (mysterme@gmail.com)
 
 -- A quick rundown on what this algorithm does

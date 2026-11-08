@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The keybind editor's select command form as FlowUI draws it: functions over the model's keybind_select_builder,
 -- and the bar that scrolls its filters.
 

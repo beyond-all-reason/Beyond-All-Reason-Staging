@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---
 --- Cutscenes: a game pause while a video plays, or a scripted control session.
 ---

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Line drawing for missions.
 -- requires: Spring, GG['MissionAPI'].lineNames
 -- provides: Drawing and removing map lines

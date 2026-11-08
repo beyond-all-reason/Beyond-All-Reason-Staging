@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Pretty-prints a Lua snippet for display.
 --
 -- Tweakdefs reach the game base64-encoded and minified: one enormous line, statements run

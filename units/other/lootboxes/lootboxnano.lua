@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local lootboxesDefs = {}
 local nanoDefCreator = VFS.Include("unitbasedefs/lootboxes/lootboxnano.lua")
 for t = 1, 4 do

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local utilitiesDirectory = "common/springUtilities/"
 
 local tga = VFS.Include(utilitiesDirectory .. "image_tga.lua")

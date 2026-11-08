@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- constants.lua ---------------------------------------------------------------
 -- General game and engine constants, for use in general Lua environments.
 

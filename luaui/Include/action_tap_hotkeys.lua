@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Actions bound to one key that sets a different state per number of quick taps (`bind l,l,l firestate 1`,
 -- `bind l,l firestate 0`, `bind l firestate 2`): action -> { key = "l", [taps] = state, ... }
 local tapHotkeys = {}

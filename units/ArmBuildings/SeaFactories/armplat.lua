@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 return {
 	armplat = {
 		activatewhenbuilt = false, --sonar/radar only activates when deployed and building stuff.

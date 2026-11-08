@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- With a default, a missing key is not logged.
 local function hasEnglishDescription(unitDefName)
 	return BAR.I18N("units.descriptions." .. unitDefName, { locale = "en", default = "" }) ~= ""

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-only
 function gadget:GetInfo()
 	return {
 		name = "Quick Start v2",

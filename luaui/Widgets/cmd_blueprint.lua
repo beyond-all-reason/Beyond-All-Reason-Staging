@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local widget = widget --[[@as Widget]]
 
 -- makes the intent of our usage of Spring.Echo clear

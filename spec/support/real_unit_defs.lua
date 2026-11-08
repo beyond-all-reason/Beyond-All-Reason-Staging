@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The real unit defs, loaded through gamedata/unitdefs.lua as the engine does, in a private
 -- env because the loader and the def files write globals as they go.
 

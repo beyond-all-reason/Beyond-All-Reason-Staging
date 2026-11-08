@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Reads the piece tree and texture names of an s3o model.
 -- For specs that check models against the scripts and defs that use them.
 

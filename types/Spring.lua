@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---@class UnitScriptTable
 ---@field CallAsUnit fun(unitID: UnitID, fn: function, ...: any): any
 ---@field CallAsUnitNoReturn fun(unitID: UnitID, fn: function, ...: any)

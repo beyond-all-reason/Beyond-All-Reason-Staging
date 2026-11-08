@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Rolling event log for the PIP rewind: unit positions (dead reckoning), health and build
 -- levels, hits, deaths, explosions, orders, heavy beams, long-flight projectiles, map marks,
 -- wrecks, broadcast cameras and team resources, packed into u16 strings per tick and

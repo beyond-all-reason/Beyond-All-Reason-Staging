@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---@diagnostic disable: undefined-field, undefined-global
 
 local Protocol = require("common/selected_units_protocol")

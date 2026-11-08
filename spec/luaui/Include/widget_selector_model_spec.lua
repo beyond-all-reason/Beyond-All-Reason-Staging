@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local SpecEnv = VFS.Include("spec/support/spec_env.lua")
 
 local function known(name, basename, active, fields)

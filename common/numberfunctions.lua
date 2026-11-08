@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 if not math.int_min then
 	---The smallest integer value that is represented accurately in-sequence in float32.
 	---@type integer

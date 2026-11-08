@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: WTFPL
 if BAR.Utilities.Gametype.IsSinglePlayer() then
 	return
 end

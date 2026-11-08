@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Unit BLUEPRINTS (refactor plan, U9): a group of placed units saved under a name, picked
 -- from the unit library and placed again anywhere, as many times as wanted.
 --

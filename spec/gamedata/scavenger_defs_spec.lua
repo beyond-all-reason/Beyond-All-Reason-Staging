@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local RealUnitDefs = require("spec/support/real_unit_defs")
 
 describe("scavenger mode defs", function()

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 require("luaui/Scenarios/stresstest/multi_attack")
 
 function radius_attack(attackers, targetsCenter)

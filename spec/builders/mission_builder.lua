@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Builds a raw mission table, using the shape a mission file returns.
 -- This is the input to validation, before the loaders modify it, so it is
 -- deliberately separate from mission_api_builder.lua, which mocks the loaded

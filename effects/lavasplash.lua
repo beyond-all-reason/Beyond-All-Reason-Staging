@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- lavasplash.lua
 -- Lava versions of water splash CEGs, used when Water Is Lava modoption is active
 -- Lava splashes are smaller/denser than water counterparts (lava is more viscous)

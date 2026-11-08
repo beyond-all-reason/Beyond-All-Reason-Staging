@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The keyboard page of the keybind editor as FlowUI draws it: functions over the model's keybind_keyboard.
 
 local keyConfig = require("luaui/configs/keyboard_layouts")

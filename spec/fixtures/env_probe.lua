@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Reports the globals it was given, and what a nested include saw, for spec_env_spec.
 
 ---@diagnostic disable: undefined-global

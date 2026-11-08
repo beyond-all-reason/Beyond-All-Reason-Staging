@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- GL4 renderer for the reclaim field highlight (gui_reclaim_field_highlight.lua).
 --
 -- Every field hull lives in a chunked VBO: a chunk holds POINTS_PER_CHUNK hull points as gradient

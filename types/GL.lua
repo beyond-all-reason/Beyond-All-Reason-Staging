@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---@meta
 ---OpenGL enums are integer constants at runtime. Engine stubs name the parameter type `GL`
 ---which otherwise resolves to the `GL` enum table and rejects raw integers.

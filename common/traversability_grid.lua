@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The performance of travesabilty grids done in lua isn't great.
 -- Try to keep resolution as low as you can get away with and for small zones.
 -- Remember changes in terrain will invalidate the grid. Re-generations are expensive.

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Unsynced file-queue client. No Git, shell commands, network or credentials in LuaUI.
 local M = {}
 local Spring = Spring

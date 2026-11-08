@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local function loadGadget(wreckage)
 	local frame = 10
 	local live, dead, destroyed = {}, {}, {}

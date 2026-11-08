@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local vssrc = VFS.LoadFile("modelmaterials_gl4/templates/cus_gl4.vert.glsl")
 local fssrc = VFS.LoadFile("modelmaterials_gl4/templates/cus_gl4.frag.glsl")
 

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local ParameterTypes = GG['MissionAPI'].Modules.ParameterTypes.Types
 
 -- timeRemaining must be at least 1: at 0 the countdown has ended, which is

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The engine's select command, as CSelectionKeyHandler::DoSelection reads it, as data and in words.
 
 local M = {}

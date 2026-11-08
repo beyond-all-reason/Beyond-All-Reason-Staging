@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- genericshellexplosion-small-sparks-burn
 -- genericshellexplosion-medium-sparks-burn
 -- genericshellexplosion-large-sparks-burn

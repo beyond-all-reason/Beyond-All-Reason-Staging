@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --if #Spring.GetAllyTeamList()-1 > 16 then
 --	return
 --end

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- luaui/Include/gizmo3d_gl4.lua
 --
 -- A reusable 3D transform gizmo: three translate arrows, three rotation rings,

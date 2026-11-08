@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- tf_blockout.lua: SCENE > BLOCKOUT, the floating window that sets the map's backdrop
 -- layers (WG.Blockout, drawn by the Map Blockout widget). One row group per layer: a
 -- model dropdown (None + every blockout model), rotation and scale.

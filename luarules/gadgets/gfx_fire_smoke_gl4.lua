@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-only
 --------------------------------------------------------------------------------
 -- GPU-based fire & smoke particle system
 -- General-purpose instanced GL4 fire/smoke renderer with:

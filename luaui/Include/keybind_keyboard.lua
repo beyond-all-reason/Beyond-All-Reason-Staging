@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The keyboard page of the keybind editor: a full-size keyboard drawn key by key, each cap
 -- carrying the action it fires on the layer shown. A layer is a set of modifiers. It is an
 -- overview rather than an editor; a click hands the key to the list page.

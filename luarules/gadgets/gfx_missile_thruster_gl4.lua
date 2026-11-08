@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-only
 --------------------------------------------------------------------------------
 -- Missile Thruster Effects GL4
 -- GPU-instanced replacement for CBitmapMuzzleFlame engine effects on missiles.

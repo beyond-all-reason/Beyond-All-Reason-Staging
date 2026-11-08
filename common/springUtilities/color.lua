@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 if not Game then
 	return -- some parser environments such as modrules don't have it, but they don't need colored text either
 end

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --------------------------------------------------------------------------------
 -- CEG Preview (Synced Gadget) written by Steel December 2025
 --

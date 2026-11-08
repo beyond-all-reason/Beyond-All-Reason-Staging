@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local startPoints = {
 	-- corners
 	[1] = { x = 1702, z = 662 }, -- north west

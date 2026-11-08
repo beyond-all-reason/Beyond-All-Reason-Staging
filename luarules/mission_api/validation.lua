@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---
 --- Mission API validation entrypoint.
 --- Validates raw mission data, returning the collected messages, ordered.

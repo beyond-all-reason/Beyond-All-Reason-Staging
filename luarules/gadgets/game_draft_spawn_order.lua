@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- 2024-04-15: Draft Spawn Order mod by Tom Fyuri.
 -- Since we have multiple discord suggestions asking for more spawn position options, here we go.
 -- original PR: https://github.com/beyond-all-reason/Beyond-All-Reason/pull/2845

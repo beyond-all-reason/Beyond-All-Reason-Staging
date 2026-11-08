@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local scenariodata = {
 	index = 7, --  integer, sort order, MUST BE EQUAL TO FILENAME NUMBER
 	scenarioid = "acidicquarrybarbs", -- no spaces, lowercase, this will be used to save the score

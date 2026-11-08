@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Guards the shared keybind data contract (common/configs/keybind_catalog.json and
 -- keybind_defaults.json) against drift. Structure is checked against the shipped
 -- schemas, so CI enforces the same rules other surfaces read; the rest is referential

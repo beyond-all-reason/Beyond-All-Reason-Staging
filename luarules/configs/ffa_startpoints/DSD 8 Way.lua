@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local startPoints = {
 	-- inner
 	[1] = { x = 3393, z = 4016 },

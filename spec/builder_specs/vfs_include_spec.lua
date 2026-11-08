@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 describe("VFS.Include mock", function()
 	local path = "spec/builders/index.lua"
 

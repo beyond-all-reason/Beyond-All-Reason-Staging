@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- luaui/Include/blueprint_substitution/reports.lua
 -- Contains reporting functions for api_blueprint.lua
 

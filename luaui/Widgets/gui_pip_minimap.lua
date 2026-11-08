@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- This widget replaces the standard minimap with a PIP-style minimap
 -- It uses pipNumber = 0 to trigger minimap replacement mode in gui_pip.lua
 -- Features:

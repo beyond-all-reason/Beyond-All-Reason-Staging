@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local cmdname = "ruinblueprinttest"
 local blueprintspath = "luarules/gadgets/ruins/Blueprints/BYAR/Blueprints/"
 local enabled = BAR.Utilities.IsDevMode() -- only enable in test environment

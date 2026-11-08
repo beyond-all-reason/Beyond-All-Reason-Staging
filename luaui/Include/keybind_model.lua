@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Read model for the in-game keybind editor.
 -- Source of truth is Spring.GetKeyBindings(); we normalize each binding and group
 -- by action.

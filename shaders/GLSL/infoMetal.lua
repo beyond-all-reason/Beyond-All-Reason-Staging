@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Beheriths notes:
 -- This entire lua file gets reloaded every time the f4 view is activated
 -- Alpha is blended progressively, so high alphas result in immediate display

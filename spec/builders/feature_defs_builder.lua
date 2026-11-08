@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Feature Defs Builder
 -- Registry of feature definitions, the FeatureDefs counterpart to UnitDefsBuilder.
 -- Two views over the same defs:

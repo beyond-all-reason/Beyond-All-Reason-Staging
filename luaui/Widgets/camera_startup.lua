@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: LGPL-2.1-or-later
 local STARTUP_CAMERA_INITIAL_ZOOM_DISTANCE = 5000
 
 local StartboxLib = require("luarules/gadgets/include/startbox_utilities")

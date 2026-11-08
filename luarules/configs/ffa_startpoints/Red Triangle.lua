@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local startPoints = {
 	-- islands
 	[1] = { x = 1767, z = 1458 }, -- north west

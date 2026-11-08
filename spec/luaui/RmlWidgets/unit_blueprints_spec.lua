@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Unit blueprints (refactor plan, U9): the file format, pure.
 local Blueprints = VFS.Include("luaui/RmlWidgets/gui_unit_library/blueprints.lua")
 

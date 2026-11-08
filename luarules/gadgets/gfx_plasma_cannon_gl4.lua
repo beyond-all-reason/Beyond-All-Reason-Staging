@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-only
 --------------------------------------------------------------------------------
 -- Plasma Cannon GL4
 -- GPU-instanced replacement for engine Cannon projectile rendering.

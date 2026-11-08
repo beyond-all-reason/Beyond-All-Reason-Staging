@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local blueprintConfig =
 	VFS.Include("luarules/gadgets/ruins/Blueprints/" .. Game.gameShortName .. "/blueprint_tiers.lua")
 local tiers = blueprintConfig.Tiers

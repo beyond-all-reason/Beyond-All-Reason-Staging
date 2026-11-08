@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- disabled it... cause not all missile weapons have flighttime defined,
 -- but can run out of fuel when they dont traight fly to maxrange
 

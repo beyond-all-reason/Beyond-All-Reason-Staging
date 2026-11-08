@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Reader for the shared keybind JSON configs in common/configs.
 --
 -- Json.decode raises on bad input, so an unguarded decode at include time takes the widget

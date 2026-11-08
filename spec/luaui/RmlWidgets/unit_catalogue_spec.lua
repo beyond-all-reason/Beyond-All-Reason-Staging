@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The shared unit library's catalogue (refactor plan, U2 + U7): classification and filter,
 -- pure, fed stand-in UnitDefs and WeaponDefs shaped like the engine's. The same calls are
 -- checked against the real defs by the harness (the Flea is a scout, the Shellshocker arty...).

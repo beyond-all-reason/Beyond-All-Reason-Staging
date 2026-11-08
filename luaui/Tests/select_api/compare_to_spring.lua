@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- run test using BAR command (in chat): `/runtests select_api`
 local spGetUnitDefID = Spring.GetUnitDefID
 local selectApi = VFS.Include("luaui/Include/select_api.lua")

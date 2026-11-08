@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local customFirestateDefs = {
 	RULES_PARAM = "user_firestate",
 	PARAM_USER_INITIATED = 2,

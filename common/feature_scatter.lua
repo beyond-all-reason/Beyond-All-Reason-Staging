@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- common/feature_scatter.lua
 --
 -- Brush-layout generation for the feature placer. The widget builds the layout,

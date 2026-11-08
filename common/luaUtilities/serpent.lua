@@ -1,3 +1,4 @@
+-- SPDX-License-Identifier: MIT
 -- provides a consistent interface for de/serialisation
 local n, v = "serpent", "0.303" -- (C) 2012-18 Paul Kulchenko; MIT License
 local c, d = "Paul Kulchenko", "Lua serializer and pretty printer"

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The Graphs page of the team stats panel: one chart of the picked stat over the game,
 -- the teams as its series, with a stat list beside it and a legend bar above it that
 -- selects or hides teams. The panel owns the frame, the sidebar and the switches

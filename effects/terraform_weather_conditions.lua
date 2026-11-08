@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Weather Conditions CEGs
 -- Custom particle effects designed for the Weather Brush system.
 -- Each CEG is tuned for 3D layering: altitude offsets in pos, directional

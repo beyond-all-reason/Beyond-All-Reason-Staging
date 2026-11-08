@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Unit Defs Builder
 -- Shared registry of unit definitions and live unit instances, used by both
 -- SpringSyncedBuilder and SpringUnsyncedBuilder so they don't each carry

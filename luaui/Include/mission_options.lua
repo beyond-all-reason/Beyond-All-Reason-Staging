@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Mission options: the `missionoptions` modoption, decoded and reduced to the questions
 -- widgets actually ask of it.
 --

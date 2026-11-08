@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Intel GPUs: their plain dFdx/dFdy are coarse (seen on Arc 140V), which breaks the quad message passing
 local isIntelGPU = Platform ~= nil and Platform.gpuVendor == "Intel"
 -- Intel: use the main 4-tap blur with fine derivatives (needs GL_ARB_derivative_control), else a 9-tap one

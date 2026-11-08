@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-FileCopyrightText: Beyond All Reason contributors
+# SPDX-License-Identifier: GPL-2.0-or-later
 
 url=$(cat "$BAR_CONFIG_JSON" | jq -r '.setups[] | select(.package.id == "manual-linux-test-engine") | .downloads.resources[] | select(.destination | contains("engine")) | .url')
 destination=$(cat "$BAR_CONFIG_JSON" | jq -r '.setups[] | select(.package.id == "manual-linux-test-engine") | .downloads.resources[] | select(.destination | contains("engine")) | .destination')

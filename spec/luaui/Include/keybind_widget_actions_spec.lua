@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Guards how a widget's declared actions reach the keybind editor and the profile store.
 
 local SpecEnv = VFS.Include("spec/support/spec_env.lua")

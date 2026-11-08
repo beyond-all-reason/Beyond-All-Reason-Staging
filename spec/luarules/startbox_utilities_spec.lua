@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Arrangement resolution and the whole-map fill for allyteams the arrangement does not
 -- reach. Modoptions go through the spec helper's zlib and base64 stubs.
 

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- A minimal widget for spring_unsynced_builder_spec to load.
 
 ---@diagnostic disable: undefined-global

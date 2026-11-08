@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- tf_lights.lua: light placer and light library wiring for the gui_terraform_brush panel
 local M = {}
 

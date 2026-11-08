@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Cinematic volcano effects for BAR Made by Steel December 2025
 -- Supports volcano_projectile_unit.lua and game_volcano_pyroclastic.lua
 ----------------------------------------------------------------------

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local knowntrees = {
 	ad0_banyan_1 = "treeBanyan",
 	ad0_banyan_2 = "treeBanyan",

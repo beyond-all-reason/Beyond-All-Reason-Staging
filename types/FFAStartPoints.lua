@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---@meta
 
 ---Legacy global that third-party FFA start-point configs assigned directly.

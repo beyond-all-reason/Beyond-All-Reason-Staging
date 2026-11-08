@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Model-first controls for the project browser and the Team Sync strip. No DOM
 -- writes and no Git calls here: the widget draws the tree, the companion owns
 -- Git, this file decides what the buttons mean.

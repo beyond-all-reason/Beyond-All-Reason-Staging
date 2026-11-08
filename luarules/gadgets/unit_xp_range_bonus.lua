@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: WTFPL
 local gadget = gadget ---@type Gadget
 
 function gadget:GetInfo()

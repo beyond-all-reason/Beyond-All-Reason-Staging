@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---
 --- Validation of the mission's sections: stages, objectives, triggers, actions
 --- and loadouts, and the schema driven parameter validation they share.

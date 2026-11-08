@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local function testMergeInPlace(deep)
 	Spring.Echo(string.format("[test] [table.mergeInPlace(deep: %s)] start", tostring(deep)))
 	local mergeTarget = {

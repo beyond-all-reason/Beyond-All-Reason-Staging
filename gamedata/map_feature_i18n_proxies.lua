@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Add entries to this file for map features that should read their I18N info from a proxy entry
 -- feature_name = 'I18N_entry_to_use'
 return {

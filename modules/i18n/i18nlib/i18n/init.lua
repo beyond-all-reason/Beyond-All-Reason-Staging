@@ -1,3 +1,4 @@
+-- SPDX-License-Identifier: MIT
 local i18n = {}
 
 local store

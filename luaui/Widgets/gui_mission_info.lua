@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local _modOpts = Spring.GetModOptions()
 local isScenario = _modOpts ~= nil and _modOpts.scenariooptions ~= nil
 

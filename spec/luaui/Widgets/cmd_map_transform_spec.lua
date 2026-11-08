@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Exercise the real transform pump with in-memory files. Everything that needs
 -- a GL context (the mask and diffuse blits) is simply absent from the fixture,
 -- so those steps have nothing to do; what is under test is the part that can

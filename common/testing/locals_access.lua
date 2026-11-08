@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --[[
 usage:
 * load file with localsDetectorString appended. when loaded, it will return a list of local variable names

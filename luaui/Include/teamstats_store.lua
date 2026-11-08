@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The tables and graph categories the player makes on the team stats panel, kept in a file of
 -- their own besides the widget's config. Every game version saves that config under the same
 -- widget name, and a replay runs the version it was recorded with: a panel from before these

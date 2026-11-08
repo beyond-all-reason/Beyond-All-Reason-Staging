@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --special unit variations used for scavengerbossv4.lua
 local unitsTable = {}
 --Epic Pawn Squad

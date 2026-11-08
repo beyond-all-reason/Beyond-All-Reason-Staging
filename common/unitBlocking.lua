@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --- Reads the build blocks api_build_blocking.lua publishes as team rules params
 --- ("unitdef_blocked_<unitDefID>", "builder_blocked_<builderUnitDefID>_<unitDefID>" = comma-separated reasons).
 local unitBlocking = {}

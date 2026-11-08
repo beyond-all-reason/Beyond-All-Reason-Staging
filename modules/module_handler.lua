@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local root = GG or WG or _G
 if root.__moduleHandler then
 	return root.__moduleHandler

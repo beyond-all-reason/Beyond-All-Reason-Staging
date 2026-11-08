@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: LGPL-2.1-or-later
 local versionNumber = "v1.1"
 
 local widget = widget ---@type Widget

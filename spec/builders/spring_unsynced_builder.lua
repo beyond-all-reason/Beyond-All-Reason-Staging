@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Spring Unsynced (Widget) Builder
 -- Builds a sandboxed widget execution environment for unsynced/LuaUI tests.
 -- Mirrors SpringSyncedBuilder but for widgets that consume widget context globals

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Trigger Builder
 -- Builds a loaded trigger: the table api_missions_triggers.lua holds in
 -- GG['MissionAPI'].Triggers and hands to a trigger's call-in handlers.

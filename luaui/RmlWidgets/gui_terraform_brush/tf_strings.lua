@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- User-facing text for the Projects browser, Team Sync and the unsaved-changes
 -- prompt. These strings live here, not in language/en/interface.json: the
 -- translation files are written by hand by the people who maintain them, and

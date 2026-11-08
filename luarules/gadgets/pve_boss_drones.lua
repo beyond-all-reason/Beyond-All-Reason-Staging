@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 if not (BAR.Utilities.Gametype.IsRaptors() or BAR.Utilities.Gametype.IsScavengers()) then
 	Spring.Echo("REMOVED PVE BOSS DRONES")
 	return false

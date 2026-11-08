@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local conf = {
 	grow = 0,
 	colorCorrection = "vec3(1.0, 1.0, 1.0)",

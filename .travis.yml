@@ -1,3 +1,5 @@
+# SPDX-FileCopyrightText: Beyond All Reason contributors
+# SPDX-License-Identifier: GPL-2.0-or-later
 language: python # Can use any language here, but if it's not 'python'
                  # it becomes necessary to pass '--user' to pip when installing hererocks.
 sudo: false      # Use container-based infrastructure.

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local devUI = BAR.Utilities.ShowDevUI()
 local isSinglePlayer = BAR.Utilities.Gametype.IsSinglePlayer()
 local isSpectator = Spring.GetSpectatingState()

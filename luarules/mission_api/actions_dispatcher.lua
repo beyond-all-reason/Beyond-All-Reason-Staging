@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local actionDefinitions = GG["MissionAPI"].ActionDefinitions
 local actionFunctions = actionDefinitions.Functions
 local parameterSchema = actionDefinitions.Parameters

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- -- UnitDef postprocessing specific to Scavenger units only
 
 local function scavUnitDef_Post(name, uDef)

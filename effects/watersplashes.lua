@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- watersplashes.lua
 -- All legacy water splash effects consolidated into a single file
 -- Replaces: watersplash_extrasmall.lua, watersplash_small.lua, watersplash_small_light.lua,

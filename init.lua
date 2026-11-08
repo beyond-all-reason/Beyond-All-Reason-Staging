@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- This file includes common functionality that should be available globally
 
 -- Universal Lua functions applicable to any Lua code

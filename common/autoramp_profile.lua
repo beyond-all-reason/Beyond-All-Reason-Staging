@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- autoramp_profile.lua
 -- Pure autoramp terrain computation, shared by the synced gadget (which applies
 -- it to the heightmap at full resolution) and the unsynced widget (which runs

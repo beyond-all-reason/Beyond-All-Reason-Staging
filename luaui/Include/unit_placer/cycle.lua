@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The pick set of the shared unit placer: Shift+click several units in the library and each
 -- placement cycles to the next one, in order or at random. Pure: the owner (the mission
 -- editor's ROSTER, the terraform brush's UNITS tool) keeps one, asks it what to arm with, and

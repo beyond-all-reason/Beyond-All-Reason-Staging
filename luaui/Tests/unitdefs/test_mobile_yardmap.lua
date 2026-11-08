@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- UnitDefs has no yardmap field; unitdefs_post exports it as customparams.buildsquare_yardmap.
 -- The engine only honours a yardmap on buildings and is moving to reject one on anything mobile (beyond-all-reason/RecoilEngine#1597).
 local function test()

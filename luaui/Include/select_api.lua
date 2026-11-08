@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --- @class SelectApi
 --- @field getFilter fun(ruleDef: string): table
 --- @field unitPassesFilter fun(uid: any, filter: any): boolean

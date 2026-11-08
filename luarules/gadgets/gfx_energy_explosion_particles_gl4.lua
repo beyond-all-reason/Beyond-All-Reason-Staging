@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-only
 --------------------------------------------------------------------------------
 -- Unit Energy Explosion Particles GL4
 --

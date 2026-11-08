@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local teams = Spring.GetTeamList()
 mapsizeX = Game.mapSizeX
 mapsizeZ = Game.mapSizeZ

@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: Beyond All Reason contributors
+// SPDX-License-Identifier: GPL-2.0-or-later
 #version 430 core
 #extension GL_ARB_uniform_buffer_object : require
 #extension GL_ARB_shader_storage_buffer_object : require

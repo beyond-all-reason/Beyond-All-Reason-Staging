@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- This widget is a duplicate of gui_pip.lua
 -- It includes all the code from that widget to create a second independent PiP window
 

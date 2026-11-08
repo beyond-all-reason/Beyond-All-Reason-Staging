@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Polygon math utilities for startbox containment checks.
 -- Used by both synced gadgets and unsynced widgets.
 

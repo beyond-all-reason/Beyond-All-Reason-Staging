@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---@diagnostic disable: undefined-field
 local widgetPath = "luaui/Widgets/cmd_area_commands_filter.lua"
 

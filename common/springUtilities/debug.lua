@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local function paramsEcho(...)
 	local called_from = "Called from: " .. tostring(debug.getinfo(2).name) .. " args:"
 	Spring.Echo(called_from)

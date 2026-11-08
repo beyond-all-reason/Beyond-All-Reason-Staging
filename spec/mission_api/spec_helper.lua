@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Ambient state that the mission_api modules read at load time, kept out of the shared
 -- root spec_helper. new() builds a SpecEnv that holds it, include() loads a module into
 -- that env, and registerModules() loads the shared modules the way the gadget does.

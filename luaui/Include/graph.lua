@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Charts for widgets: line graphs, 100% stacked areas, radar charts and bars. The picture is
 -- baked into a display list and only the hover overlay is drawn each frame, so a chart
 -- costs a list call while nothing changes.

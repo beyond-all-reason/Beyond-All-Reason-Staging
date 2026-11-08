@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local GL_BUFFER = 0x82E0
 local gldebugannotations = (Spring.GetConfigInt("gldebugannotations") == 1)
 --Spring.Echo("gldebugannotations", gldebugannotations)

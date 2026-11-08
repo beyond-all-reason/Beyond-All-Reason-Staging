@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: LicenseRef-Public-Domain
 function addon:GetInfo()
 	return {
 		name = "Engine Taskbar Stuff",

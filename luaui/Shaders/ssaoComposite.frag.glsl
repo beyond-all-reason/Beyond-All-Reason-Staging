@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: Beyond All Reason contributors
+// SPDX-License-Identifier: GPL-2.0-or-later
 #version 430 core
 
 // Final SSAO composite shader.

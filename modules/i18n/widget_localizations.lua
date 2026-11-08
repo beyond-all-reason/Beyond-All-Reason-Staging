@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- A hub widget's optional localizations.json, { "<languageCode>": { <nested keys> } }, under widgets.<id>.
 
 local WidgetManifests = VFS.Include("modules/widgets/manifests.lua", nil, VFS.ZIP)

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: LicenseRef-Public-Domain
 if not gadgetHandler:IsSyncedCode() then
 	return
 end

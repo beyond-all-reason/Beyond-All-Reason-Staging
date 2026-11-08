@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 #version 430 core
 #extension GL_ARB_uniform_buffer_object : require
 #extension GL_ARB_shading_language_420pack: require

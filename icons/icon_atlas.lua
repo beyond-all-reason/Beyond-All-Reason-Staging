@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local atlas = {
 	["icons/aa.png"] = { 0.96923828125,0.99951171875,0.00048828125,0.03076171875,0.03125,0.03125 } ,  --xXyYwh 
 	["icons/aa_flak_1.4.png"] = { 0.93798828125,0.96826171875,0.00048828125,0.03076171875,0.03125,0.03125 } ,  --xXyYwh 

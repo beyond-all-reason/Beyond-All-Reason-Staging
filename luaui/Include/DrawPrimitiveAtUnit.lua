@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -------------------------------------------------
 -- An API wrapper to draw simple graphical primitives at units extremely efficiently
 -- License: GNU GPL V2

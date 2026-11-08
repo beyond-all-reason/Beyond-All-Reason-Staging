@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The engine misses a very large portion of its one side of the idle responsibility:
 -- A factory's build queue empties through CFactoryCAI::ExecuteStop, which is just a pop;
 -- multi-command removals only "finish" the first command removed, so tend not to report;

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- depends on gadget: unit_builder_priority
 local widget = widget ---@type Widget
 

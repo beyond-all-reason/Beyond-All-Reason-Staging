@@ -1,3 +1,5 @@
+# SPDX-FileCopyrightText: Beyond All Reason contributors
+# SPDX-License-Identifier: GPL-2.0-or-later
 import socket, time, threading
 import pygame
 from socketserver import BaseRequestHandler, TCPServer

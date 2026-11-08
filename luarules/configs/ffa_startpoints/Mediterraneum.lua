@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local startPoints = {
 	[1] = { x = 5416, z = 8996 }, -- Beljam
 	[2] = { x = 13934, z = 9242 }, -- Youkraine

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- What the options widget does for the game whether its window is open or not: engine settings kept in
 -- line, water, input grabbing, muting offscreen, carrying state over a restart. Knows of no window
 -- and no settings list; the state here is what the settings read and change, and is saved with them.

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---
 --- The battle log: every message shown to the player, kept as I18N keys and data so
 --- LuaUI can render it in any language.

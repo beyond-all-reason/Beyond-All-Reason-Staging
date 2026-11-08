@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local TeamBuilder = VFS.Include("spec/builders/team_builder.lua")
 local SpringSyncedBuilder = VFS.Include("spec/builders/spring_synced_builder.lua")
 local SpringUnsyncedBuilder = VFS.Include("spec/builders/spring_unsynced_builder.lua")

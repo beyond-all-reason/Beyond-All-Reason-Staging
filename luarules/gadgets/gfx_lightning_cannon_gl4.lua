@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-only
 --------------------------------------------------------------------------------
 -- Lightning Cannon GL4
 -- GPU-instanced replacement for engine LightningCannon rendering.

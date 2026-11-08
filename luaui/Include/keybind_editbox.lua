@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Single-line text input for the keybind editor search field, shared with the game info
 -- panel. Active only while focused, so it is safe to host alongside game input.
 

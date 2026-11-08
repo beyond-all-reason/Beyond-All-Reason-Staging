@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Interactive view for the in-game keybind editor, the first tab of the Keybind/Mouse Info
 -- panel, on keybind_editor_model. Immediate-mode in shape, but the body is baked into a display
 -- list and replayed until something it was painted from changes.

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- common/smart_filter.lua
 --
 -- The smart filter test the brush tools share: may a stamp land at (x, z)?

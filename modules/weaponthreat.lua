@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local WeaponThreat = {}
 
 local THREAT_RANGE_BUFFER_MULTIPLIER = 1.25

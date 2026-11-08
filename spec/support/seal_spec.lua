@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---@diagnostic disable: inject-field
 
 local SHARED = { "Spring", "VFS", "Game", "io", "CMD", "GameCMD", "LOG", "Json", "string", "table", "math", "os" }

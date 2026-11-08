@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Mocks GG['MissionAPI'] using the shape from api_missions.lua:Initialize().
 -- Install() must be called on the result.
 

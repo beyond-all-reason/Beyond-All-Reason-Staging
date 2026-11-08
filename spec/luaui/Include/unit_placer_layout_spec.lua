@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The shared unit placer's layout (refactor plan, U1): pure, so every rule is checked here
 -- rather than by dragging in game.
 local Layout = VFS.Include("luaui/Include/unit_placer/layout.lua")

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local glRendererLower = Platform.glRenderer and string.lower(Platform.glRenderer) or ""
 local gpuMem = (Platform.gpuMemorySize and Platform.gpuMemorySize or 1000) / 1000
 if Platform ~= nil and Platform.gpuVendor == "Intel" and not string.find(glRendererLower, "arc") then

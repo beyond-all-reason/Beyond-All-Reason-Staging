@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --[[
     File: safeluaparser.lua
     Description: This file contains the implementation of a safe Lua table parser.

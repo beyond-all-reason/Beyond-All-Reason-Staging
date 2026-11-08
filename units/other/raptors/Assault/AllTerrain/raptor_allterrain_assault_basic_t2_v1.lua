@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 return {
 	raptor_allterrain_assault_basic_t2_v1 = {
 		maxacc = 0.414,

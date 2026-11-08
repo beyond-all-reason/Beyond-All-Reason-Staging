@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---@meta
 
 ---Function similarly to spies, except that stubs do not call the function that they replace.

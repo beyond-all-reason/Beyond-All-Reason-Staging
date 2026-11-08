@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Map transform math, shared by the Terraformer's DIMENSIONS tools.
 --
 -- One object maps a source map (srcW x srcH elmos) onto a destination map

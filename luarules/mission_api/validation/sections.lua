@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---
 --- Validation of a mission's top level sections: stages, objectives, triggers, actions, cutscenes, and loadouts.
 ---

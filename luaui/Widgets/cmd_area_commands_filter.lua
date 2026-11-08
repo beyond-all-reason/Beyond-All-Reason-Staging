@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local widget = widget ---@type RulesUnsyncedCallins
 
 -- When performing an area command for one of the `allowedCommands` below:

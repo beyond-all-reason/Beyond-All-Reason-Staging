@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --[[
 Note: this file is meant for Tundra V2, so normally we would have named this
 config `Tundra`, but since another map named Tundra Continents exists, we had to

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 // This shader is Copyright (c) 2025 Beherith (mysterme@gmail.com) and licensed under the MIT License
 //shader version is added via gadget
 

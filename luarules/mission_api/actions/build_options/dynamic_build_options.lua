@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Adds or removes a build option of a builder or factory type, for its current and future units (GG.DynamicBuildOptions).
 local ParameterTypes = GG['MissionAPI'].Modules.ParameterTypes.Types
 

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Keeps user widgets from running Lua out of memory, and names the one that would.
 --
 -- The engine's LuaAllocLimit is one pool for every Lua state: LuaUI, both halves of LuaRules and

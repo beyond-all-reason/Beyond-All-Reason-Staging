@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Enable/Disable events processing of campaign AI
 local ParameterTypes = GG["MissionAPI"].Modules.ParameterTypes.Types
 

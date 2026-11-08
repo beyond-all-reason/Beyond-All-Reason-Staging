@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 #version 330
 
 #extension GL_ARB_uniform_buffer_object : require

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The bindable actions a widget declares in its manifest.json, in the widget hub's format.
 
 local WidgetManifests = require("modules/widgets/manifests", nil, VFS.ZIP)

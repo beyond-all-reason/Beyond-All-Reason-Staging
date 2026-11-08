@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Terraform Brush camera hold.
 --
 -- The spring camera re-seats its focus point on the surface every frame (raw terrain, or the smooth mesh

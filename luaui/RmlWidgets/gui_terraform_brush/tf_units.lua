@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- tf_units.lua: the UNITS tool's panel module for gui_terraform_brush. A copy of
 -- tf_features.lua driving WG.UnitPlacerTool; units have no scale, and the
 -- distribution row also carries the formations (line / grid / box).

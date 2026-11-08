@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --------------------------------------------------------------------------------
 -- Projectile Dispatch
 -- Shared per-frame projectile scan + weaponDefID filter for the (GL4 visual) gadgets

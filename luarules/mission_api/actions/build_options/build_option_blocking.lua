@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Greys a build option out for a team, optionally for one builder type only (GG.BuildBlocking, reason 'mission').
 local ParameterTypes = GG['MissionAPI'].Modules.ParameterTypes.Types
 

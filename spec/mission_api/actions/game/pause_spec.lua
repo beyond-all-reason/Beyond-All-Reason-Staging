@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local actions = VFS.Include("luarules/mission_api/actions/game/pause.lua")
 local action = actions[1]
 local summarizeSchema = require("mission_api.schema_spec_helper")

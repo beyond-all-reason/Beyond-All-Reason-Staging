@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Select control for the keybind editor preset picker, on FlowUI Selector visuals.
 -- onSelect(option, index) fires when a choice is picked.
 --

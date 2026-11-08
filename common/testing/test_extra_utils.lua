@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local levelTimeout = 100
 local heightMapChanged = false
 local autoHeightMap = false

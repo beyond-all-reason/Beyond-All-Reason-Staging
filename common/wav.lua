@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Small library for getting the metadata of .wav files
 -- Author: Beherith mysterme@gmail.com
 -- Based on http://soundfile.sapp.org/doc/WaveFormat/

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local function Init(gl)
 	if gl then
 		gl.InstanceVBOTable = require("modules/graphics/instancevbotable")

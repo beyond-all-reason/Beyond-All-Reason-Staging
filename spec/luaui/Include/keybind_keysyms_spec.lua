@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 describe("KEYSYMS deprecation proxy", function()
 	-- busted runs on stock LuaJIT, which never checks __pairs from the real
 	-- pairs() global (only the engine's patched Lua does), so these tests call

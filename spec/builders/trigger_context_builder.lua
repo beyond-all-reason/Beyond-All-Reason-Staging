@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Trigger Context Builder
 -- Mocks the shared trigger context that api_missions_triggers.lua assembles in
 -- gadget:Initialize() and passes to every trigger call-in handler.

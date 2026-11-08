@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- this file gets included in alldefs_post.lua
 local function convertToPurple(value)
 	if type(value) ~= "string" then

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 return {
 	raptor_allterrain_swarmer_acid_t2_v1 = {
 		activatewhenbuilt = true,

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Clone tool paste ghost: the copied terrain drawn where a paste would put it, lit and
 -- textured like the ground and a little transparent.
 --

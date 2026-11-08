@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --- Build options changed at runtime by api_dynamic_build_options.lua, published in the game rules param
 --- "dynamic_build_options" as "<builderUnitDefID>:<builtUnitDefID>:<1 added / 0 removed>" entries.
 local dynamicBuildOptions = {}

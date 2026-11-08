@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --------------------------------------------------------------------------------
 -- Minimal 16-bit greyscale PNG codec for the Terraform Brush heightmap export.
 --

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- tf_tileset.lua: the TILESET floating window (opened from the SCENE menu,
 -- independent of the active tool), which tunes the tileset terrain shader.
 -- The shader is NOT in this repo: it is the write-dir widget

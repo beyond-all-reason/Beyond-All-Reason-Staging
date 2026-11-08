@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---
 --- The schemas describing the objects a mission declares itself. They are data for tools,
 --- the mission editor included, so these checks pin the shape they promise.

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- tracking.lua captures the four table references as upvalues at load time,
 -- so they must exist in GG['MissionAPI'] *before* VFS.Include is called.
 -- We keep the same table objects alive for the whole test run and wipe their

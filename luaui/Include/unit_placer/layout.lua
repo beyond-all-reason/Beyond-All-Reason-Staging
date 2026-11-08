@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Where a placement drag puts its units: the layout half of the shared unit placer, used by
 -- the mission editor and the terraform brush alike.
 --

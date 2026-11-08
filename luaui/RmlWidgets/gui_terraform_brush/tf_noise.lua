@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- tf_noise.lua: NOISE tool controls of the terraform brush panel.
 local M = {}
 

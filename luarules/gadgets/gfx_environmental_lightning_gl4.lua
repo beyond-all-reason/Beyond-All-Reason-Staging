@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-only
 --------------------------------------------------------------------------------
 -- Environmental Lightning GL4
 -- GPU-instanced procedural electric arcs that grow/branch out from an origin

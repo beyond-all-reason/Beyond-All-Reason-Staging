@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Author: Alex Kloss
 -- Contact: http://www.it-rfc.de
 -- Date: 2006-2008

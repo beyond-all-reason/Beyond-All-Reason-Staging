@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local objects = {
 	"fir_tree_smallest.s3o",
 	"fir_tree_small.s3o",

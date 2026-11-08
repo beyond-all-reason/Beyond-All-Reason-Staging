@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Clone tool paste modes: RAISE ONLY and LOWER ONLY.
 --
 -- REPLACE (the default) lays the copied terrain down as it is. RAISE ONLY keeps the

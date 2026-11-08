@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Campaign AI messaging system.
 -- boolean is forbidden; accepted values: 1 as true, 0 as false.
 -- Message format:

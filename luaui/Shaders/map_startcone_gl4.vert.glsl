@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 //map_startcone_gl4.vert.glsl
 
 #version 420

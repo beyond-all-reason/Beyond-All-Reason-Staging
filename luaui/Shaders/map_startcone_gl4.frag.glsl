@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 #version 420
 // This shader is (c) Beherith (mysterme@gmail.com), licensed under the MIT license
 

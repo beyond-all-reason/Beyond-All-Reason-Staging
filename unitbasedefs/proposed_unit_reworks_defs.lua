@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local function proposed_unit_reworksTweaks(name, uDef)
 
 	if name == "armrock" or name == "corstorm" then

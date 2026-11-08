@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local PolygonLib = require("common/lib_polygon")
 
 describe("lib_polygon", function()

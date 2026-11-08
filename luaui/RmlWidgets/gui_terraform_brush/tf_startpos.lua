@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- tf_startpos.lua: STARTS tool panel module for gui_terraform_brush.
 local M = {}
 

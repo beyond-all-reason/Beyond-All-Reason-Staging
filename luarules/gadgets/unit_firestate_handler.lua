@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --DEFEND FIRESTATE REWORK: Remove guard; handler is always required
 if not Spring.GetModOptions().experimental_defend_firestate then
 	return

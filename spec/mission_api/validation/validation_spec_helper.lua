@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---
 --- Shared setup for the validation specs: definitions, engine mocks, and helpers
 --- for validating a mission and asserting on the messages it produced.

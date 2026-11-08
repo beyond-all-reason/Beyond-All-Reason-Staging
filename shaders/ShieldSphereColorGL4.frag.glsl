@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: Beyond All Reason contributors
+// SPDX-License-Identifier: GPL-2.0-or-later
 #version 430 core
 
 #define DEPTH_CLIP01 ###DEPTH_CLIP01###

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Utility
 -- A SetList is a data structure used for storing only keys, any key is valid (no values!)
 -- It consists of a hash part for fast containment checks

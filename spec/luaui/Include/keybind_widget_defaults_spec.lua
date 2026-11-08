@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Guards how widget defaults reach a profile. Nothing here reaches disk; writes are captured.
 
 local SpecEnv = VFS.Include("spec/support/spec_env.lua")

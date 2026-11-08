@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---
 --- Mission data from the game setup: the `missionoptions` modoption and the
 --- `name` and `dummy` custom keys the client writes on teams and allyteams.

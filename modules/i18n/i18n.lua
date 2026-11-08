@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local currentDirectory = "modules/i18n/"
 I18N_PATH = currentDirectory .. "i18nlib/i18n/" -- I18N_PATH is expected to be global inside the i18n module
 local i18n = VFS.Include(I18N_PATH .. "init.lua", nil, VFS.ZIP)

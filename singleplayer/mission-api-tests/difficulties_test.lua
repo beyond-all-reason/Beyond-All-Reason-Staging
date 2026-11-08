@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Difficulty-dependent parameters: every difficulties table resolves to the value for
 -- GG['MissionAPI'].Difficulty, else the nearest specified difficulty below it, else the lowest
 -- specified one. While no difficulty source is wired up, the default is the lowest difficulty

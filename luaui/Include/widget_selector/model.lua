@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The widget selector without its window: what the widgets are, how they are grouped, filtered and ordered, the
 -- sets and favourites, what a widget has saved, what each control says and does. Nothing here draws or knows about
 -- pixels.

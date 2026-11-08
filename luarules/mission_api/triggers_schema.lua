@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---
 --- The settings every trigger shares, regardless of its type, kept as data so that tools,
 --- the mission editor included, have a single source of truth for them. A trigger's own

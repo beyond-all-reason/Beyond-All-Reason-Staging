@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Parses actions separated by | and attempts each one in succession
 --
 -- The action is specified as so `chain <force> <action1> <action1args> | <action2> <action2args> <...>`

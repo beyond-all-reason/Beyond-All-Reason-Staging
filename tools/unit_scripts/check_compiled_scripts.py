@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-FileCopyrightText: Beyond All Reason contributors
+# SPDX-License-Identifier: GPL-2.0-or-later
 """Checks that compiled unit scripts (.cob) match their sources (.bos).
 
 Given a list of files, every .bos or .cob is compiled with BARScriptCompiler in a scratch copy of

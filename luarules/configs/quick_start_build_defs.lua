@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local quickStartConfig = {
 	-- discountable factories are marked via customparams.quickstart_discountable on the unit defs
 	amountConfig = {

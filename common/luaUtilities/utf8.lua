@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- VENDORED FROM: https://github.com/blitmap/lua-utf8-simple/blob/master/utf8_simple.lua
 --
 -- ABNF from RFC 3629

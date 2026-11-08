@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The in-game keybind editor, apart from how it looks: the catalog resolved into categories and rows, the staged
 -- keymap and its undo, the presets, the dialogs and the key capture as data, and what a key does. It draws nothing and
 -- knows no place on the screen.

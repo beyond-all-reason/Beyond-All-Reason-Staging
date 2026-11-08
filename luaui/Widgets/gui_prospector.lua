@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: LGPL-2.1-or-later
 -----------------------------------------------
 -- Displays the precise extraction value for metal extractors no matter where they are placed
 -- Most maps have in-world text displaying the spot value, but that shows the same value regardless of

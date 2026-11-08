@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- What a widget shares with others through WG, read out of its source.
 --
 -- Widgets hand each other functionality through tables on WG - gui_fonthandler sets WG.fonts, and

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: 2014 Enrique García Cota (i18n.lua)
+-- SPDX-License-Identifier: MIT
 require("spec.fixPackagePath")
 
 local i18n = require("i18n")

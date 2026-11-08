@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---
 --- Tracks units entering and leaving locations, defined by area parameters.
 --- Adds support for callbacks to act on units as they enter and leave areas.

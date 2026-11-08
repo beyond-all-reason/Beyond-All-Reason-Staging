@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: LGPL-2.1-or-later
 local voidWater = false
 local waterLevel = Spring.GetModOptions().map_waterlevel
 local waterIsLava = BAR.Lava.isLavaMap

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- tf_splat.lua: SPLAT painter controls of the terraform brush panel (attach + per-frame sync).
 local M = {}
 

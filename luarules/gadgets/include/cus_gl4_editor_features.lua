@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Map editor only: lets PBR features with an alpha cutout (customparams cuspbr + alphacutout = "yes",
 -- e.g. leaf cards) render through the alpha (tree) program with their own tex2 values instead of the
 -- tree bins' wind and fixed material. Outside the map editor this returns nil and cus_gl4 is unchanged.

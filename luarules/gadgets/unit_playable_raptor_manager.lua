@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local modoptions = Spring.GetModOptions()
 if modoptions.playableraptors ~= true and modoptions.forceallunits ~= true then
 	return false

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local SpringUnsyncedBuilder = VFS.Include("spec/builders/spring_unsynced_builder.lua")
 local MessageTypes = VFS.Include("luarules/mission_api/parameter_types.lua").Enums.MessageType
 

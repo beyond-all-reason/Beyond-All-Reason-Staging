@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local playerCountScale = 1
 if BAR.Utilities.Gametype.IsRaptors() then
 	playerCountScale = (#Spring.GetTeamList() - 2) / 8 -- -2 because scavs and gaia shouldn't count, divided by 8 because we use 8 player games as a baseline

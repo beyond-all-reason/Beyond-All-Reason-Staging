@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: 2014 Enrique García Cota (i18n.lua)
+-- SPDX-License-Identifier: MIT
 local telescope = require("telescope")
 
 local function same(t1, t2)

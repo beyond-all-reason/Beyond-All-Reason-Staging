@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local function SwapUnit(unitID, newUnitName)
 	-- Collect info about unit
 	local unitDefID = Spring.GetUnitDefID(unitID)

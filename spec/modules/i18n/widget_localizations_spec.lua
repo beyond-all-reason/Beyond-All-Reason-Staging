@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Guards what a hub widget adds to the game's strings. VFS is faked below.
 
 local SpecEnv = VFS.Include("spec/support/spec_env.lua")

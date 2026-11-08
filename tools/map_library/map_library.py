@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-FileCopyrightText: Beyond All Reason contributors
+# SPDX-License-Identifier: GPL-2.0-or-later
 """Opt-in, local file-queue bridge between Terraform Brush and a trusted GitHub repo.
 
 Git never checks out repository code, invokes hooks, merges binary maps, or

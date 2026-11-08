@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- raptorspike-small-sparks-burn
 -- raptorspike-medium-sparks-burn
 -- raptorspike-large-sparks-burn

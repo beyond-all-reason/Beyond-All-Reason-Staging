@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 if not LuaShaderNewLocationMessageShown then
 	local dest = widget or gadget
 	local info = dest and dest.GetInfo()

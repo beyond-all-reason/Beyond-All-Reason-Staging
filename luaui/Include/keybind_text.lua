@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Text measuring shared by the keybind editor's controls and the game info panel's rows,
 -- so a label clipped in one control clips the same way in the next. The font is passed in
 -- because each control draws with its own.

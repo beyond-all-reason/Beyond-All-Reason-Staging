@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- implemented as an actual unit partially because stuff assumes choice is always a real unit
 -- and partially because the dice model is still drawn pregame so allies get visual feedback "for free"
 local def = VFS.Include("units/armcom.lua").armcom

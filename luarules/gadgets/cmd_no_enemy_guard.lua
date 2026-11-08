@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local gadget = gadget ---@type Gadget
 
 local CMD_GUARD = CMD.GUARD

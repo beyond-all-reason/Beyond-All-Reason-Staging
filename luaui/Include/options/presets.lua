@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The graphics presets: the value each setting gets, by setting id. Plain data.
 return {
 	lowest = {

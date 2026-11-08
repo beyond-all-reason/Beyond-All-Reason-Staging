@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Effects for Raptors (before known as Raptors)
 local definitions = {
 	blob_trail_blue = {

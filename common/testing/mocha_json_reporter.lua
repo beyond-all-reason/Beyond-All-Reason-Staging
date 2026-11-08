@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local function formatTimestamp(ts)
 	return os.date("%Y-%m-%dT%H:%M:%S", ts)
 end

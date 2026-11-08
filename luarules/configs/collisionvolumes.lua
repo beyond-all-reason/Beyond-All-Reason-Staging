@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --[[  from Spring Wiki and source code, info about CollisionVolumeData
 Spring.GetUnitCollisionVolumeData ( number unitID ) ->
 	number scaleX, number scaleY, number scaleZ, number offsetX, number offsetY, number offsetZ,

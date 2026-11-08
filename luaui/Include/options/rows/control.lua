@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The control tab's settings. model.lua says what a row can hold.
 
 local keyLayouts = require("luaui/configs/keyboard_layouts")

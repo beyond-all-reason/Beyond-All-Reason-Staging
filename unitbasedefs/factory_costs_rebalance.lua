@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local function factoryCostsTest(name, unitDef)
 	if name == "armmoho" or name == "cormoho" or name == "cormexp" then
 		unitDef.metalcost = unitDef.metalcost + 50

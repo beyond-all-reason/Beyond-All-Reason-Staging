@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local TRIGGERS_DIR = "luarules/mission_api/triggers/"
 local TRIGGER_FILES_PATTERN = "*.lua"
 

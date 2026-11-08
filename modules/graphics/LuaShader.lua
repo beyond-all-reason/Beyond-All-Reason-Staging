@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local UNIFORM_TYPE_MIXED = 0 -- includes arrays; float or int
 local UNIFORM_TYPE_INT = 1 -- includes arrays
 local UNIFORM_TYPE_FLOAT = 2 -- includes arrays

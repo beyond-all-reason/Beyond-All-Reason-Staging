@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Widget hub manifests; the format is BAR-Widgets/builder/schemas/manifests.schema.json.
 
 local MANIFEST_FILE = "manifest.json"

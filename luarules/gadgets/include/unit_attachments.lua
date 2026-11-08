@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- unit_attachments.lua --------------------------------------------------------
 -- Simple common reference for multiple types of unit attachments. Provides some
 -- different approaches, preferring customParams values over piece default-name.

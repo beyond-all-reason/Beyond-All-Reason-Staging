@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ----------------------------------------------------------------------------------
 -- README
 -- 1. Format all movedefs consistently, as below, including a list of unit names.

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: 2014 Enrique García Cota (i18n.lua)
+-- SPDX-License-Identifier: MIT
 local unpack = unpack or table.unpack -- lua 5.2 compat
 local find = string.find
 local noVars = {} -- never written to

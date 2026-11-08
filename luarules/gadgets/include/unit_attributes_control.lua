@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- unit_attributes_control.lua -------------------------------------------------
 -- Applies unitdef and unit attributes written by named sources, which stack.
 --------------------------------------------------------------------------------

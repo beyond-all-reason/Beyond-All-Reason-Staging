@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---
 --- Loadout spawning logic used in :GamePreload() and the SpawnUnits and CreateFeatures actions.
 ---

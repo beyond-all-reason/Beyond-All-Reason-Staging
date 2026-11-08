@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Terraform Brush world tools: the drawing helpers they share.
 --
 -- Every brush tool (terraform, features, units, grass, decals, weather, ...) draws a shape outline on the

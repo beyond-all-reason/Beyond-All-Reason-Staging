@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Add to your uikeys.txt:
 -- bind m,1   set_camera_anchor 1
 -- bind n,1 focus_camera_anchor 1

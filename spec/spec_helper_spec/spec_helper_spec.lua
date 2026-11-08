@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local BROKEN_INCLUDE = "spec/spec_helper_spec/broken_include.lua"
 
 describe("spec_helper", function()

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Enable/Disable AI's direct control over its units
 local ParameterTypes = GG["MissionAPI"].Modules.ParameterTypes.Types
 local tracking = GG["MissionAPI"].Modules.Tracking

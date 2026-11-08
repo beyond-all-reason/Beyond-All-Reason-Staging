@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local widget = widget ---@type Widget
 -- referenced in Get/SetConfigData but never assigned anywhere (upstream bug);
 -- declared so the config round-trip is explicit rather than a global read

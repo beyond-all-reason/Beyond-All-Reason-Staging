@@ -1,3 +1,4 @@
+-- SPDX-License-Identifier: MIT
 local variants = {}
 
 local function reverse(arr, length)

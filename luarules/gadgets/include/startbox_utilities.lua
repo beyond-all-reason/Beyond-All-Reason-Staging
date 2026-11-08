@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Startbox resolution: canonical contract for lobby implementations.
 -- The lobby (bar-lobby, BYAR-Chobby) produces these modoptions; this module
 -- consumes them. Any lobby-side resolution must mirror resolveArrangement

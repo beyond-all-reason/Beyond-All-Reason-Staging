@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Reconciling the keymap on disk with the profiles behind it. Either side can move between
 -- sessions: a game update changes a shipped profile, or a tool changes the player's own store.
 -- Neither is an edit the player made to uikeys.txt, and only that last one may fork.

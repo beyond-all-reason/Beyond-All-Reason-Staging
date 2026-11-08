@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The world half of the shared unit placer: arming, the drag, the keys, and what is drawn
 -- while placing. The mission editor and the terraform brush each own one; neither knows about
 -- the other.

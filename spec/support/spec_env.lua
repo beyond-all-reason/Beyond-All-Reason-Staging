@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The globals a module under test runs with, so a spec can stub Spring or VFS without
 -- touching the real ones. The module's own includes load into the same env.
 

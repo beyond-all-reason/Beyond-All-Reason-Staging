@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: Beyond All Reason contributors
+// SPDX-License-Identifier: GPL-2.0-or-later
 #version 430 core
 
 // Template mesh vertex carries one integer slot index (0..27), uploaded as a

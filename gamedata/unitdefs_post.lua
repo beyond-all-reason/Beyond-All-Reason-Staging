@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- see alldefs.lua for documentation
 local system = VFS.Include("gamedata/system.lua")
 local alldefs = require("gamedata/alldefs_post")

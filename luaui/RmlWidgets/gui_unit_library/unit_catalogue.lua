@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The unit library's catalogue, its classification and its filter (refactor plan, U2 and U7).
 -- Pure: it is handed the UnitDefs and WeaponDefs tables (and a file-exists test for unit
 -- pictures) rather than reading the engine, so all of it runs in the spec suite

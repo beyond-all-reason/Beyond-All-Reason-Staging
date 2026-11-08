@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- luassert's chained API (assert.equals / assert.same / assert.not_equals /
 -- assert.is_not_nil) and its 3-arg overload (expected, actual, message) are
 -- not modeled by the bundled type stubs, so we silence those two diagnostics

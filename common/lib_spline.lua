@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Spline tessellation for startbox anchor rings.
 -- Used by startbox_utilities.lua to convert spline-flagged polygons into dense
 -- polygon vertex lists before they reach containment/rendering code.

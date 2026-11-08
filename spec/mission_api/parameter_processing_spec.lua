@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local MissionSpecEnv = require("mission_api.spec_helper")
 
 -- Definition files and parameter_processing itself read from GG when they are included.

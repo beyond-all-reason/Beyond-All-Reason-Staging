@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local function skip()
 	-- TODO re-enable and debug. Disabled 2025-12-22 to unblock CICD
 	return true

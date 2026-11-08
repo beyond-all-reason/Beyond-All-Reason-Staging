@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-only
 -- a replay re-runs the recorded scan requests, and reloading synced gadgets mid-replay breaks it
 if not BAR.Utilities.IsDevMode() or Game.demoPlayName then
 	return

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- A selected unit's mark on the ground: one mark, sleek, not a plate. A thin,
 -- crisp ring held at a constant width on screen whatever the zoom, its edges feathered so it
 -- reads as antialiased, broken into four arcs with small gaps; inside, only a whisper of the

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 return { --costs should be same as legmohocon and legmohoconin
 	legmohoconct = {
 		activatewhenbuilt = true,

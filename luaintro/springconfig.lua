@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --------------------------------------------------------------------------------------------
 --- set some spring settings before the game/engine is really loaded yet
 --------------------------------------------------------------------------------------------

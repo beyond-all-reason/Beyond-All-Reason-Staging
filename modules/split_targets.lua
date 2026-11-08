@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- split_targets.lua -----------------------------------------------------------
 -- Divides targets and assigns them to units according to the caller's strategy.
 

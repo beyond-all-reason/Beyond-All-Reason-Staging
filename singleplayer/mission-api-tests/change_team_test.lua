@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 ---
 --- ChangeTeam action test mission, for teams 'player' and 'enemy' of the mission API test start script.
 ---

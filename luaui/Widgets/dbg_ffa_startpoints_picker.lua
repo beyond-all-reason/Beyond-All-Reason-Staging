@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --[[
 This is an in-game editor companion widget for generating FFA start points
 configs expected by the **FFA start setup** gadget (`game_ffa_start_setup.lua`).

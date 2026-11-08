@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Escape handling in common/luaUtilities/json.lua.
 --
 -- Strings are unescaped by handing the literal to loadstring, so any escape Lua 5.1

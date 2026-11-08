@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 if not (BAR.Utilities.Gametype.IsRaptors() and not BAR.Utilities.Gametype.IsScavengers()) then
 	return false
 end

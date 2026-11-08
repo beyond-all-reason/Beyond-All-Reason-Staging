@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- we do not use explosions_post, see alldefs_post.lua
 -- basically, DONT TOUCH this!
 -- local alldefs = VFS.Include("gamedata/alldefs_post.lua")

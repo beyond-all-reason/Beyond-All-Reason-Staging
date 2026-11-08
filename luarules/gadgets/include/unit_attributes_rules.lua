@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- unit_attributes_rules.lua ---------------------------------------------------
 -- The rules for a valid write to GG.UnitAttributes, for checking writes ahead
 -- of time. The controller does not call these and enforces only some of them.

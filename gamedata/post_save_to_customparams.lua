@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 function table.val_to_str(v)
 	if "string" == type(v) then
 		v = string.gsub(v, "\n", "\\n")

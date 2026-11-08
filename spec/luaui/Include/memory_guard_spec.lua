@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Guards how barwidgets measures user widgets' memory, stops the ones that use too much and
 -- keeps the shared Lua memory pool from running out.
 

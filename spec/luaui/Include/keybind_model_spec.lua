@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Guards which bindings the editor reads as sharing a key, per RecoilEngine's KeyBindings.cpp (read, not measured).
 
 local Json = VFS.Include("common/luaUtilities/json.lua")

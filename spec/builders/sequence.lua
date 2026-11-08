@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Per-prefix counters behind the builders' generated IDs.
 -- Re-run on every include, so no spec file picks up another file's counters.
 

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: MIT
 -----------------------------------------------------------------------------
 -- JSON4Lua: JSON encoding / decoding support for the Lua language.
 -- json Module.

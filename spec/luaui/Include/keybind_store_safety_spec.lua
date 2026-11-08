@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- What the store does when handed something it cannot use: a keymap it is about to overwrite,
 -- a profiles file it cannot read, and a store claiming a name the game ships.
 

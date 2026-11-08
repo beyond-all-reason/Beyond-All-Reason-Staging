@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Precomputed average wind values, from wind random monte carlo simulation, given minWind and maxWind
 local averageWindLookup = {
 	[0] = {

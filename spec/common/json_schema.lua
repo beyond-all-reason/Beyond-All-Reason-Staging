@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Minimal JSON Schema (draft-07) validator, covering only the keywords the shared
 -- config schemas use. Unrecognised keywords are ignored rather than rejected.
 --

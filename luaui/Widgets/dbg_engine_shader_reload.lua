@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-only
 if not BAR.Utilities.IsDevMode() then -- and not Spring.Utilities.ShowDevUI() then
 	return
 end

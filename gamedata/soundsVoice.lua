@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local Sounds = { SoundItems = {} }
 
 --Special handling of Voice files -- We need to do this in separate file so the notifications widget can load the custom modded ones.

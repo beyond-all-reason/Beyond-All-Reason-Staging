@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: 2014 Enrique García Cota (i18n.lua)
+-- SPDX-License-Identifier: MIT
 require("spec.assert_same")
 local variants = require("i18n.variants")
 

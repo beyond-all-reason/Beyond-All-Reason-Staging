@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 if Spring.GetModOptions then
 	local modOptions = Spring.GetModOptions()
 	local modOptionsFile = require("modoptions")

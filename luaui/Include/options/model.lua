@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The settings, without the window that shows them: the rows of every tab (rows/), what they hold, and
 -- what changing one does. Nothing here draws or knows about pixels.
 --

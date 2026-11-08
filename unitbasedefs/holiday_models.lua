@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- model: replacement objectname applied in alldefs_post during the holiday
 -- hats: number of baked-in hat pieces (h1..hN) in that model; consumed as
 --       customparams.holidayhatcount by unit_intergrated_hats.lua

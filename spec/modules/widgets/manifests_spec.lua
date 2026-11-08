@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Guards which widget directories the game reads a manifest from. VFS is faked below.
 
 local SpecEnv = VFS.Include("spec/support/spec_env.lua")

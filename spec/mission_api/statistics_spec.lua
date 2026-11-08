@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local statistics = VFS.Include("luarules/mission_api/statistics.lua")
 
 describe("mission_api.statistics", function()

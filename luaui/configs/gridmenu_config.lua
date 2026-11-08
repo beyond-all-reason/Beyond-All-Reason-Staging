@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local configs = require("luaui/configs/gridmenu_layouts")
 local labGrids = configs.LabGrids
 local unitGrids = configs.UnitGrids

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Exercise the real widget/API/pump with in-memory files. Only rendering-bound
 -- section writers are skipped; prepare, heightmap, manifest and finish stay real.
 local function upvalue(fn, wanted)

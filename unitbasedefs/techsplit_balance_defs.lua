@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local function techsplit_balanceTweaks(name, uDef)
 	if name == "corthud" then
 		uDef.speed = 54

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The shared unit placer's pick set (PtaQ's N2): several types picked with Shift, cycled
 -- through on each placement, in order or at random.
 local Cycle = VFS.Include("luaui/Include/unit_placer/cycle.lua")

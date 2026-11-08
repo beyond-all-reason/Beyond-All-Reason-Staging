@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Guards the one-time migration of a player's own uikeys.txt, which is the only thing that
 -- still resolves a keyload. The bind files it can name are gone from the tree, so what they
 -- bound has to come from common/configs; a keyload that resolves to nothing costs the player

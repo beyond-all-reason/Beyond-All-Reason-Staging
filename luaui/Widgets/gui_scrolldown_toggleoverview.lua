@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- This widget simulates behavior from OTA where scrolling down with mouse
 -- brings to megamap (overview camera).
 -- Scrolling up restores previous camera

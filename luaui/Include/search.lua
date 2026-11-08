@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Shared search and filtering for the panels with a search box: the widget selector, the
 -- settings, the game info and the keybind editor.
 --

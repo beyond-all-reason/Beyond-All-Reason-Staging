@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local aestheticCustomCostRound = require("common/aestheticCustomCostRound")
 local overlapLines = require("common/overlap_lines")
 local quickStartConfig = require("luarules/configs/quick_start_build_defs")

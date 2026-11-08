@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local function sanityChecks()
 	-- Just to make sure some standard methods used here work as expected.
 	Spring.GiveOrderToUnit(2, CMD.FIRE_STATE, { 0 }, {})

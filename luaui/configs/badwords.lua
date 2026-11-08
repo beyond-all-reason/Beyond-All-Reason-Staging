@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --[[
 	This file contains a ROT13-encoded list of words and patterns used by the
 	client-side chat filter. The list is intentionally stored ROT13'd to avoid

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- -- (note that alldefs_post.lua is still ran afterwards if you change anything there)
 
 -- -- Special rules:

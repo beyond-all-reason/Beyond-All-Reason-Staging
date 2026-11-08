@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local RenderToTextureBlend = function(tex, drawFn, customBlend, scissors)
 	if customBlend == nil then
 		customBlend = true

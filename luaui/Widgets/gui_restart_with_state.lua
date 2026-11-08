@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- Superseded: all logic moved into gui_options.lua (guaranteed-loaded, has startScript).
 -- This file is kept as a stub so existing widget handler state doesn't break.
 do

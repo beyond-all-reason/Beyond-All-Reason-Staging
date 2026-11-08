@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 --in BAR "commando" unit always survives being shot down during transport
 --when a com dies in mid air the damage done is controlled by unit_combomb_full_damage
 

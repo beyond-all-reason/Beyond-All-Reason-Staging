@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- The shared math behind SCENE > Dimensions > MAP TRANSFORM. Every layer of a
 -- map (terrain, masks, features, metal, start boxes) is moved through this one
 -- object, so a sign error here silently tears a map apart in a way that only

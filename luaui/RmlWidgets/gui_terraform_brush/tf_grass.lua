@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 -- tf_grass.lua: GRASS brush controls of the terraform brush panel (attach + per-frame sync).
 local M = {}
 

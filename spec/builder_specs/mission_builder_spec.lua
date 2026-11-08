@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: Beyond All Reason contributors
+-- SPDX-License-Identifier: GPL-2.0-or-later
 local MissionBuilder = VFS.Include("spec/builders/mission_builder.lua")
 
 describe("MissionBuilder", function()
