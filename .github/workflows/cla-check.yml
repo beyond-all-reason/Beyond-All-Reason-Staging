@@ -705,8 +705,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    permissions:
-      contents: write
       pull-requests: write
     steps:
       - name: Checkout repository
@@ -760,8 +758,6 @@ jobs:
       github.event.action == 'closed' &&
       github.event.pull_request.merged == true
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     permissions:
       contents: write
     steps:
@@ -846,9 +842,6 @@ jobs:
       !github.event.issue.pull_request &&
       startsWith(github.event.comment.body, '/confirm-license')
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      issues: write
     permissions:
       contents: write
       issues: write
