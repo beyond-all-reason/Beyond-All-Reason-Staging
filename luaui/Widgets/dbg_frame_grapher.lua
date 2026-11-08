@@ -152,13 +152,13 @@ void main() {
   if (v_time_duration_wasgf.z > 0.5 ) fragColor = vec4(0.0, 0.0, 1.0, 1.0);
   if (v_time_duration_wasgf.w > 2.0 ) fragColor = vec4(1.0, 0.0, 1.0, 1.1);
   else fragColor.rgb = mix(fragColor.rgb, vec3(0.0), v_time_duration_wasgf.w);
-  
+
   if (abs(v_time_duration_wasgf.z - 1.0) < 0.01){ // SIM
     fragColor = vec4(1.0, 0.0, 0.0, 1.0);
   }
   else if (abs(v_time_duration_wasgf.z - 2.0) < 0.01){ // update
     fragColor = vec4(1.0, 1.0, 0.0, 1.0);
-  }  
+  }
   else if (abs(v_time_duration_wasgf.z - 3.0) < 0.01){ // draw
     fragColor = vec4(0.0, 1.0, 0.0, 1.0);
   }
