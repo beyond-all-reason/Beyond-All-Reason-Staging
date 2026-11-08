@@ -4,7 +4,7 @@
 
 This file lists the recorded license, contributor, and source PR for every art asset under `luaui/images/` that has passed through the BAR CLA bot. Assets not yet processed through the CLA flow are not listed here — they fall under the project policy in [legal/POLICY_PROJECT_LICENSE.md](../../legal/POLICY_PROJECT_LICENSE.md).
 
-Total assets recorded: **805**
+Total assets recorded: **804**
 
 | File | License | Contributor | PR | Date |
 |---|---|---|---|---|
@@ -359,7 +359,6 @@ Total assets recorded: **805**
 | `barglow-center.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `barglow-edge.png` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `black.bmp` | `LicenseRef-BAR-CLA-1.0` | Beherith | #3266 | 2026-09-07 |
-| `cla_e2e/dot_renamed.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #1 | 2026-11-08 |
 | `commandsfx/glow.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `commandsfx/line.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `decals_gl4/decalsgl4_atlas_diffuse.dds` | `LicenseRef-BAR-CLA-1.0` | Beherith | manual-audit | 2026-08-31 |
