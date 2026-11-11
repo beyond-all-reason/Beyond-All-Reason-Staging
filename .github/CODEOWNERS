@@ -14,7 +14,6 @@
 # Authoritative signature and assignment ledgers, review flags
 .github/cla-signatures.json            @beyond-all-reason/licensing-maintainers
 .github/file-license-assignments.json  @beyond-all-reason/licensing-maintainers
-license_comments_flags.json            @beyond-all-reason/licensing-maintainers
 
 # Auto-generated per-folder license manifests (any depth)
 **/LICENSE_MANIFEST.md                 @beyond-all-reason/licensing-maintainers

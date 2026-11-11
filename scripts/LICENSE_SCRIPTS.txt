@@ -37,9 +37,8 @@ Heritage / shared headers (deferred):
   and their copies in subdirectories) originate from the TA / Spring modding
   community and lack clear original authorship or per-file license statements.
 
-  These files are excluded from the current licensing cleanup scope.
-  A decision on whether to retain, replace, or remove them is tracked in
-  scripts/DEFERRED_LICENSING_QUESTIONS.md.
+  These files are excluded from the current licensing cleanup scope while
+  the maintainers consolidate and rewrite them.
 
 Authorship:
   Where per-file authorship is stated, it is preserved.
