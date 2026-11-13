@@ -31,15 +31,6 @@ SPDX convention:
     SPDX-License-Identifier: GPL-2.0-or-later
   Per-file overrides use the appropriate SPDX identifier for their license.
 
-Heritage / shared headers (deferred):
-  A number of classic BOS-era shared headers (constants.h, exptype.h,
-  hitweap.h, rockunit.h, smokeunit.h, statechg.h, sfxtype.h, idlehover.h,
-  and their copies in subdirectories) originate from the TA / Spring modding
-  community and lack clear original authorship or per-file license statements.
-
-  These files are excluded from the current licensing cleanup scope while
-  the maintainers consolidate and rewrite them.
-
 Authorship:
   Where per-file authorship is stated, it is preserved.
   Where authorship is not stated at the file level, the file is maintained as
