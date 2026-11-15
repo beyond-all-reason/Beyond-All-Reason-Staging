@@ -696,117 +696,117 @@ Total assets recorded: **804**
 | `stripes-fine.png` | _awaiting license_ | SethDGamre | #9227 | 2026-11-08 |
 | `stripes-small.png` | _awaiting license_ | SethDGamre | #5915 | 2026-09-07 |
 | `stripes.png` | _awaiting license_ | Floris | manual-audit | 2026-10-06 |
-| `terraform_brush/biome_bismuth.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/biome_cetheta.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/biome_cetheta02.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/biome_enborelde.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/biome_osemo.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/biome_palehang.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/biome_perseusgate.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/biome_teizer.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/camera.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/cap_max.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/cap_min.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/cat_armada_wrecks.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/cat_building_wrecks.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/cat_bushes.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/cat_christmas.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/cat_cortex_wrecks.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/cat_crystals.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/cat_legion_wrecks.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/cat_osemo.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/cat_other.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/cat_raptor.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/cat_rocks.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/cat_trees.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/cat_unit_wrecks.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/check_off.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/check_on.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/close.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/curve_flat.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/curve_sharp.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/dist_clustered.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/dist_regular.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/edit_pencil.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/env_dimensions.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/env_fog.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/env_ground.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/env_map.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/env_save.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/env_skybox.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/env_sun.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/env_unit.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/env_water.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/eye.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/eye_slash.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/folder.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/fp_crystal.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/fp_foliage.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/fp_point.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/fp_remove.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/fp_rock.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/fp_scatter.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/fp_xmas.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/freedraw.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/gb_pipette.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/lt_beam.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/lt_cone.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/lt_point.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/map_labels.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mb_paint.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/metal_crystal.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/minus.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mode_clone.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mode_decals.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mode_environment.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mode_features.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mode_grass.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mode_level.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mode_lights.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mode_lower.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mode_metal.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mode_noise.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mode_raise.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mode_ramp.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mode_restore.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mode_splat.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mode_startpos.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/mode_weather.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/noise_billow.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/noise_fbm.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/noise_perlin.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/noise_ridged.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/noise_voronoi.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/passthrough_pause.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/passthrough_play.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/plus.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/redo.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/rot_ccw.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/rot_cw.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/settings.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/shape_circle.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/shape_diamond.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/shape_fill.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/shape_hexagon.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/shape_octagon.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/shape_ramp_spline.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/shape_ramp_straight.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/shape_rectangle.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/shape_ring.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/shape_square.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/shape_triangle.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/sm_level.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/sm_smooth.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/sm_smudge.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/sort_down.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/sort_up.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/transport_back.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/transport_fwd.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/transport_oscillate.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/trash.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/undo.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/volume.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/warning.png` | `LicenseRef-BAR-CLA-1.0` | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/biome_bismuth.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/biome_cetheta.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/biome_cetheta02.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/biome_enborelde.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/biome_osemo.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/biome_palehang.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/biome_perseusgate.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/biome_teizer.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/camera.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/cap_max.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/cap_min.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/cat_armada_wrecks.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/cat_building_wrecks.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/cat_bushes.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/cat_christmas.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/cat_cortex_wrecks.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/cat_crystals.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/cat_legion_wrecks.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/cat_osemo.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/cat_other.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/cat_raptor.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/cat_rocks.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/cat_trees.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/cat_unit_wrecks.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/check_off.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/check_on.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/close.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/curve_flat.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/curve_sharp.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/dist_clustered.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/dist_regular.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/edit_pencil.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/env_dimensions.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/env_fog.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/env_ground.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/env_map.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/env_save.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/env_skybox.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/env_sun.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/env_unit.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/env_water.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/eye.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/eye_slash.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/folder.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/fp_crystal.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/fp_foliage.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/fp_point.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/fp_remove.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/fp_rock.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/fp_scatter.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/fp_xmas.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/freedraw.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/gb_pipette.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/lt_beam.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/lt_cone.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/lt_point.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/map_labels.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mb_paint.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/metal_crystal.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/minus.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mode_clone.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mode_decals.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mode_environment.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mode_features.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mode_grass.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mode_level.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mode_lights.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mode_lower.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mode_metal.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mode_noise.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mode_raise.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mode_ramp.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mode_restore.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mode_splat.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mode_startpos.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/mode_weather.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/noise_billow.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/noise_fbm.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/noise_perlin.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/noise_ridged.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/noise_voronoi.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/passthrough_pause.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/passthrough_play.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/plus.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/redo.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/rot_ccw.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/rot_cw.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/settings.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/shape_circle.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/shape_diamond.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/shape_fill.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/shape_hexagon.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/shape_octagon.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/shape_ramp_spline.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/shape_ramp_straight.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/shape_rectangle.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/shape_ring.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/shape_square.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/shape_triangle.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/sm_level.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/sm_smooth.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/sm_smudge.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/sort_down.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/sort_up.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/transport_back.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/transport_fwd.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/transport_oscillate.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/trash.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/undo.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/volume.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/warning.png` | _awaiting license_ | PtaQ | #9 | 2026-11-15 |
 | `tidal-waves.png` | `LicenseRef-BAR-CLA-1.0` | icexuick | manual-audit | 2026-08-31 |
 | `vignette.dds` | `CC-BY-SA-4.0` | Floris | manual-audit | 2026-06-16 |
 | `vr_grid.png` | _awaiting license_ | Decay | manual-audit | 2026-09-01 |
