@@ -1,11 +1,12 @@
 [
   {
     "file": "luaui/images/cla_e2e/dot.png",
-    "status": "intent",
+    "status": "confirmed",
     "pr": 8,
     "github_username": "PtaQQ",
     "license": "LicenseRef-BAR-CLA-1.0",
     "signed_at": "2026-11-15T13:12:23.349Z",
-    "source": "confirm-license-command"
+    "source": "confirm-license-command",
+    "confirmed_at": "2026-11-15T13:32:02.249Z"
   }
 ]
