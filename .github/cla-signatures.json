@@ -34,5 +34,14 @@
     "license": "LicenseRef-BAR-CLA-1.0",
     "signed_at": "2026-11-16T13:04:02.356Z",
     "source": "confirm-license-command"
+  },
+  {
+    "file": "luaui/images/cla_e2e/dot_e.png",
+    "status": "intent",
+    "pr": 15,
+    "github_username": "PtaQQ",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "signed_at": "2026-11-16T13:14:33.279Z",
+    "source": "confirm-license-command"
   }
 ]
