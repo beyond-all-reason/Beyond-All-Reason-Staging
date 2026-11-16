@@ -59592,27 +59592,30 @@
   },
   {
     "file": "luaui/images/terraform_brush/biome_bismuth.png",
-    "license": "CC-BY-SA-4.0",
+    "license": "",
     "contributor": "PtaQ",
     "pr": 9,
     "date": "2026-11-15",
-    "source": "consent-issue"
+    "source": "consent-issue",
+    "status": "awaiting_license"
   },
   {
     "file": "luaui/images/terraform_brush/biome_cetheta.png",
-    "license": "CC-BY-SA-4.0",
+    "license": "",
     "contributor": "PtaQ",
     "pr": 9,
     "date": "2026-11-15",
-    "source": "consent-issue"
+    "source": "consent-issue",
+    "status": "awaiting_license"
   },
   {
     "file": "luaui/images/terraform_brush/biome_cetheta02.png",
-    "license": "CC-BY-SA-4.0",
+    "license": "",
     "contributor": "PtaQ",
     "pr": 9,
     "date": "2026-11-15",
-    "source": "consent-issue"
+    "source": "consent-issue",
+    "status": "awaiting_license"
   },
   {
     "file": "luaui/images/terraform_brush/biome_enborelde.png",
