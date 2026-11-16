@@ -88,15 +88,15 @@ local function MakeShader()
 			uniform sampler2D model_gbuffer_zvaltex;
 			uniform sampler2D depthcopy;
 			uniform int debugDraw;
-		
+
 			#define lind(value) (fract(0.2* (1.0/(1.0 - value))))
-			
-			
+
+
 			void main(void) {
 				vec2 uvs = gl_TexCoord[0].st;
 				//vec4 a = texture2D(texture0, gl_TexCoord[0].st);
 				vec4 o = vec4(0.0);
-				if (uvs.x > 0.875){ 
+				if (uvs.x > 0.875){
 					// fourth column normals, diffuse
 					if (uvs.y > 0.75){
 						o = texture2D(map_gbuffer_normtex, uvs);
@@ -126,7 +126,7 @@ local function MakeShader()
 						o = texture2D(model_gbuffer_emittex, uvs);
 						o.a = 1.0;
 					}
-				
+
 				}else if (uvs.x > 0.625){
 					// second column depthcopy, misc
 					if (uvs.y > 0.75){
@@ -143,7 +143,7 @@ local function MakeShader()
 						o = texture2D(model_gbuffer_misctex, uvs);
 						o.a = 1.0;
 					}
-				
+
 				}else{
 					// first column map depth, model depth
 					if (uvs.y > 0.75){
@@ -161,9 +161,9 @@ local function MakeShader()
 						o = lind(o);
 						o.a = 1.0;
 					}
-				
+
 				}
-			
+
 				gl_FragColor = o;
 			}
 		]],
