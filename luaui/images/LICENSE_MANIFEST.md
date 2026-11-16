@@ -696,9 +696,9 @@ Total assets recorded: **804**
 | `stripes-fine.png` | _awaiting license_ | SethDGamre | #9227 | 2026-11-08 |
 | `stripes-small.png` | _awaiting license_ | SethDGamre | #5915 | 2026-09-07 |
 | `stripes.png` | _awaiting license_ | Floris | manual-audit | 2026-10-06 |
-| `terraform_brush/biome_bismuth.png` | `CC-BY-SA-4.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/biome_cetheta.png` | `CC-BY-SA-4.0` | PtaQ | #9 | 2026-11-15 |
-| `terraform_brush/biome_cetheta02.png` | `CC-BY-SA-4.0` | PtaQ | #9 | 2026-11-15 |
+| `terraform_brush/biome_bismuth.png` | `CC-BY-SA-4.0` | PtaQ | #16 | 2026-11-16 |
+| `terraform_brush/biome_cetheta.png` | `CC-BY-SA-4.0` | PtaQ | #16 | 2026-11-16 |
+| `terraform_brush/biome_cetheta02.png` | `CC-BY-SA-4.0` | PtaQ | #16 | 2026-11-16 |
 | `terraform_brush/biome_enborelde.png` | `CC-BY-SA-4.0` | PtaQ | #9 | 2026-11-15 |
 | `terraform_brush/biome_osemo.png` | `CC-BY-SA-4.0` | PtaQ | #9 | 2026-11-15 |
 | `terraform_brush/biome_palehang.png` | `CC-BY-SA-4.0` | PtaQ | #9 | 2026-11-15 |
