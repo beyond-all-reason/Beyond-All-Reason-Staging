@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "file": "luaui/images/cla_e2e/dot_a.png",
+    "status": "intent",
+    "pr": 13,
+    "github_username": "PtaQQ",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "signed_at": "2026-11-16T13:04:02.356Z",
+    "source": "confirm-license-command"
+  },
+  {
+    "file": "luaui/images/cla_e2e/dot_b.png",
+    "status": "intent",
+    "pr": 13,
+    "github_username": "PtaQQ",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "signed_at": "2026-11-16T13:04:02.356Z",
+    "source": "confirm-license-command"
+  },
+  {
+    "file": "luaui/images/cla_e2e/dot_c.png",
+    "status": "intent",
+    "pr": 13,
+    "github_username": "PtaQQ",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "signed_at": "2026-11-16T13:04:02.356Z",
+    "source": "confirm-license-command"
+  },
+  {
+    "file": "luaui/images/cla_e2e/dot_d.png",
+    "status": "intent",
+    "pr": 13,
+    "github_username": "PtaQQ",
+    "license": "LicenseRef-BAR-CLA-1.0",
+    "signed_at": "2026-11-16T13:04:02.356Z",
+    "source": "confirm-license-command"
+  }
+]
