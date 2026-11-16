@@ -1,0 +1,23 @@
+# SPDX-License-Identifier: GPL-2.0-or-later
+name: CLA Bot
+
+# Calls the shared CLA workflow for comments and closed PRs; rules for this
+# repository live in .github/licensing.json. The job grants the four write
+# scopes the called workflow narrows per job.
+
+on:
+  pull_request_target:
+    types: [closed]
+  issue_comment:
+    types: [created]
+
+jobs:
+  cla:
+    uses: beyond-all-reason/licensing/.github/workflows/cla-events.yml@single-check-row
+    permissions:
+      contents: write
+      pull-requests: write
+      statuses: write
+      issues: write
+    secrets:
+      CLA_BOT_TOKEN: ${{ secrets.CLA_BOT_TOKEN }}
